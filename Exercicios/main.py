@@ -1,8 +1,8 @@
-from main import Exec
+from insert import Insert
 
 
 def showlogic():
-    exec_obj = Exec()
+    exec_obj = Insert()
     exec_obj.Cont()
     exec_obj.showPerfil()
 
