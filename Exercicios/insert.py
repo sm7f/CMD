@@ -17,7 +17,6 @@ class Insert:
             print (f"Nome: {tabela['nome']}, Telefone: {tabela['telefone']}, Sexo: {tabela['sexo']}")
 
 
-    def chamar 
 
     
 
