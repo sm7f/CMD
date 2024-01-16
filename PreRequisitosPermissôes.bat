@@ -1,4 +1,4 @@
-icacls "C:\Program Files (x86)\PayGo" /grant "Todos":(OI)(CI)F /t /c
+icacls "C:\Maqplan" /grant "Todos":(OI)(CI)F /t /c
 
 icacls "C:\MSoftware" /grant "Todos":(OI)(CI)F /t /c
 
