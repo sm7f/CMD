@@ -6,7 +6,7 @@ icacls "C:\MaqplanNFe" /grant "Todos":(OI)(CI)F /t /c
 
 netsh advfirewall set allprofiles state off
 
-REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 2421
+REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 6277
 
 
 DESKTOP-G5ACJ05
