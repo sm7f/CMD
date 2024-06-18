@@ -31,3 +31,4 @@ output_file = r'C:\Users\Maqplan\Downloads\relatorio_nfe.xlsx'
 df.to_excel(output_file, index=False)
 
 print(f"Relatório gerado com sucesso e salvo como {output_file}")
+
