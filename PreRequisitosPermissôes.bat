@@ -8,7 +8,17 @@ netsh advfirewall set allprofiles state off
 
 REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 12014
 
+$regKeys = @(
+    "HKLM:\SOFTWARE\_Maqplan Software",
+    "HKLM:\SOFTWARE\WOW6432Node\_Maqplan Software",
+    "HKLM:\SOFTWARE\WOW6432Node\Maqplan"
+)
 
-DESKTOP-G5ACJ05
-
-034696000108\\DESKTOP-OKUH8N0\Users\Public
+foreach ($key in $regKeys) {
+    if (Test-Path $key) {
+        Remove-Item -Path $key -Recurse -Force
+        Write-Output "A chave de registro '$key' foi removida."
+    } else {
+        Write-Output "A chave de registro '$key' não foi encontrada."
+    }
+}
