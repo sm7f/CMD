@@ -4,7 +4,10 @@ icacls "C:\MSoftware" /grant "Todos":(OI)(CI)F /t /c
 
 icacls "C:\MaqplanNFe" /grant "Todos":(OI)(CI)F /t /c
 
-C:\Maqplan\Arquivos\BancoDados
+C:\Maqplan\Arquivos\BancoDados.ini
+C:\Maqplan\Arquivos\Config.ini
+C:\Maqplan\BancoDados
+C:\Users
 
 netsh advfirewall set allprofiles state off
 
