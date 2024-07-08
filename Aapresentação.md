@@ -28,3 +28,5 @@ Para ajudar a resolver sua questão o mais rápido possível, por favor, expliqu
 
 Caixa
 453.527,63
+
+C:\Maqplan\Arquivos\BancoDados
