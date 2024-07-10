@@ -15,18 +15,3 @@ Houve uma atualização na receita onde teve mudanças na emissão de notas, vai
 
 # Como posso ajudar
 Para ajudar a resolver sua questão o mais rápido possível, por favor, explique detalhadamente o motivo do seu contato.
-
-
-
-24.388.024/0001-28
-
-24388024000128
-401.590,22
-
-38002012000128
-72.729,13
-
-Caixa
-453.527,63
-
-C:\Maqplan\Arquivos\BancoDados
