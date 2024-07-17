@@ -1,7 +1,3 @@
-icacls "C:\Maqplan" /grant "Todos":(OI)(CI)F /t /c
-icacls "C:\MSoftware" /grant "Todos":(OI)(CI)F /t /c
-icacls "C:\MaqplanNFe" /grant "Todos":(OI)(CI)F /t /c
-
 echo off
 taskkill /f /im PoliSystemPDV.exe
 taskkill /f /im PoliSystemADM.exe
@@ -36,3 +32,8 @@ foreach ($key in $regKeys) {
         Write-Output "A chave de registro '$key' não foi encontrada."
     }
 }
+
+
+icacls "C:\Maqplan" /grant "Todos":(OI)(CI)F /t /c
+icacls "C:\MSoftware" /grant "Todos":(OI)(CI)F /t /c
+icacls "C:\MaqplanNFe" /grant "Todos":(OI)(CI)F /t /c
