@@ -41,17 +41,6 @@ icacls "C:\Maqplan" /grant "Todos":(OI)(CI)F /t /c
 icacls "C:\MSoftware" /grant "Todos":(OI)(CI)F /t /c
 icacls "C:\MaqplanNFe" /grant "Todos":(OI)(CI)F /t /c
 
-echo off
-reg add hklm\system\currentcontrolset\services\lanmanserver\parameters /v OptionalNames /t REG_SZ /d "aliasname"
-reg add hklm\system\currentcontrolset\control\print /v DnsOnWire /t REG_DWORD /d 1
-reg add hklm\system\currentcontrolset\services\lanmanserver\parameters /v DisableStrictNameChecking /t REG_DWORD /d 1
-reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Providers\Client Side Rendering Print Provider" /v InactiveGuidPrinterAge /t REG_DWORD /d 1200
-reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Providers\Client Side Rendering Print Provider" /v InactiveGuidPrinterTrim /t REG_DWORD /d 3600
-
-echo off
-net stop spooler
-net start spooler
-
 PowerShell
 Get-Printer
 Remove-Printer -Name "Nome da Impressora"
