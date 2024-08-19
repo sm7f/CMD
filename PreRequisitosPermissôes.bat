@@ -52,6 +52,7 @@ echo off
 net stop spooler
 net start spooler
 
+PowerShell
 Get-Printer
 Remove-Printer -Name "Nome da Impressora"
 
