@@ -19,7 +19,7 @@ netsh advfirewall set allprofiles state off
 
 Enable-WindowsOptionalFeature -Online -FeatureName NetFx3,NetFx4-AdvSrvs,NetFx4Extended-ASPNET45,WCF-HTTP-Activation45,WCF-NonHTTP-Activation,WCF-MSMQ-Activation45,WCF-TCP-Activation45,WCF-Pipe-Activation45 -all
 
-REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 3663
+REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 2001
 Computador\HKEY_CLASSES_ROOT\VirtualStore\MACHINE\SOFTWARE\WOW6432Node\_Maqplan Software
 
 $regKeys = @(
@@ -51,3 +51,11 @@ reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\P
 echo off
 net stop spooler
 net start spooler
+
+Get-Printer
+Remove-Printer -Name "Nome da Impressora"
+
+
+
+C:\Users\Maqplan\AppData\Local\MicroSIP\microsip.exe
+

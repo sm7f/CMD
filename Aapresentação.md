@@ -10,8 +10,11 @@ O erro que está apresentando está dizendo que você está com pendências no C
 # NFS-e Fora do ar
 No momento a SEFAZ (Secretaria da Fazenda) está temporariamente indisponível para a emissão de notas de serviço. Precisamos aguardar até a normalização.
 
+No momento a SEFAZ (Secretaria da Fazenda) está temporariamente em manutenção para a emissão de notas de serviço. Pode ir emitindo nota normalmente.
+
 # Mudanças SEFAZ     
 Houve uma atualização na receita onde teve mudanças na emissão de notas, vai ser necessário realizar a atualização do sistema. Vou precisar do acesso do teamviewer para inicializar a atualização. 
 
 # Como posso ajudar
 Para ajudar a resolver sua questão o mais rápido possível, por favor, explique detalhadamente o motivo do seu contato.
+
