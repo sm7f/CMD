@@ -1,14 +1,27 @@
-echo off
-taskkill /f /im PoliSystemPDV.exe
-taskkill /f /im PoliSystemADM.exe
-taskkill /f /im MSNFe.exe
-taskkill /f /im Integrador.exe
+"Fechar Sistema Plus"
+cmd /c "taskkill /f /im PoliSystemPDV.exe & taskkill /f /im PoliSystemADM.exe & taskkill /f /im MSNFe.exe & taskkill /f /im Integrador.exe"
 
-taskkill /f /im PDV.exe
+"Fechar Sistema One"
+cmd /c "taskkill /f /im PDV.exe & taskkill /f /im Agente.Sicronizacao.exe"
+
 sc stop MSSQLSERVER
 sc start MSSQLSERVER
+
+"Desataxa
 EXEC sp_detach_db 'PoliSystemServerSQLDB'
 
+"Atacha"
+EXEC sp_attach_db @dbname = N'PoliSystemServerSQLDB', @filename1 = N'C:\Maqplan\BancoDados\PoliSystemServerSQLDB.mdf', @filename2 = N'C:\Maqplan\BancoDados\PoliSystemServerSQLDB_log.LDF'
+EXEC sp_attach_db @dbname = N'PoliSystemServerSQLDB', @filename1 = N'C:\Maqplan\BancoDados\PoliSystemServerSQLDB_Data.mdf', @filename2 = N'C:\Maqplan\BancoDados\PoliSystemServerSQLDB_log.LDF'
+
+"Zera Licença"
+sqlcmd -S . -Q "USE PoliSystemServerSQLDB; UPDATE CONFIG_GERAL_SYS SET NrSerieLicenca = '-1', BloqLicenca = '-1';"
+"Sincroniza"
+sqlcmd -S . -Q "USE PoliSystemServerSQLDB; UPDATE nfe SET StatusNFeEnviadaServidor = 1 WHERE StatusNFeEnviadaServidor = 0; UPDATE nfe SET StatusEmailEnviado = 1 WHERE StatusEmailEnviado = 0; UPDATE nfe SET STATUSANDAMENTO = 'NN' WHERE STATUSANDAMENTO = 'NV'; UPDATE nfe SET StatusEmailEnviado = 1; UPDATE nfe SET StatusXMLEnviadoFtp = 1; UPDATE nfe SET StatusNFeEnviadaServidor = 1; UPDATE nfe SET StatusEnvioEmailXMLCancelamento = 1; UPDATE nfe SET StatusXMLCancelamentoFTP = 1; UPDATE nfe SET StatusNFeEnviadaServidor = 1; UPDATE nfe_cce SET StatusEmailEnviadoCCe = 1; UPDATE nfe_cce SET StatusEnvioXMLCCeFTP = 1; UPDATE nfe_cce SET StatusEnviadaServidorNFe = 1;"
+"Integrador Vendas"
+sqlcmd -S . -Q "USE PoliSystemServerSQLDB; update venda set statusexportacao = 1;"
+
+C:\MSoftware
 C:\Maqplan\Arquivos\BancoDados.ini
 C:\Maqplan\Arquivos\Config.ini
 C:\Maqplan\BancoDados
@@ -17,11 +30,16 @@ C:\Users
 
 netsh advfirewall set allprofiles state off
 
+"Netframework"
 Enable-WindowsOptionalFeature -Online -FeatureName NetFx3,NetFx4-AdvSrvs,NetFx4Extended-ASPNET45,WCF-HTTP-Activation45,WCF-NonHTTP-Activation,WCF-MSMQ-Activation45,WCF-TCP-Activation45,WCF-Pipe-Activation45 -all
 
-REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 2001
+"SCI"
+REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 3738
+
+"Local Regedit"
 Computador\HKEY_CLASSES_ROOT\VirtualStore\MACHINE\SOFTWARE\WOW6432Node\_Maqplan Software
 
+"Excluir Regedit"
 $regKeys = @(
     "HKLM:\SOFTWARE\_Maqplan Software",
     "HKLM:\SOFTWARE\WOW6432Node\_Maqplan Software",
@@ -37,14 +55,13 @@ foreach ($key in $regKeys) {
     }
 }
 
+"Permissão"
 icacls "C:\Maqplan" /grant "Todos":(OI)(CI)F /t /c
 icacls "C:\MSoftware" /grant "Todos":(OI)(CI)F /t /c
-icacls "C:\MaqplanNFe" /grant "Todos":(OI)(CI)F /t /c
 
 PowerShell
 Get-Printer
 Remove-Printer -Name "Nome da Impressora"
-
 
 
 C:\Users\Maqplan\AppData\Local\MicroSIP\microsip.exe
