@@ -28,13 +28,15 @@ C:\Maqplan\BancoDados
 C:\Maqplan
 C:\Users
 
+
+
 netsh advfirewall set allprofiles state off
 
 "Netframework"
 Enable-WindowsOptionalFeature -Online -FeatureName NetFx3,NetFx4-AdvSrvs,NetFx4Extended-ASPNET45,WCF-HTTP-Activation45,WCF-NonHTTP-Activation,WCF-MSMQ-Activation45,WCF-TCP-Activation45,WCF-Pipe-Activation45 -all
 
 "SCI"
-REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 8075
+REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 10684
 
 "Local Regedit"
 Computador\HKEY_CLASSES_ROOT\VirtualStore\MACHINE\SOFTWARE\WOW6432Node\_Maqplan Software
@@ -61,10 +63,11 @@ icacls "C:\MSoftware" /grant "Todos":(OI)(CI)F /t /c
 
 PowerShell
 Get-Printer
-Remove-Printer -Name "Nome da Impressora"
+Remove-Printer -Name "EPSON TM20X"
 
 
 C:\Users\Maqplan\AppData\Local\MicroSIP\microsip.exe
+
 
 
 
