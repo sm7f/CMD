@@ -26,7 +26,8 @@ C:\Maqplan\Arquivos\BancoDados.ini
 C:\Maqplan\Arquivos\Config.ini
 C:\Maqplan\BancoDados
 C:\Maqplan
-C:\Users
+C:\UsersDESKTOP-BFOQVU2
+
 
 
 
