@@ -30,14 +30,15 @@ C:\UsersDESKTOP-BFOQVU2
 
 
 
-
+192.168.0.81
 netsh advfirewall set allprofiles state off
 
+USER05-PC
 "Netframework"
 Enable-WindowsOptionalFeature -Online -FeatureName NetFx3,NetFx4-AdvSrvs,NetFx4Extended-ASPNET45,WCF-HTTP-Activation45,WCF-NonHTTP-Activation,WCF-MSMQ-Activation45,WCF-TCP-Activation45,WCF-Pipe-Activation45 -all
 
 "SCI"
-REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 5396
+REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 17
 
 "Local Regedit"
 Computador\HKEY_CLASSES_ROOT\VirtualStore\MACHINE\SOFTWARE\WOW6432Node\_Maqplan Software
@@ -62,6 +63,7 @@ foreach ($key in $regKeys) {
 icacls "C:\Maqplan" /grant "Todos":(OI)(CI)F /t /c
 icacls "C:\MSoftware" /grant "Todos":(OI)(CI)F /t /c
 
+icacls "C:\Client TEF" /grant "Todos":(OI)(CI)F /t /c
 PowerShell
 Get-Printer
 Remove-Printer -Name "EPSON TM20X"
@@ -73,5 +75,16 @@ C:\Users\Maqplan\AppData\Local\MicroSIP\microsip.exe
 14379
 
 \\DESKTOP-N29IFFE\i9
+
+update dbo."TB_DocumentoFiscal" set "DataSincronizacao" = '2024-09-01 13:09:02.605'
+where "DataAlteracao" >= '2024-09-30' and "DataAlteracao" <= '2024-11-01'
+ 
+ 
+update dbo."TB_Caixa" set "DataSincronizacao" = '2024-09-01 13:09:02.605'
+where "DataAlteracao" >= '2024-09-30' and "DataAlteracao" <= '2024-11-01'
+ 
+ 
+update dbo."TB_Venda" set "DataSincronizacao" = '2024-09-01 13:09:02.605'
+where "DataAlteracao" >= '2024-09-30' and "DataAlteracao" <= '2024-11-01'
 
 
