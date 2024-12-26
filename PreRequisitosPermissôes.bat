@@ -36,7 +36,7 @@ USER05-PC
 Enable-WindowsOptionalFeature -Online -FeatureName NetFx3,NetFx4-AdvSrvs,NetFx4Extended-ASPNET45,WCF-HTTP-Activation45,WCF-NonHTTP-Activation,WCF-MSMQ-Activation45,WCF-TCP-Activation45,WCF-Pipe-Activation45 -all
 
 "SCI"
-REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 6183
+REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 12417
 
 "Local Regedit"
 Computador\HKEY_CLASSES_ROOT\VirtualStore\MACHINE\SOFTWARE\WOW6432Node\_Maqplan Software
@@ -65,7 +65,7 @@ icacls "Program Files\PostgreSQL"
 icacls "C:\Client TEF" /grant "Todos":(OI)(CI)F /t /c
 PowerShell
 Get-Printer
-Remove-Printer -Name "EPSON TM20X"
+Remove-Printer -Name "ELGIN i9(USB)"
 
 DESKTOP-3AKSLVP
 
@@ -77,4 +77,5 @@ C:\Users\Maqplan\AppData\Local\MicroSIP\microsip.exe
 "Bloqueio Postgres"
 host    all             all             fe80::/10               md5
 
+icacls "C:\MaqplanNFe" /grant "Todos":(OI)(CI)F /t /c
 
