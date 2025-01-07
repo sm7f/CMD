@@ -1,11 +1,17 @@
+[GUILHOTINA]
+ComandoCorte=m
+[Pedido de Venda]
+Impressora=Visualizar-Tela
+NrLinhasExtra=0
+PortaComunicacao=USB
 [Boleto Bancário]
 Impressora=Visualizar-Tela
 NrLinhasExtra=0
 PortaComunicacao=USB
 [Caixa Diario]
 Impressora=Mini-48Col
-NrLinhasExtra=1
-PortaComunicacao=\\KJ-CAIXA\MP-4200 TH
+NrLinhasExtra=5
+PortaComunicacao=\\DESKTOP-SSA6PKV\i9
 [Clientes Pesquisados]
 Impressora=Visualizar-Tela
 NrLinhasExtra=0
@@ -39,12 +45,6 @@ Impressora=Visualizar-Tela
 NrLinhasExtra=0
 PortaComunicacao=USB
 [TEFs Pesquisadas]
-Impressora=Mini-48Col
-NrLinhasExtra=2
-PortaComunicacao=\\KJ-CAIXA\MP-4200 TH
-[GUILHOTINA]
-ComandoCorte=m
-[Pedido de Venda]
 Impressora=Visualizar-Tela
 NrLinhasExtra=0
 PortaComunicacao=USB

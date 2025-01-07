@@ -36,7 +36,7 @@ USER05-PC
 Enable-WindowsOptionalFeature -Online -FeatureName NetFx3,NetFx4-AdvSrvs,NetFx4Extended-ASPNET45,WCF-HTTP-Activation45,WCF-NonHTTP-Activation,WCF-MSMQ-Activation45,WCF-TCP-Activation45,WCF-Pipe-Activation45 -all
 
 "SCI"
-REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 12417
+REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 12051
 
 "Local Regedit"
 Computador\HKEY_CLASSES_ROOT\VirtualStore\MACHINE\SOFTWARE\WOW6432Node\_Maqplan Software
@@ -71,6 +71,9 @@ DESKTOP-3AKSLVP
 
 \\DESKTOP-3AKSLVP\TM-T20
 
+"Teste Ping"
+nfce.svrs.rs.gov.br
+
 C:\Users\Maqplan\AppData\Local\MicroSIP\microsip.exe
 
 
@@ -79,3 +82,6 @@ host    all             all             fe80::/10               md5
 
 icacls "C:\MaqplanNFe" /grant "Todos":(OI)(CI)F /t /c
 
+DICASA-CAIXA
+
+92991023446
