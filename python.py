@@ -42,4 +42,3 @@ except FileNotFoundError:
     print(f"Arquivo da tabela NCM oficial não encontrado: {caminho_tabela}")
 except json.JSONDecodeError:
     print(f"Erro ao ler o arquivo JSON: {caminho_tabela}")
-52241233473488000123550010000116011213360309
