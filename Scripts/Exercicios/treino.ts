@@ -85,4 +85,3 @@ class ProductList {
   
   console.log("\nLista completa após adicionar 'Sofá':");
   console.log(productList.listProducts());
-  
