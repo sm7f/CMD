@@ -35,7 +35,7 @@ USER05-PC
 Enable-WindowsOptionalFeature -Online -FeatureName NetFx3,NetFx4-AdvSrvs,NetFx4Extended-ASPNET45,WCF-HTTP-Activation45,WCF-NonHTTP-Activation,WCF-MSMQ-Activation45,WCF-TCP-Activation45,WCF-Pipe-Activation45 -all
 
 "SCI"
-REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 6
+REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 9802
 
 "Local Regedit"
 Computador\HKEY_CLASSES_ROOT\VirtualStore\MACHINE\SOFTWARE\WOW6432Node\_Maqplan Software
@@ -58,6 +58,7 @@ foreach ($key in $regKeys) {
 
 "Permissão"
 icacls "C:\Maqplan" /grant "Todos":(OI)(CI)F /t /c
+icacls "C:\MaqplanNFe" /grant "Todos":(OI)(CI)F /t /c
 icacls "C:\MSoftware" /grant "Todos":(OI)(CI)F /t /c
 icacls "Program Files\PostgreSQL" 
 
@@ -79,8 +80,8 @@ C:\Users\Maqplan\AppData\Local\MicroSIP\microsip.exe
 "Bloqueio Postgres"
 host    all             all             fe80::/10               md5
 
-icacls "C:\MaqplanNFe" /grant "Todos":(OI)(CI)F /t /c
+Pasta
+New-Item -ItemType Directory -Path ''
 
-DICASA-CAIXA
-
-92991023446
+Arquivos
+New-Item -ItemType File -Path
