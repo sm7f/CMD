@@ -25,7 +25,6 @@ C:\Maqplan\Arquivos\BancoDados.ini
 C:\Maqplan\Arquivos\Config.ini
 C:\Maqplan\BancoDados
 C:\Maqplan
-C:\UsersDESKTOP-BFOQVU2
 
 "Firewall"
 netsh advfirewall set allprofiles state off
@@ -76,12 +75,34 @@ nfce.svrs.rs.gov.br
 
 C:\Users\Maqplan\AppData\Local\MicroSIP\microsip.exe
 
-
 "Bloqueio Postgres"
 host    all             all             fe80::/10               md5
 
-Pasta
+"Pasta"
 New-Item -ItemType Directory -Path ''
 
-Arquivos
+"Arquivos"
 New-Item -ItemType File -Path
+
+
+
+Validar Dominio
+nslookup nfe.sefazvirtual.rs.gov.br
+nslookup portal.maqplan.com.br
+
+Rastrear Rota
+tracert nfe.sefazvirtual.rs.gov.br
+tracert portal.maqplan.com.br
+Get-WHOIS -Domain portal.maqplan.com.br
+
+
+"Liberar Porta Entrada"
+New-NetFirewallRule -DisplayName "Allow TCP 1230" -Direction Inbound -Protocol TCP -LocalPort 1230 -Action Allow
+
+"Liberar Porta Sainda"
+New-NetFirewallRule -DisplayName "Allow Outbound TCP 1230" -Direction Outbound -Protocol TCP -LocalPort 1230 -Action Allow
+
+Liberar o PowerShell WIN11
+Get-ExecutionPolicy -List
+Set-ExecutionPolicy Unrestricted -Scope LocalMachine
+Set-ExecutionPolicy Unrestricted -Scope Process
