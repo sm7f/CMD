@@ -4,7 +4,6 @@ cmd /c "taskkill /f /im PoliSystemPDV.exe & taskkill /f /im PoliSystemADM.exe & 
 "Fechar Sistema One"
 cmd /c "taskkill /f /im PDV.exe & taskkill /f /im Agente.Sicronizacao.exe"
 
-
 sc stop MSSQLSERVER
 sc start MSSQLSERVER
 
@@ -12,8 +11,8 @@ sc start MSSQLSERVER
 EXEC sp_detach_db 'PoliSystemServerSQLDB'
 
 "Atacha"
-EXEC sp_attach_db @dbname = N'PoliSystemServerSQLDB', @filename1 = N'C:\Maqplan\BancoDados\PoliSystemServerSQLDB.mdf', @filename2 = N'C:\Maqplan\BancoDados\PoliSystemServerSQLDB_log.LDF'
-EXEC sp_attach_db @dbname = N'PoliSystemServerSQLDB', @filename1 = N'C:\Maqplan\BancoDados\PoliSystemServerSQLDB_Data.mdf', @filename2 = N'C:\Maqplan\BancoDados\PoliSystemServerSQLDB_log.LDF'
+EXEC sp_attach_db @dbname = N'PoliSystemServerSQLDB', @filename1 = N'C:\Maqplan\BancoDados\PoliSystemServerSQLDB.mdf', @filename2 = N'C:\Maqplan\BancoDados\PoliSystemServerSQLDB_1.LDF'
+EXEC sp_attach_db @dbname = N'PoliSystemServerSQLDB', @filename1 = N'C:\Maqplan\BancoDados\PoliSystemServerSQLDB_Data.mdf', @filename2 = N'C:\Maqplan\BancoDados\PoliSystemServerSQLDB_1.LDF'
 
 "Zera Licença"
 sqlcmd -S . -Q "USE PoliSystemServerSQLDB; UPDATE CONFIG_GERAL_SYS SET NrSerieLicenca = '-1', BloqLicenca = '-1';"
@@ -66,10 +65,6 @@ PowerShell
 Get-Printer
 Remove-Printer -Name "ELGIN i9(USB)"
 
-DESKTOP-3AKSLVP
-
-\\DESKTOP-3AKSLVP\TM-T20
-
 "Teste Ping"
 nfce.svrs.rs.gov.br
 
@@ -83,8 +78,6 @@ New-Item -ItemType Directory -Path ''
 
 "Arquivos"
 New-Item -ItemType File -Path
-
-
 
 Validar Dominio
 nslookup nfe.sefazvirtual.rs.gov.br
