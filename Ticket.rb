@@ -28,9 +28,9 @@ Cliente -  INFANTE CHIC
 
 Versão utilizada - 13.0.0
 
-Relato: ERRO A ABRIR RELATORIO NO PDV
+Relato:
 
-Erro: "frmReportViewer"
+Erro: ""
  
 Procedimento: Foi habilitador o netframework, aumentado os nucleos de processamento, foi alterado o sistema para abrir no maximo de desempenho.
  

@@ -33,7 +33,7 @@ USER05-PC
 Enable-WindowsOptionalFeature -Online -FeatureName NetFx3,NetFx4-AdvSrvs,NetFx4Extended-ASPNET45,WCF-HTTP-Activation45,WCF-NonHTTP-Activation,WCF-MSMQ-Activation45,WCF-TCP-Activation45,WCF-Pipe-Activation45 -all
 
 "SCI"
-REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 9802
+REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 212
 
 "Local Regedit"
 Computador\HKEY_CLASSES_ROOT\VirtualStore\MACHINE\SOFTWARE\WOW6432Node\_Maqplan Software
@@ -95,7 +95,29 @@ New-NetFirewallRule -DisplayName "Allow TCP 1230" -Direction Inbound -Protocol T
 "Liberar Porta Sainda"
 New-NetFirewallRule -DisplayName "Allow Outbound TCP 1230" -Direction Outbound -Protocol TCP -LocalPort 1230 -Action Allow
 
-Liberar o PowerShell WIN11
+"Liberar o PowerShell WIN11"
 Get-ExecutionPolicy -List
 Set-ExecutionPolicy Unrestricted -Scope LocalMachine
 Set-ExecutionPolicy Unrestricted -Scope Process
+
+"Validar portar"
+function Invoke-PortScan {
+    param([string]$target, [int[]]$ports)
+    foreach ($port in $ports) {
+        $test = Test-NetConnection -ComputerName $target -Port $port -InformationLevel Quiet
+        if ($test) {
+            Write-Host "Port $port is open on $target"
+        } else {
+            Write-Host "Port $port is closed on $target"
+        }
+    }
+}
+Invoke-PortScan -target "192.168.0.14" -ports @(80,1433,1230)
+
+function Invoke-PingSweep {
+    param([string]$subnet)
+    1..254 | ForEach-Object { Test-Connection -ComputerName "$subnet.$_" -Count 1 -ErrorAction SilentlyContinue }
+}
+Invoke-PingSweep -subnet "192.168.0.14"
+
+Get-computerInfo
