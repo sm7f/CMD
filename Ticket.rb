@@ -62,20 +62,14 @@ Anexos: (Vídeo/fotos, foto das configurações da maquina MENU-> AJUSTES-> SOBR
 
 Criação de ticket (ERP)
  
-CNPJ - 
+CNPJ - 13797496000118
 
-Cliente - 
+Cliente - AMACC
 
-Relato: 
+Relato: Cadastro 
 
-Melhoria: 
+Melhoria: Cliente solicita que esteja disponivel o cadastro do cliente no modulo "Pedido Confirmado", pois precisa desse
 
-Erro:
- 
-Procedimento Realizado:
- 
-Argumento final:
- 
 Anexos: =
  
  

@@ -28,12 +28,11 @@ C:\Maqplan
 "Firewall"
 netsh advfirewall set allprofiles state off
 
-USER05-PC
 "Netframework"
 Enable-WindowsOptionalFeature -Online -FeatureName NetFx3,NetFx4-AdvSrvs,NetFx4Extended-ASPNET45,WCF-HTTP-Activation45,WCF-NonHTTP-Activation,WCF-MSMQ-Activation45,WCF-TCP-Activation45,WCF-Pipe-Activation45 -all
 
 "SCI"
-REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 212
+REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 4880
 
 "Local Regedit"
 Computador\HKEY_CLASSES_ROOT\VirtualStore\MACHINE\SOFTWARE\WOW6432Node\_Maqplan Software
@@ -52,7 +51,7 @@ foreach ($key in $regKeys) {
     } else {
         Write-Output "A chave de registro '$key' não foi encontrada."
     }
-}
+}Recepção
 
 "Permissão"
 icacls "C:\Maqplan" /grant "Todos":(OI)(CI)F /t /c
@@ -86,6 +85,7 @@ nslookup portal.maqplan.com.br
 Rastrear Rota
 tracert nfe.sefazvirtual.rs.gov.br
 tracert portal.maqplan.com.br
+tracert directdrive.maqplan.com.br
 Get-WHOIS -Domain portal.maqplan.com.br
 
 
@@ -112,12 +112,12 @@ function Invoke-PortScan {
         }
     }
 }
-Invoke-PortScan -target "192.168.0.14" -ports @(80,1433,1230)
+Invoke-PortScan -target "192.168.0.58" -ports @(80,1433,443,1230)
 
 function Invoke-PingSweep {
     param([string]$subnet)
     1..254 | ForEach-Object { Test-Connection -ComputerName "$subnet.$_" -Count 1 -ErrorAction SilentlyContinue }
 }
-Invoke-PingSweep -subnet "192.168.0.14"
+Invoke-PingSweep -subnet "192.168.0.15"
 
 Get-computerInfo

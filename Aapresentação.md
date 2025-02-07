@@ -1,5 +1,8 @@
 # Inicio de Atendimento
-Olá qual seria o problema ? 
+Olá qual seria o problema ?
+
+# Opção 3
+Você selecionou a Opção 3 de Certificado. Será necessário o arquivo do certificado para que possamos realizar a implantação no computador. Você já possui o arquivo ?
 
 # Acesso Remoto
 Me informe o acesso remoto do TeamViewer
@@ -15,3 +18,4 @@ Houve uma atualização na receita onde teve mudanças na emissão de notas, vai
 
 # Como posso ajudar
 Para ajudar a resolver sua questão o mais rápido possível, por favor, explique detalhadamente o motivo do seu contato.
+
