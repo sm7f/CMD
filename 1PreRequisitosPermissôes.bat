@@ -32,7 +32,7 @@ netsh advfirewall set allprofiles state off
 Enable-WindowsOptionalFeature -Online -FeatureName NetFx3,NetFx4-AdvSrvs,NetFx4Extended-ASPNET45,WCF-HTTP-Activation45,WCF-NonHTTP-Activation,WCF-MSMQ-Activation45,WCF-TCP-Activation45,WCF-Pipe-Activation45 -all
 
 "SCI"
-REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 4880
+REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 6
 
 "Local Regedit"
 Computador\HKEY_CLASSES_ROOT\VirtualStore\MACHINE\SOFTWARE\WOW6432Node\_Maqplan Software
@@ -51,7 +51,7 @@ foreach ($key in $regKeys) {
     } else {
         Write-Output "A chave de registro '$key' não foi encontrada."
     }
-}Recepção
+}
 
 "Permissão"
 icacls "C:\Maqplan" /grant "Todos":(OI)(CI)F /t /c
@@ -62,7 +62,7 @@ icacls "Program Files\PostgreSQL"
 icacls "C:\Client TEF" /grant "Todos":(OI)(CI)F /t /c
 PowerShell
 Get-Printer
-Remove-Printer -Name "ELGIN i9(USB)"
+Remove-Printer -Name "MP-4200 TH"
 
 "Teste Ping"
 nfce.svrs.rs.gov.br
@@ -112,7 +112,7 @@ function Invoke-PortScan {
         }
     }
 }
-Invoke-PortScan -target "192.168.0.58" -ports @(80,1433,443,1230)
+Invoke-PortScan -target "10.0.0.109" -ports @(80,1433,443,1230)
 
 function Invoke-PingSweep {
     param([string]$subnet)
@@ -121,3 +121,18 @@ function Invoke-PingSweep {
 Invoke-PingSweep -subnet "192.168.0.15"
 
 Get-computerInfo
+
+
+Adicionar ADM
+net user administrator /active:yes
+
+Atualizar drivers
+pnputil /scan-devices
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser -Force
+
+Install-Module PSWindowsUpdate -Force -AllowClobber
+Import-Module PSWindowsUpdate
+Get-WindowsUpdate
+Get-WindowsUpdate -Install -MicrosoftUpdate -IgnoreReboot
+
+
