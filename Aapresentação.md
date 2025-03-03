@@ -18,5 +18,3 @@ Houve uma atualização na receita onde teve mudanças na emissão de notas, vai
 
 # Como posso ajudar
 Para ajudar a resolver sua questão o mais rápido possível, por favor, explique detalhadamente o motivo do seu contato.
-
-

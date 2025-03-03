@@ -58,8 +58,8 @@ icacls "C:\Maqplan" /grant "Todos":(OI)(CI)F /t /c
 icacls "C:\MaqplanNFe" /grant "Todos":(OI)(CI)F /t /c
 icacls "C:\MSoftware" /grant "Todos":(OI)(CI)F /t /c
 icacls "Program Files\PostgreSQL" 
-
 icacls "C:\Client TEF" /grant "Todos":(OI)(CI)F /t /c
+
 PowerShell
 Get-Printer
 Remove-Printer -Name "MP-4200 TH"
