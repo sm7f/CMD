@@ -18,3 +18,7 @@ Houve uma atualização na receita onde teve mudanças na emissão de notas, vai
 
 # Como posso ajudar
 Para ajudar a resolver sua questão o mais rápido possível, por favor, explique detalhadamente o motivo do seu contato.
+
+
+# Posso mandar audio
+Se você puder enviar a foto do erro, será mais fácil para analisarmos e ajudarmos da melhor forma possível. Se preferir, também pode enviar um áudio explicando o problema.
