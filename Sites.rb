@@ -20,3 +20,4 @@ https://673651564779-parceiro.s3.amazonaws.com/debug/app/pdvinstall.exe
 
 One QAS Homologação
 https://673651564779-parceiro.s3.amazonaws.com/debug/app/pdvinstall.exe
+cmd /c "taskkill /f /im PDV.exe & taskkill /f /im Agente.Sicronizacao.exe"

@@ -25,14 +25,20 @@ C:\Maqplan\Arquivos\Config.ini
 C:\Maqplan\BancoDados
 C:\Maqplan
 
+"WIN 11 Impressoras"
+explorer shell:::{A8A91A66-3A7D-4424-8D24-04E180695C7A}
+
 "Firewall"
 netsh advfirewall set allprofiles state off
+
+"REDE"
+control /name Microsoft.NetworkAndSharingCenter
 
 "Netframework"
 Enable-WindowsOptionalFeature -Online -FeatureName NetFx3,NetFx4-AdvSrvs,NetFx4Extended-ASPNET45,WCF-HTTP-Activation45,WCF-NonHTTP-Activation,WCF-MSMQ-Activation45,WCF-TCP-Activation45,WCF-Pipe-Activation45 -all
 
 "SCI"
-REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 3042
+REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 11600
 
 "Local Regedit"
 Computador\HKEY_CLASSES_ROOT\VirtualStore\MACHINE\SOFTWARE\WOW6432Node\_Maqplan Software
@@ -43,7 +49,6 @@ $regKeys = @(
     "HKLM:\SOFTWARE\WOW6432Node\_Maqplan Software",
     "HKLM:\SOFTWARE\WOW6432Node\Maqplan"
 )
-
 foreach ($key in $regKeys) {
     if (Test-Path $key) {
         Remove-Item -Path $key -Recurse -Force
@@ -100,7 +105,7 @@ Get-ExecutionPolicy -List
 Set-ExecutionPolicy Unrestricted -Scope LocalMachine
 Set-ExecutionPolicy Unrestricted -Scope Process
 
-"Validar portar"
+"Validar porta"
 function Invoke-PortScan {
     param([string]$target, [int[]]$ports)
     foreach ($port in $ports) {
@@ -129,10 +134,13 @@ net user administrator /active:yes
 Atualizar drivers
 pnputil /scan-devices
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser -Force
-
 Install-Module PSWindowsUpdate -Force -AllowClobber
 Import-Module PSWindowsUpdate
 Get-WindowsUpdate
 Get-WindowsUpdate -Install -MicrosoftUpdate -IgnoreReboot
+
+
+"Instalar o Basic"
+Invoke-WebRequest "https://aka.ms/vs/17/release/vc_redist.x64.exe" -OutFile "$env:TEMP\vc_redist.x64.exe"; Start-Process "$env:TEMP\vc_redist.x64.exe" -ArgumentList "/install","/quiet","/norestart" -Wait; Remove-Item "$env:TEMP\vc_redist.x64.exe"; Write-Host "`n✅ Visual C++ Redistributable x64 instalado com sucesso!"
 
 

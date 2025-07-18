@@ -1,21 +1,809 @@
-SELECT "ID", "DataFechamento", "DocIdentificacaoDest", "NomeIdentificacaoDest", "StatusVenda", "StatusCancelamento", "IESubstitutoTributario", "DataSaiEnt", "DataEmissao", "InformacoesAdicionaisFisco", "Identificacao", "QtdClientes", "StatusEntrega", "RetiradaNoBalcao", "EmUso", "EmProcessamento", "TipoAtendimento", "EhEncomenda", "LocalEmbarque", "LocalDespacho", "Hash", "IdDocumentoFiscalRelacionado", "TipoTempoVenda", "DataAgendamento", "MesaDelivery", "PrevisaoEntregaDelivery", "CodigoIntegracaoDelivery", "AppDelivery", "StatusScanntech", "CancelamentoEnviadoScanntech", "VendaEnviadaScanntech", "Ativo", "DataCadastro", "DataAlteracao", "IntegracaoId", "DataSincronizacao", "Atendente_ID", "AtendenteVendedor_ID", "Caixa_ID", "ContatoComercial_ID", "Destinatario_ID", "Frete_ID", "PDV_ID", "TotaisVenda_ID", "Transportador_ID"
-	FROM dbo."TB_Venda";
-
-  Preciso que identifique o anderson moura
-
-
-
-
-
-3897
-1399
-2105
-2457
-3179
-
-
-1.299,55
-
-
-02294414000104
-
+<NFe
+    xmlns="http://www.portalfiscal.inf.br/nfe">
+    <infNFe Id="NFe53250334580841000137550010000000381395312615" versao="4.00">
+        <ide>
+            <cUF>53</cUF>
+            <cNF>39531261</cNF>
+            <natOp>Devolucao de Compras para Comercializacao</natOp>
+            <mod>55</mod>
+            <serie>1</serie>
+            <nNF>38</nNF>
+            <dhEmi>2025-03-07T12:04:57-03:00</dhEmi>
+            <tpNF>1</tpNF>
+            <idDest>2</idDest>
+            <cMunFG>5300108</cMunFG>
+            <tpImp>1</tpImp>
+            <tpEmis>1</tpEmis>
+            <cDV>5</cDV>
+            <tpAmb>1</tpAmb>
+            <finNFe>4</finNFe>
+            <indFinal>0</indFinal>
+            <indPres>1</indPres>
+            <procEmi>0</procEmi>
+            <verProc>4.0</verProc>
+            <NFref>
+                <refNFe>43240788379771000263550040003808281380828458</refNFe>
+            </NFref>
+        </ide>
+        <emit>
+            <CNPJ>34580841000137</CNPJ>
+            <xNome>ANA BYA</xNome>
+            <xFant>ANA BYA</xFant>
+            <enderEmit>
+                <xLgr>QUADRA 55/56 LOJA E 363 E 364 C 319</xLgr>
+                <nro>319</nro>
+                <xBairro>Setor Central (Gama)</xBairro>
+                <cMun>5300108</cMun>
+                <xMun>Brasilia</xMun>
+                <UF>DF</UF>
+                <CEP>72405550</CEP>
+                <cPais>1058</cPais>
+                <xPais>Brasil</xPais>
+                <fone>61986397510</fone>
+            </enderEmit>
+            <IE>0793388400140</IE>
+            <IM>0793388400140</IM>
+            <CRT>1</CRT>
+        </emit>
+        <dest>
+            <CNPJ>88379771000263</CNPJ>
+            <xNome>CALCADOS BEIRA RIO S/A</xNome>
+            <enderDest>
+                <xLgr>RUA JOAO PAULO I</xLgr>
+                <nro>77</nro>
+                <xBairro>Centro</xBairro>
+                <cMun>4310108</cMun>
+                <xMun>Igrejinha</xMun>
+                <UF>RS</UF>
+                <CEP>95650000</CEP>
+                <cPais>1058</cPais>
+                <xPais>Brasil</xPais>
+            </enderDest>
+            <indIEDest>1</indIEDest>
+            <IE>1610036317</IE>
+        </dest>
+        <det nItem="1">
+            <prod>
+                <cProd>27078</cProd>
+                <cEAN>SEM GTIN</cEAN>
+                <xProd>SANDALIA GIS TRASEIRA VERNIZ PRETO 34 - 1TM1uL</xProd>
+                <NCM>64041900</NCM>
+                <CEST>0000000</CEST>
+                <cBenef/>
+                <CFOP>6202</CFOP>
+                <uCom>UND</uCom>
+                <qCom>2.000</qCom>
+                <vUnCom>62.04</vUnCom>
+                <vProd>124.08</vProd>
+                <cEANTrib>SEM GTIN</cEANTrib>
+                <uTrib>UND</uTrib>
+                <qTrib>2.000</qTrib>
+                <vUnTrib>62.04</vUnTrib>
+                <indTot>1</indTot>
+            </prod>
+            <imposto>
+                <vTotTrib>39.02</vTotTrib>
+                <ICMS>
+                    <ICMSSN900>
+                        <orig>0</orig>
+                        <CSOSN>900</CSOSN>
+                        <modBC>3</modBC>
+                        <vBC>124.08</vBC>
+                        <pICMS>7.00</pICMS>
+                        <vICMS>8.69</vICMS>
+                    </ICMSSN900>
+                </ICMS>
+                <PIS>
+                    <PISOutr>
+                        <CST>99</CST>
+                        <vBC>124.08</vBC>
+                        <pPIS>0.00</pPIS>
+                        <vPIS>0.00</vPIS>
+                    </PISOutr>
+                </PIS>
+                <COFINS>
+                    <COFINSOutr>
+                        <CST>99</CST>
+                        <vBC>124.08</vBC>
+                        <pCOFINS>0.00</pCOFINS>
+                        <vCOFINS>0.00</vCOFINS>
+                    </COFINSOutr>
+                </COFINS>
+            </imposto>
+            <impostoDevol>
+                <pDevol>0.00</pDevol>
+                <IPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                </IPI>
+            </impostoDevol>
+        </det>
+        <det nItem="2">
+            <prod>
+                <cProd>27079</cProd>
+                <cEAN>SEM GTIN</cEAN>
+                <xProd>SANDALIA GIS TRASEIRA VERNIZ PRETO 35 - 1TM1uL</xProd>
+                <NCM>64041900</NCM>
+                <CEST>0000000</CEST>
+                <cBenef/>
+                <CFOP>6202</CFOP>
+                <uCom>UND</uCom>
+                <qCom>3.000</qCom>
+                <vUnCom>62.04</vUnCom>
+                <vProd>186.12</vProd>
+                <cEANTrib>SEM GTIN</cEANTrib>
+                <uTrib>UND</uTrib>
+                <qTrib>3.000</qTrib>
+                <vUnTrib>62.04</vUnTrib>
+                <indTot>1</indTot>
+            </prod>
+            <imposto>
+                <vTotTrib>58.53</vTotTrib>
+                <ICMS>
+                    <ICMSSN900>
+                        <orig>0</orig>
+                        <CSOSN>900</CSOSN>
+                        <modBC>3</modBC>
+                        <vBC>186.12</vBC>
+                        <pICMS>7.00</pICMS>
+                        <vICMS>13.03</vICMS>
+                    </ICMSSN900>
+                </ICMS>
+                <PIS>
+                    <PISOutr>
+                        <CST>99</CST>
+                        <vBC>186.12</vBC>
+                        <pPIS>0.00</pPIS>
+                        <vPIS>0.00</vPIS>
+                    </PISOutr>
+                </PIS>
+                <COFINS>
+                    <COFINSOutr>
+                        <CST>99</CST>
+                        <vBC>186.12</vBC>
+                        <pCOFINS>0.00</pCOFINS>
+                        <vCOFINS>0.00</vCOFINS>
+                    </COFINSOutr>
+                </COFINS>
+            </imposto>
+            <impostoDevol>
+                <pDevol>0.00</pDevol>
+                <IPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                </IPI>
+            </impostoDevol>
+        </det>
+        <det nItem="3">
+            <prod>
+                <cProd>27080</cProd>
+                <cEAN>SEM GTIN</cEAN>
+                <xProd>SANDALIA GIS TRASEIRA VERNIZ PRETO 36 - 1TM1uL</xProd>
+                <NCM>64041900</NCM>
+                <CEST>0000000</CEST>
+                <cBenef/>
+                <CFOP>6202</CFOP>
+                <uCom>UND</uCom>
+                <qCom>5.000</qCom>
+                <vUnCom>62.04</vUnCom>
+                <vProd>310.20</vProd>
+                <cEANTrib>SEM GTIN</cEANTrib>
+                <uTrib>UND</uTrib>
+                <qTrib>5.000</qTrib>
+                <vUnTrib>62.04</vUnTrib>
+                <indTot>1</indTot>
+            </prod>
+            <imposto>
+                <vTotTrib>97.56</vTotTrib>
+                <ICMS>
+                    <ICMSSN900>
+                        <orig>0</orig>
+                        <CSOSN>900</CSOSN>
+                        <modBC>3</modBC>
+                        <vBC>310.20</vBC>
+                        <pICMS>7.00</pICMS>
+                        <vICMS>21.71</vICMS>
+                    </ICMSSN900>
+                </ICMS>
+                <PIS>
+                    <PISOutr>
+                        <CST>99</CST>
+                        <vBC>310.20</vBC>
+                        <pPIS>0.00</pPIS>
+                        <vPIS>0.00</vPIS>
+                    </PISOutr>
+                </PIS>
+                <COFINS>
+                    <COFINSOutr>
+                        <CST>99</CST>
+                        <vBC>310.20</vBC>
+                        <pCOFINS>0.00</pCOFINS>
+                        <vCOFINS>0.00</vCOFINS>
+                    </COFINSOutr>
+                </COFINS>
+            </imposto>
+            <impostoDevol>
+                <pDevol>0.00</pDevol>
+                <IPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                </IPI>
+            </impostoDevol>
+        </det>
+        <det nItem="4">
+            <prod>
+                <cProd>27081</cProd>
+                <cEAN>SEM GTIN</cEAN>
+                <xProd>SANDALIA GIS TRASEIRA VERNIZ PRETO 37 - 1TM1uL</xProd>
+                <NCM>64041900</NCM>
+                <CEST>0000000</CEST>
+                <cBenef/>
+                <CFOP>6202</CFOP>
+                <uCom>UND</uCom>
+                <qCom>4.000</qCom>
+                <vUnCom>62.04</vUnCom>
+                <vProd>248.16</vProd>
+                <cEANTrib>SEM GTIN</cEANTrib>
+                <uTrib>UND</uTrib>
+                <qTrib>4.000</qTrib>
+                <vUnTrib>62.04</vUnTrib>
+                <indTot>1</indTot>
+            </prod>
+            <imposto>
+                <vTotTrib>78.05</vTotTrib>
+                <ICMS>
+                    <ICMSSN900>
+                        <orig>0</orig>
+                        <CSOSN>900</CSOSN>
+                        <modBC>3</modBC>
+                        <vBC>248.16</vBC>
+                        <pICMS>7.00</pICMS>
+                        <vICMS>17.37</vICMS>
+                    </ICMSSN900>
+                </ICMS>
+                <PIS>
+                    <PISOutr>
+                        <CST>99</CST>
+                        <vBC>248.16</vBC>
+                        <pPIS>0.00</pPIS>
+                        <vPIS>0.00</vPIS>
+                    </PISOutr>
+                </PIS>
+                <COFINS>
+                    <COFINSOutr>
+                        <CST>99</CST>
+                        <vBC>248.16</vBC>
+                        <pCOFINS>0.00</pCOFINS>
+                        <vCOFINS>0.00</vCOFINS>
+                    </COFINSOutr>
+                </COFINS>
+            </imposto>
+            <impostoDevol>
+                <pDevol>0.00</pDevol>
+                <IPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                </IPI>
+            </impostoDevol>
+        </det>
+        <det nItem="5">
+            <prod>
+                <cProd>27082</cProd>
+                <cEAN>SEM GTIN</cEAN>
+                <xProd>SANDALIA GIS TRASEIRA VERNIZ PRETO 38 - 1TM1uL</xProd>
+                <NCM>64041900</NCM>
+                <CEST>0000000</CEST>
+                <cBenef/>
+                <CFOP>6202</CFOP>
+                <uCom>UND</uCom>
+                <qCom>4.000</qCom>
+                <vUnCom>62.04</vUnCom>
+                <vProd>248.16</vProd>
+                <cEANTrib>SEM GTIN</cEANTrib>
+                <uTrib>UND</uTrib>
+                <qTrib>4.000</qTrib>
+                <vUnTrib>62.04</vUnTrib>
+                <indTot>1</indTot>
+            </prod>
+            <imposto>
+                <vTotTrib>78.05</vTotTrib>
+                <ICMS>
+                    <ICMSSN900>
+                        <orig>0</orig>
+                        <CSOSN>900</CSOSN>
+                        <modBC>3</modBC>
+                        <vBC>248.16</vBC>
+                        <pICMS>7.00</pICMS>
+                        <vICMS>17.37</vICMS>
+                    </ICMSSN900>
+                </ICMS>
+                <PIS>
+                    <PISOutr>
+                        <CST>99</CST>
+                        <vBC>248.16</vBC>
+                        <pPIS>0.00</pPIS>
+                        <vPIS>0.00</vPIS>
+                    </PISOutr>
+                </PIS>
+                <COFINS>
+                    <COFINSOutr>
+                        <CST>99</CST>
+                        <vBC>248.16</vBC>
+                        <pCOFINS>0.00</pCOFINS>
+                        <vCOFINS>0.00</vCOFINS>
+                    </COFINSOutr>
+                </COFINS>
+            </imposto>
+            <impostoDevol>
+                <pDevol>0.00</pDevol>
+                <IPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                </IPI>
+            </impostoDevol>
+        </det>
+        <det nItem="6">
+            <prod>
+                <cProd>27083</cProd>
+                <cEAN>SEM GTIN</cEAN>
+                <xProd>SANDALIA GIS TRASEIRA VERNIZ PRETO 39 - 1TM1uL</xProd>
+                <NCM>64041900</NCM>
+                <CEST>0000000</CEST>
+                <cBenef/>
+                <CFOP>6202</CFOP>
+                <uCom>UND</uCom>
+                <qCom>2.000</qCom>
+                <vUnCom>62.04</vUnCom>
+                <vProd>124.08</vProd>
+                <cEANTrib>SEM GTIN</cEANTrib>
+                <uTrib>UND</uTrib>
+                <qTrib>2.000</qTrib>
+                <vUnTrib>62.04</vUnTrib>
+                <indTot>1</indTot>
+            </prod>
+            <imposto>
+                <vTotTrib>39.02</vTotTrib>
+                <ICMS>
+                    <ICMSSN900>
+                        <orig>0</orig>
+                        <CSOSN>900</CSOSN>
+                        <modBC>3</modBC>
+                        <vBC>124.08</vBC>
+                        <pICMS>7.00</pICMS>
+                        <vICMS>8.69</vICMS>
+                    </ICMSSN900>
+                </ICMS>
+                <PIS>
+                    <PISOutr>
+                        <CST>99</CST>
+                        <vBC>124.08</vBC>
+                        <pPIS>0.00</pPIS>
+                        <vPIS>0.00</vPIS>
+                    </PISOutr>
+                </PIS>
+                <COFINS>
+                    <COFINSOutr>
+                        <CST>99</CST>
+                        <vBC>124.08</vBC>
+                        <pCOFINS>0.00</pCOFINS>
+                        <vCOFINS>0.00</vCOFINS>
+                    </COFINSOutr>
+                </COFINS>
+            </imposto>
+            <impostoDevol>
+                <pDevol>0.00</pDevol>
+                <IPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                </IPI>
+            </impostoDevol>
+        </det>
+        <det nItem="7">
+            <prod>
+                <cProd>27088</cProd>
+                <cEAN>SEM GTIN</cEAN>
+                <xProd>SANDALIA GIS TRASEIRA VERNIZ NUDE 34 - XyqoQL</xProd>
+                <NCM>64041900</NCM>
+                <CEST>0000000</CEST>
+                <cBenef/>
+                <CFOP>6202</CFOP>
+                <uCom>UND</uCom>
+                <qCom>1.000</qCom>
+                <vUnCom>62.04</vUnCom>
+                <vProd>62.04</vProd>
+                <cEANTrib>SEM GTIN</cEANTrib>
+                <uTrib>UND</uTrib>
+                <qTrib>1.000</qTrib>
+                <vUnTrib>62.04</vUnTrib>
+                <indTot>1</indTot>
+            </prod>
+            <imposto>
+                <vTotTrib>19.51</vTotTrib>
+                <ICMS>
+                    <ICMSSN900>
+                        <orig>0</orig>
+                        <CSOSN>900</CSOSN>
+                        <modBC>3</modBC>
+                        <vBC>62.04</vBC>
+                        <pICMS>7.00</pICMS>
+                        <vICMS>4.34</vICMS>
+                    </ICMSSN900>
+                </ICMS>
+                <PIS>
+                    <PISOutr>
+                        <CST>99</CST>
+                        <vBC>62.04</vBC>
+                        <pPIS>0.00</pPIS>
+                        <vPIS>0.00</vPIS>
+                    </PISOutr>
+                </PIS>
+                <COFINS>
+                    <COFINSOutr>
+                        <CST>99</CST>
+                        <vBC>62.04</vBC>
+                        <pCOFINS>0.00</pCOFINS>
+                        <vCOFINS>0.00</vCOFINS>
+                    </COFINSOutr>
+                </COFINS>
+            </imposto>
+            <impostoDevol>
+                <pDevol>0.00</pDevol>
+                <IPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                </IPI>
+            </impostoDevol>
+        </det>
+        <det nItem="8">
+            <prod>
+                <cProd>27089</cProd>
+                <cEAN>SEM GTIN</cEAN>
+                <xProd>SANDALIA GIS TRASEIRA VERNIZ NUDE 35 - XyqoQL</xProd>
+                <NCM>64041900</NCM>
+                <CEST>0000000</CEST>
+                <cBenef/>
+                <CFOP>6202</CFOP>
+                <uCom>UND</uCom>
+                <qCom>1.000</qCom>
+                <vUnCom>62.04</vUnCom>
+                <vProd>62.04</vProd>
+                <cEANTrib>SEM GTIN</cEANTrib>
+                <uTrib>UND</uTrib>
+                <qTrib>1.000</qTrib>
+                <vUnTrib>62.04</vUnTrib>
+                <indTot>1</indTot>
+            </prod>
+            <imposto>
+                <vTotTrib>19.51</vTotTrib>
+                <ICMS>
+                    <ICMSSN900>
+                        <orig>0</orig>
+                        <CSOSN>900</CSOSN>
+                        <modBC>3</modBC>
+                        <vBC>62.04</vBC>
+                        <pICMS>7.00</pICMS>
+                        <vICMS>4.34</vICMS>
+                    </ICMSSN900>
+                </ICMS>
+                <PIS>
+                    <PISOutr>
+                        <CST>99</CST>
+                        <vBC>62.04</vBC>
+                        <pPIS>0.00</pPIS>
+                        <vPIS>0.00</vPIS>
+                    </PISOutr>
+                </PIS>
+                <COFINS>
+                    <COFINSOutr>
+                        <CST>99</CST>
+                        <vBC>62.04</vBC>
+                        <pCOFINS>0.00</pCOFINS>
+                        <vCOFINS>0.00</vCOFINS>
+                    </COFINSOutr>
+                </COFINS>
+            </imposto>
+            <impostoDevol>
+                <pDevol>0.00</pDevol>
+                <IPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                </IPI>
+            </impostoDevol>
+        </det>
+        <det nItem="9">
+            <prod>
+                <cProd>27090</cProd>
+                <cEAN>SEM GTIN</cEAN>
+                <xProd>SANDALIA GIS TRASEIRA VERNIZ NUDE 36 - XyqoQL</xProd>
+                <NCM>64041900</NCM>
+                <CEST>0000000</CEST>
+                <cBenef/>
+                <CFOP>6202</CFOP>
+                <uCom>UND</uCom>
+                <qCom>2.000</qCom>
+                <vUnCom>62.04</vUnCom>
+                <vProd>124.08</vProd>
+                <cEANTrib>SEM GTIN</cEANTrib>
+                <uTrib>UND</uTrib>
+                <qTrib>2.000</qTrib>
+                <vUnTrib>62.04</vUnTrib>
+                <indTot>1</indTot>
+            </prod>
+            <imposto>
+                <vTotTrib>39.02</vTotTrib>
+                <ICMS>
+                    <ICMSSN900>
+                        <orig>0</orig>
+                        <CSOSN>900</CSOSN>
+                        <modBC>3</modBC>
+                        <vBC>124.08</vBC>
+                        <pICMS>7.00</pICMS>
+                        <vICMS>8.69</vICMS>
+                    </ICMSSN900>
+                </ICMS>
+                <PIS>
+                    <PISOutr>
+                        <CST>99</CST>
+                        <vBC>124.08</vBC>
+                        <pPIS>0.00</pPIS>
+                        <vPIS>0.00</vPIS>
+                    </PISOutr>
+                </PIS>
+                <COFINS>
+                    <COFINSOutr>
+                        <CST>99</CST>
+                        <vBC>124.08</vBC>
+                        <pCOFINS>0.00</pCOFINS>
+                        <vCOFINS>0.00</vCOFINS>
+                    </COFINSOutr>
+                </COFINS>
+            </imposto>
+            <impostoDevol>
+                <pDevol>0.00</pDevol>
+                <IPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                </IPI>
+            </impostoDevol>
+        </det>
+        <det nItem="10">
+            <prod>
+                <cProd>27091</cProd>
+                <cEAN>SEM GTIN</cEAN>
+                <xProd>SANDALIA GIS TRASEIRA VERNIZ NUDE 37 - XyqoQL</xProd>
+                <NCM>64041900</NCM>
+                <CEST>0000000</CEST>
+                <cBenef/>
+                <CFOP>6202</CFOP>
+                <uCom>UND</uCom>
+                <qCom>3.000</qCom>
+                <vUnCom>62.04</vUnCom>
+                <vProd>186.12</vProd>
+                <cEANTrib>SEM GTIN</cEANTrib>
+                <uTrib>UND</uTrib>
+                <qTrib>3.000</qTrib>
+                <vUnTrib>62.04</vUnTrib>
+                <indTot>1</indTot>
+            </prod>
+            <imposto>
+                <vTotTrib>58.53</vTotTrib>
+                <ICMS>
+                    <ICMSSN900>
+                        <orig>0</orig>
+                        <CSOSN>900</CSOSN>
+                        <modBC>3</modBC>
+                        <vBC>186.12</vBC>
+                        <pICMS>7.00</pICMS>
+                        <vICMS>13.03</vICMS>
+                    </ICMSSN900>
+                </ICMS>
+                <PIS>
+                    <PISOutr>
+                        <CST>99</CST>
+                        <vBC>186.12</vBC>
+                        <pPIS>0.00</pPIS>
+                        <vPIS>0.00</vPIS>
+                    </PISOutr>
+                </PIS>
+                <COFINS>
+                    <COFINSOutr>
+                        <CST>99</CST>
+                        <vBC>186.12</vBC>
+                        <pCOFINS>0.00</pCOFINS>
+                        <vCOFINS>0.00</vCOFINS>
+                    </COFINSOutr>
+                </COFINS>
+            </imposto>
+            <impostoDevol>
+                <pDevol>0.00</pDevol>
+                <IPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                </IPI>
+            </impostoDevol>
+        </det>
+        <det nItem="11">
+            <prod>
+                <cProd>27092</cProd>
+                <cEAN>SEM GTIN</cEAN>
+                <xProd>SANDALIA GIS TRASEIRA VERNIZ NUDE 38 - XyqoQL</xProd>
+                <NCM>64041900</NCM>
+                <CEST>0000000</CEST>
+                <cBenef/>
+                <CFOP>6202</CFOP>
+                <uCom>UND</uCom>
+                <qCom>2.000</qCom>
+                <vUnCom>62.04</vUnCom>
+                <vProd>124.08</vProd>
+                <cEANTrib>SEM GTIN</cEANTrib>
+                <uTrib>UND</uTrib>
+                <qTrib>2.000</qTrib>
+                <vUnTrib>62.04</vUnTrib>
+                <indTot>1</indTot>
+            </prod>
+            <imposto>
+                <vTotTrib>39.02</vTotTrib>
+                <ICMS>
+                    <ICMSSN900>
+                        <orig>0</orig>
+                        <CSOSN>900</CSOSN>
+                        <modBC>3</modBC>
+                        <vBC>124.08</vBC>
+                        <pICMS>7.00</pICMS>
+                        <vICMS>8.69</vICMS>
+                    </ICMSSN900>
+                </ICMS>
+                <PIS>
+                    <PISOutr>
+                        <CST>99</CST>
+                        <vBC>124.08</vBC>
+                        <pPIS>0.00</pPIS>
+                        <vPIS>0.00</vPIS>
+                    </PISOutr>
+                </PIS>
+                <COFINS>
+                    <COFINSOutr>
+                        <CST>99</CST>
+                        <vBC>124.08</vBC>
+                        <pCOFINS>0.00</pCOFINS>
+                        <vCOFINS>0.00</vCOFINS>
+                    </COFINSOutr>
+                </COFINS>
+            </imposto>
+            <impostoDevol>
+                <pDevol>0.00</pDevol>
+                <IPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                </IPI>
+            </impostoDevol>
+        </det>
+        <det nItem="12">
+            <prod>
+                <cProd>27093</cProd>
+                <cEAN>SEM GTIN</cEAN>
+                <xProd>SANDALIA GIS TRASEIRA VERNIZ NUDE 39 - XyqoQL</xProd>
+                <NCM>64041900</NCM>
+                <CEST>0000000</CEST>
+                <cBenef/>
+                <CFOP>6202</CFOP>
+                <uCom>UND</uCom>
+                <qCom>1.000</qCom>
+                <vUnCom>62.04</vUnCom>
+                <vProd>62.04</vProd>
+                <cEANTrib>SEM GTIN</cEANTrib>
+                <uTrib>UND</uTrib>
+                <qTrib>1.000</qTrib>
+                <vUnTrib>62.04</vUnTrib>
+                <indTot>1</indTot>
+            </prod>
+            <imposto>
+                <vTotTrib>19.51</vTotTrib>
+                <ICMS>
+                    <ICMSSN900>
+                        <orig>0</orig>
+                        <CSOSN>900</CSOSN>
+                        <modBC>3</modBC>
+                        <vBC>62.04</vBC>
+                        <pICMS>7.00</pICMS>
+                        <vICMS>4.34</vICMS>
+                    </ICMSSN900>
+                </ICMS>
+                <PIS>
+                    <PISOutr>
+                        <CST>99</CST>
+                        <vBC>62.04</vBC>
+                        <pPIS>0.00</pPIS>
+                        <vPIS>0.00</vPIS>
+                    </PISOutr>
+                </PIS>
+                <COFINS>
+                    <COFINSOutr>
+                        <CST>99</CST>
+                        <vBC>62.04</vBC>
+                        <pCOFINS>0.00</pCOFINS>
+                        <vCOFINS>0.00</vCOFINS>
+                    </COFINSOutr>
+                </COFINS>
+            </imposto>
+            <impostoDevol>
+                <pDevol>0.00</pDevol>
+                <IPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                </IPI>
+            </impostoDevol>
+        </det>
+        <total>
+            <ICMSTot>
+                <vBC>1861.20</vBC>
+                <vICMS>130.29</vICMS>
+                <vICMSDeson>0.00</vICMSDeson>
+                <vFCP>0.00</vFCP>
+                <vBCST>0.00</vBCST>
+                <vST>0.00</vST>
+                <vFCPST>0.00</vFCPST>
+                <vFCPSTRet>0.00</vFCPSTRet>
+                <vProd>1861.20</vProd>
+                <vFrete>0.00</vFrete>
+                <vSeg>0.00</vSeg>
+                <vDesc>0.00</vDesc>
+                <vII>0.00</vII>
+                <vIPI>0.00</vIPI>
+                <vIPIDevol>0.00</vIPIDevol>
+                <vPIS>0.00</vPIS>
+                <vCOFINS>0.00</vCOFINS>
+                <vOutro>0.00</vOutro>
+                <vNF>1861.20</vNF>
+                <vTotTrib>585.33</vTotTrib>
+            </ICMSTot>
+        </total>
+        <transp>
+            <modFrete>4</modFrete>
+            <transporta>
+                <CNPJ>03094114000136</CNPJ>
+                <xNome>VITORIA PROVEDORA LOGISTICA LTDA</xNome>
+                <IE>0962742732</IE>
+                <xEnder>Avenida Plinio Kroeff 1290 S/N Rubem Berta 91150170</xEnder>
+                <xMun>Porto Alegre</xMun>
+                <UF>RS</UF>
+            </transporta>
+            <veicTransp>
+                <placa/>
+                <UF>RS</UF>
+            </veicTransp>
+            <vol>
+                <qVol>3</qVol>
+                <esp>CXS. PAPELAO</esp>
+                <pesoL>11.000</pesoL>
+                <pesoB>13.000</pesoB>
+            </vol>
+        </transp>
+        <cobr>
+            <fat>
+                <nFat>1</nFat>
+                <vOrig>1861.20</vOrig>
+                <vDesc>0</vDesc>
+                <vLiq>1861.20</vLiq>
+            </fat>
+        </cobr>
+        <pag>
+            <detPag>
+                <tPag>90</tPag>
+                <vPag>0</vPag>
+            </detPag>
+        </pag>
+        <infAdic>
+            <infCpl>SIMPLES NACIONAL  DOCUMENTO EMITIDO POR ME OU EPP OPTANTE PELO SIMPLES NACIONAL, NAO GERA DIREITO A CREDITO FISCAL DE ISS E IPI</infCpl>
+        </infAdic>
+    </infNFe>
+    <Signature
+        xmlns="http://www.w3.org/2000/09/xmldsig#">
+        <SignedInfo>
+            <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+            <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+            <Reference URI="#NFe53250334580841000137550010000000381395312615">
+                <Transforms>
+                    <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+                    <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+                </Transforms>
+                <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+                <DigestValue>K5qR4NEqYSfutTCKKX5m04pkuFo=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue>QPt+sYddbQjVUgxQnYvXHfV/KP32qNCar4ayDK+LyuEodl4aOMRBiAAZb/B6Jq//0vsSQImMwahlpZbznQ9CI1QK2H4C3mWgyIozGO39LkccRCoUcmzSPVqEpPSxxEK7CzFnAgifW70b8L3yxaoG/7R17MetMYxGAY5iN137mY6jmrW5vjZGtQ+sJD+g2kxhwtG8yutTMZEUuP77ccmnxKnu8orVTV0PgE/tcCMCKJQBL+Hzewnb6V3Pdv/UjW0tiSKfaZ+N9dMMwRWA5MmjV2yxM52lIFK8hdBMH8kiG3A+Vh57oNfKimRNbMwu8sK3JCeJJSZAWm0YhthOjnOiyQ==</SignatureValue>
+        <KeyInfo>
+            <X509Data>
+                <X509Certificate>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</X509Certificate>
+            </X509Data>
+        </KeyInfo>
+    </Signature>
+</NFe>

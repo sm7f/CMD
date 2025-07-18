@@ -35,4 +35,12 @@ Para emitir uma nota fiscal de Reparo e Conserto, é necessário ter os seguinte
 
 ### /////////////////////////////////////////////////////////////////////////////////////
 
+# ETIQUETA
+Para confeccionar a etiqueta é obrigatorio ter a etiqueta, ter um exemplo da etiqueta, ter a dimensões da etiqueta com a foto medindo o tamanho horizontal e vertical. 
+
+### /////////////////////////////////////////////////////////////////////////////////////
+
+# PROCON
+PROCON-DF TEL.: 151 - Ed.VENANCIO 2000 Bl.B60 Sl.240
+
 
