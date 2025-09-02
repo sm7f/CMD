@@ -143,4 +143,4 @@ Get-WindowsUpdate -Install -MicrosoftUpdate -IgnoreReboot
 "Instalar o Basic"
 Invoke-WebRequest "https://aka.ms/vs/17/release/vc_redist.x64.exe" -OutFile "$env:TEMP\vc_redist.x64.exe"; Start-Process "$env:TEMP\vc_redist.x64.exe" -ArgumentList "/install","/quiet","/norestart" -Wait; Remove-Item "$env:TEMP\vc_redist.x64.exe"; Write-Host "`n✅ Visual C++ Redistributable x64 instalado com sucesso!"
 
-
+GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
