@@ -29,4 +29,4 @@ Se você puder enviar a foto do erro, será mais fácil para analisarmos e ajuda
 Me informe o acesso remoto do TeamViewer
 
 # Como posso ajudar
-Para ajudar a resolver sua questão o mais rápido possível, por favor, explique detalhadamente o motivo do seu contato ou envie a foto do problema.
+
