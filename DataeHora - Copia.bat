@@ -1,7 +1,7 @@
 @echo off
 :: Define a nova data e hora (ajuste de acordo com a necessidade)
-set nova_data=11/03/2025
-set novo_horario=17:30:00
+set nova_data=19/09/2025
+set novo_horario=12:39:00
 
 :: Define o novo fuso horário (ajuste de acordo com a necessidade)
 set novo_fuso=-03:00

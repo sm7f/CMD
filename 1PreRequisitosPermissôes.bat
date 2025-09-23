@@ -38,7 +38,7 @@ control /name Microsoft.NetworkAndSharingCenter
 Enable-WindowsOptionalFeature -Online -FeatureName NetFx3,NetFx4-AdvSrvs,NetFx4Extended-ASPNET45,WCF-HTTP-Activation45,WCF-NonHTTP-Activation,WCF-MSMQ-Activation45,WCF-TCP-Activation45,WCF-Pipe-Activation45 -all
 
 "SCI"
-REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 11600
+REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 10600
 
 "Local Regedit"
 Computador\HKEY_CLASSES_ROOT\VirtualStore\MACHINE\SOFTWARE\WOW6432Node\_Maqplan Software
@@ -143,4 +143,6 @@ Get-WindowsUpdate -Install -MicrosoftUpdate -IgnoreReboot
 "Instalar o Basic"
 Invoke-WebRequest "https://aka.ms/vs/17/release/vc_redist.x64.exe" -OutFile "$env:TEMP\vc_redist.x64.exe"; Start-Process "$env:TEMP\vc_redist.x64.exe" -ArgumentList "/install","/quiet","/norestart" -Wait; Remove-Item "$env:TEMP\vc_redist.x64.exe"; Write-Host "`n✅ Visual C++ Redistributable x64 instalado com sucesso!"
 
-GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
+parcerias.maq@maqplan.com.br
+$UQK*5H6RFnpdF7
+ 
