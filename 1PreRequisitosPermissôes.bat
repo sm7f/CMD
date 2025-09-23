@@ -10,12 +10,15 @@ sc start MSSQLSERVER
 "Desataxa
 EXEC sp_detach_db 'PoliSystemServerSQLDB'
 
-"Atacha"
-EXEC sp_attach_db @dbname = N'PoliSystemServerSQLDB', @filename1 = N'C:\Maqplan\BancoDados\PoliSystemServerSQLDB.mdf', @filename2 = N'C:\Maqplan\BancoDados\PoliSystemServerSQLDB_1.LDF'
-EXEC sp_attach_db @dbname = N'PoliSystemServerSQLDB', @filename1 = N'C:\Maqplan\BancoDados\PoliSystemServerSQLDB_Data.mdf', @filename2 = N'C:\Maqplan\BancoDados\PoliSystemServerSQLDB_1.LDF'
+"Atacha PowerShell"
+$DBNAME="PoliSystemServerSQLDB"; if ((sqlcmd -S . -U sa -P PoliSystemsapwd -h -1 -Q "SET NOCOUNT ON; IF EXISTS (SELECT name FROM sys.databases WHERE name=N'$DBNAME') PRINT 'EXISTS' ELSE PRINT 'NOTEXISTS'") -match "EXISTS") { Write-Host "⚠️  O banco $DBNAME já está anexado" -ForegroundColor Yellow } else { if (Test-Path "C:\Maqplan\BancoDados\$DBNAME.mdf") { sqlcmd -S . -U sa -P PoliSystemsapwd -Q "EXEC sp_attach_db @dbname=N'$DBNAME', @filename1=N'C:\Maqplan\BancoDados\$DBNAME.mdf', @filename2=N'C:\Maqplan\BancoDados\${DBNAME}_log.LDF'" } elseif (Test-Path "C:\Maqplan\BancoDados\${DBNAME}_Data.mdf") { sqlcmd -S . -U sa -P PoliSystemsapwd -Q "EXEC sp_attach_db @dbname=N'$DBNAME', @filename1=N'C:\Maqplan\BancoDados\${DBNAME}_Data.mdf', @filename2=N'C:\Maqplan\BancoDados\${DBNAME}_log.LDF'" } }; if ($LASTEXITCODE -eq 0) { $empresa=(sqlcmd -S . -U sa -P PoliSystemsapwd -d $DBNAME -h -1 -W -Q "SET NOCOUNT ON; SELECT NomeEmpresa FROM EMPRESA WHERE CdEmpresa=1").Trim(); $cnpj=(sqlcmd -S . -U sa -P PoliSystemsapwd -d $DBNAME -h -1 -W -Q "SET NOCOUNT ON; SELECT CNPJEmpresa FROM EMPRESA WHERE CdEmpresa=1").Trim(); $versao=(sqlcmd -S . -U sa -P PoliSystemsapwd -d $DBNAME -h -1 -W -Q "SET NOCOUNT ON; SELECT TOP 1 NrVersaoSistemaInstalado FROM VERSAO_SISTEMA").Trim(); Write-Host "✅ Banco $DBNAME pronto → Empresa: $empresa | CNPJ: $cnpj | Versão: $versao" -ForegroundColor Green } else { Write-Host "❌ ERRO ao anexar o banco $DBNAME" -ForegroundColor Red }
+
+"Netframework"
+Enable-WindowsOptionalFeature -Online -FeatureName NetFx3,NetFx4-AdvSrvs,NetFx4Extended-ASPNET45,WCF-HTTP-Activation45,WCF-NonHTTP-Activation,WCF-MSMQ-Activation45,WCF-TCP-Activation45,WCF-Pipe-Activation45 -all
 
 "Zera Licença"
 sqlcmd -S . -Q "USE PoliSystemServerSQLDB; UPDATE CONFIG_GERAL_SYS SET NrSerieLicenca = '-1', BloqLicenca = '-1';"
+
 "Integrador Vendas"
 sqlcmd -S . -Q "USE PoliSystemServerSQLDB; update venda set statusexportacao = 1;"
 
@@ -33,9 +36,6 @@ netsh advfirewall set allprofiles state off
 
 "REDE"
 control /name Microsoft.NetworkAndSharingCenter
-
-"Netframework"
-Enable-WindowsOptionalFeature -Online -FeatureName NetFx3,NetFx4-AdvSrvs,NetFx4Extended-ASPNET45,WCF-HTTP-Activation45,WCF-NonHTTP-Activation,WCF-MSMQ-Activation45,WCF-TCP-Activation45,WCF-Pipe-Activation45 -all
 
 "SCI"
 REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 10600
