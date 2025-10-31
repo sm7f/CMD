@@ -1,0 +1,281 @@
+{
+    "data_execucao": "2025-10-27 16:45:34",
+    "tempo_total_segundos": 62,
+    "quantidade_total_produtos": 78,
+    "quantidade_atualizados": 39,
+    "resultados": [
+        {
+            "id": 13480516,
+            "codigoProduto": "10001",
+            "descricao": "PRODUTO DE TESTE COM PREÇO",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10001,\"codigoFornecedor\":null,\"codigoInterno\":\"ABC123\",\"codigoProdutoBaixa\":null,\"cod"
+        },
+        {
+            "id": 13536679,
+            "codigoProduto": "10002",
+            "descricao": "Coca Cola 1L Amarelo - UazPbH",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10002,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 13780700,
+            "codigoProduto": "10005",
+            "descricao": "10% do Garçon",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10005,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 14195444,
+            "codigoProduto": "10006",
+            "descricao": "PRODUTO PESAVELL",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10006,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 14424656,
+            "codigoProduto": "10008",
+            "descricao": "POTE SORVETE MARACUJÁ 10KG",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10008,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 14424670,
+            "codigoProduto": "10009",
+            "descricao": "SORVE COPO",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10009,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 14865298,
+            "codigoProduto": "10010",
+            "descricao": "HEINEKEN CAIXA 12",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10010,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 14865305,
+            "codigoProduto": "10011",
+            "descricao": "HEINEKEN UNIDADE",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10011,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 14977848,
+            "codigoProduto": "10012",
+            "descricao": "teste",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10012,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 15035569,
+            "codigoProduto": "10013",
+            "descricao": "litro",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10013,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 15042393,
+            "codigoProduto": "10014",
+            "descricao": "dose",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10014,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 15043339,
+            "codigoProduto": "10015",
+            "descricao": "garrafa",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10015,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 15043342,
+            "codigoProduto": "10016",
+            "descricao": "dose 50ml",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10016,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 15043886,
+            "codigoProduto": "10017",
+            "descricao": "Vodka 2 Lt",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10017,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 15043901,
+            "codigoProduto": "10018",
+            "descricao": "Dose Vodka",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10018,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 15044063,
+            "codigoProduto": "10019",
+            "descricao": "Dose Domus",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10019,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 15044067,
+            "codigoProduto": "10020",
+            "descricao": "Domus 2 Lt",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10020,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 15140229,
+            "codigoProduto": "10022",
+            "descricao": "Old Par 1L",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10022,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 15140243,
+            "codigoProduto": "10023",
+            "descricao": "Red Bull 350 ml",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10023,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 15140261,
+            "codigoProduto": "10024",
+            "descricao": "Gelos sabor maça",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10024,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 16275121,
+            "codigoProduto": "10026",
+            "descricao": "KIT CHEETOS + REFRI SUKITA",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10026,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 16275663,
+            "codigoProduto": "10027",
+            "descricao": "MENDORATO 24G",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10027,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 16332729,
+            "codigoProduto": "10028",
+            "descricao": "TAXA DE SERVIÇO",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10028,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 16399324,
+            "codigoProduto": "10029",
+            "descricao": "teste de venda",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10029,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 16761637,
+            "codigoProduto": "10030",
+            "descricao": "SERVIÇO TESTE",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10030,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 16859026,
+            "codigoProduto": "10031",
+            "descricao": "DESCER PRODUTO",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10031,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 17278491,
+            "codigoProduto": "10038",
+            "descricao": "SERVIÇO",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10038,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 17759378,
+            "codigoProduto": "10066",
+            "descricao": "CONVERSAO DE TESTE",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10066,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 17911283,
+            "codigoProduto": "10067",
+            "descricao": "balança",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10067,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 17931775,
+            "codigoProduto": "10068",
+            "descricao": "DINDIN GOURMET - 150ML",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10068,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 18584377,
+            "codigoProduto": "10070",
+            "descricao": "Notebook Intel 7 4 gen",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10070,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 18631197,
+            "codigoProduto": "10071",
+            "descricao": "tste",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10071,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 18631971,
+            "codigoProduto": "10072",
+            "descricao": "nuvem",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10072,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 18632052,
+            "codigoProduto": "10073",
+            "descricao": "sa",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10073,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 19088150,
+            "codigoProduto": "20201",
+            "descricao": "teste",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":20201,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 19252392,
+            "codigoProduto": "10074",
+            "descricao": "PRODUTO FINAL",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10074,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 19252395,
+            "codigoProduto": "10075",
+            "descricao": "SUCATA 1",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10075,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 19252409,
+            "codigoProduto": "10076",
+            "descricao": "SUCATA 2",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10076,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        },
+        {
+            "id": 19423634,
+            "codigoProduto": "10077",
+            "descricao": "CHOCOLATE CHARGE 30X40GR NESTLE",
+            "status": 200,
+            "resposta": "{\"aplicacao\":null,\"categoria\":null,\"codigoAlternativo\":null,\"codigoAnterior\":null,\"codigoAnp\":null,\"codigoProduto\":10077,\"codigoFornecedor\":null,\"codigoInterno\":null,\"codigoProdutoBaixa\":null,\"codigoU"
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "ErrorGroup": "PedidoVendas_Estoque_Atualizacao_Falha",
+    "Summary": {
+      "ErrorType": "HTTP 400 - API PedidoVendas/salvar",
+      "Message": "Erro ao atualizar o estoque do produto!",
+      "Occurrences": 15,
+      "FirstOccurrence": "2025-10-10T15:15:40.4520",
+      "LastOccurrence": "2025-10-10T15:16:04.6857",
+      "Impact": "Falha na sincronização de pedidos (envio ao ERP/API Maqplan). Nenhuma venda afetada foi salva com sucesso.",
+      "SuspectedRootCause": [
+        "Inconsistência entre estoque local e remoto (quantidades negativas ou divergentes)",
+        "Campo 'estoque' nulo ou literal 'NULL' enviado no JSON",
+        "Produto com estoque inexistente ou bloqueado no ERP"
+      ]
+    },
+    "RequestDetails": {
+      "Route": "https://api.maqplansoftware.com.br/api/PedidoVendas/salvar",
+      "Method": "POST",
+      "Response": {
+        "statusCode": 400,
+        "name": "Error",
+        "message": "Erro ao atualizar o estoque do produto!"
+      }
+    },
+    "Occurrences": [
+      {
+        "Timestamp": "2025-10-10T15:15:40.4520",
+        "Pedido": "10023",
+        "Hash": "d7805734-73f2-41bf-8d1b-452072ac50df",
+        "Cliente": null,
+        "Itens": [
+          {"idProduto": 13947519, "descricao": "CARB UP BLACK BAUNILHA 30G PROBIOTICA", "estoqueAtual": 8.0, "misc.estoque": "NULL"},
+          {"idProduto": 18853610, "descricao": "LIQUIDZ JABUTICABA 5G", "estoqueAtual": 41.0, "misc.estoque": "NULL"}
+        ],
+        "ValorTotal": 28.50,
+        "Vendedor": "948578",
+        "PDVCaixa": "304560"
+      },
+      {
+        "Timestamp": "2025-10-10T15:15:40.7011",
+        "Pedido": "10008",
+        "Hash": "b1fd4d6c-5537-4c5f-a83c-b8c6a7d39173",
+        "Cliente": null,
+        "Itens": [
+          {"idProduto": 13947356, "descricao": "CEREAL ZERO ACUCAR CHOCOPOPS 200G", "estoqueAtual": 21.0},
+          {"idProduto": 14494145, "descricao": "CORNFLAKES AUSTRALIA", "estoqueAtual": 12.0}
+        ],
+        "ValorTotal": 71.00
+      },
+      {
+        "Timestamp": "2025-10-10T15:15:40.9428",
+        "Pedido": "10025",
+        "Cliente": null,
+        "Itens": [
+          {"idProduto": 13945096, "descricao": "PAÇOCA WHEY DULCE DE LECHE 20G BENDU", "estoqueAtual": 73.0},
+          {"idProduto": 15208231, "descricao": "PROTEIN CRISP BAR OVOMALTINE 45G INTEGRALMEDICA", "estoqueAtual": 49.0}
+        ],
+        "ValorTotal": 14.00
+      },
+      {
+        "Timestamp": "2025-10-10T15:15:46.1668",
+        "Pedido": "10022",
+        "Cliente": 948578,
+        "Itens": [
+          {"idProduto": 15257725, "descricao": "SOFT BAR COOKIES 50G BENDU", "estoqueAtual": 19.0}
+        ],
+        "ValorTotal": 6.93
+      },
+      {
+        "Timestamp": "2025-10-10T15:15:46.3937",
+        "Pedido": "10003",
+        "Cliente": 974316,
+        "Itens": [
+          {"idProduto": 13945318, "descricao": "BRAIN UP READ TO DRINK 269ML TRUE SOURCE", "estoqueAtual": 40.0},
+          {"idProduto": 13945748, "descricao": "TASTY WAFER CHOCOLATE BELGA 50G", "estoqueAtual": -1.0}
+        ],
+        "ValorTotal": 21.93
+      },
+      {
+        "Timestamp": "2025-10-10T15:15:46.6164",
+        "Pedido": "10007",
+        "Itens": [
+          {"idProduto": 17285308, "descricao": "BARRA MORANGO WINSTAGE 54G", "estoqueAtual": 3.0},
+          {"idProduto": 17932903, "descricao": "BARRA CARAMELO E COCO WINSTAGE 54G", "estoqueAtual": 4.0}
+        ],
+        "ValorTotal": 25.00
+      },
+      {
+        "Timestamp": "2025-10-10T15:15:46.8361",
+        "Pedido": "10018",
+        "Cliente": 1147137,
+        "Itens": [
+          {"idProduto": 13947179, "descricao": "GRANOLA AUSTRÁLIA KETO LOW CARB 300G ORIGINAL HARTS", "estoqueAtual": 5.0}
+        ],
+        "ValorTotal": 49.90
+      },
+      {
+        "Timestamp": "2025-10-10T15:15:47.0379",
+        "Pedido": "10026",
+        "Itens": [
+          {"idProduto": 13946356, "descricao": "CREATINA MONOHIDRATADA 300GR REFIL NUTRATA", "estoqueAtual": 32.0}
+        ],
+        "ValorTotal": 89.90
+      },
+      {
+        "Timestamp": "2025-10-10T15:15:57.2933",
+        "Pedido": "10013",
+        "Itens": [
+          {"idProduto": 13947280, "descricao": "PAÇOCA ZERO NATURAL 20G BENDU", "estoqueAtual": -5.0}
+        ],
+        "ValorTotal": 3.60
+      },
+      {
+        "Timestamp": "2025-10-10T15:15:57.8757",
+        "Pedido": "10001",
+        "Itens": [
+          {"idProduto": 16207746, "descricao": "Paçoca Whey Cookie de Chocolate 20g BENDU", "estoqueAtual": 68.0},
+          {"idProduto": 13947281, "descricao": "PAÇOCA WHEY COOKIE 20G BENDU", "estoqueAtual": 63.0}
+        ],
+        "ValorTotal": 4.90
+      },
+      {
+        "Timestamp": "2025-10-10T15:15:58.1607",
+        "Pedido": "10023",
+        "Itens": [
+          {"idProduto": 13945318, "descricao": "BRAIN UP READ TO DRINK 269ML TRUE SOURCE", "estoqueAtual": 40.0}
+        ],
+        "ValorTotal": 9.39
+      },
+      {
+        "Timestamp": "2025-10-10T15:15:58.3706",
+        "Pedido": "10017",
+        "Itens": [
+          {"idProduto": 13945587, "descricao": "BARRINHA DE TAMARA SABOR CARAMELO 35G TRUE SOURCE", "estoqueAtual": 22.0},
+          {"idProduto": 13945149, "descricao": "BARRINHA DE TAMARA SABOR CHOCOLATE MEIO AMARGO 35G TRUE", "estoqueAtual": 9.0}
+        ],
+        "ValorTotal": 72.00
+      },
+      {
+        "Timestamp": "2025-10-10T15:16:04.2345",
+        "Pedido": "10029",
+        "Itens": [
+          {"idProduto": 16587717, "descricao": "SHARK PRO CHEESE CRISPY PROTEIN 50G", "estoqueAtual": 5.0}
+        ],
+        "ValorTotal": 8.10
+      },
+      {
+        "Timestamp": "2025-10-10T15:16:04.6857",
+        "Pedido": "10004",
+        "Itens": [
+          {"idProduto": 13946357, "descricao": "SACHE W100 MORANGO 30G NUTRATA", "estoqueAtual": 10.0}
+        ],
+        "ValorTotal": 10.00
+      }
+    ],
+    "FollowUpErrors": {
+      "SincronizarVendas": [
+        {
+          "Timestamp": "2025-10-10T15:16:04.8279",
+          "Message": "Valor não pode ser nulo. Nome do parâmetro: s",
+          "StackTrace": [
+            "System.IO.StringReader..ctor(String s)",
+            "MS.Helper.XMLHelper.GetObjectByXML[T](String xml)",
+            "PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)",
+            "PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()"
+          ]
+        },
+        {
+          "Timestamp": "2025-10-10T15:16:04.8868",
+          "SameAs": "2025-10-10T15:16:04.8279"
+        }
+      ],
+      "ReceberClientes": {
+        "Timestamp": "2025-10-10T15:18:54.9386",
+        "Error": "Entity Framework SaveChanges concurrency exception",
+        "Message": "Store update, insert, or delete statement affected an unexpected number of rows (0).",
+        "Suggestion": "Verificar chaves estrangeiras e integridade entre entidades Cliente e Endereco"
+      }
+    },
+    "Recommendation": {
+      "Check": [
+        "Campos 'estoque' e 'misc.estoque' enviados como literal 'NULL'",
+        "Produtos com estoque negativo no ERP",
+        "Regras de bloqueio de baixa automática de estoque na API Maqplan"
+      ],
+      "Fix": [
+        "Garantir que o campo estoque seja numérico (>=0)",
+        "Sincronizar estoque antes de reenviar pedidos pendentes",
+        "Implementar reprocessamento automático de vendas com falha"
+      ]
+    }
+  }
+  

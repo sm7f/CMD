@@ -17,7 +17,7 @@ $DBNAME="PoliSystemServerSQLDB"; if ((sqlcmd -S . -U sa -P PoliSystemsapwd -h -1
 Enable-WindowsOptionalFeature -Online -FeatureName NetFx3,NetFx4-AdvSrvs,NetFx4Extended-ASPNET45,WCF-HTTP-Activation45,WCF-NonHTTP-Activation,WCF-MSMQ-Activation45,WCF-TCP-Activation45,WCF-Pipe-Activation45 -all
 
 "Zera Licença"
-sqlcmd -S . -Q "USE PoliSystemServerSQLDB; UPDATE CONFIG_GERAL_SYS SET NrSerieLicenca = '-1', BloqLicenca = '-1';"
+cmd /k sqlcmd -S . -E -d PoliSystemServerSQLDB -Q "UPDATE CONFIG_GERAL_SYS SET NrSerieLicenca='-1', BloqLicenca='-1'" & echo. & echo ✅ Comando Executado com Sucesso xD & pause
 
 "Integrador Vendas"
 sqlcmd -S . -Q "USE PoliSystemServerSQLDB; update venda set statusexportacao = 1;"
