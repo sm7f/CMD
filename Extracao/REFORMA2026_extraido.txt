@@ -1,0 +1,1704 @@
+
+
+--- Página 1 ---
+Sg
+
+SAC FISCAL
+A a LR Of dai a
+
+BUTÁRIA
+
+ÃO
+
+|
+
+|
+OS
+NO)
+z 7
+<<
+PD
+E,
+)
+
+INFORMAÇÕES E ORIENTAÇÕES
+PARA SUA EMPRESA DE SOFTWARE
+
+MARCO POLO VIANA
+
+SACFiscal & Automação
+
+
+
+--- Página 2 ---
+MARCO POLO VIANA
+
+REFORMA TRIBUTÁRIA PARA
+
+SOFTWARE HOUSE
+INFORMAÇÕES E ORIENTAÇÕES
+
+Wwww.sacfiscal.com.br
+Rio Grande do Sul, 2025
+
+Tech Speaker
+
+TAX DEVELOPER | COMPLIANCE EVANGELIST
+À
+
+
+
+--- Página 3 ---
+Sumário
+
+1. Introdução
+
+2. Revisando Arquitetura Fiscal em Software
+
+3. Compreendendo a CBS......................... ec rr rrerererermememerererereresesesesesesecnenenenememememesesesesesesesases 17
+4. Compreendendo 0 IBS...................cecemeresereeeresereceeneneerererererererereereneneneacereraserrerereenenenenenenene 21
+5. Compreendendo IS. o
+
+6. Compreendendo a LC 214/2025. 6
+7. O Simples Nacional na Reforma Tributár
+
+8. Como funciona a apuração do IBS e da CBS? (art. 45 LC 214/2025)............................. 31
+
+9. Regras de Incidência (art. 45 LC 214/2025)
+10. Quando o imposto passa a ser devido (Fato Gerador)
+
+11.
+
+Este material contém o apoio de nosso parceiro
+em soluções fiscais Grupo iMendes.
+
+mendes
+
+INOVAÇÃO TRIBUTÁRIA
+
+
+
+--- Página 4 ---
+1. Introdução
+
+A Reforma Tributária no Brasil, promulgada em 20 de dezembro de 2023, marca
+uma mudança significativa no sistema tributário do país. Inspirada no modelo de
+Imposto sobre Valor Agregado (IVA) adotado por mais de 170 países, a reforma visa
+simplificar a tributação, reduzir os litígios fiscais e os custos para as empresas, além
+de acabar com a chamada guerra fiscal.
+
+Entre as principais mudanças, destaca-se a substituição de diversos tributos
+como ICMS, ISS, IPI, PIS/Pasep e Cofins por novos impostos:
+
+* Contribuição sobre Bens e Serviços (CBS)
+* Imposto sobre Bens e Serviços (IBS)
+* Imposto Seletivo (IS)
+
+Além disso, a reforma também traz novas regras para a tributação sobre a
+propriedade, afetando impostos como IPTU, IPVA e ITCMD, e introduz uma nova
+contribuição estadual para custeio de sistemas de segurança e preservação de
+espaços públicos.
+
+Essa reforma promete simplificar o complexo cenário tributário brasileiro,
+conhecido como “manicômio tributário, aplicando o princípio do destino, onde a
+arrecadação é direcionada ao estado ou município do adquirente do bem ou serviço.
+
+Para compreendermos melhor os conceitos que envolvem a reforma tributária,
+assim como os impactos no ecossistema das software houses de automação
+comercial/fiscal e ERP. (Enterprise Resource Planning), precisamos relembrar nosso
+atual sistema tributário, o qual lidamos diariamente junto aos nossos clientes de
+software, seja na recepção, emissão, análise ou escrituração dos documentos fiscais
+assim como informatizando as diversas operações nos seus estabelecimentos.
+
+O artigo 5º do CTN (Código Tributário Nacional) classifica os tributos como:
+
+* Impostos
+* Taxas
+* Contribuições de melhoria.
+
+Nas imagens a seguir temos as competências distribuídas de cada tributo:
+
+
+
+--- Página 5 ---
+Competência Federal
+
+Competência Estadual
+
+Competência Municipal
+
+1.1. - Imposto de Importação
+
+.E. - Imposto de Exportação
+
+1.P.1. - Imposto sobre Produtos Industrializados
+
+LO.F. - Imposto sobre Operações Financeiras
+
+> 1RP)- Imposto de Renda Pessoa jurídica
+
+L.R.P.F - Imposto de Renda Pessoa Física
+
+LT.R. - Imposto sobre Propriedade Territorial Rural
+
+COFINS - Contribuição para o Financiamento da Seguridade Social
+CIDE - Contribuição de Intervenção no Domínio Econômico
+
+= CSLL «Contribuição Social sobre o Lucro Líquido
+
+INSS - Instituto Nacional da Seguridade Nacional
+
+FGTS - Fundo de Garantia do Tempo de Serviço
+
+PIS - Contribuição para o Programa de Integração Social
+
+PASEP - Programa de Formação do Patrimônio do Servidor Público
+
+ICMS - Imposto sobre Circulação de Mercadorias e Serviços
+ITCMD - Imposto sobre Transmissão Causa Mortis e Doação
+
+IPVA - Imposto sobre a Propriedade de Veículos Automotores
+
+ITBI - Imposto sobre Transmissão de Bens Inter Vivos
+
+ISS - Imposto sobre Serviços
+
+IPTU - Imposto sobre a Propriedade Predial e Territorial Urbana
+
+Figura 1 - Competências dos Tributos
+
+
+
+--- Página 6 ---
+Os economistas dizem que o sistema de impostos no Brasil foi criado de forma
+injusta, onde quem tem menos acaba pagando mais em relação à sua renda. Por isso, a
+Reforma Tributária foi debatida por tantos anos.
+
+Com a aprovação dessa reforma, o principal objetivo é padronizar a cobrança de
+impostos em todo o país e simplificar as obrigações acessórias. Isso significa passar pelo
+processo de criar as leis, submeter à aprovação e em seguida gerar os desdobramentos
+técnicos e operacionais.
+
+Abaixo temos a linha do tempo das etapas e aprovação da PEC da Reforma Tributária
+em 2023:
+
+Figura 2 - Linha do tempo de aprovação da Reforma Tributária em 2023
+
+Com a aprovação temos agora a substituição do PIS, COFINS, ICMS e ISS por 2 tributos,
+o IBS (Imposto sobre Bens e Serviços) e a CBS (Contribuição sobre Bens e Serviços) que
+incidem sobre o Valor Agregado (IVA), além da criação do Imposto Seletivo (IS).
+
+
+
+--- Página 7 ---
+PIS —.
+
+COFINS
+—| IVA DUAL
+
+ICMS —
+a
+
+Iss
+
+Figura 3 — Comparativo entre antes e depois da reforma com os principais tributos
+
+Acima podemos ver na imagem como ficaram o antes e o depois da Reforma
+Tributária, a migração dos principais tributos destacados. Como principais pontos do texto
+aprovado da Reforma Tributária temos os seguintes destaques:
+
+PONY GUTO UN
+
+= Unificação de « Período de » Período de
+
+tributos º transição: º transição: º
+e criação do IVA ) 2026 a 2032 ) 2026 a 2032 )
+
+= Cesta Básicae O rúbutos reduzidos
+Cashback io q Imposto Seletivo jo | em Setores º
+« Peneficiados )
+Wi.) — — — —
+aa | "9 "9
+« Profissionais
+
+Liberais e alíquotas jo q Split Payment
+
+O] Regimes Especiais
+
+——) Cn)
+
+
+
+--- Página 8 ---
+A seguir veremos no detalhe o que significa e como funciona O CBS, IBS, IVA
+Dual, IS assim como exemplos de sua aplicação e impactos previstos nas operações da
+indústria, comércio e serviço.
+
+Também veremos demais conceitos que surgiram oriundos da reforma
+tributária como o Split Payment e como ele provavelmente deverá ser gerido diretamente
+nos softwares de automação comercial/fiscal e ERP.
+
+
+
+--- Página 9 ---
+2. Revisando a Arquitetura Fiscal em Software
+Para melhor compreender as alterações que vêm sendo demandadas pela
+
+Reforma Tributária, vamos revisar os principais conceitos da ARQUITETURA FISCAL EM
+SOFTWARE.
+
+INDIVIDUAL
+
+E
+
+E
+a
+[7]
+fo)
+a
+z
+[s)
+(3)
+
+SIMPLES NACIONAL
+
+TRIBUTAÇÃO
+
+Figura 4 — Quadro Composição Societária x Regimes de Tributação
+
+Na imagem acima aprendemos a como olhar para uma empresa,
+simultaneamente pela composição societária e pelo regime de tributação. Olhando
+para a composição societária temos 2 grupos: Empresas Individuais (1 único dono) e
+as Sociedades (mais de 1 proprietário).
+
+Nas empresas individuais temos o MEI (Microempreendedor Individual), a El
+(Empresa Individual) e a extinta EIRELI agora SLU (Sociedade Limitada Unipessoal). No
+MEI e na El as responsabilidades em geral do CNPJ se fundem ao CPF do dono. Na SLU
+(antes EIRELI) temos essa responsabilidade separada. Nas empresas com mais de
+um proprietário temos a LTDA (Sociedade Limitada) e a SA (Sociedade Anônima). Na
+sociedade limitada os sócios são definidos e suas responsabilidades são limitadas a
+sua quota de participação na empresa. Na sociedade anônima temos acionistas que
+possuem um “tijolinho” da empresa em formato de ações, podendo esse número de
+acionistas ser na casa de milhares de pessoas.
+
+Cruzando a composição societária com o regime de tributação temos as
+seguintes situações:
+
+* O MEI só pode ser enquadrado no Simples Nacional
+
+
+
+--- Página 10 ---
+e El SLUe LTDA podem ser enquadrados no Simples Nacional ou Regime
+Normal (Lucro Presumido ou Lucro Real)
+
+* AS/A só pode ser enquadrada no Regime Normal (Lucro Presumido em
+alguns casos)
+
+Na emissão de documentos fiscais, temos o CRT (Código de Regime de
+Tributação), que a partir de setembro de 2024 ganha mais um item ficando da
+seguinte forma:
+
+1- Simples Naiconal
+
+2 - Simples Nacional com Excesso de Receita Bruta
+
+3 — Regime Normal
+
+4-MEI
+
+Outro conceito importantíssimo de revisar é que o emitente do Simples
+Nacional não destaca tributo próprio no documento (ICMS, IPI, PIS, COFINS), pois
+estes tributos são agrupados e pagos em uma única guia chamada DAS (Documento
+de Arrecadação do Simples Nacional).
+
+2.1 | Principais Tributos nos Documentos Fiscais (NF-e/NFC-e/SAT)
+
+ICMS - Imposto sobre circulação de mercadorias. Possui competência
+ESTADUAL. O Estado pode alterar sua base de cálculo (reduzindo ou aumentando)
+assim como DIFERIR (postergar a obrigação) sobre o valor do ICMS. Sua composição:
+
+* Base de Cálculo
+* Alíquota
+o Interna
+
+o Interestadual
+e Valor ICMS Próprio
+
+
+
+--- Página 11 ---
+CsT
+
+modBc
+
+<ICMS>
+E nguçãa <ICMS00>
+
+[icmasoo E Fes =| aura (val <orig>0</orig>
+ope + ER <CST>00</CST>
+<modBC>3</modBC>
+<vBC>100.00</vBC>
+Hfpicms | <pICMS>18.00</pICMS>
+
+: <vICMS>18.80</vICHS>
+vens </ICHS00>
+; . </ICHS>
+
+vBC
+
+[ pFCP
+
+Fyrce
+
+ICMS-ST Substituição Tributária — Aqui o ICMS da CADEIA (indústria > atacado
+
+3 varejo > consumidor) é destacado e pago antecipadamente. O substituto
+tributário é quem antecipa o ICMS-ST e o substituído tributário é quem teve seu ICMS
+antecipado. Sua composição:
+
+* Base de Cálculo
+
+e Alíquota ST (alíquota interna na UF de destino)
+
+e MVA ou IVA (Margem de Valor Agregado ou Índice de Valor Agregado)
+
+* ValorICMS-ST
+
+IPI — Imposto sobre Produtos Industrializados. Possui competência FEDERAL.
+Aplicado aos produtos MANUFATURADOS ou equiparados (importados diretamente).
+sua composição:
+
+* Base de Cálculo
+* Alíquota
+* ValoriPI
+
+
+
+--- Página 12 ---
+<IPI>
+<cEng>999</cEng>
+<IPITrib>
+<CST>59</CST>
+<vBC>1000.00</vBC>
+<pIPI>7.00</pIPI>
+<vIPI>70.00</vIPI>
+ES </IPITrib>
+</IPI>
+
+tPrTrib E
+IPINT E
+
+PIS - Programa de Integração Social. COFINS - Contribuição para
+Financiamento da Seguridade Social. Possuem competência FEDERAL. Incidem sobre
+a COMERCIALIZAÇÃO de mercadorias e serviços. Algumas mercadorias estão sujeitas
+ao regime monofásico, em que o tributo é cobrado apenas na indústria. Suas
+composições são:
+
+* Base de Cálculo
+* Alíquota
+e Valor PIS/COFINS
+
+<PIS>
+<PISAlig>
+i <CST>014/CST>
+
+pm E PF <vBC>106. B0</vBC>
+TDég tê. [OE <pPIS>0.65</pPIS>
+E <vPIS>0.65</vPIS>
+
+Tec, 03.. [0/04/0-9].. | «/PISAliq>
+
+- </PIS>
+
+| TDec; 13... [0/0110-9]
+
+
+
+--- Página 13 ---
+2.2 Componentes classificadores de tributos e operações nos documentos fiscais
+
+CRT - Código de Regime de Tributação. Conforme mencionado anteriormente,
+o CRT indica no documento fiscal como o emitente destacará ou não os tributos nos
+documentos fiscais. Relembramos que emitentes do Simples Nacional não
+destacam tributos próprios nos documentos fiscais.
+
+CFOP — Código Fiscal de Operações e Prestações. O CFOP não define a
+tributação no documento fiscal, e sim a qualificação e geografia da operação.
+
+Exemplo:
+Entrada Saída
+2 — Entrada dentro do Estado 5.102 - Saída dentro do Estado
+2102 — Entrada de fora do Estado 6.102 - Saída para outro Estado
+
+Observando a tabela de CFOP s acima concluímos que:
+* Aoperação 102 é a mesma em todos os casos
+* CFOP iniciado em 1,2e 3 define a operação de entrada
+* CFOP iniciado em 5,6 e 7 define a operação de saída
+* CFOPiniciado eme 5 se trata de operações dentro do Estado
+* CFOP iniciado em 2e 6 se trata de operações interestaduais
+* CFOP iniciado em 3 e 7 se trata de operações internacionais
+
+CsST — Código de Situação Tributária. Este é o elemento no documento fiscal
+que define a tributação, ou seja, como aquela operação deverá ser
+tributada/calculada. Na Arquitetura Fiscal em Software dizemos que o CST é o
+algoritmo da tributação, pois a forma de calcular cada tributo depende de qual CST
+será usado para aplicar. Cada tributo no documento fiscal possui seus respectivos
+csTs.
+
+CSOSN — Código da Situação Tributária no Simples Nacional. No caso do ICMS,
+para distinguir as situações tributárias entre regime normal e simples nacional,
+adotou-se a lista de CSOSN para indicar como o emitente do simples nacional
+efetuará sua tributação de ICMS no documento fiscal e dentro do simples nacional.
+
+Na Arquitetura Fiscal em Software, quando falamos em CST/CSOSN mostramos
+que eles podem e devem ser analisados sempre em grupos de similaridade, por ser
+
+
+
+--- Página 14 ---
+mais fácil a compreensão pelo desenvolvedor. Esse agrupamento segue a
+similaridade de cálculo (algoritmo):
+
+ICMS
+CSTs com base de cálculo + alíquota + valor do ICMS:
+
+00 — Tributada Integralmente no ICMS próprio
+20 — Tributada com ICMS próprio e com redução de base de cálculo
+51 - Diferimento parcial ou total do ICMS próprio
+
+CSTs com cálculo de substituição tributária
+
+10 — Tributada pelo ICMS próprio e com cobrança de ICMS por ST
+
+30 - Isenta ou não tributada pelo ICMS próprio e com cobrança de ICMS por ST
+70 — Tributada pelo ICMS próprio com redução de base e com cobrança de
+ICMS por ST
+
+CSTs sem cálculo de ICMS
+
+40 — Isenta
+
+41 — Não tributada
+
+50 - Suspensão
+
+60 — ICMS cobrado anteriormente por ST CST aberto
+
+CSOSN tributado pelo simples nacional
+
+101 — Tributada pelo SN com permissão de crédito
+102 — Tributada pelo SN sem permissão de crédito
+103 - Isenção do ICMS no Simples Nacional para faixa de receita bruta
+
+CSOSN com substituição tributária
+
+201 - Tributada pelo Simples Nacional com permissão de crédito e com ICMS
+ST
+
+202 - Tributada pelo Simples Nacional sem permissão de crédito e com ICMS
+ST
+
+203 - Isenção do ICMS no Simples Nacional para faixa de receita bruta e com
+ICMS ST
+
+
+
+--- Página 15 ---
+CSOSN sem cálculo dentro do simples nacional
+
+300 — Imune
+
+400 - Não tributada pelo Simples Nacional
+
+500 - ICMS cobrado anteriormente por ICM ST ou por antecipação
+
+CSOSN aberto
+900 - Outros.
+
+CST com base de cálculo + alíquota + valor do IPI (ad valorem):
+
+e 50 - Saída Tributada
+CST com alíquota específica por unidade:
+
+e 50 - Saída Tributada
+
+PIS e COFINS
+CST com base de cálculo + alíquota + valor do IPI (ad valorem):
+
+01 - Operação Tributável com alíquota básica
+02 - Operação Tributável com alíquota diferenciada
+
+CST com alíquota específica por unidade:
+
+03 — Saída Tributada
+
+Para completar nossa revisão de Arquitetura Fiscal em Software, precisamos
+lembrar sobre alguns tratamentos especiais das regras fiscais nas operações como:
+
+* ICMS Desonerado + Código de Benefícios Fiscais
+e MVA Ajustado
+
+e Difal Contribuinte e Não-Contribuinte
+
+e ICMS Efetivo
+
+e Fundo de Combate à Pobreza (FCP ou FECP)
+
+e Entre outros
+
+
+
+--- Página 16 ---
+2.3 Saiba mais sobre a ARQUITETURA FISCAL EM SOFTWARE
+
+A Arquitetura Fiscal em Software foi criada para que a Software House faça de
+forma direta e assertiva a adequação fiscal de seu software de automação ou ERP.
+Ela é baseada em 3 pilares:
+
+—.—. —. —— e — o — O —
+Regras Fiscais e Tributação: De forma clara e direta ao ponto, |
+mostramos os conceitos fiscais e suas aplicações no software.
+
+e — e — e —— | o— 1 me)
+
+( prática de Cálculos com Planilha: Apresentamos na prática de N
+() * tributos em planilha como implementar os cálculos de cada tributo
+nos documentos fiscais. |
+
+e— + — + — O — | — O — O —— O — O — *
+( modelagem de Dados: Criamos o modelo de dados que permite N
+
+o * absorver as regras fiscais no ERP/Automação deixando o software
+mais flexível quanto às regras. |
+
+. .
+
+Para adequar fiscalmente seu software de automação/ERP e estar preparado
+para as mudanças junto à reforma tributária, acesse
+https://sun.eduzz.com/970780?cupom=EBOOKRT.
+
+
+
+--- Página 17 ---
+3. Compreendendo a CBS - Contribuição Sobre Bens e Serviços
+
+Durante as discussões sobre a reforma tributária, surgiram novas siglas que
+podem gerar dúvidas. Uma delas é a CBS, que significa Contribuição sobre Bens e
+Serviços. Vamos explicar de forma simples o que é a CBS e como ela vai funcionar
+para que você entenda melhor esse novo imposto.
+
+A CBS foi criada com a reforma tributária para substituir os impostos federais
+PIS e Cofins.
+
+Com a reforma, as alíquotas padrão do PIS e Cofins, usadas em empresas que
+seguem os regimes de Lucro Presumido e Lucro Real, serão eliminadas. A CBS vai
+unificar esses tributos em uma única alíquota, ou seja, uma única taxa aplicada
+
+Efe) o) 6X: ERG la le [+ EMEssa nova alíquota fará parte do cálculo do Valor Agregado (IVA
+
+que é a soma da CBS com o IBS, simplificando a tributação.
+
+* Objetivo: Visa unificar dois tributos federais, o PIS (Programa de Integração Social) e
+a COFINS (Contribuição para o Financiamento da Seguridade Social), em uma única
+contribuição.
+
+e Características: Prevê uma alíquota única de PIS e COFINS, bem como, uma base de
+cálculo simplificada. A ideia é simplificar a cobrança, reduzir disputas judiciais e
+aumentar a transparência.
+
+31 Como a CBS será calculada?
+
+A CBS (Contribuição sobre Bens e Serviços) será calculada seguindo o modelo
+do IVA, que é o Imposto sobre Valor Agregado. O IVA é um tipo de imposto comum
+em muitos países, especialmente na Europa, e funciona de forma diferente dos
+impostos tradicionais.
+
+O IVA é um imposto que incide sobre a venda de bens e a prestação de
+serviços. Ele é considerado um imposto indireto porque, embora seja pago pelo
+consumidor final, é recolhido e repassado ao governo pelas empresas que vendem
+os produtos ou prestam os serviços.
+
+O Imposto sobre Valor Agregado (IVA) representa um modelo tributário
+abrangente que incorpora tributos em níveis federal, estadual e municipal. Dentro
+deste modelo, o IVA se divide em duas categorias principais: o Imposto sobre Bens e
+Serviços (IBS) e a Contribuição sobre Bens e Serviços (CBS).
+
+Como funciona o cálculo do IVA?
+
+O IVA é calculado sobre o valor “agregado” a um produto ou serviço em cada
+etapa de produção e venda. Diferente de um imposto comum que é aplicado sobre
+
+
+
+--- Página 18 ---
+o preço total em cada venda, o IVA é aplicado somente sobre o valor que foi
+adicionado em cada fase da produção e comercialização.
+
+Exemplo Simples:
+
+* Se uma empresa compra materiais para produzir um produto, ela paga imposto
+apenas sobre o valor que ela adicionou ao transformar esses materiais em um
+produto final.
+
+* Quando esse produto é vendido para o consumidor, o imposto é calculado apenas
+sobre o valor que foi agregado na etapa final de venda.
+
+Não Cumulatividade: Uma característica importante do IVA é que ele evita a
+“pitributação”. Isso quer dizer que, em cada etapa, a empresa paga imposto apenas
+sobre o valor que ela realmente adicionou ao produto ou serviço, descontando o que já
+foi pago nas etapas anteriores. Dessa forma, o imposto é aplicado apenas sobre o valor
+agregado em cada etapa, evitando que o mesmo valor seja tributado várias vezes.
+
+Exemplo de cálculo da CBS:
+
+1. Produtor primário fornece matéria- | = a indústria paga ao produtor R$180,00
+prima para a indústria por R$150,00 | (R$ 150,00 + R$ 30,00 de IVA)
+com um IVA de 20%. CBS = R$30,00
+
+2. Aindústria vende o produto acabado | = o IVA devido será:
+ao varejista por R$ 250,00 com um | R$50,00 (20% de 250,00) - R$30,00 (IVA
+IVA de 20% pago na entrada) = CBS R$ 20,00
+
+3. O varejista revende o produto ao | = o IVA devido será:
+consumidor final por R$ 350,00 com | R$70,00(20% de 350,00) — R$50,00(IVA
+IVA de 20% pago na entrada) = CBS R$20,00
+
+Resumo: No total, o governo coleta R$ 70,00 de IVA (R$ 30,00 + R$ 20,00 + R$ 20,00) na
+cadeia inteira de produção e venda.
+
+Olhando toda a cadeia como esteira, em que cada etapa da cadeia é cobrada sobre
+o valor agregado ao serviço/produto, o cálculo seria da seguinte forma:
+
+Valor de venda — valor de compra = valor agregado
+VV-VC=VA
+
+Exemplo: um consumidor que adquire um tênis pelo valor de R$100. Tendo um IVA de
+25%, o valor total do imposto do produto seria de R$ 25,00. 100,00 — 75,00 = R$ 25,00
+
+
+
+--- Página 19 ---
+Mais um exemplo:
+
+Imagine uma fábrica de calçados que faz solados e os vende para um ateliê por R$
+9,00 por metro. A fábrica paga 10% de imposto sobre esse valor, ou seja:
+
+CBS=R$0,90.
+
+O ateliê pega esses solados, faz sapatos, e vende o sapato pronto para uma loja por
+R$ 20,00. Agora, precisamos calcular o imposto que o ateliê vai pagar, o CBS. Esse
+imposto é calculado apenas sobre o valor que o ateliê adicionou ao produto.
+
+O ateliê comprou os solados por R$ 9,00 e vendeu o sapato por R$ 20,00. O valor que
+ele adicionou foi:
+
+* R$20,00 (preço de venda) - R$ 9,00 (preço de compra) = R$ 1,00
+
+Como o imposto é de 10%, o CBS que o ateliê paga é:
+
+* 10% de R$11,00 = R$ 1,10
+
+Depois, a loja de departamentos vende os sapatos ao cliente final por R$ 40,00.
+Vamos fazer o mesmo cálculo para a loja.
+
+A loja comprou os sapatos por R$ 20,00 e vendeu por R$ 40,00. O valor que ela
+adicionou foi:
+
+* R$40,00 (preço de venda) - R$ 20,00 (preço de compra) = R$ 20,00
+
+Então, o CBS que a loja paga é:
+
+* 10% de R$ 20,00 = R$ 2,00
+
+No final das contas, o consumidor final que compra o sapato por R$ 40,00 paga,
+indiretamente, R$ 4,00 de imposto, que é a soma dos valores pagos em cada etapa:
+
+e R$0,90 (fábrica) + R$ 110 (ateliê) + R$ 2,00 (loja) = CBS R$ 4,00
+
+Essa forma de calcular evita que o imposto seja cobrado mais de uma vez sobre
+o mesmo valor, ou seja, evita a "bitributação”. O CBS é calculado apenas sobre o valor
+
+que é adicionado em cada etapa da produção e venda.
+
+
+
+--- Página 20 ---
+Quando a CBS entra em vigor?
+
+O CBS começa a entrar em vigor em 2026, e haverá um período de transição que
+durará até 2033, quando PIS/Cofins serão extintos. A alíquota inicial, prevista e ainda
+amplamente debatida, será de 0,9% e vai chegar ao valor definitivo de forma gradual.
+
+A seguir você pode conferir uma linha do tempo de como ocorrerá o período de
+transição da Reforma Tributária.
+
+2027
+I I I I
+
+Início da 1 Redução Extinção
+cobrança | PlISeda da | do ICMS e
+| COFINS cobrança | ISSe IVA
+do ICMS e
+
+
+
+--- Página 21 ---
+4. Compreendendo o IBS - Imposto Sobre Bens e Serviços
+
+Com a implementação da Reforma Tributária, o Brasil está passando por uma
+grande mudança na forma como os impostos são administrados, com a criação do
+Imposto sobre Bens e Serviços (IBS). Esse novo imposto, baseado no modelo do
+Imposto sobre Valor Agregado (IVA) adotado em muitos países, visa simplificar o
+sistema tributário brasileiro ao consolidar diversos tributos em um único.
+
+A seguir vamos explicar detalhadamente o IBS, abordando como ele funciona,
+seus objetivos, os impactos esperados, e como as empresas podem se preparar para
+essa mudança significativa. Vamos esclarecer os principais pontos para que você
+entenda melhor o papel desse novo imposto na modernização do sistema tributário
+brasileiro.
+
+Na sua essência, o IBS é um imposto do tipo IVA (Imposto sobre o Valor
+Adicionado) que incidirá sobre toda a atividade econômica, tendo, via de
+consequência, uma base ampla que alcance todos os bens e serviços e gerido por
+um Comitê formado pelos Estados, Distrito Federal e Municípios.
+
+A introdução do IBS trará mudanças importantes tanto para as empresas
+quanto para os consumidores, impactando desde os custos até os preços finais dos
+produtos e serviços. Embora a transição exija ajustes, ela promete trazer mais
+previsibilidade e diminuir o número de obrigações burocráticas.
+
+O IBS irá substituir os tributos estaduais e municipais, Imposto sobre a
+Circulação de Mercadorias (ICMS) e o Imposto Sobre Serviços (ISS). Um Conselho
+Federativo será responsável pela fiscalização do IBS. Esta entidade contará com
+autonomia técnica, financeira e administrativa, sendo formada por representantes
+das secretarias de Fazenda dos Estados e dos municípios.
+
+4.2 ComooIBS será calculado?
+
+O IBS (Imposto sobre Bens e Serviços) também será calculada seguindo o
+modelo do IVA, que é o Imposto sobre Valor Agregado. Além disso, o IBS caracteriza-
+se pela sua não cumulatividade e por permitir a compensação de créditos
+tributários. Isso significa que o imposto pago em etapas anteriores da cadeia
+produtiva pode ser abatido, evitando a tributação sobre tributação.
+
+Exemplo de cálculo do IBS:
+
+1. Produtor primário fornece matéria- | = a indústria paga ao produtor R$165,00
+prima para a indústria por R$150,00 | (R$ 150,00 + R$ 15,00 de IVA)
+com um IVA de 10%. IBS = R$15,00
+
+
+
+--- Página 22 ---
+2. Aindústria vende o produto acabado | = o IVA devido será:
+ao varejista por R$ 300,00 com um | R$30,00 (10% de 300,00) — R$15,00 (IVA
+IVA de 10% pago na entrada) = IBS R$ 15,00
+3. O varejista revende o produto ao | = o IVA devido será:
+consumidor final por R$ 500,00 com | R$50,00(10% de 500,00) - R$30,00(IVA pago
+IVA de 10% na entrada) = IBS R$20,00
+
+Resumo: No total, o governo coleta R$ 50,00 de IVA (R$ 15,00 + R$ 15,00 + R$ 20,00) na cadeia
+inteira de produção e venda.
+
+Quando o IBS entra em vigor?
+
+O IBS começa a entrar em vigor em 2026, e haverá um período de transição que
+durará até 2033, quando PIS/COFINS serão extintos. A alíquota inicial, prevista e ainda
+amplamente debatida, será de 0,01% e vai chegar ao valor definitivo de forma gradual.
+
+A seguir você pode conferir uma linha do tempo de como ocorrerá o período de
+transição da Reforma Tributária.
+
+1 Início da
+cobrança PIS e da do ICMS e
+do IBS cobrança ISSe IVA
+do ICMS e
+
+
+
+--- Página 23 ---
+5. Compreendendo o IS - Imposto Seletivo (Imposto do Pecado)
+
+O Imposto Seletivo (IS), também chamado de “Imposto do Pecado”, faz parte
+da nova Reforma Tributária no Brasil e tem como objetivo desestimular o consumo
+de produtos que fazem mal à saúde, como cigarros e bebidas alcoólicas, ou que
+prejudicam o meio ambiente, como veículos poluentes. Aqui, vamos explicar de
+maneira simples o que é, como vai funcionar e quais produtos serão afetados por
+esse novo tributo.
+
+O que é o Imposto Seletivo?
+
+O Imposto Seletivo é um tributo que será aplicado a produtos considerados
+prejudiciais à saúde ou ao meio ambiente. Ele será integrado a um novo modelo de
+impostos que vem para substituir tributos já conhecidos, como o PIS, COFINS, ICMS e
+ISS. Esse novo modelo será dividido em duas partes: o CBS (Contribuição sobre Bens
+e Serviços), para o nível federal, e o IBS (Imposto sobre Bens e Serviços), para o nível
+estadual e municipal.
+
+Como vai funcionar o Imposto Seletivo?
+
+O Imposto Seletivo será cobrado apenas uma vez durante a comercialização
+dos produtos e não permitirá que as empresas utilizem créditos tributários de outras
+operações, como acontece hoje com IPI. A administração do tributo ficará por conta
+da Receita Federal, e a arrecadação será destinada, em grande parte, para estados
+e municípios.
+
+O imposto incidirá sobre produtos como cigarros, bebidas alcoólicas,
+pesticidas e veículos poluentes. Haverá isenção para exportações (exceto para
+produtos como petróleo e energia elétrica) e reduções específicas para certas
+categorias, como o transporte público coletivo.
+
+Quais produtos pagarão o Imposto Seletivo?
+Inicialmente, o governo pretende aplicar o IS a produtos como:
+* Cigarros e outros produtos fumígenos
+* Bebidas alcoólicas
+* Bebidas com alto teor de açúcar
+e Pesticidas
+e Produtos que causam danos ao meio ambiente
+
+* Veículos poluentes (inclusive elétricos)
+
+
+--- Página 24 ---
+Detalhamento por Categoria
+
+1. Veículos Poluentes: O imposto será mais alto para veículos que poluem mais. A
+alíquota pode variar dependendo de atributos como potência do motor, emissão
+de carbono e eficiência energética.
+
+2. Cigarros e produtos fumígenos: Cigarros e similares terão uma carga tributária
+elevada para reduzir o consumo, pois está comprovado que fazem mal à saúde.
+
+3. Bebidas Alcoólicas: O tributo será cobrado com base na quantidade de álcool
+presente na bebida. Isso significa que quanto mais alcoólica a bebida, maior será
+a alíquota.
+
+4. Bebidas açucaradas: Bebidas como refrigerantes e sucos industrializados serão
+tributadas para combater problemas como obesidade e diabetes.
+
+5. Produtos minerais extraídos: Minerais como ferro, petróleo e gás natural também
+entrarão na lista. Mesmo que o produto seja destinado à exportação, ele será
+tributado na primeira comercialização.
+
+Qual será a alíquota do Imposto Seletivo?
+
+A alíquota padrão do Imposto Seletivo (IS) deve ficar entre 25% e 24,5%. Este
+valor é a média esperada pelos deputados para 2033. As alíquotas do IS também
+variam bastante, dependendo do produto. Veja alguns exemplos:
+
+* Cigarros: 250%
+
+* Bebidas Alcoólicas: Entre 46% e 62%
+
+* Refrigerantes: 32%
+
+« Petróleo, Gás Natural e Minério de Ferro: 0,25%
+
+* Veículos elétricos: Carga pode subir de 30% para até 34%
+
+Essas alíquotas são projetadas para reduzir o consumo de produtos
+considerados prejudiciais e para gerar uma receita extra, que será usada para
+compensar a redução de outros impostos.
+
+O Imposto Seletivo incide sobre combustíveis?
+
+Ainda há discussões em andamento sobre a aplicação do IS em combustíveis.
+A princípio, o tributo não será aplicado diretamente em combustíveis. Em vez disso,
+eles serão tributados pelo IBS e pela CBS, e não pelo IS. O governo estuda aplicar
+alíquotas diferenciadas para combustíveis fósseis e biocombustíveis.
+
+
+--- Página 25 ---
+O que é o princípio da seletividade?
+
+O princípio da seletividade estabelece que produtos menos essenciais devem
+ser mais tributados, enquanto os essenciais devem ter uma carga menor. Isso
+significa que quem consome produtos considerados supérfluos (como cigarros ou
+bebidas alcoólicas) vai pagar mais imposto do que quem consome produtos
+essenciais.
+
+O Imposto Seletivo é parte de uma reestruturação maior do sistema tributário
+brasileiro e vem para desincentivar o consumo de produtos nocivos. Com ele, o
+governo busca promover um consumo mais consciente e sustentável, enquanto gera
+uma arrecadação adicional que será revertida para reduzir alíquotas de outros
+tributos e equilibrar o sistema como um todo.
+
+Quando o Imposto Seletivo entra em vigor?
+
+O IS entrará em vigor a partir de 2027. Até lá, o Imposto sobre Produtos
+Industrializados (IPI) será zerado gradualmente, mas só deixará de existir
+definitivamente em 2033. Durante esse período de transição, algumas regiões, como
+a Zona Franca de Manaus, terão benefícios fiscais preservados.
+
+Criação Redução
+
+dolSe da do ICMS e
+
+fim do IPI cobrança ISS e IVA
+do ICMS e
+
+
+
+--- Página 26 ---
+6. Compreendendo a LC 214/2025 (Lei Complementar 214 de 16 de Janeiro de 2025)
+
+A Reforma Tributária no Brasil foi formalizada pela Emenda Constitucional nº
+
+132, promulgada em 20 de dezembro de 2023, e regulamentada pela Lei
+Complementar nº 214, sancionada em 16 de janeiro de 2025. Essa reforma representa
+uma transformação significativa no sistema tributário nacional, especialmente na
+tributação sobre o consumo.
+Principais Alterações:
+
+1 Substituição de Tributos: Cinco tributos foram substituídos: PIS, COFINS, IPI, ICMS e ISS.
+Em seu lugar, foram instituídos dois novos tributos:
+
+o Contribuição sobre Bens e Serviços (CBS): de competência federal.
+
+o Imposto sobre Bens e Serviços (IBS): de competência compartilhada entre estados,
+Distrito Federal e municípios.
+
+2. Imposto Seletivo (IS): Criado para incidir sobre produtos prejudiciais à saúde ou ao
+meio ambiente, como bebidas alcoólicas, cigarros e veículos de luxo.
+
+3. Cashback: Mecanismo de devolução parcial de tributos para famílias de baixa renda,
+aplicável a serviços essenciais como energia elétrica, água e gás.
+
+4. Cesta Básica Nacional: Estabelecimento de alíquota zero para produtos essenciais,
+visando reduzir o custo de vida da população.
+
+5. Transição Gradual: A implementação dos novos tributos será gradual, com início em
+2026 e conclusão prevista para 2033.
+
+6. alíquotas: A alíquota combinada de CBS e IBS deverá ficar em torno de 28%. No
+entanto, a legislação prevê mecanismos para ajustar essa alíquota, caso ultrapasse
+determinados limites.
+
+7. Comitê Gestor do IBS: Será criado um órgão responsável pela administração do IBS,
+incluindo arrecadação e distribuição dos recursos entre os entes federativos.
+
+Acesso ao Texto Completo:
+
+O texto integral da Lei Complementar nº 214/2025, que regulamenta a Reforma
+Tributária, está disponível no site oficial do Ministério da Fazenda:
+
+Reforma Tributária - Ministério da Fazenda
+
+
+
+--- Página 27 ---
+Nesta página, você encontrará informações detalhadas sobre os projetos de
+leis complementares propostos pelo Poder Executivo, incluindo a Lei Geral do IBS, da
+CBS e do Imposto Seletivo.
+
+Como organizar e entender a LC 214/2025 de forma estruturada e esquemática?
+
+Para quem pretende se aprofundar no estudo da Lei Complementar nº
+214/2025, que regulamenta aspectos centrais da Reforma Tributária, é altamente
+recomendável adotar uma metodologia estruturada de leitura.
+
+A compreensão integral da norma exige sua leitura na íntegra, mas, para
+facilitar o entendimento e a fixação do conteúdo, sugere-se organizá-la de forma
+esquemática, segmentando-a conforme sua estrutura legislativo: Livro > Título >
+Capítulo.
+
+Esse formato sistematizado proporciona uma visão clara e hierárquica dos
+temas abordados, favorecendo tanto a memorização quanto a consulta rápida dos
+dispositivos legais, especialmente em contextos acadêmicos, profissionais ou de
+concursos públicos.
+
+LIVRO | - Do IBS e da CBS
+
+t-—rtítuLO | - Normas Gerais de Incidência
+|-capítuLO | Disposições Preliminares
+|-capítuLO HI - Incidência sobre Bens e Serviços
+| '--seção!- Hipóteses de Incidência
+| I--seção V- Base de Cálculo
+| I--seçãovi- alíquotas
+| | --seção VII - Extinção de Débitos
+|-capítuLo H1 - Cadastro e Documento Fiscal
+
+H-—caríTULO V - Exportações
+
+TÍTULO II - Regimes Aduaneiros Especiais
+TÍTULO IH - Devoluções de Saldos Acumulados
+H—TÍTULO IV - Regimes Diferenciados
+
+H— TÍTULO V - Regimes Específicos
+
+LIVRO II- Do Imposto Seletivo
+
+H— TÍTULO 1 - Incidência e Base de Cálculo
+
+TÍTULO II - Suspensão e Isenção
+
+LIVRO III - Disposições Transitórias e Finais
+
+
+
+--- Página 28 ---
+7 O Simples Nacional na Reforma Tributária
+
+A EC 132/23 manteve o tratamento diferenciado e favorecido para as
+microempresas e empresas de pequeno porte, mediante a inclusão do IBS e da CBS
+no regime unificado de arrecadação de tributos (Simples Nacional).
+
+Nesse regime, os tributos devidos por essas empresas continuam a ser
+recolhidos por meio de uma guia única (Documento de Arrecadação do Simples
+Nacional - DAS). No contexto da Reforma, a sistemática do Simples garante o
+recolhimento unificado dos novos tributos:
+
+ATUALMENTE PÓS-REFORMA
+IRP3, CSLL, CPP, IPI, 2»» IRPJ, CSLL, CPP, IPI,
+PIS/Cofins, ICMS e ISS IBS e CBS
+
+Há previsão de inclusão do Imposto Seletivo na sistemática do Simples
+Nacional, porém a tendência é de que o recolhimento seja realizado de forma
+apartada (art. 517, LC 214/25).
+
+Regime de Apuração
+
+Os contribuintes optantes pelo Simples Nacional poderão recolher o IBS e a
+CBS* de 2 formas:
+
+1- Regime unificado
+
+Onerado conforme as alíquotas aplicáveis para a faixa de receita do
+contribuinte, conforme cada classe de atividade prevista nos anexos da LC 123/06
+Manutenção da sistemática de recolhimento unificado no DAS
+
+2 - Regime regular
+
+Onerado segundo as mesmas alíquotas e regras gerais previstas para os
+contribuintes na LC 214/25.
+
+Caso haja opção por seguir as regras do regime regular, o IBS e a CBS serão
+pagos de forma apartada dos demais tributos devidos pelo contribuinte do Simples
+(ex. IRPJ, CSLL, IPI, CPP). O regime regular corresponde ao conjunto das regras
+
+
+
+--- Página 29 ---
+previstas na LC 214/25 para IBS e CBS, o que abarca as normas gerais de incidência
+(regime geral) e os regimes específicos, diferenciados e favorecidos.
+
+Sublimite (Questionável constitucionalmente)
+
+A LC 214/25 estendeu o sublimite obrigatório para o IBS. Assim, o limite de
+receita bruta para recolhimento da CBS no regime unificado é de R$ 4.8 milhões, mas
+o limite de receita para recolhimento do IBS é de R$ 3.6 milhões.
+
+Período de opção
+
+A opção pelo regime regular será semestral e irrevogável para o período de
+
+vigência:
+
+" Setembro do ano
+
+1º semestre (Jan-Jun) Anterior
+
+2º semestre (Jul-Dez) Abril do mesmo ano
+Não Cumulatividade
+
+O crédito em operações por optantes do Simples será autorizado com base no
+regime de recolhimento:
+
+Regime Unificado Regime Regular
+
+Não poderá Poderá apropriar
+apropriar crédito. crédito
+
+Apenas a operação Haverá repasse do
+
+realizada como crédito acumulado
+fornecedor gerará nas etapas
+
+crédito para o anteriores para o
+adquirente, em adquirente e
+montante haverá crédito
+equivalente ao | integralda
+recolhido no operação, como
+
+regime do Simples os demais
+r contribuintes do
+) regime regular
+
+Fornece
+optante
+Simples
+
+
+
+--- Página 30 ---
+O crédito de IBS e CBS no regime unificado será determinado conforme
+alíquota aplicável à faixa de receita bruta a que estiver sujeita a microempresa ou
+empresa de pequeno porte, no mês de operação.
+
+O MEI deverá apresentar anualmente declaração única e simplificada de
+informações socioeconômicas e fiscais, observados prazo e modelo aprovados pelo
+CGSN. A LC 214/25 autoriza a implementação do split payment e do recolhimento pelo
+adquirente no Simples.
+
+
+
+--- Página 31 ---
+8 Como funciona a apuração do IBS e da CBS? (art. 45 LC 214/2025)
+
+A apuração do IBS (Imposto sobre Bens e Serviços) e da CBS (Contribuição
+Social sobre Bens e Serviços) é feita de forma unificada, abrangendo todas as
+operações realizadas por todos os estabelecimentos da empresa. O pagamento e
+eventuais pedidos de ressarcimento também são centralizados em um único
+estabelecimento, o que facilita o controle e a gestão tributária.
+
+Todos os débitos e créditos do contribuinte são considerados na apuração
+mensal, mesmo que ele esteja sujeito a regimes especiais ou diferenciados — salvo
+exceções expressamente previstas na Lei Complementar nº 214/2025.
+
+A cada mês, o contribuinte precisa calcular separadamente o saldo do IBS e o
+da CBS. Esse cálculo considera:
+
+* os débitos gerados pelas operações do período;
+* oscréditos aproveitados (inclusive os presumidos e os saldos anteriores);
+
+* eventuais ajustes (positivos ou negativos), como estornos de créditos indevidos com
+os acréscimos legais.
+
+O saldo final pode ser:
+* positivo: gera um valor a pagar;
+
+* negativo: gera um valor a recuperar, que pode ser usado para ressarcimento ou
+compensação.
+
+A entrega da apuração ao Comitê Gestor do IBS e à Receita Federal tem efeito
+de confissão de dívida e formaliza o crédito tributário.
+
+Importante: Se a empresa tiver filiais em diferentes municípios, a apuração será
+feita de forma centralizada em um único local. Todos os débitos serão somados e os
+créditos e pagamentos antecipados serão abatidos de forma consolidada.
+
+11.1 O que é a Apuração Assistida do IBS e da CBS?
+
+A Reforma Tributária trouxe uma grande novidade na forma de apurar o IBS e a
+CBS: a apuração assistida.
+
+Esse novo modelo tem como objetivo facilitar o cumprimento das obrigações
+tributárias, utilizando um processo automatizado baseado em dados eletrônicos —
+como notas fiscais, informações prestadas pelo contribuinte e movimentações
+financeiras.
+
+
+
+--- Página 32 ---
+A apuração assistida funciona como uma declaração pré-preenchida: a
+Receita Federal (para a CBS) e o Comitê Gestor do IBS elaboram um cálculo
+preliminar do tributo devido com base nas informações disponíveis em sistemas
+públicos. Essa previsão é então enviada ao contribuinte.
+
+Como funciona o processo?
+
+Conforme o art. 46 da LCP nº 214/2025, o fluxo da apuração assistida segue estas
+etapas:
+
+Análise e ajustes pelo contribuinte
+
+Confirmação ou silêncio do contribuinte
+
+Constituição do crédito tributário
+Resultado da apuração
+
+1- Envio da apuração preliminar
+
+A Receita Federal e o Comitê Gestor do IBS disponibilizam ao contribuinte o cálculo
+antecipado do imposto, com base nos documentos fiscais eletrônicos e demais
+dados transmitidos.
+
+2- Análise e ajustes pelo contribuinte:
+
+O contribuinte pode confirmar os valores apresentados ou realizar ajustes e
+correções, dentro do prazo regulamentar.
+
+3 - Confirmação ou silêncio do contribuinte
+
+
+
+--- Página 33 ---
+o Seo contribuinte confirma ou ajusta os dados, há uma confissão expressa da
+dívida.
+
+o Se não houver manifestação no prazo, a apuração preliminar é considerada
+aceita tacitamente, gerando confissão presumida e constituindo
+automaticamente o crédito tributário (art. 46, 881º e 2º).
+
+4 - Constituição do crédito tributário:
+
+A confirmação — expressa ou tácita — formaliza o lançamento do tributo, tornando-
+o exigível.
+
+5 - Resultado da apuração:
+Ao final, a apuração assistida poderá indicar:
+o um valor a recolher;
+
+o Ou um saldo credor, que pode ser compensado ou ressarcido, nos termos do
+art. 45, 84º.
+
+Atenção: Apesar da praticidade, esse modelo exige atenção do contribuinte, pois o
+silêncio implica confissão de dívida. Além disso, a LCP nº 214/2025 não prevê, até o
+momento, um mecanismo específico para defesa administrativa contra os valores
+lançados por apuração assistida.
+
+Exemplo prático:
+
+Considere que uma empresa comercial sediada no Rio de Janeiro possui duas
+filiais: uma em São Paulo e outra em Belo Horizonte.
+
+Consideremos que todas as receitas, e aquisições, foram tributadas pelo
+regime regular com alíquota de 26,5%, sendo 8,8% para a CBS e 17,7% para o IBS.
+Considere ainda que a empresa possuía saldo credor de CBS no valor de R$ 132,00 e
+IBS no valor de R$ 265,50 apurado na competência anterior.
+
+Premissas CBS
+IBS(UF + MUN)
+Saldo credor CBS R$ 1.320,00
+Saldo credor IBS R$ 2.650,00
+
+
+
+--- Página 34 ---
+Operação do mês
+RJ sp BH Total
+
+Rec. Bruta de Vendas 50.000,00 R$ 60.000,00 R$ 40.000,00 R$ 150.000,00
+Compras com crédito 20.000,00 R$ 30.000,00 R$ 10.000,00 R$ 60.000,00
+
+Split Payment
+
+IBS 70800 R$ R$ 35400 R$ 1.062,00
+
+CBS 352,00 R$ R$ 176,00 R$ 528,00
+Pagto dos clientes
+
+IBS 531,00 R$ R$ R$ 708,00
+
+CBS 26400 R$ R$ R$ 352,00
+
+Para cada período de apuração, o contribuinte deverá apurar, separadamente,
+o saldo do IBS e da CBS:
+
+1) ces
+
+Total de débitos = R$ 13.200,00 (R$ 150.000,00 x 8,8%)
+(=)Total de créditos = R$ 5.280,00 (R$ 60.000,00 x 8,8%)
+(=) Pagamentos das operações
+
+> Por meio do split payment R$ 528,00
+> Feitas pelo adquirente R$ 352,00
+
+(-) saldo credor no período anterior R$ 1.320,00
+
+(=) resultado da apuração do mês R$ 69.080,00
+
+2)1Bs
+
+Total de débitos = R$ 26.550,00 (R$ 150.000,00 x 17,7%)
+(-)total de créditos = R$ 10.620,00 (R$ 60.000,00 x 17,7%)
+(=) Pagamentos das operações
+
+> Por meio do split payment R$ 1.062,00
+> Feitas pelo adquirente R$ 708,00
+
+(-) saldo credor período anterior R$ 265,50
+
+(=) resultado final da apuração do mês R$ 13.894,50
+
+
+
+--- Página 35 ---
+Premissas CBS 8,80%
+IBS(UF + MUN) 17,70%
+Saldo credorCBS R$ 132,00
+Saldo credorIBS R$ 265,50
+
+Operação do mês
+RJ sp BH Total
+Rec. Bruta de Vendas 50.000,00 R$ 60.000,00 R$ 40.000,00 R$ 150.000,00
+Compras com crédito 20.000,00 R$ 30.000,00 R$ 10.000,00 R$ 60.000,00
+Split Payment
+
+IBS 70800 R$ R$ 354,00 R$ 1.062,00
+
+cBs 35200 R$ R$ 17600 R$ 528,00
+
+Pagto dos clientes
+IBS 531,00 R$ R$ 708,00
+
+cBs 264,00 R$ R$ 352,00
+
+1) CBS
+Total débito R 13.200,00
+
+(SJTotal de crédito R 5.280,00
+Pagto operações
+()Split Payment 528,00
+(-)Pagto Cliente R: 352,00
+(Saldo credor R 132,00
+
+(=) Resultado apuração 6.908,00
+
+2) IBS
+Total débito R: 26.550,00
+
+(STotal de crédito R 10.620,00
+Pagto operações
+(-)Split Payment 1.062,00
+(-)Pagto Cliente 708,00
+(-)Saldo credor 265,50
+
+(=) Resultado apuração 13.894,50
+
+Como o resultado foi positivo (gerando saldo devedor), a empresa deverá efetuar o
+recolhimento dos tributos para o Comitê Gestor. Caso o resultado seja negativo (gerando
+saldo credor), a empresa poderá utilizá-lo nos períodos seguintes.
+
+
+--- Página 36 ---
+9 Regras de Incidência (art. 45 LC 214/2025)
+
+Para cumprir corretamente as obrigações com o IBS e a CBS, é fundamental
+entender quando esses tributos são aplicados e quando não são. A Lei
+Complementar nº 214/2025 define com clareza as situações em que há cobrança
+(incidência) e aquelas em que não há (não incidência), ajudando a evitar erros e
+práticas que possam levar à evasão fiscal.
+
+O IBS e a CBS incidem sobre operações onerosas com bens ou serviços. Isso
+quer dizer: sempre que houver contraprestação, ou seja, algo em troca.
+
+Essas operações incluem:
+* Compra e venda, troca, permuta e dação em pagamento;
+* Aluguel (locação);
+e Licenciamento, concessão e cessão de uso;
+* Empréstimo com cobrança (mútuo oneroso);
+* Doação com algum tipo de benefício para quem doou;
+* Criação de direitos reais com pagamento;
+* Arrendamento (inclusive leasing);
+
+e Prestação de serviços.
+
+Importante:
+
+Mesmo que a operação não seja habitual ou envolva um bem do ativo não
+circulante, ainda assim haverá cobrança de IBS e CBS (art. 4º, 84º, LCP nº 214/2025).
+
+Além disso, a incidência desses tributos não altera a base de cálculo do ITBI
+(Imposto sobre Transmissão de Bens Imóveis) nem do ITCMD (Imposto sobre Herança
+e Doações) — conforme o art. 4º, 85º.
+
+O que não importa na hora de cobrar o IBS e a CBS?
+
+A lei estabelece que alguns fatores não influenciam na hora de saber se a
+operação é tributada. Veja os principais:
+
+* Tipo de posse do bem: não importa como o fornecedor detém o bem (ex: proprietário,
+locatário, comodatário).
+
+
+
+--- Página 37 ---
+* Formato jurídico da operação: contratos ou documentos com formatos diferentes
+não mudam a obrigação tributária.
+
+* Lucro obtido: mesmo sem lucro, a operação pode ser tributada.
+
+* Cumprimento de exigências legais: ainda que o fornecedor cumpra todas as
+normas legais, a tributação ocorre da mesma forma.
+
+Todas essas regras estão no art. 4º, 883º e 4º da LCP nº 214/2025.
+
+Quando o IBS e a CBS não são cobrados?
+
+Em alguns casos, a lei determina que não há cobrança de IBS e CBS, porque o
+fato não é considerado uma situação tributável. Isso significa que, nesses casos, o
+contribuinte não precisa pagar esses tributos.
+
+Segundo o art. 6º da LCP nº 214/2025, não há incidência nos seguintes casos:
+
+* Serviços prestados por pessoas físicas como empregados, administradores,
+conselheiros ou membros de comitês — ou seja, quando há vínculo empregatício ou
+função exercida conforme a lei.
+
+* Transferência de bens entre estabelecimentos do mesmo contribuinte (como entre
+matriz e filial).
+
+* Baixa ou transmissão de participação societária, desde que não representem, na
+essência, uma operação com pagamento envolvido (operação onerosa).
+
+* Fusões, cisões, incorporações ouintegralizações de capital, também desde que não
+configurem operação onerosa.
+
+Atenção:
+
+Se nessas situações os bens transferidos tiverem gerado créditos de IBS ou CBS e
+forem entregues a sócios não contribuintes no regime regular, pode haver cobrança
+do tributo — conforme art. 5º, III.
+
+Outros exemplos de não incidência:
+
++ Rendimentos financeiros, exceto quando forem incluídos no regime específico dos
+serviços financeiros.
+
+* Recebimento de dividendos, juros sobre capital próprio ou remuneração paga por
+cooperativas.
+
+
+
+--- Página 38 ---
+Operações com títulos e valores mobiliários, fora do regime específico.
+Doações sem qualquer tipo de contraprestação.
+
+Transferência de recursos públicos para organizações da sociedade civil sem fins
+lucrativos.
+
+Repasse de cooperativas para seus associados.
+
+Cuidado com as doações com crédito!
+
+Se uma empresa doar um bem ou serviço que gerou crédito de IBS ou CBS, a
+operação pode ser tributada, a menos que o contribuinte opte por anular o crédito.
+Isso está no art. 6º, 82º da LCP nº 214/2025.
+
+Vendeu mais de uma coisa na mesma operação? Fique atento!
+
+Quando uma venda ou prestação de serviço envolve mais de umitem — como
+produtos e serviços juntos — a lei exige que você especifique cada um
+separadamente na nota fiscal.
+
+Só pode juntar tudo quando:
+
+Todos os itens tiverem a mesma regra de imposto (mesma alíquota, mesmo
+tratamento);
+
+Houver um item principal e os outros forem apenas complementares (como
+embalagem ou entrega).
+
+E se não separar direito?
+
+Se isso não for feito corretamente, a Receita pode entender que são vendas
+separadas e cobrar os impostos individualmente, conforme as regras de cada item.
+
+Separar produtos e serviços na nota fiscal de forma clara evita problemas com
+o fisco e cobranças inesperadas.
+
+
+
+--- Página 39 ---
+10 Quando o imposto passa a ser devido (Fato Gerador)
+
+OIBS ea CBS são cobrados quando o bem ou serviço é fornecido. Isso vale tanto
+para vendas feitas de uma só vez quanto para aquelas feitas de forma contínua ou
+parcelada.
+
+Mas para cada tipo de operação, a lei define regras específicas para saber
+exatamente quando o imposto passa a ser devido:
+
+Transporte de mercadorias ou pessoas
+* Seotransporte começa no Brasil, o imposto é devido no início do transporte.
+
+* Seo transporte começa fora do Brasil, o imposto é cobrado quando termina o
+transporte.
+
+Outros serviços em geral
+
+* Oimposto é devido quando o serviço for concluído.
+
+Produto sem nota fiscal
+
+* Se um bem for encontrado sem nota fiscal válida, o imposto será cobrado na hora
+em que ele for identificado nessa situação.
+
+Compras em leilão ou licitação
+
+* Se o bem for comprado em leilão judicial ou em licitação pública, o imposto é
+cobrado no momento da compra.
+
+Compras feitas pelo governo
+
+* Quando um órgão público compra bens ou serviços, o imposto só é cobrado quando
+o pagamento é feito.
+
+Serviços contínuos (como luz, água e internet)
+
+e Se não for possível saber exatamente quando o serviço termina, o imposto será
+cobrado no momento em que o pagamento for exigido.
+
+
+
+--- Página 40 ---
+O que isso muda na prática?
+
+Especialmente no caso de vendas para o governo, a regra traz vantagens para
+as empresas:
+
+* Oimposto só é cobrado depois que a empresa recebe o pagamento.
+
+* Isso melhora o caixa, dá mais previsibilidade e reduz o risco de prejuízo, já que a
+empresa não precisa pagar antes de receber.
+
+Antigamente, as empresas tinham que recolher o imposto antes de ver o
+dinheiro cair na conta. Com a nova regra, o imposto só é devido quando o
+pagamento é feito — o que ajuda a manter a saúde financeira do negócio.
+
+Exemplo prático:
+
+imagine que uma empresa que vende tanto para o setor privado (B2B ou B2C)
+quanto para a administração pública. Em um determinado mês apresentou as
+seguintes informações em relação ao seu faturamento:
+
+Composição do Faturamento
+
+Situação do
+Cliente Tipo de Cliente Valor da Venda Pagamento Fato gerador
+
+G
+overno Adm. Pública R$ 5.000,00 Aberto No pagto.
+
+R$ 8.000,00 Pago
+
+Empresa Na entrega do
+
+R$ 4.000,00 bem ou serviço
+
+Consumidor R$ 3.000,00
+
+Total R$ 20.000,00
+
+Total de vendas no mês: R$ 20.000,00
+Base de cálculo do IBS e da CBS no mês: R$ 15.000,00:
+
+(R$8.000 + R$4.000 + R$3.000) (somente as vendas que geraram fato gerador no mês
+— entrega do bem ou serviço)
+
+Alíquotas-Padrão CBS: 8,8% IBS (UF + MUN): 17,7%
+
+
+--- Página 41 ---
+A venda de R$ 5.000,00 para o órgão público não será inserida na base de
+cálculo do período, pois não houve recebimento. A tributação ocorrerá somente no
+mês em que o valor for recebido pela empresa.
+
+Dica de requisito de software:
+
+Recomendamos fortemente que os softwares forneçam para as empresas o
+controle dos fatos geradores por meio de:
+
+Classificação dos clientes no sistema (ERP ou planilha): indicar se o cliente é público
+ou privado. Vincular a regra de fato gerador: competência para o privado, caixa para
+o público.
+
+Separação das receitas com e sem fato gerador: gerar relatórios mensais que
+identifiquem quais notas fiscais já geraram fato gerador (pagas, no caso da
+administração pública). Registrar os valores pendentes de tributação para meses
+futuros (controle de tributos diferidos).
+
+Provisão do IBS e da CBS: automatizar com sistemas de gestão para calcular os
+
+tributos somente sobre o que efetivamente gerou o fato gerador naquele mês.
+
+
+
+--- Página 42 ---
+m A Base de cálculo
+
+A base de cálculo é o valor usado como referência para calcular quanto de IBS
+e CBS uma empresa precisa pagar em cada operação de venda de bens ou serviços.
+
+Em resumo: é tudo aquilo que o cliente paga pela operação — com algumas
+exceções.
+
+De acordo com a LCP nº 214/2025, art. 36, entram na base de cálculo:
+
+* Todo ovalor cobrado pelo fornecedor, independente do nome (preço, taxa, encargo,
+etc);
+
+* Juros, multas, acréscimos ou qualquer valor adicionado ao preço original;
+
+e Descontos condicionais (ou seja, que dependem de alguma condição para serem
+aplicados);
+
+* Frete (quando cobrado como parte da operação, seja feito pelo próprio fornecedor
+ou contratado por ele);
+
+* Tributos e tarifas pagos pelo fornecedor, desde que não estejam excluídos pela lei;
+* Seguros e outras taxas cobradas como parte da venda.
+
+Segundo o art. 37 da LCP nº 214/2025, não entram na base de cálculo:
+* O próprio valor do IBS e da CBS destacados na nota fiscal;
+
+* Descontos incondicionais, ou seja, aqueles dados sem exigir nada em troca e que
+constem claramente na nota fiscal;
+
+* Reembolsos ou ressarcimentos de valores pagos em nome de terceiros (desde que
+com a nota emitida no nome do terceiro);
+
+e Ovalor de ICMS, ISS, PIS e COFINS destacados na nota fiscal;
+
+* Contribuições específicas para iluminação pública ou monitoramento de
+segurança, previstas em lei.
+
+Exemplo:
+
+Uma empresa vende um equipamento por R$ 10.000, com as seguintes
+condições:
+
+* Juros cobrados por parcelamento: R$ 500
+* Frete contratado pela empresa e cobrado do cliente: R$ 300
+
+* Seguro incluído na operação: R$ 200
+
+
+
+--- Página 43 ---
+* Desconto incondicional: R$ 1.000 (já na nota)
+e PIS:R$181,38
+e COFINS: R$ 835,47
+
++ ICMS destacado: R$ 700
+
+Descrição Valor R$
+
+Valor do produto R$ 10.000,00
+(+) Juros p/
+
+parcelamento R$ 500,00
+(+) Frete R$ 300,00
+(+) Seguro R$ 200,00
+(+) ICMS R$ 7,00
+(+) PIS R$ 181,38
+(+) COFINS R$ 835,47
+(-) Desconto R$ 1.000,00
+(=) Base de Cálculo R$ 8.990,15
+
+Se o valor da operação estiver em moeda estrangeira (como dólar ou euro), será
+feita a conversão para real usando a taxa de câmbio divulgada pelo Banco Central,
+conforme o que for definido em regulamento (art. 36, 81º).
+
+Se a empresa usar contratos financeiros (chamados derivativos) para esconder ou
+reduzir o valor real da operação, o que for ganho com esse contrato será incluído no
+cálculo do imposto.
+
+Exemplo:
+
+Se a empresa vende um produto por R$ 10.000, mas faz um contrato paralelo para
+simular que vendeu por menos, o que ela ganhar com esse contrato também será tributado.
+(art. 36, 82º).
+
+Se uma venda for cancelada ou o produto devolvido, a base de cálculo usada será
+a mesma da venda original. Isso vale para cálculo de eventuais ajustes no IBS e CBS (art.
+36, 83º).
+
+Se o transporte de ida e volta for vendido como um pacote único, o valor da base de
+cálculo será a metade do valor total cobrado, conforme prevê o art. 36, 84º da LCP nº
+214/2025.
+
+
+--- Página 44 ---

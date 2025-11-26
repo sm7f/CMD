@@ -1,0 +1,59 @@
+MODELOS DE RESPOSTA PADRONIZADOS – SUPORTE TÉCNICO
+Baseados nas cláusulas do EULA (Contrato de Licença de Usuário Final) – Maqplan
+
+──────────────────────────────────────────────
+1. CLIENTE EXIGE QUE O SUPORTE FAÇA NOTAS
+──────────────────────────────────────────────
+Conforme o contrato de licença (EULA, cláusulas 4.e e 4.f), a responsabilidade pela emissão e envio de documentos fiscais é exclusiva do usuário licenciado.
+O suporte não tem autorização para emitir notas fiscais em nome do cliente, apenas para orientar o uso correto do sistema.
+Solicitamos que o responsável realize o procedimento de emissão conforme as instruções e treinamentos disponíveis.
+
+──────────────────────────────────────────────
+2. PROBLEMAS CAUSADOS PELO PRÓPRIO CLIENTE
+──────────────────────────────────────────────
+De acordo com o EULA (cláusula 10.5, itens a e b), erros decorrentes de operação indevida ou mau uso do sistema não são cobertos pelo suporte gratuito.
+Nesses casos, o atendimento poderá ser cobrado conforme tabela de serviços técnicos.
+Recomendamos revisar os procedimentos internos e manter o pessoal devidamente treinado, conforme cláusula 4.q.
+
+──────────────────────────────────────────────
+3. ERROS RELACIONADOS A HARDWARE, REDE OU EQUIPAMENTOS
+──────────────────────────────────────────────
+O suporte técnico da Maqplan não cobre manutenção de hardware, impressoras, TEF, Pinpad ou rede local (EULA, cláusula 10.5-d).
+Esses atendimentos devem ser realizados pelo técnico responsável pelos equipamentos.
+
+──────────────────────────────────────────────
+4. INTEGRAÇÕES EXTERNAS (WOOCOMMERCE, MARKETPLACES, TEF, ETC.)
+──────────────────────────────────────────────
+Segundo o EULA (cláusulas 11.1 e 11.4), a LICENCIANTE não se responsabiliza por falhas, lentidão ou erros gerados por softwares e APIs de terceiros.
+O suporte garante apenas a integridade do envio de dados dentro do sistema Maqplan.
+Problemas externos devem ser tratados com o fornecedor da integração.
+
+──────────────────────────────────────────────
+5. SUPORTE FORA DOS CANAIS OFICIAIS
+──────────────────────────────────────────────
+O atendimento deve ocorrer exclusivamente pelos canais oficiais da Maqplan (EULA, cláusula 10.2).
+Contatos via números pessoais, redes sociais ou outros meios não oficiais não possuem validade técnica nem respaldo contratual.
+
+──────────────────────────────────────────────
+6. PERSONALIZAÇÕES E RELATÓRIOS ESPECÍFICOS
+──────────────────────────────────────────────
+A criação ou alteração de relatórios personalizados é considerada serviço adicional (EULA, cláusula 10.5-g).
+Essas demandas são avaliadas mediante orçamento técnico e aprovação prévia.
+
+──────────────────────────────────────────────
+7. DIRETRIZ GERAL
+──────────────────────────────────────────────
+O suporte é responsável por garantir o funcionamento do software conforme suas funcionalidades padrão.
+O cliente é responsável por:
+- Operar corretamente o sistema;
+- Emitir seus próprios documentos fiscais;
+- Manter estrutura de rede e equipamentos em funcionamento;
+- Cumprir prazos legais e fiscais.
+
+O sistema é um meio de apoio, não um garantidor de resultados (EULA, cláusula 11.6).
+
+──────────────────────────────────────────────
+REFERÊNCIA DE BASE LEGAL
+──────────────────────────────────────────────
+EULA – Contrato de Licença de Usuário Final Maqplan (Total Automação e Software Ltda)
+Principais cláusulas referenciadas: 4.e, 4.f, 4.q, 10.2, 10.5, 11.1, 11.4 e 11.6.

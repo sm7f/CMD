@@ -1,0 +1,13 @@
+=== RELATÓRIO DE COMPARAÇÃO DE XML ===
+
+Diretório 1: C:\Users\Maqplan\Downloads\INSTALAÇÃO\Ajuda\CMD\Extracao\1
+Diretório 2: C:\Users\Maqplan\Downloads\INSTALAÇÃO\Ajuda\CMD\Extracao\2
+
+Total de XMLs lidos dir1: 274
+Total de XMLs lidos dir2: 275
+
+Faltando no diretório 1:
+ - RPS 3001
+ - RPS 3125
+
+Duplicados dir1: ['2958']

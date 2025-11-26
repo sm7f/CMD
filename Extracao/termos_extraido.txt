@@ -1,0 +1,609 @@
+=== PÁGINA 1 ===
+TERMOS DE USO
+CONTRATO DE LICENÇA DE USUÁRIO FINAL (“EULA”)
+Das Partes e Aceite dos Termos
+Este presente Contrato de Licença de Usuário Final (“EULA”) constitui acordo legal entre o Usuário Licenciado
+(pessoa jurídica ou física) denominado como o “LICENCIADO” e a TOTAL AUTOMAÇÃO E SOFTWARE LTDA, pessoa
+jurídica de direito privado, inscrita no CNPJ: 05.605.430/0001-50, com sede na SHGCN 709 BLOCO A LOJA 09 –
+PARTE C, Asa Norte, Brasília, Distrito Federal, CEP: 70.750-701, como a “LICENCIANTE” para uso do(s) programa(s)
+de computador(es) desenvolvido(s) e licenciado(s), com a marca “MAQPLAN” ou qualquer outra marca de sua
+titularidade, podendo também sublicenciado por Parceiros Comerciais autorizados e ainda, no formato
+“whitelabel”, ou seja, com qualquer marca licenciada de terceiros, incluindo ou não, a marca do LICENCIADO
+“SOFTWARE”, disponibilizado por acesso web online pelos servidores da LICENCIANTE “Site” ou instalado no
+dispositivo computacional (computador, smartphone ou tablet com os requisitos técnicos necessários aprovados
+pela LICENCIANTE) determinado pelo LICENCIADO no ato do uso e/ou licenciamento do SOFTWARE, e podendo
+incluir os meios físicos associados e periféricos, bem como quaisquer vídeos, guias, materiais, documentação,
+manuais física ou online.
+Ao utilizar o SOFTWARE, mesmo que parcialmente ou a título de teste, o LICENCIADO estará vinculado aos termos
+deste EULA, concordando com suas disposições, principalmente com relação ao CONSENTIMENTO PARA o
+ACESSO, COLETA, USO, ARMAZENAMENTO, TRATAMENTO E TÉCNICAS DE PROTEÇÃO ÀS INFORMAÇÕES do
+LICENCIADO pela LICENCIANTE, necessárias para a integral execução das funcionalidades ofertadas pelo
+SOFTWARE. Em caso de discordância com os termos aqui apresentados, a utilização do SOFTWARE deve ser
+imediatamente interrompida pelo LICENCIADO.
+Para que não restem dúvidas acerca da interpretação deste EULA, as palavras usadas com maior frequência,
+termos técnicos, condições gerais e outros pertinentes ao negócio entre as Partes, em seu texto devem ser
+entendidas na forma descrita nos documentos disponibilizados nos endereços eletrônicos abaixo e que
+constituem parte integrante e indissociável deste instrumento, que o LICENCIADO declara que leu integralmente,
+aceitou e concordou com todas as condições grafadas nos mesmos, sem quaisquer reservas ou restrições,
+reconhecendo que são equânimes e livres de ambiguidades e contradições, e que podem ser livremente alterados,
+mediante comunicado:
+• “GLOSSÁRIO” disponível em www.maqplan.com.br/docs/glossario-termos-definicoes.pdf;
+Assim estando devidamente qualificadas as Partes e o SOFTWARE, ajustam o presente nos termos e condições
+aqui dispostas:
+1. SOFTWARE.
+Este SOFTWARE é protegido pela Lei dos Direitos Autorais (Lei 9.610 de 1998) e pela Lei do Software (Lei 9.609
+de 1998). Este SOFTWARE é licenciado e não vendido.
+Página 1 de 15
+
+=== PÁGINA 2 ===
+1.1. Ao instalar ou utilizar de qualquer outra forma o SOFTWARE objeto deste EULA, o LICENCIADO está
+concordando em aceitar todos os termos e condições definidas no presente instrumento, seus anexos
+e partes integrantes.
+2. LICENÇA DE USO
+2.1. A LICENCIANTE, que é proprietária, desenvolvedora, licenciadora e/ou legítima possuidora de todos os
+direitos sobre o SOFTWARE, outorga ao LICENCIADO através deste EULA o direito NÃO EXCLUSIVO e
+INTRANSFERÍVEL de utilização do SOFTWARE, nas especificações limitantes de cada plano como:
+quantidade máxima de computadores, usuários, emissões de notas fiscais, acessos, espaço de disco e
+banco de dados, recursos e funcionalidades liberadas ou bloqueadas, dentre outras, estipulados em
+proposta comercial específica e personalíssima ou conforme os planos de contratação definidos em seu
+Site.
+2.1.1. Caso necessite utilizá-lo em mais computadores ou por mais usuários, o LICENCIADO poderá adquirir
+Licenças para Uso Adicionais conforme necessidade e condições comerciais definidas entre as
+Partes. O LICENCIADO fica obrigado e responsável em adquirir quaisquer outras licenças de uso
+necessárias para a utilização do SOFTWARE, em conjunto ou não, com SOFTWARE de outros
+fornecedores, isentando assim A LICENCIANTE de fornecer qualquer licença de uso de SOFTWARE
+ou de redistribuição de componentes de outros fornecedores, mesmo que estas sejam essenciais ou
+estejam integradas ao funcionamento do SOFTWARE e venham a ser necessárias ao uso do
+SOFTWARE no computador do LICENCIADO.
+2.2. A presente licença neste EULA concede ao LICENCIADO uma licença revogável, não exclusiva e
+intransferível para uso do SOFTWARE. O LICENCIADO não poderá utilizar e nem permitir que o
+SOFTWARE seja utilizado para outra finalidade que não seja o processamento de suas informações ou
+de pessoas jurídicas indicadas pelo LICENCIADO no ato do cadastramento, exceto caso o LICENCIADO
+seja empresa de contabilidade que utiliza o SOFTWARE para processar informações de seus clientes,
+observados os limites estabelecidos neste EULA. Esta licença não implica a capacidade de acessar outros
+softwares além daqueles originalmente localizados no SOFTWARE.
+3. PROPRIEDADE
+3.1. O presente EULA NÃO CONSTITUI TRANSFERÊNCIA DE PROPRIEDADE do SOFTWARE objeto do presente
+instrumento, sendo o mesmo de PROPRIEDADE EXCLUSIVA de seus detentores, ou seja, a LICENCIANTE
+não está vendendo este SOFTWARE ao LICENCIADO, mas sim de acordo com a Lei de Software e com a
+Lei dos Direitos Autorais, licenciando o seu uso através da sua utilização não exclusiva conforme dos
+termos, condições deste presente EULA e/ou da proposta comercial entre as Partes. O dispositivo
+computacional, de telecomunicações e/ou meio físico utilizado para fornecer, gravar, transferir e
+permitir a sua utilização pelo LICENCIADO, não se confunde com o SOFTWARE, o qual continua sendo
+de propriedade da LICENCIANTE.
+3.2. O LICENCIADO não adquire, sob qualquer circunstância, nenhum direito de propriedade intelectual ou
+outros direitos exclusivos, incluindo patentes, desenhos, marcas, direitos autorais ou quaisquer direitos
+sobre informações confidenciais ou de negócio, bem como o conteúdo disponibilizado no Site, incluindo,
+mas não se limitando a textos, gráficos, imagens, logotipos, ícones, fotografias, conteúdo editorial,
+notificações, softwares e qualquer outro material, sobre ou relacionados ao SOFTWARE ou nenhuma
+Página 2 de 15
+
+=== PÁGINA 3 ===
+parte dele. O LICENCIADO também não adquire nenhum direito sobre ou relacionado ao SOFTWARE ou
+qualquer componente dele, além dos direitos expressamente licenciados ao LICENCIADO sob o presente
+EULA. Quaisquer direitos não expressamente concedidos sob o presente instrumento são reservados.
+3.3. Em nenhuma hipótese o LICENCIADO terá acesso ao código fonte do SOFTWARE ora licenciado, por este
+se tratar de propriedade intelectual da LICENCIANTE.
+4. DECLARAÇÕES DO LICENCIADO
+O LICENCIADO:
+a) declara que foi devidamente informado da política de confidencialidade e ambientes de proteção de
+informações confidenciais, dados pessoais e registros de acesso da LICENCIANTE, consentindo livre e
+expressamente às ações de coleta, uso, armazenamento e tratamento das referidas informações e dados
+b) compromete-se a não publicar, por intermédio do SOFTWARE, material racista, pornográfico, ofensivo,
+protegido por direitos autorais, calunioso ou difamatório, nem qualquer conteúdo, informação falsa ou
+que não esteja de acordo com a legislação vigente;
+c) compromete-se a não coletar dados de cartão de crédito de terceiros por meios que não possuam
+proteção contra fraudes, tais como telefone, e-mail, comunicadores instantâneos ou qualquer outro que
+não seja os locais apropriados dentro da interface do SOFTWARE, sendo que a inserção desses dados deve
+ser feita diretamente pelo titular do cartão de crédito.
+d) compromete-se a não armazenar ou coletar os dados de cartão de crédito de outra forma que a
+estabelecida no item acima, salvo se em conformidade com o padrão de segurança internacional PCI DSS.
+e) reconhece que o não cumprimento de prazos legais para a entrega de documentos fiscais ou recolhimento
+de impostos, taxas e demais compromissos fiscais, incluindo suas multas e penalidades, não serão
+atribuídos à LICENCIANTE, sendo reconhecido desde já sua única e exclusiva responsabilidade e obrigação
+perante qualquer órgão do governo ou quaisquer terceiros.
+f) reconhece, também, que em nenhuma hipótese os dados, informações e indicadores fornecidos pelo
+SOFTWARE serão ou poderão ser a causa única fonte de dados, e podem conter erros, de ordem
+administrativa, contábil e tributária. Assim jamais poderá imputar a LICENCIANTE essa responsabilidade,
+sendo reconhecido pelo LICENCIADO que todas as obrigações são suas próprias e exclusivas, ou de
+terceiros contratados, como contadores, advogados e outros técnicos habilitados. O SOFTWARE é apenas
+um meio computacional utilizado pela LICENCIANTE para facilitar e agilizar a computação dos dados e
+geração dos arquivos fiscais, contábeis e tributários para cumprimento, pela LICENCIANTE, das suas
+exclusivas obrigações perante qualquer Órgão regulador, tais como Receita Federal, Secretarias de
+Fazenda, Prefeituras, dentre outros.
+g) reconhece e se compromete a jamais fazer uso, ou recomendar o uso, do SOFTWARE em situações de
+missão crítica, onde a falha, atrasos, BUGs ou qualquer inexatidão nos dados fornecidos ou inseridos no
+SOFTWARE, possam levar a morte, danos pessoais, físicos, materiais, financeiros, sociais e/ou ambientais
+graves.
+h) declara estar ciente de todos as condições desta EULA, da sua aceitação, bem como da sua rescisão e
+demais alterações, serão registradas nos bancos de dados da LICENCIANTE e/ou de terceiros, juntamente
+com o IP, dados cadastrais do LICENCIADO, a data e hora em que foram realizadas, podendo tais
+Página 3 de 15
+
+=== PÁGINA 4 ===
+informações serem utilizadas como prova, independentemente do cumprimento de qualquer outra
+formalidade.
+i) declara que está ciente de que, em qualquer hipótese, deve atender rigorosamente a legislação,
+especialmente no que se refere às suas obrigações tributárias, fiscais, trabalhistas e previdenciárias, seja
+de natureza principal ou acessória, bem como quaisquer outras, entendendo que o SOFTWARE objeto
+deste EULA trata-se de uma condição de meio e não de resultado, não dispensando, portanto, a correta
+alimentação das informações e parametrizações necessárias pelo LICENCIADO com base na legislação em
+vigor.
+j) reconhece que para fazer uso de software, download e uso de aplicativos, usufruir e/ou acessar
+programas de computador, instalados ou não, consumir APIs e interfaces de comunicação/integração,
+próprios da LICENCIANTE ou de Terceiros, estes poderão compartilhar seus dados e/ou Informações e,
+assim concorda e autoriza, que tais Informações compartilhadas, pela LICENCIANTE e/ou Terceiros e,
+atribuídas de qualquer forma prevista por em seus termos de uso e/ou políticas de privacidade
+particulares e, que a LICENCIANTE não será responsável, sob qualquer hipótese pelo tratamento dado
+pelas informações por quaisquer Terceiros. Assim como, para fazer uso de recursos e/ou usufruir de
+algumas funcionalidades do SOFTWARE, deverá ceder, disponibilizar e/ou compartilhar suas Informações
+e dados inseridos no SOFTWARE e, que esses Terceiros poderão coletar, armazenar, compartilhar e/ou
+processar tais dados e Informações, sob seu expresso consentimento e acordo com as condições definidas
+pelos mesmos, sendo que a LICENCIANTE poderá fornecer, agir e compartilhar em seu nome e poder,
+como representante e mandatária, dentro ou fora do país e, que tal consentimento e autorização faz-se
+necessário para o pleno funcionamento dessas funcionalidades do SOFTWARE licenciado, que somente
+funcionará utilizando essas integrações, interligações, comunicações e compartilhamento de Informações
+com Terceiros, seus programas, aplicativos, APIs e softwares.
+k) compromete-se a não desenvolver, ou contratar terceiros que possam fazê-lo, um novo módulo ou
+produto que caracterize cópia, de todo ou em parte, que seja do banco de dados, API(s) e/ou interface de
+uso. Caso venha a descumprir esse compromisso, o código-fonte será considerado como parte do
+SOFTWARE fornecido pela LICENCIANTE, ficando, portanto, sua propriedade incorporada pela
+LICENCIANTE, seu uso condicionado a estas cláusulas contratuais e poderá ser solicitado uma cópia do
+código-fonte, bem como a interrupção do uso e funcionamento do mesmo;
+l) aceita receber comunicações via correio e/ou mensagem eletrônica sobre treinamentos, parcerias e
+campanhas relacionadas ao SOFTWARE e/ou outros produtos/serviços oferecidos, em conjunto ou não,
+pela LICENCIANTE.
+m) expressamente autoriza a LICENCIANTE a colher e utilizar seus dados técnicos e operacionais presentes
+no SOFTWARE, para fins de estudos e melhorias no SOFTWARE, bem como sua mercantilidade, em
+conjunto ou não, com produtos/serviços oferecidos por ela.
+n) aceita e autoriza, sem restrições, que a LICENCIANTE, a seu exclusivo critério, a qualquer tempo e sem a
+necessidade de comunicação prévia ao LICENCIADO: (i) altere, acrescente ou exclua qualquer parte ou
+conteúdo do Site; (ii) apague, total ou parcialmente, os dados inseridos no SOFTWARE que não estejam
+em consonância com as disposições deste EULA; (iii) altere quaisquer termos e condições deste EULA
+mediante simples comunicação ao LICENCIADO e;
+Página 4 de 15
+
+=== PÁGINA 5 ===
+o) reconhece a liberdade, aceita e autoriza que a LICENCIANETE suspenda, modifique ou encerre as
+atividades de licenciamento do SOFTWARE, ou de qualquer outro produto/serviço relacionado e/ou
+integrado, dela própria ou de terceiros, com simples comunicação prévia e antecedência mínima de 10
+(dez) dias, salvo nas hipóteses de caso fortuito, força maior ou indisponibilidade dos fornecedores de
+hospedagem, banco de dados e arquivos, contratados pela LICENCIANTE.
+p) entende que somente ele próprio, funcionário(s) e/ou pessoa cadastrada como usuário do SOFTWARE
+poderá solicitar a exclusão de dado(s) inserido(s) no SOFTWARE. Ainda, ele declara sua ciência de que
+uma vez excluído(s), não poderá(ão) mais ser recuperado(s), ficando a LICENCIANTE isenta de qualquer
+responsabilidade por quaisquer perdas ou danos decorrentes deste procedimento, bem como a validação
+de autorização e poderes da parte solicitante.
+q) manterá pessoal sempre treinado e capacitado para a operação do SOFTWARE, usando os recursos de
+aprendizagem disponibilizados no SOFTWARE, site(s) e/ou blog da LICENCIANTE e/ou terceiros, como
+vídeos, manuais, passo a passo, guias, dicas e outros.
+r) comunicará a LICENCIANTE as ocorrências de problemas/bugs no SOFTWARE e disponibilizará toda a
+documentação necessária para o pleno funcionamento das funcionalidades dele.
+s) manterá as suas expensas toda a infraestrutura computacional, de telecomunicações e outras necessárias
+ao acesso, uso e pleno funcionamento do SOFTWARE sob sua licença.
+t) responde exclusivamente por todas as informações inseridas, alteradas e/ou excluídas do SOFTWARE,
+mesmo que venham previamente preenchidas e/ou sugeridas por ele, isentando a LICENCIANTE de toda
+e qualquer responsabilidade sobre esse conteúdo.
+u) compromete-se a não utilizar o SOFTWARE, de forma direta ou como meio, para praticar, ou tentar
+praticar, ato ilícito, infração, violação de direitos, quebra de confidencialidade, danos a terceiros,
+publicação e/ou transmissão de vírus, worms cavalos de Tróia ou qualquer outro programa que possa
+contaminar, destruir ou alterar o pleno funcionamento do SOFTWARE, hardware ou programas de
+terceiros, incluindo a LICENCIANTE, incluindo, mas não se limitando, ao uso/meio para invasão,
+adulteração, eliminação, sequestro, publicação e/ou utilização de dados ou informações, sem autorização
+formal expressa do titular delas, em qualquer dispositivo ou servidor de hospedagem.
+v) declara ser o único responsável por: (i) possuir e deter autorização e, não estar proibido, de repassar,
+informar ou inserir qualquer informação ao LICENCIANTE e ao SOFTWARE; (ii) atender, em sua plenitude,
+toda a legislação vigente imposta e/ou decorrente de sua atividade ou em razão dela, seja pela utilização,
+ou não, do SOFTWARE; (iii) manter segredo, cuidar e manter seguro o usuário e senha de acesso ao
+SOFTWARE e caso tenha conhecimento de roubo ou perceba qualquer acesso não autorizado, troque
+imediatamente a senha utilizando os recursos do SOFTWARE para tal, sendo que qualquer acesso indevido
+e/ou não autorizado será de exclusiva responsabilidade do LICENCIADO (Usuário) que detém acesso a ela.
+w) declara que ao utilizar o SOFTWARE, além de aceitar integralmente e em ressalvas este “EULA”, também
+consente, livre e expressamente, que a LICENCIANTE colete, use, armazene e faça o tratamento de suas
+INFORMAÇÕES, incluindo, mas não se limitando, aos seus dados pessoais e, das empresas (pessoas
+jurídicas), financeiros, contábeis, tributários, bancários, de conta, empresariais e negociais, bem como
+dados de navegação como: IP, navegador utilizado, tipo de dispositivo, páginas acessadas, tempo de uso,
+áreas de tela utilizadas, menus, e a utilização de cookies para controle de audiência, os quais serão
+Página 5 de 15
+
+=== PÁGINA 6 ===
+necessários para que o serviço ofertado seja prestado em sua integralidade e a plena execução das
+funcionalidades disponibilizadas.
+x) consente livre e expressamente que suas INFORMAÇÕES poderão ser cedidas e/ou transferidas a terceiros
+em decorrência da venda, fusão, aquisição, reorganização societária ou qualquer outra mudança no
+controle da LICENCIANTE, bastando simples aviso ao mesmo.
+Parágrafo único: Fica expressamente proibida a reprodução, para qualquer finalidade, onerosa ou não,
+provisória ou permanente, de todo ou de qualquer parte componente do material fornecido ao LICENCIADO,
+inclusive o SOFTWARE. Qualquer reprodução não autorizada será considerada como ilegal e a sua prática
+acarretará os atos punitivos decorrentes e previstos pela legislação.
+5. DECLARAÇÕES DA LICENCIANTE
+A LICENCIANTE:
+a) empreenderá os esforços razoáveis para disponibilizar o SOFTWARE no máximo de tempo operacional
+possível (“Compromisso de Nível de Serviço” ou “SLA”). O Compromisso de Nível de Serviço não se aplica
+caso as circunstâncias de indisponibilidade resultem (i) de uma interrupção do fornecimento de energia
+elétrica ou paradas emergenciais não superiores a 1 (uma); (ii) forem causadas por fatores que fujam ao
+razoável controle da LICENCIANTE, inclusive casos de força maior ou de acesso à Internet e problemas
+correlatos; (iii) resultem de quaisquer atos ou omissões do LICENCIADO, de terceiros ou de aplicativos
+terceiros; (iv) resultem do equipamento, software ou outras tecnologias que o LICENCIADO usar que
+impeçam o acesso regular do SOFTWARE; (v) resultem de falhas de instâncias individuais não atribuíveis
+à indisponibilidade do LICENCIADO;
+b) manterá o SOFTWARE em funcionamento regular, se respeitadas as condições de uso definidas na
+documentação, neste instrumento, normalidade do funcionamento de todos os serviços de hospedagem
+e processamento dos dados e/ou código do SOFTWARE. Na ocorrência de falhas de programação (“BUG”),
+a LICENCIANTE fará os melhores esforços para corrigir tais falhas, podendo a seu critério substituir a cópia
+dos sistemas, aplicativos e/ou Site com falhas por cópias corrigidas;
+c) manterá atualizada as funções existentes no SOFTWARE com relação às variáveis normalmente alteradas
+pela legislação federal. A interpretação legal das normas será efetuada com base no entendimento
+majoritário dos “usuários” do SOFTWARE e/ou pela deliberação exclusiva pelo entendimento da
+LICENCIANTE. Ficam excluídas da manutenção e/ou alterações no SOFTWARE originárias de obrigações
+assumidas pelo LICENCIADO a quaisquer terceiros, entidades, sindicatos, associações, e/ou governo
+federal, estados e municípios, bem como necessidades específicas de certos segmentos, além do
+atendimento de legislações municipais e/ou estaduais;
+d) se reserva ao direito e poderá suspender e/ou cancelar o acesso ao SOFTWARE do LICENCIADO que
+desrespeite a legislação aplicável ou normas legais, bem como use o SOFTWARE de forma diversa a
+qualquer regra aqui definida;
+e) poderá alterar as especificações, layout, interface visual, e/ou qualquer característica funcional do
+SOFTWARE para a melhoria e/ou correções de erros;
+f) poderá bloquear o acesso ao SOFTWARE caso constate qualquer violação desta EULA ou entenda que
+alguma prática pelo LICENCIADO possa dar a entender de tratar-se de uma tentativa de violação.
+6. RESTRIÇÕES
+Página 6 de 15
+
+=== PÁGINA 7 ===
+6.1. É terminantemente proibido ao LICENCIADO ou a terceiros, de forma geral, copiar, ceder, licenciar,
+sublicenciar, revender, dar em locação e/ou em garantia, doar, alienar de qualquer forma, emprestar,
+redistribuir, modificar, adaptar, traduzir, transferir, total ou parcialmente, sob quaisquer modalidades,
+gratuitas ou onerosas, provisórias ou permanentes, para outra pessoa física ou jurídica, e ainda utilizar
+engenharia reversa, descompilar, desmontar, valer-se de qualquer tentativa de reverter a qualquer
+código de máquina ou fonte dos executáveis e componentes, bem como seus manuais e quaisquer
+outras partes relativas que compõem, em conjunto ou não, o SOFTWARE objeto do presente EULA.
+6.2. O LICENCIADO não poderá prestar serviços a terceiros utilizando o SOFTWARE da LICENCIANTE sem
+autorização prévia e expressa dela.
+7. PRAZO DE VIGÊNCIA, SUSPENSÃO E RESCISÃO
+7.1. O presente EULA vigorará pelo período de 12 (doze) meses, ou conforme disposto pelo Plano contratado
+pelo LICENCIADO, renováveis por iguais períodos desde que não haja manifestação expressa das partes
+em contrário, nos mesmos termos e condições, inclusive no que se refere à eventuais penalidades.
+7.2. As funcionalidades do SOFTWARE e a sua utilização serão liberadas ao LICENCIADO pelo evento do
+pagamento e quitação, a ser realizado pelo LICENCIADO em favor da LICENCIANTE conforme
+estabelecido na cláusula “REMUNERAÇÃO, VALORES E FORMA DE PAGAMENTO” deste EULA, mediante
+a liberação de acesso de uso ao usuário, garantindo a renovação do licenciamento temporário do
+SOFTWARE por mais 30 (trinta) dias, contados desde a data da última validade de liberação do acesso
+ao LICENCIADO, independentemente da data de registro da nova liberação e renovação contratual,
+podendo ocorrer ajustes de datas próximas para fechamento do ciclo mensal da periodicidade do plano
+contratado.
+7.3. O presente EULA pode ser rescindido por comum acordo entre as partes ou por qualquer das partes
+contratadas, desde que se verifique o não cumprimento, pela outra das obrigações aqui assumidas e
+independentemente de qualquer notificação, nos casos de encerramento das atividades empresariais,
+falência, concordata ou liquidação da outra parte.
+7.4. A rescisão deverá ser formalizada pela parte interessada 30 dias antes do vencimento da próxima data
+do ciclo periódico do plano de licenciamento contratado, por meio de correspondência eletrônica e
+entregue à outra parte, com aviso ou comprovação de recebimento.
+7.5. O EULA será rescindido após o recebimento da notificação e concordância da outra parte, sendo que
+qualquer valor devido por parte do LICENCIADO, inclusive ao que concerne ao próximo ciclo de
+vencimento do plano de licenciamento contratado, que será cobrado pro rata tempore do último
+vencimento até a data de rescisão efetiva.
+7.6. O EULA poderá, também, ser unilateralmente rescindido pelo LICENCIADO sem motivo justo, devendo,
+neste caso, arcar com o pagamento de multa no valor equivalente a 20% (vinte por cento), calculada
+sobre a(s) parcela(s) vincenda(s) / vencíveis até o término previsto nesta EULA vigente e/ou
+correspondente ao plano de licenciamento contratado.
+7.7. A inadimplência sobre os compromissos e deveres financeiros assumidos nesta EULA e/ou conforme
+definido no plano de licenciamento contratado, de quaisquer valores até as respectivas datas de
+vencimento, poderão acarretará na rescisão automática do EULA e darão causa a suspensão do acesso
+do LICENCIADO ao SOFTWARE até a efetiva regularização da(s) pendência(s) financeira(s).
+Página 7 de 15
+
+=== PÁGINA 8 ===
+7.7.1. O acesso ao SOFTWARE somente será restabelecido após a liquidação do pagamento integral
+efetuado pelo LICENCIANTE de todos os valores devidos, em aberto e vencidos. A identificação
+poderá ocorrer em até 5 (cinco) dias úteis após o pagamento pelo LICENCIADO, pois o sistema de
+compensação depende da efetiva liquidação por parte das instituições financeiras, não cabendo ao
+LICENCIADO o pleito de liberação imediata sem a efetiva baixa da liquidação compensada
+financeiramente.
+7.7.2. Caso o LICENCIADO não resolva a pendência financeira no prazo de 30 (trinta) dias contados do
+vencimento em atraso, a LICENCIANTE se reserva o direito de rescindir o presente EULA e apagar de
+forma definitiva e irrecuperável todas as informações do LICENCIADO que porventura estejam
+armazenadas no SOFTWARE, independentemente de outras disposições definidas neste
+instrumento.
+8. REMUNERAÇÃO, VALORES E FORMA DE PAGAMENTO
+8.1. Ao instalar ou usar o SOFTWARE, o LICENCIADO aceita com os termos e condições deste EULA e, fica
+desde já acordado em remunerar o LICENCIANTE no valor estipulado em proposta comercial específica
+ou conforme o plano de licenciamento escolhido no site, definido como o efetivamente contratado,
+referente à licença de uso temporária do SOFTWARE e suas funcionalidades previstas e especificadas
+em cada plano de licenciamento no Site, pelo período enquanto vigorar o EULA, sendo que poderá ser
+disponibilizado um período de testes (trial) sem custo ao LICENCIADO, conforme política comercial,
+plano de licenciamento, no Site ou acordo formal entre as Partes.
+8.1.1. O LICENCIADO, ao instalar, utilizar o SOFTWARE ou transcorrido in albis o prazo fixado no item
+anterior, fica obrigado a remunerar periodicamente, conforme disposto no plano de licenciamento
+contratado, o valor referente à licença de uso temporária do SOFTWARE, pelo período contratado,
+com direito a Suporte Técnico, conforme detalhado na cláusula “SUPORTE TÉCNICO”, independe de
+quaisquer outros contratos que o mesmo possa por ventura ter com as franquias, representantes
+comerciais, revendas ou assistências técnicas autorizadas pela LICENCIANTE a licenciar e prestar
+serviços de suporte técnico ao LICENCIADO.
+8.1.2. Caso a remuneração periódica prevista nesta EULA seja quitada após o vencimento original de cada
+parcela, mensal ou não, do ciclo do plano de licenciamento temporário do SOFTWARE, será cobrado
+2% (dois por cento) de multa sobre o valor devido, acrescido de juros de mora à base de 1%(um por
+cento) a cada 30 (trinta) dias e, caso o inadimplemento persista por mais de 15 (quinze) dias a
+LICENCIADA fica autorizada a promover o protesto do título e/ou registro do LICENCIADO nos órgãos
+de proteção ao crédito, que o mesmo desde já aceita e concorda com tais medidas restritivas de
+crédito.
+8.2. A LICENCIANTE poderá, a seu exclusivo critério, por mera liberalidade, oferecer descontos nos valores
+dos planos de licenciamento do Site ou definir a remuneração conforme Proposta Comercial específica.
+Neste caso, os descontos serão válidos por até a quantidade de meses definido nessa condição exclusiva
+definida entre as Partes. A LICENCIANTE poderá renovar ou não os percentuais de desconto, podendo
+ainda cancelar os descontos após o período de validade, sem aviso prévio.
+8.3. O LICENCIADO entende e tem conhecimento prévio dos requisitos computacionais ou regulatórios
+pertinentes as funcionalidades do plano de licenciamento escolhido e contratado juntamente com essa
+Página 8 de 15
+
+=== PÁGINA 9 ===
+EULA e obriga-se a disponibilizar todas as condições necessárias à instalação, configuração e plena
+utilização do SOFTWARE antes da contratação, durante o período de testes ou efetivo uso dele.
+8.4. O inadimplemento financeiro das obrigações prevista nessa EULA implica na perda do atendimento de
+suporte técnico, fornecimento de documentos e quaisquer outros serviços que possam vir a ser
+necessários ou não ao funcionamento do SOFTWARE e/ou adequação regulatória por parte do
+LICENCIADO, sem prejuízo cumulativo as outras disposições definidas neste instrumento.
+8.5. A data de vencimento do plano de licenciamento escolhido varia conforme a periodicidade definida
+entre as opções de planos de contratação disponibilizados e efetivamente contratado pelo LICENCIADO,
+sendo que em geral são planos mensais onde a cada período de mês fechado padrão de 30 dias, ocorre
+uma cobrança de novo valor para renovação do licenciamento do SOFTWARE para uso por mais 1 (um)
+mês subsequente, sendo a periodicidade mensal, sendo adequado a data de contratação ou utilização
+do SOFTWARE, para a data mais próxima do mês subsequente, caso houver.
+8.6. O valor dos planos de licenciamento estabelecidos no ato do licenciamento e aceite desta EULA, poderão
+ser reajustados anualmente, pelo IGPM da FGV ou, na falta dele, por índice indicado com antecedência
+de 7 (sete) dias do reajuste ao LICENCIADO.
+8.7. Na forma do inciso II, parágrafo primeiro, art. 27 da lei 9065/95, as alterações na conjuntura econômica
+que incremente os preços de custos dos serviços da LICENCIANTE, incluindo, mas não se limitando, aos
+serviços de hospedagem, telecomunicações , armazenagem e processamento de dados, serão
+motivadores para reajuste e atualização dos planos de licenciamento vigentes e o(s) contratado(s) pelo
+LICENCIADO, na proporção do aumento, a ser implantado imediatamente a contar do evento que
+promoveu o desequilíbrio contratual, tendo em vista que boa parte desses custos e serviços
+mencionados acima, são afetados financeiramente pela variação cambia do Real com o Dólar
+Americano.
+8.8. Os pagamentos previstos neste EULA serão devidos logo após o primeiro acesso ao SOFTWARE e
+decorrido o período de testes (trial), caso houver, independente de vir a LICENCIANTE ter ou não, neste
+período, utilizado o SOFTWARE em qualquer intensidade, ambiente homologação ou produção. Para
+que não haja nenhum compromisso financeiro pela LICENCIANTE, basta ele encerrar o uso do Software
+optando pela rescisão do EULA durante a fase de testes, pelo ato de cancelamento e cessação de uso da
+conta como usuário licenciado.
+9. INFORMAÇÕES, DADOS, RESTITUIÇÃO, BACKUP E EXPORTAÇÃO
+9.1. O LICENCIADO é o único responsável pela exportação dos seus dados e/ou informações do SOFTWARE,
+sejam durante a vigência deste EULA, durante o pleno e normal uso do SOFTWARE e/ou antes da
+solicitação de rescisão deste EULA com a LICENCIANTE, tendo os mecanismos e funcionalidades de
+exportação disponíveis na interface do SOFTWARE, da forma como está e/ou foram disponibilizados na
+forma do primeiro acesso do LICENCIANTE.
+9.1.1. Não é garantido um nível mínimo de dados por esse mecanismo de exportação, apenas são
+disponibilizados os dados principais e de livre decisão negocial / técnica da LICENCIANTE.
+9.1.2. O LICENCIADO deve validar se os mecanismos atendem aos seus critérios de exportação e dados
+mínimos, não tendo a LICENCIANTE a obrigação de fornecer em nenhum formato específico, padrão
+ou critérios mínimos de dados fornecidos pelo mecanismo de exportação.
+Página 9 de 15
+
+=== PÁGINA 10 ===
+9.2. Imediatamente após a solicitação e efetiva rescisão contratual entre as Partes, os dados serão
+permanentemente apagados e, desde já entendido pelo LICENCIADO que, não será possível a
+recuperação nem disponibilização posterior, sob nenhuma hipótese.
+9.3. Não obstante o disposto acima, as informações referentes à data e hora de acesso e ao endereço de
+protocolo de internet utilizado pelo LICENCIADO para acessar o SOFTWARE permanecerão armazenadas
+pela LICENCIANTE, independentemente do término da relação jurídica e comercial entre a LICENCIANTE
+e o LICENCIADO, da forma disposta e em cumprimento ao disposto no Artigo 15 da Lei nº 12.965/2014,
+podendo ser armazenados por um período maior de tempo mediante ordem judicial.
+10. SUPORTE TÉCNICO
+A LICENCIANTE prestará o serviço de “Suporte Técnico”, abaixo definido, pelo prazo de vigência deste EULA,
+de acordo com as seguintes condições:
+10.1. Compreende como serviço de “Suporte Técnico”, o atendimento eletrônico remoto via internet
+através de artigos em base de conhecimento, troca de mensagens eletrônicas, sejam por e-mail,
+aplicativos, site e/ou chat oficiais da LICENCIANTE, onde o LICENCIADO poderá dirimir dúvidas,
+esclarecer questões, receber ajuda operacional, orientações e/ou receber treinamento das
+funcionalidades do SOFTWARE, entre outras solicitações, incluindo a manutenção e atualização do
+mesmo.
+10.2. É vedado a prestação de suporte técnico que não sejam pelos canais oficiais da LICENCIANTE.
+10.3. O Suporte Técnico por telefone ou aplicativo com recurso de chamada de voz estará disponível
+somente nos planos de licenciamento de uso contidos no Site, ou em Proposta Comercial, que assim
+especificarem essa modalidade como disponível e será realizado pelo número de atendimento oficial
+divulgado ao LICENCIADO dessa modalidade.
+10.4. Na modalidade ou plano de contratação que prevê suporte presencial:
+10.4.1. A LICENCIANTE apenas utilizará de visita presencial (in loco) no endereço do LICENCIADO com equipe
+técnica treinada e qualificada ao suporte de manutenção do SOFTWARE, exclusivamente caso a
+LICENCIANTE julgue necessário e não haja nenhuma outra opção de atendimento e prestação do
+Suporte Técnico de forma remota, como previsto nesta cláusula. O prazo de atendimento nessa
+modalidade varia de acordo com a previsão de distância de deslocamento entre as Partes,
+disponibilidade de agenda técnica, entre outros fatores, sendo que o agendamento será de livre
+negociação entre as Partes, a fim de promover o atendimento no prazo mais breve possível.
+10.5. O horário de atendimento do Suporte Técnico se limita ao horário de atendimento comercial da
+LICENCIANTE, divulgado em seu site oficial, independentemente do horário comercial das atividades do
+LICENCIADO;
+NÃO se compreende como serviço de suporte técnico e serão onerados financeiramente à parte, mediante
+orçamento prévio e/ou tabela de preços, negociado entre as Partes, os serviços definidos abaixo:
+a) correções de erros provenientes de operação e uso indevido do SOFTWARE pelo LICENCIADO;
+b) recuperação de arquivos, quando possível, devido a erros de operação, falhas do equipamento ou
+dispositivo, sistema operacional, instalação elétrica, queda de energia e erros em programas
+específicos do usuário que por ventura possam, de forma direta ou indireta, causar danos ao
+equipamento ou dispositivo de acesso ou ao próprio SOFTWARE e seus componentes;
+Página 10 de 15
+
+=== PÁGINA 11 ===
+c) migração e conversão de dados de/para outros equipamentos ou SOFTWARE, sem garantia de
+compatibilidade dos dados;
+d) serviço de manutenção, reparo ou troca de peças de computadores, dispositivos, equipamentos de
+captura de transações eletrônicas (“POS”), TEF ou qualquer outro periférico, incluindo, mas não se
+limitando, os equipamentos de comunicação e o cabeamento estruturado da rede local entre os
+computadores, independentemente se fora(m) adquirido(s) ou fornecido(s) pela LICENCIANTE como
+parte dos equipamentos necessários à utilização do SOFTWARE, sendo que o suporte técnico aos
+equipamentos fornecidos pela LICENCIANTE deve é se limita as condições previstas em contrato
+específico sobre esse fornecimento, apartado deste EULA;
+e) serviços técnicos contratados e/ou prestados por terceiros, sejam franqueados ou representantes
+comerciais autorizados pela LICENCIANTE, tendo em vista que o contrato de prestação ou
+manutenção ora acordado entre estes e o LICENCIADO são de inteira e única responsabilidade e
+pactuado entre as partes acordadas, não tendo a LICENCIANTE nenhum vínculo ou relacionamento
+nessa prestação de serviços com estes e até mesmo os seus Representantes Comerciais ou
+franqueados no que concerne este tipo de serviço;
+f) atendimento para resolução de dúvidas quanto à utilização, manutenção e correção preventiva de
+defeitos ou problemas identificados em qualquer programa de computador, aplicativo, POS, TEF,
+Pinpad de terceiros, incluindo nesses o gerenciador padrão e o programa de computador para
+processamento das transferências eletrônicas de fundos desenvolvidos pelas administradoras de
+cartão de crédito e suas contratadas. O suporte técnico sobre eles será prestado pelos seus
+fornecedores, distribuidores, integradores ou respectivas empresas licenciantes / responsáveis;
+g) criação ou modificação de relatórios do SOFTWARE, personalizando e/ou atendendo necessidades
+particulares do LICENCIADO.
+11. RESPONSABILIDADES E GARANTIA LIMITADA
+11.1. A LICENCIANTE não se responsabiliza por defeitos de programação de programas de computador
+de terceiros, que podem ser fundamentais ao pleno funcionamento do SOFTWARE licenciado, nem aos
+eventuais danos causados e interrupções de funcionamento do SOFTWARE no estabelecimento do
+LICENCIADO ou em qualquer terceiro. Assim como não responde por defeitos originários de hardware
+como: dispositivos, equipamentos e/ou periféricos, instalações elétricas, rede de comunicações,
+hospedagem dos serviços necessários ao funcionamento do SOFTWARE, incluindo, mas não se
+limitando, ao bando de dados, ou de qualquer outro programa de computador, ou partes do mesmo
+como: componentes, APIs, Webservices, Sockets, dentre outros, que se comuniquem e/ou troquem
+dados, em conjunto ou não.
+11.2. No máximo entendido e permitido pela legislação em vigor, o SOFTWARE é fornecido “no estado
+em que se encontra”, “como está” e/ou “conforme a disponibilidade”, a título genérico, com todas as
+falhas que possam existir e sem garantia de qualquer espécie. A LICENCIANTE não oferece qualquer
+outra garantia, expressa ou implícita, ao LICENCIADO, especialmente no que se refere à mercantilidade
+e adaptação do SOFTWARE a um propósito particular do LICENCIADO, ou mesmo ao atendimento das
+necessidades ou expectativas dele.
+11.2.1. Não obstante o disposto acima, a LICENCIANTE não garante que as funcionalidades do SOFTWARE
+atendem às suas expectativas, que a operação do SOFTWARE será ininterrupta ou livre de erros
+Página 11 de 15
+
+=== PÁGINA 12 ===
+(BUGs), que qualquer serviço continuará disponível, que os defeitos no SOFTWARE serão corrigidos
+ou que o SOFTWARE será compatível ou funcione com qualquer SOFTWARE, aplicações ou serviços
+de terceiros.
+11.3. Algumas atualizações na forma de correções de defeitos, BUGs ou melhorias na usabilidade
+poderão ser adquiridas pelo LICENCIADO, desde que elas estejam disponíveis e com os seus custos de
+aquisição, instalação, treinamento, configuração e disponibilização especificados e, definidos em
+comum acordo entre as Partes.
+11.3.1. Futuras versões poderão contemplar prováveis alterações da legislação e correções de BUGs, sendo
+que, a LICENCIANTE não possui compromisso de prazo para desenvolvimento, testes e
+disponibilização destas novas versões e/ou seus recursos ao LICENCIADO. A instalação e o
+treinamento das novas funcionalidades aderidas ao SOFTWARE poderão ser condicionadas ao
+pagamento de custos definidos pela LICENCIANTE e condicionado à disponibilidade técnica de
+implantação e/ou disponibilização delas.
+11.4. Em nenhuma circunstância a LICENCIANTE, nem qualquer outra pessoa responsável pelo
+desenvolvimento, implantação, comercialização, produção, treinamento, suporte técnico, atendimento
+e/ou licenciamento do SOFTWARE, incluindo mas não se limitando a parceiros comerciais,
+representantes, franquias e/ou contratados terceiros, serão responsáveis, nem se responsabilizam, por:
+(i) quaisquer perdas, diretas ou indiretas; (ii) lucros cessantes; (iii) interrupções de funcionamento de
+negócios ou não continuidade do negócio; (iv) perda de dados ou falha de transmissão ou recepção
+deles; (v) danos pessoais ou empresariais; (vi) qualquer prejuízo incidental, especial, indireto ou
+consequente; (vii) perda de lucro, corrupção ou perda de dados; (viii) qualquer outro prejuízo ou perda
+comercial, decorrentes ou relacionados ao seu uso ou sua inabilidade em usar o SOFTWARE; (ix) falha
+de operação, operação por pessoas não autorizadas ou qualquer outra causa em que não exista culpa
+da LICENCIANTE; (x) cumprimento dos prazos legais do LICENCIADO para a entrega de documentos
+fiscais e/ou pagamentos de impostos; (xi) pelos danos ou prejuízos decorrentes de tomada de decisões
+administrativas, gerenciais ou comerciais tomadas com base nas informações fornecidas pelo
+SOFTWARE, sendo o mesmo apenas meio; (xii) por problemas definidos como “caso fortuito” ou “força
+maior”, contemplados pelo Art. 393 do Código Civil Brasileiro; (xiii) por eventuais problemas oriundos
+de ações de terceiros, serviços de telecomunicações, que possam interferir na qualidade do serviço,
+incluindo mas não se limitando a invasões, ataques ou indisponibilidade de serviços, bem como a mera
+lentidão, na conexão e/ou troca de Informações com programas de computador e/ou APIs de terceiros
+que se conectam com o SOFTWARE; (xiv) precisão das informações fornecidas por Terceiros, seja quanto
+à legalidade ou acuracidade; (xv) por quaisquer produtos e/ou serviços oferecidos por meio dos sites
+e/ou meios virtuais de quaisquer Terceiro, ainda que de maneira solidária, em parceria ou subsidiária;
+(xvi) por eventuais infrações legais cometidas pelo LICENCIADO, de ordem fiscal, tributária, trabalhista,
+previdenciária, criminal, ou qualquer outra; (xvii) pela informações nele contidos, geração e/ou envio
+de obrigações fiscais acessórias, de responsabilidade do LICENCIADO; ou por qualquer outro motivo
+relacionado ao SOFTWARE, tanto do LICENCIADO quanto de terceiros, decorrente do uso e/ou da
+impossibilidade de utilizar o SOFTWARE, ainda que a LICENCIANTE e/ou qualquer representante,
+franqueado ou parceiro comercial tenha sido notificado.
+Página 12 de 15
+
+=== PÁGINA 13 ===
+11.5. Sob nenhuma circunstância a responsabilidade integral da LICENCIANTE com relação ao
+LICENCIADO por todos os danos excederá a quantia correspondente ao último ciclo, mensal ou anual,
+do plano de licenciamento pago pelo LICENCIADO em favor da LICENCIANTE pela obtenção da presente
+licença de SOFTWARE deste EULA.
+11.6. O SOFTWARE tem como finalidade o fornecimento específico de meios e não de resultados,
+portanto a LICENCIANTE não se responsabiliza por eventuais danos, informações adversas ou
+incoerentes, nem como à administração das informações contidas no SOFTWARE e quaisquer dados que
+possam estar registrados nas bases de dados do SOFTWARE. O LICENCIADO é integralmente responsável
+pelos dados ou informações nele inseridos, atualizados e apagados, mesmo que os comandos para
+efetivação de tais operações forem oriundos do SOFTWARE, suas interfaces de aplicação para integração
+(APIs) ou de programas de computador de terceiros (ex. gerenciadores de banco de dados) que possam
+ter acesso, direta ou indiretamente, aos bancos de dados do sistema.
+11.7. A LICENCIANTE não se responsabiliza pelo uso indevido do SOFTWARE objeto deste EULA, acesso
+externo aos bancos de dados do software ou recursos para hospedagem e disponibilização de acesso,
+tendo em vista que a LICENCIANTE não é o fabricante/desenvolvedor da hospedagem, do gerenciador
+dos bancos de dados ou qualquer outro recurso computacional de terceiros, utilizados pelo SOFTWARE
+para o seu funcionamento.
+11.7.1. E não garante também o seu desempenho ou poder de processamento, mesmo que os requisitos
+mínimos recomendados forem cumpridos de qualquer forma. Tendo em vista que, a possibilidade
+de utilização do SOFTWARE está diretamente relacionada com performance do hardware
+(dispositivo, equipamento ou periférico) em utilização, sendo que o mesmo pode ser fornecido por
+vários fabricantes e cada um deles possui suas especificações, que podem variar, plataformas e
+desempenho diferentes, mesmo com as mesas especificações técnicas.
+11.8. A LICENCIANTE não fornece, expressa ou implicitamente, quaisquer outras garantias, inclusive de
+comercialização ou adequação a um fim específico, sejam quanto ao SOFTWARE, seus manuais ou
+documentação correlata. A garantia não se aplica a falhas do SOFTWARE resultantes de acidente,
+problemas técnicos de hospedagem do SOFTWARE e dos bancos de dados, adulteração, uso indevido,
+não reconhecido ou autorizado pela LICENCIANTE.
+11.9. A LICENCIANTE não garante, nem fornece regularidade sobre a sincronização dos dados entre o
+SOFTWARE e suas partes, sejam aparentemente integrantes, fornecidas por ela ou de terceiros,
+incluindo, mas não se limitando, aos programas de computador instalados no(s) computador(es), ao(s)
+aplicativo(s) instalados no(s) dispositivo(s) como tablet(s) e Smartphone(s), dentre outros. Tais partes,
+programas e/ou aplicativos funcionam de forma independente e são acionados por métodos de
+sincronização, que como qualquer um, podem falhar e/ou conter BUGs, que prejudicam a integralidade
+e replicação de dados entre eles, suas partes, APIs, banco de dados, arquivos e outros componentes.
+11.10. A LICENCIANTE empresa o uso de padrões e medidas de segurança adequadas de acordo com o
+mercado para a proteção das Informações armazenadas no SOFTWARE, assim como para o acesso delas.
+Contudo, o LICENCIADO reconhece que nenhum programa de computador, banco de dados, servidor ou
+software está absolutamente protegido e imune a ataques, invasões, não sendo a LICENCIANTE
+responsável por qualquer exclusão, obtenção, utilização ou divulgação não autorizada de qualquer
+Página 13 de 15
+
+=== PÁGINA 14 ===
+Informação ou dado, resultantes de tais ataques ou invasões não autorizadas, que a LICENCIANTE não
+poderia razoavelmente evitar por meio dos referidos padrões de segurança.
+12. DISPOSIÇÕES GERAIS E LEGAIS
+12.1. Todos os direitos previstos neste EULA e na legislação em vigor, são cumulativos de modo que
+fato caracterizando a omissão ou transigência das partes no cumprimento deste EULA não constituirá
+novação, renúncia ou modificação do pactuado, ficando convencionado, para todos os fins, que o fato
+será mera liberalidade, renunciando as partes invocá-lo em seu benefício, para todo e qualquer fim de
+direito.
+12.2. Não constituem causa de rescisão contratual o não cumprimento das obrigações aqui assumidas
+pelas partes em virtude de fatos que independam de suas vontades, tais como os previstos nas hipóteses
+do art. 1058 do Código Civil Brasileiro ou de alterações de qualquer âmbito na legislação federal ou
+estadual, que possam direta ou indiretamente alterar ou incluir obrigações diferentes as desse EULA
+não existiam ou ainda não estavam em vigor.
+12.3. Nenhum franqueado, representante ou parceiro comercial, preposto ou funcionário da
+LICENCIANTE está autorizado a fazer qualquer modificação, concessão e/ou adendo a este EULA.
+Portanto, as condições aqui definidas são definitivas e prevalecem sobre quaisquer outras, orais ou
+escritas, explícitas ou implícitas, ora acordadas, por mais privilegiadas que sejam.
+12.3.1. O LICENCIADO cede à LICENCIANTE, a título gratuito, o direito de uso de sua imagem, logo e marca
+para fins de campanhas promocionais e publicitárias deste, sem que nada haja a ser reclamado
+acerca de direitos conexos à imagem do LICENCIADO ou qualquer outro, por tempo indeterminado
+em locais e veículos a critério da LICENCIANTE, sempre que convier a LICENCIANTE, mesmo que após
+a resilição e/ou extinção deste EULA.
+12.4. A autorização de uso do SOFTWARE é fornecida por CNPJ. Desta forma, o SOFTWARE somente
+poderá operar sob o regime de cada empresa, necessitando para cada CNPJ uma licença específica,
+seguindo as definições dos planos de licenciamento do Site.
+12.5. Fica vedado ao LICENCIADO e seus sucessores transferir os direitos e obrigações acordados neste
+EULA. Tal limitação, no entanto, não restringe a LICENCIANTE, que poderá, a qualquer tempo, ceder, no
+todo ou em parte, os direitos e obrigações inerentes ao presente EULA.
+12.6. Não constitui causa de rescisão contratual o não cumprimento das obrigações aqui assumidas em
+decorrência de fatos que independam da vontade das partes, tais como os que configuram o caso
+fortuito ou força maior, conforme previsto no artigo 393 do Código Civil Brasileiro.
+12.7. Se qualquer disposição deste EULA for considerada nula, anulável, inválida ou inoperante,
+nenhuma outra disposição deste EULA será afetada como consequência disso e, portanto, as disposições
+restantes deste EULA permanecerão em pleno vigor e efeito como se tal disposição nula, anulável,
+inválida ou inoperante não estivesse contida neste EULA.
+12.8. A LICENCIANTE poderá, por meio de comunicação ao endereço eletrônico indicado pelo
+LICENCIADO em seu cadastro ou por meio de aviso no Site, definir preços para a oferta de determinados
+conteúdos e/ou serviços, ainda que inicialmente tais serviços tenham sido ofertados de forma gratuita,
+sendo a utilização destes, após o referido aviso, considerada como concordância do LICENCIADO com a
+cobrança de tais preços, caso não deixe de fazer uso dos mesmos.
+Página 14 de 15
+
+=== PÁGINA 15 ===
+O LICENCIADO declara ter lido, compreendido e aceito todo o disposto neste instrumento, integralmente e sem
+ressalvas, bem como declara ter o pleno conhecimento dos direitos e obrigações decorrentes deste EULA, estando
+assim todos os termos e condições definidos, ficam as Partes, pelos seus representantes legais, dotados de
+suficientes poderes para assumirem as obrigações aqui previstas, aceitam e concordam com o presente EULA de
+forma eletrônica, pela concordância com este mediante a contratação e/ou o uso do SOFTWARE.
+Este EULA será regido, interpretado e se sujeitará às leis brasileiras e, o LICENCIADO e a LICENCIANTE desde logo
+elegem, de forma irrevogável e irretratável, o foro da cidade de Brasília, Distrito Federal, para reconhecer e
+extinguir dúvidas a respeito do presente EULA, com a exclusão de qualquer outro, por mais privilegiado que seja
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . .
+Página 15 de 15
+

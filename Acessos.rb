@@ -1,13 +1,14 @@
-5087
-5090
-5092
-5094
-5077
-4991
-5041
-5060
+1855538642
+8aw1x8
+
+1496410242
+4rkx8au4
 
 
+ROSA FLOR 
+53140815000132 
 
-botar a diferença como troco
+Atualização em lote erro
 
+1956758246
+jebji4ha

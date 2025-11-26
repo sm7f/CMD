@@ -38,7 +38,7 @@ netsh advfirewall set allprofiles state off
 control /name Microsoft.NetworkAndSharingCenter
 
 "SCI"
-REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 10600
+REG ADD "HKCU\SOFTWARE\VB and VBA Program Settings\Psylicn\Controle" /v CdEmpCntCtr /d 7304
 
 "Local Regedit"
 Computador\HKEY_CLASSES_ROOT\VirtualStore\MACHINE\SOFTWARE\WOW6432Node\_Maqplan Software
@@ -58,6 +58,7 @@ foreach ($key in $regKeys) {
     }
 }
 
+
 "Permissão"
 icacls "C:\Maqplan" /grant "Todos":(OI)(CI)F /t /c
 icacls "C:\MaqplanNFe" /grant "Todos":(OI)(CI)F /t /c
@@ -68,6 +69,8 @@ icacls "C:\Client TEF" /grant "Todos":(OI)(CI)F /t /c
 PowerShell
 Get-Printer
 Remove-Printer -Name "MP-4200 TH"
+
+
 
 "Teste Ping"
 nfce.svrs.rs.gov.br
@@ -129,7 +132,7 @@ Get-computerInfo
 
 
 Adicionar ADM
-net user administrator /active:yes
+net user administrador /active:no
 
 Atualizar drivers
 pnputil /scan-devices
@@ -145,4 +148,7 @@ Invoke-WebRequest "https://aka.ms/vs/17/release/vc_redist.x64.exe" -OutFile "$en
 
 parcerias.maq@maqplan.com.br
 $UQK*5H6RFnpdF7
+
+thiago.lima@maqplan.com.br 
+Xel90w0C 
  
