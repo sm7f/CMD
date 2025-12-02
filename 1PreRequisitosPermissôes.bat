@@ -150,5 +150,5 @@ parcerias.maq@maqplan.com.br
 $UQK*5H6RFnpdF7
 
 thiago.lima@maqplan.com.br 
-Xel90w0C 
+M4qPl4n* 
  
