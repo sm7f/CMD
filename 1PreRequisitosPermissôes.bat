@@ -150,10 +150,8 @@ parcerias.maq@maqplan.com.br
 $UQK*5H6RFnpdF7
 
 thiago.lima@maqplan.com.br 
-<<<<<<< HEAD
 M4qPl4n* 
  
-=======
 Xel90w0C 
 
 "Framework Windows 10"
@@ -161,4 +159,4 @@ dotnetfx35.exe
 dotnetfx40_full_x86_x64.exe
 NDP462-KB3151800-x86-x64-AllOS-ENU.exe
 NDP48-x86-x64-AllOS-ENU.exe
->>>>>>> 1db6624faa0c920087ba79967f1a5dfdc1923e18
+
