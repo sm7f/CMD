@@ -22,18 +22,13 @@ Houve uma atualização na receita onde teve mudanças na emissão de notas, vai
 # Posso mandar audio
 Se você puder enviar a foto do erro, será mais fácil para analisarmos e ajudarmos da melhor forma possível. Se preferir, também pode enviar um áudio explicando o problema.
 
-# Apresentação 
+# Acesso Remoto
+Me informe o acesso remoto do TeamViewer
+
+# Como posso ajudar
 Sou do time Maqplan, da equipe de Suporte.
 Estou à disposição para te ajudar com qualquer problema no sistema.
 
 Você poderia me detalhar melhor o que está ocorrendo?
 Se tiver alguma imagem do erro, isso ajudaria bastante. Se puder, me envie por aqui.
-
-
-
-
-# Acesso Remoto
-Me informe o acesso remoto do TeamViewer
-
-# Como posso ajudar
 
