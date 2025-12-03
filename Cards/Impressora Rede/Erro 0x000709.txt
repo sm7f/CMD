@@ -1,0 +1,6 @@
+1. execute o CMD como administrador
+2. cole o código: reg add HKLM\SYSTEM\CurrentControlSet\Control\Print /v DnsOnWire /t REG_DWORD /d 1
+3. reinicie o spooler de impressão:
+3.1.  net stop spooler
+3.2. net start spooler
+4. instale a impressora
