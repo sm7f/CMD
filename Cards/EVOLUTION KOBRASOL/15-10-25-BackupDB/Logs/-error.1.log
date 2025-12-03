@@ -1,0 +1,331 @@
+               -------------- Error (2025-10-07 14:10:32.9802) --------------
+               
+               Call Site: PDV.Telas.VwErro.Show
+               Exception Type: System.Reflection.TargetInvocationException
+               Exception Message: Uma exceção foi acionada pelo destino de uma chamada.
+               Stack Trace:    em System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   em System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   em System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   em System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   em System.RuntimeType.CreateInstanceImpl(BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes, StackCrawlMark& stackMark)
+   em System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   em System.Activator.CreateInstance(Type type, Object[] args)
+   em System.Xaml.Schema.SafeReflectionInvoker.CreateInstanceCritical(Type type, Object[] arguments)
+   em System.Xaml.Schema.SafeReflectionInvoker.CreateInstance(Type type, Object[] arguments)
+   em System.Xaml.Schema.XamlTypeInvoker.CreateInstance(Object[] arguments)
+   em MS.Internal.Xaml.Runtime.ClrObjectRuntime.CreateInstanceWithCtor(XamlType xamlType, Object[] args)
+   em MS.Internal.Xaml.Runtime.ClrObjectRuntime.CreateInstance(XamlType xamlType, Object[] args)
+   em MS.Internal.Xaml.Runtime.PartialTrustTolerantRuntime.CreateInstance(XamlType xamlType, Object[] args)
+   em System.Xaml.XamlObjectWriter.Logic_CreateAndAssignToParentStart(ObjectWriterContext ctx)
+   em System.Xaml.XamlObjectWriter.WriteStartMember(XamlMember property)
+   em System.Xaml.XamlWriter.WriteNode(XamlReader reader)
+   em System.Windows.Markup.WpfXamlLoader.TransformNodes(XamlReader xamlReader, XamlObjectWriter xamlWriter, Boolean onlyLoadOneNode, Boolean skipJournaledProperties, Boolean shouldPassLineNumberInfo, IXamlLineInfo xamlLineInfo, IXamlLineInfoConsumer xamlLineInfoConsumer, XamlContextStack`1 stack, IStyleConnector styleConnector)
+   em System.Windows.Markup.WpfXamlLoader.Load(XamlReader xamlReader, IXamlObjectWriterFactory writerFactory, Boolean skipJournaledProperties, Object rootObject, XamlObjectWriterSettings settings, Uri baseUri)
+   em System.Windows.Markup.WpfXamlLoader.LoadBaml(XamlReader xamlReader, Boolean skipJournaledProperties, Object rootObject, XamlAccessLevel accessLevel, Uri baseUri)
+   em System.Windows.Markup.XamlReader.LoadBaml(Stream stream, ParserContext parserContext, Object parent, Boolean closeStream)
+   em System.Windows.Application.LoadBamlStreamWithSyncInfo(Stream stream, ParserContext pc)
+   em System.Windows.Application.LoadComponent(Uri resourceLocator, Boolean bSkipJournaledProperties)
+   em System.Windows.Application.DoStartup()
+   em System.Windows.Application.<.ctor>b__1_0(Object unused)
+   em System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   em System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+
+               -------------- Error (2025-10-07 14:15:55.2652) --------------
+               
+               Call Site: PDV.Telas.VwErro.Show
+               Exception Type: System.InvalidOperationException
+               Exception Message: Não é possível executar esta operação enquanto o processamento do dispatcher está suspenso.
+               Stack Trace:    em System.Windows.Threading.Dispatcher.PushFrame(DispatcherFrame frame)
+   em System.Windows.Window.ShowHelper(Object booleanBox)
+   em System.Windows.Window.Show()
+   em System.Windows.Window.ShowDialog()
+   em PDV.Telas.VwMensagem.Show(String mensagem, String cabecalho, MessageBoxButton btMensagem)
+   em PDV.Paginas.PesquisasCadastros.PgCadastroCliente.ValidarCPFCNPJ()
+   em PDV.Paginas.PesquisasCadastros.PgCadastroCliente.TbCPFCNPJ_Pasting(Object sender, DataObjectPastingEventArgs e)
+   em System.Windows.DataObjectPastingEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   em System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   em System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   em System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   em System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   em System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   em System.Windows.Documents.TextEditorCopyPaste._DoPaste(TextEditor This, IDataObject dataObject, Boolean isDragDrop)
+   em System.Windows.Documents.TextEditorCopyPaste.Paste(TextEditor This)
+   em System.Windows.Documents.TextEditorCopyPaste.OnPaste(Object target, ExecutedRoutedEventArgs args)
+   em System.Windows.Input.CommandBinding.OnExecuted(Object sender, ExecutedRoutedEventArgs e)
+   em System.Windows.Input.CommandManager.ExecuteCommandBinding(Object sender, ExecutedRoutedEventArgs e, CommandBinding commandBinding)
+   em System.Windows.Input.CommandManager.FindCommandBinding(Object sender, RoutedEventArgs e, ICommand command, Boolean execute)
+   em System.Windows.Input.CommandManager.OnExecuted(Object sender, ExecutedRoutedEventArgs e)
+   em System.Windows.UIElement.OnExecutedThunk(Object sender, ExecutedRoutedEventArgs e)
+   em System.Windows.Input.ExecutedRoutedEventArgs.InvokeEventHandler(Delegate genericHandler, Object target)
+   em System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   em System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   em System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   em System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   em System.Windows.UIElement.RaiseEvent(RoutedEventArgs args, Boolean trusted)
+   em System.Windows.Input.RoutedCommand.ExecuteImpl(Object parameter, IInputElement target, Boolean userInitiated)
+   em System.Windows.Input.RoutedCommand.ExecuteCore(Object parameter, IInputElement target, Boolean userInitiated)
+   em System.Windows.Input.CommandManager.TransferEvent(IInputElement newSource, ExecutedRoutedEventArgs e)
+   em System.Windows.Input.CommandManager.OnExecuted(Object sender, ExecutedRoutedEventArgs e)
+   em System.Windows.UIElement.OnExecutedThunk(Object sender, ExecutedRoutedEventArgs e)
+   em System.Windows.Input.ExecutedRoutedEventArgs.InvokeEventHandler(Delegate genericHandler, Object target)
+   em System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   em System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   em System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   em System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   em System.Windows.UIElement.RaiseEvent(RoutedEventArgs args, Boolean trusted)
+   em System.Windows.Input.RoutedCommand.ExecuteImpl(Object parameter, IInputElement target, Boolean userInitiated)
+   em System.Windows.Input.RoutedCommand.ExecuteCore(Object parameter, IInputElement target, Boolean userInitiated)
+   em MS.Internal.Commands.CommandHelpers.CriticalExecuteCommandSource(ICommandSource commandSource, Boolean userInitiated)
+   em System.Windows.Controls.MenuItem.InvokeClickAfterRender(Object arg)
+   em System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   em System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+
+               -------------- Error (2025-10-07 14:21:07.3445) --------------
+               
+               Call Site: PDV.Telas.VwErro.Show
+               Exception Type: System.ArgumentException
+               Exception Message: '-11' não é um valor válido para a propriedade 'MaxHeight'.
+               Stack Trace:    em System.Windows.DependencyObject.SetValueCommon(DependencyProperty dp, Object value, PropertyMetadata metadata, Boolean coerceWithDeferredReference, Boolean coerceWithCurrentValue, OperationType operationType, Boolean isInternal)
+   em System.Windows.DependencyObject.SetValue(DependencyProperty dp, Object value)
+   em PDV.Telas.VwFundoPrincipal.TelaInicial_SizeChanged(Object sender, SizeChangedEventArgs e)
+   em System.Windows.SizeChangedEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   em System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   em System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   em System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   em System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   em System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   em System.Windows.FrameworkElement.OnRenderSizeChanged(SizeChangedInfo sizeInfo)
+   em System.Windows.ContextLayoutManager.fireSizeChangedEvents()
+   em System.Windows.ContextLayoutManager.UpdateLayout()
+   em System.Windows.UIElement.UpdateLayout()
+   em System.Windows.Interop.HwndSource.Process_WM_SIZE(UIElement rootUIElement, IntPtr hwnd, WindowMessage msg, IntPtr wParam, IntPtr lParam)
+   em System.Windows.Interop.HwndSource.LayoutFilterMessage(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   em MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   em MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   em System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   em System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+
+               -------------- Error (2025-10-07 14:21:07.4735) --------------
+               
+               Call Site: PDV.Telas.VwErro.Show
+               Exception Type: System.ArgumentException
+               Exception Message: '-11' não é um valor válido para a propriedade 'MaxHeight'.
+               Stack Trace:    em System.Windows.DependencyObject.SetValueCommon(DependencyProperty dp, Object value, PropertyMetadata metadata, Boolean coerceWithDeferredReference, Boolean coerceWithCurrentValue, OperationType operationType, Boolean isInternal)
+   em System.Windows.DependencyObject.SetValue(DependencyProperty dp, Object value)
+   em PDV.Telas.VwFundoPrincipal.TelaInicial_SizeChanged(Object sender, SizeChangedEventArgs e)
+   em System.Windows.SizeChangedEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   em System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   em System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   em System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   em System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   em System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   em System.Windows.FrameworkElement.OnRenderSizeChanged(SizeChangedInfo sizeInfo)
+   em System.Windows.ContextLayoutManager.fireSizeChangedEvents()
+   em System.Windows.ContextLayoutManager.UpdateLayout()
+   em System.Windows.ContextLayoutManager.UpdateLayoutCallback(Object arg)
+   em System.Windows.Media.MediaContext.InvokeOnRenderCallback.DoWork()
+   em System.Windows.Media.MediaContext.FireInvokeOnRenderCallbacks()
+   em System.Windows.Media.MediaContext.RenderMessageHandlerCore(Object resizedCompositionTarget)
+   em System.Windows.Media.MediaContext.RenderMessageHandler(Object resizedCompositionTarget)
+   em System.Windows.Media.MediaContext.Resize(ICompositionTarget resizedCompositionTarget)
+   em System.Windows.Interop.HwndTarget.OnResize()
+   em System.Windows.Interop.HwndTarget.HandleMessage(WindowMessage msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Interop.HwndSource.HwndTargetFilterMessage(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   em MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   em MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   em System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   em System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+
+               -------------- Error (2025-10-07 14:46:45.1820) --------------
+               
+               Call Site: PDV.Telas.VwErro.Show
+               Exception Type: System.Reflection.TargetInvocationException
+               Exception Message: Uma exceção foi acionada pelo destino de uma chamada.
+               Stack Trace:    em System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   em System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   em System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   em System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   em System.RuntimeType.CreateInstanceImpl(BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes, StackCrawlMark& stackMark)
+   em System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   em System.Activator.CreateInstance(Type type, Object[] args)
+   em System.Xaml.Schema.SafeReflectionInvoker.CreateInstanceCritical(Type type, Object[] arguments)
+   em System.Xaml.Schema.SafeReflectionInvoker.CreateInstance(Type type, Object[] arguments)
+   em System.Xaml.Schema.XamlTypeInvoker.CreateInstance(Object[] arguments)
+   em MS.Internal.Xaml.Runtime.ClrObjectRuntime.CreateInstanceWithCtor(XamlType xamlType, Object[] args)
+   em MS.Internal.Xaml.Runtime.ClrObjectRuntime.CreateInstance(XamlType xamlType, Object[] args)
+   em MS.Internal.Xaml.Runtime.PartialTrustTolerantRuntime.CreateInstance(XamlType xamlType, Object[] args)
+   em System.Xaml.XamlObjectWriter.Logic_CreateAndAssignToParentStart(ObjectWriterContext ctx)
+   em System.Xaml.XamlObjectWriter.WriteStartMember(XamlMember property)
+   em System.Xaml.XamlWriter.WriteNode(XamlReader reader)
+   em System.Windows.Markup.WpfXamlLoader.TransformNodes(XamlReader xamlReader, XamlObjectWriter xamlWriter, Boolean onlyLoadOneNode, Boolean skipJournaledProperties, Boolean shouldPassLineNumberInfo, IXamlLineInfo xamlLineInfo, IXamlLineInfoConsumer xamlLineInfoConsumer, XamlContextStack`1 stack, IStyleConnector styleConnector)
+   em System.Windows.Markup.WpfXamlLoader.Load(XamlReader xamlReader, IXamlObjectWriterFactory writerFactory, Boolean skipJournaledProperties, Object rootObject, XamlObjectWriterSettings settings, Uri baseUri)
+   em System.Windows.Markup.WpfXamlLoader.LoadBaml(XamlReader xamlReader, Boolean skipJournaledProperties, Object rootObject, XamlAccessLevel accessLevel, Uri baseUri)
+   em System.Windows.Markup.XamlReader.LoadBaml(Stream stream, ParserContext parserContext, Object parent, Boolean closeStream)
+   em System.Windows.Application.LoadBamlStreamWithSyncInfo(Stream stream, ParserContext pc)
+   em System.Windows.Application.LoadComponent(Uri resourceLocator, Boolean bSkipJournaledProperties)
+   em System.Windows.Application.DoStartup()
+   em System.Windows.Application.<.ctor>b__1_0(Object unused)
+   em System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   em System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+
+               -------------- Error (2025-10-07 15:26:15.0161) --------------
+               
+               Call Site: PDV.Telas.VwErro.Show
+               Exception Type: System.Reflection.TargetInvocationException
+               Exception Message: Uma exceção foi acionada pelo destino de uma chamada.
+               Stack Trace:    em System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   em System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   em System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   em System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   em System.RuntimeType.CreateInstanceImpl(BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes, StackCrawlMark& stackMark)
+   em System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   em System.Activator.CreateInstance(Type type, Object[] args)
+   em System.Xaml.Schema.SafeReflectionInvoker.CreateInstanceCritical(Type type, Object[] arguments)
+   em System.Xaml.Schema.SafeReflectionInvoker.CreateInstance(Type type, Object[] arguments)
+   em System.Xaml.Schema.XamlTypeInvoker.CreateInstance(Object[] arguments)
+   em MS.Internal.Xaml.Runtime.ClrObjectRuntime.CreateInstanceWithCtor(XamlType xamlType, Object[] args)
+   em MS.Internal.Xaml.Runtime.ClrObjectRuntime.CreateInstance(XamlType xamlType, Object[] args)
+   em MS.Internal.Xaml.Runtime.PartialTrustTolerantRuntime.CreateInstance(XamlType xamlType, Object[] args)
+   em System.Xaml.XamlObjectWriter.Logic_CreateAndAssignToParentStart(ObjectWriterContext ctx)
+   em System.Xaml.XamlObjectWriter.WriteStartMember(XamlMember property)
+   em System.Xaml.XamlWriter.WriteNode(XamlReader reader)
+   em System.Windows.Markup.WpfXamlLoader.TransformNodes(XamlReader xamlReader, XamlObjectWriter xamlWriter, Boolean onlyLoadOneNode, Boolean skipJournaledProperties, Boolean shouldPassLineNumberInfo, IXamlLineInfo xamlLineInfo, IXamlLineInfoConsumer xamlLineInfoConsumer, XamlContextStack`1 stack, IStyleConnector styleConnector)
+   em System.Windows.Markup.WpfXamlLoader.Load(XamlReader xamlReader, IXamlObjectWriterFactory writerFactory, Boolean skipJournaledProperties, Object rootObject, XamlObjectWriterSettings settings, Uri baseUri)
+   em System.Windows.Markup.WpfXamlLoader.LoadBaml(XamlReader xamlReader, Boolean skipJournaledProperties, Object rootObject, XamlAccessLevel accessLevel, Uri baseUri)
+   em System.Windows.Markup.XamlReader.LoadBaml(Stream stream, ParserContext parserContext, Object parent, Boolean closeStream)
+   em System.Windows.Application.LoadBamlStreamWithSyncInfo(Stream stream, ParserContext pc)
+   em System.Windows.Application.LoadComponent(Uri resourceLocator, Boolean bSkipJournaledProperties)
+   em System.Windows.Application.DoStartup()
+   em System.Windows.Application.<.ctor>b__1_0(Object unused)
+   em System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   em System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+
+               -------------- Error (2025-10-07 15:26:23.7115) --------------
+               
+               Call Site: PDV.Telas.VwErro.Show
+               Exception Type: System.Reflection.TargetInvocationException
+               Exception Message: Uma exceção foi acionada pelo destino de uma chamada.
+               Stack Trace:    em System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   em System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   em System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   em System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   em System.RuntimeType.CreateInstanceImpl(BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes, StackCrawlMark& stackMark)
+   em System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   em System.Activator.CreateInstance(Type type, Object[] args)
+   em System.Xaml.Schema.SafeReflectionInvoker.CreateInstanceCritical(Type type, Object[] arguments)
+   em System.Xaml.Schema.SafeReflectionInvoker.CreateInstance(Type type, Object[] arguments)
+   em System.Xaml.Schema.XamlTypeInvoker.CreateInstance(Object[] arguments)
+   em MS.Internal.Xaml.Runtime.ClrObjectRuntime.CreateInstanceWithCtor(XamlType xamlType, Object[] args)
+   em MS.Internal.Xaml.Runtime.ClrObjectRuntime.CreateInstance(XamlType xamlType, Object[] args)
+   em MS.Internal.Xaml.Runtime.PartialTrustTolerantRuntime.CreateInstance(XamlType xamlType, Object[] args)
+   em System.Xaml.XamlObjectWriter.Logic_CreateAndAssignToParentStart(ObjectWriterContext ctx)
+   em System.Xaml.XamlObjectWriter.WriteStartMember(XamlMember property)
+   em System.Xaml.XamlWriter.WriteNode(XamlReader reader)
+   em System.Windows.Markup.WpfXamlLoader.TransformNodes(XamlReader xamlReader, XamlObjectWriter xamlWriter, Boolean onlyLoadOneNode, Boolean skipJournaledProperties, Boolean shouldPassLineNumberInfo, IXamlLineInfo xamlLineInfo, IXamlLineInfoConsumer xamlLineInfoConsumer, XamlContextStack`1 stack, IStyleConnector styleConnector)
+   em System.Windows.Markup.WpfXamlLoader.Load(XamlReader xamlReader, IXamlObjectWriterFactory writerFactory, Boolean skipJournaledProperties, Object rootObject, XamlObjectWriterSettings settings, Uri baseUri)
+   em System.Windows.Markup.WpfXamlLoader.LoadBaml(XamlReader xamlReader, Boolean skipJournaledProperties, Object rootObject, XamlAccessLevel accessLevel, Uri baseUri)
+   em System.Windows.Markup.XamlReader.LoadBaml(Stream stream, ParserContext parserContext, Object parent, Boolean closeStream)
+   em System.Windows.Application.LoadBamlStreamWithSyncInfo(Stream stream, ParserContext pc)
+   em System.Windows.Application.LoadComponent(Uri resourceLocator, Boolean bSkipJournaledProperties)
+   em System.Windows.Application.DoStartup()
+   em System.Windows.Application.<.ctor>b__1_0(Object unused)
+   em System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   em System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+
+               -------------- Error (2025-10-09 14:28:58.9889) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.CancelarNfCe
+               Exception Type: PDV.BLL.exceptions.mensagens.NFCeRejeitadaException
+               Exception Message: Nao foi possivel realizar o cancelamento da NFC-e.
+Retorno da SEFAZ: 501 - Rejeicao: Prazo de Cancelamento Superior ao Previsto na Legislacao
+               Stack Trace:    em PDV.BLL.control.FiscalController.CancelarNfCe(DocumentoFiscal doc)
+
+               -------------- Error (2025-10-09 14:28:59.0589) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.CancelarDocFiscal
+               Exception Type: PDV.BLL.exceptions.mensagens.NFCeRejeitadaException
+               Exception Message: Nao foi possivel realizar o cancelamento da NFC-e.
+Retorno da SEFAZ: 501 - Rejeicao: Prazo de Cancelamento Superior ao Previsto na Legislacao
+               Stack Trace:    em PDV.BLL.control.FiscalController.CancelarNfCe(DocumentoFiscal doc)
+   em PDV.BLL.control.FiscalController.CancelarDocFiscal(DocumentoFiscal doc)
+
+               -------------- Error (2025-10-09 14:28:59.0589) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.CancelarDocFiscal
+               Exception Type: PDV.BLL.exceptions.mensagens.NFCeRejeitadaException
+               Exception Message: Nao foi possivel realizar o cancelamento da NFC-e.
+Retorno da SEFAZ: 501 - Rejeicao: Prazo de Cancelamento Superior ao Previsto na Legislacao
+               Stack Trace:    em PDV.BLL.control.FiscalController.CancelarNfCe(DocumentoFiscal doc)
+   em PDV.BLL.control.FiscalController.CancelarDocFiscal(DocumentoFiscal doc)
+   em PDV.BLL.control.FiscalController.<>c__DisplayClass23_0.<CancelarDocFiscal>b__0(DocumentoFiscal x)
+   em System.Collections.Generic.List`1.ForEach(Action`1 action)
+   em PDV.BLL.control.FiscalController.CancelarDocFiscal(Venda venda)
+
+               -------------- Error (2025-10-10 14:08:35.6175) --------------
+               
+               Call Site: PDV.Telas.VwErro.Show
+               Exception Type: System.DivideByZeroException
+               Exception Message: Tentativa de divisão por zero.
+               Stack Trace:    em System.Decimal.FCallDivide(Decimal& d1, Decimal& d2)
+   em PDV.Telas.VwBoxDescontoAcrescimoItem.TbValorReal_TextChanged(Object sender, TextChangedEventArgs e)
+   em System.Windows.Controls.TextChangedEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   em System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   em System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   em System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   em System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   em System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   em System.Windows.Controls.Primitives.TextBoxBase.OnTextChanged(TextChangedEventArgs e)
+   em System.Windows.Controls.Primitives.TextBoxBase.OnTextContainerChanged(Object sender, TextContainerChangedEventArgs e)
+   em System.Windows.Controls.TextBox.OnTextContainerChanged(Object sender, TextContainerChangedEventArgs e)
+   em System.Windows.Documents.TextContainerChangedEventHandler.Invoke(Object sender, TextContainerChangedEventArgs e)
+   em System.Windows.Documents.TextContainer.EndChange(Boolean skipEvents)
+   em System.Windows.Documents.TextContainer.System.Windows.Documents.ITextContainer.EndChange(Boolean skipEvents)
+   em System.Windows.Documents.TextRangeBase.EndChange(ITextRange thisRange, Boolean disableScroll, Boolean skipEvents)
+   em System.Windows.Documents.TextRange.System.Windows.Documents.ITextRange.EndChange(Boolean disableScroll, Boolean skipEvents)
+   em System.Windows.Documents.TextRange.ChangeBlock.System.IDisposable.Dispose()
+   em System.Windows.Controls.TextBox.OnTextPropertyChanged(String oldText, String newText)
+   em System.Windows.Controls.TextBox.OnTextPropertyChanged(DependencyObject d, DependencyPropertyChangedEventArgs e)
+   em System.Windows.DependencyObject.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   em System.Windows.FrameworkElement.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   em System.Windows.Controls.TextBox.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   em System.Windows.DependencyObject.NotifyPropertyChange(DependencyPropertyChangedEventArgs args)
+   em System.Windows.DependencyObject.UpdateEffectiveValue(EntryIndex entryIndex, DependencyProperty dp, PropertyMetadata metadata, EffectiveValueEntry oldEntry, EffectiveValueEntry& newEntry, Boolean coerceWithDeferredReference, Boolean coerceWithCurrentValue, OperationType operationType)
+   em System.Windows.DependencyObject.SetValueCommon(DependencyProperty dp, Object value, PropertyMetadata metadata, Boolean coerceWithDeferredReference, Boolean coerceWithCurrentValue, OperationType operationType, Boolean isInternal)
+   em System.Windows.DependencyObject.SetValue(DependencyProperty dp, Object value)
+   em PDV.Telas.VwBoxDescontoAcrescimoItem.CalcularVariacaoPrecoVenda()
+   em PDV.Telas.VwBoxDescontoAcrescimoItem.ExibirDescontoAcrescimo(ItemVenda itemVenda)
+   em PDV.Paginas.PgVenda.AlterarItemVenda()
+   em PDV.Paginas.PgVenda.ItensGrid_PreviewMouseLeftButtonUp(Object sender, MouseButtonEventArgs e)
+   em System.Windows.Input.MouseButtonEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   em System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   em System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   em System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   em System.Windows.UIElement.ReRaiseEventAs(DependencyObject sender, RoutedEventArgs args, RoutedEvent newEvent)
+   em System.Windows.UIElement.OnPreviewMouseUpThunk(Object sender, MouseButtonEventArgs e)
+   em System.Windows.Input.MouseButtonEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   em System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   em System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   em System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   em System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   em System.Windows.UIElement.RaiseTrustedEvent(RoutedEventArgs args)
+   em System.Windows.UIElement.RaiseEvent(RoutedEventArgs args, Boolean trusted)
+   em System.Windows.Input.InputManager.ProcessStagingArea()
+   em System.Windows.Input.InputManager.ProcessInput(InputEventArgs input)
+   em System.Windows.Input.InputProviderSite.ReportInput(InputReport inputReport)
+   em System.Windows.Interop.HwndMouseInputProvider.ReportInput(IntPtr hwnd, InputMode mode, Int32 timestamp, RawMouseActions actions, Int32 x, Int32 y, Int32 wheel)
+   em System.Windows.Interop.HwndMouseInputProvider.FilterMessage(IntPtr hwnd, WindowMessage msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   em System.Windows.Interop.HwndSource.InputFilterMessage(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   em MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   em MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   em System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   em System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+
+               -------------- Error (2025-10-10 19:09:55.1134) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.ImprimirNfCe
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: A operação foi concluída com êxito
+               Stack Trace:    em NFCeX.IspdNFCeX.ImprimirDanfce(String aNumLote, String aLoteNotas, String aArquivoModelo, String aImpressora)
+   em ERP.DFe.providers.NFCeProvider.ImprimirDANFCe(String xml, Int32 qtdCopias)
+   em PDV.BLL.control.FiscalController.ImprimirNfCe(DocumentoFiscal doc, Boolean forcarImpressao)
+

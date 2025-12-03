@@ -1,0 +1,136 @@
+ 2025-09-22 14:54:06.8833|Recebendo plano de pagamento 44: DINHEIRO - INATIVO
+ 2025-09-22 14:54:06.9283|Recebendo plano de pagamento 6: VALE_PRESENTE - Vale Presente
+ 2025-09-22 14:54:06.9423|Recebendo plano de pagamento 7: FIDELIDADE_CASHBACK - Vale Crédito
+ 2025-09-22 14:54:06.9483|Recebendo plano de pagamento 8: CREDITO - Amex Credito 2x
+ 2025-09-22 14:54:06.9483|Recebendo plano de pagamento 9: CREDITO - Hiper Credito 10x
+ 2025-09-22 14:54:06.9642|Recebendo plano de pagamento 10: CREDITO - Hiper Credito 9x
+ 2025-09-22 14:54:06.9812|Recebendo plano de pagamento 11: CREDITO - Hiper Credito 8x
+ 2025-09-22 14:54:06.9912|Recebendo plano de pagamento 12: CREDITO - Hiper Credito 7x
+ 2025-09-22 14:54:07.0102|Recebendo plano de pagamento 13: CREDITO - Hiper Credito 6x
+ 2025-09-22 14:54:07.0102|Recebendo plano de pagamento 14: CREDITO - Elo Credito 10x
+ 2025-09-22 14:54:07.0242|Recebendo plano de pagamento 15: CREDITO - Elo Credito 9x
+ 2025-09-22 14:54:07.0242|Recebendo plano de pagamento 16: CREDITO - Elo Credito 8x
+ 2025-09-22 14:54:07.0432|Recebendo plano de pagamento 17: CREDITO - Elo Credito 7x
+ 2025-09-22 14:54:07.0542|Recebendo plano de pagamento 18: CREDITO - Elo Credito 6x
+ 2025-09-22 14:54:07.0542|Recebendo plano de pagamento 19: CREDITO - Elo Credito 5x
+ 2025-09-22 14:54:07.0722|Recebendo plano de pagamento 20: CREDITO - Elo Credito 4x
+ 2025-09-22 14:54:07.0722|Recebendo plano de pagamento 21: CREDITO - Elo Credito 3x
+ 2025-09-22 14:54:07.0962|Recebendo plano de pagamento 22: CREDITO - Elo / Hiper Credito
+ 2025-09-22 14:54:07.1062|Recebendo plano de pagamento 23: CREDITO - Master e Visa Credito 10x
+ 2025-09-22 14:54:07.1062|Recebendo plano de pagamento 24: CREDITO - Master e Visa Credito 9x
+ 2025-09-22 14:54:07.1211|Recebendo plano de pagamento 25: CREDITO - Master e Visa Credito 8x
+ 2025-09-22 14:54:07.1211|Recebendo plano de pagamento 26: CREDITO - Master e Visa Credito 7x
+ 2025-09-22 14:54:07.1391|Recebendo plano de pagamento 27: CREDITO - Hiper Credito 5x
+ 2025-09-22 14:54:07.1391|Recebendo plano de pagamento 28: CREDITO - Hiper Credito 4x
+ 2025-09-22 14:54:07.1611|Recebendo plano de pagamento 29: CREDITO - Hiper Credito 3x
+ 2025-09-22 14:54:07.1721|Recebendo plano de pagamento 30: CREDITO - Hiper Credito 2x
+ 2025-09-22 14:54:07.1811|Recebendo plano de pagamento 31: CREDITO - Master e Visa Credito 6x
+ 2025-09-22 14:54:07.1811|Recebendo plano de pagamento 32: CREDITO - Master e Visa Credito 5x
+ 2025-09-22 14:54:07.1991|Recebendo plano de pagamento 33: CREDITO - Master e Visa Credito 4x
+ 2025-09-22 14:54:07.1991|Recebendo plano de pagamento 34: CREDITO - Master e Visa Credito 3x
+ 2025-09-22 14:54:07.2161|Recebendo plano de pagamento 35: CREDITO - Master e Visa Credito 2x
+ 2025-09-22 14:54:07.2161|Recebendo plano de pagamento 36: CREDITO - Amex Credito
+ 2025-09-22 14:54:07.2301|Recebendo plano de pagamento 37: CREDITO - Hiper Credito 1x
+ 2025-09-22 14:54:07.2491|Recebendo plano de pagamento 38: CREDITO - Elo Credito 2x
+ 2025-09-22 14:54:07.2491|Recebendo plano de pagamento 39: DEBITO - Elo Debito
+ 2025-09-22 14:54:07.2641|Recebendo plano de pagamento 40: DEBITO - Master / Visa Debito
+ 2025-09-22 14:54:07.2641|Recebendo plano de pagamento 4: PIX_ESTATICO - Pix
+ 2025-09-22 14:54:07.2810|Recebendo plano de pagamento 41: CREDITO - Master / Visa Credito
+ 2025-09-22 14:54:07.2810|Recebendo plano de pagamento 44: DINHEIRO - INATIVO
+ 2025-09-22 14:54:07.2921|Recebendo plano de pagamento 42: PIX_DINAMICO - Stone Pix
+ 2025-09-22 14:54:07.2921|Recebendo plano de pagamento 43: OUTROS - Permuta
+ 2025-09-22 14:54:07.3120|Recebendo plano de pagamento 45: DINHEIRO - Dinheiro.
+ 2025-09-22 14:54:07.3220|Recebendo plano de pagamento 46: OUTROS - Consumo Funcionário
+ 2025-09-22 14:54:07.3220|Recebendo plano de pagamento 47: OUTROS - Crédito Troca
+ 2025-09-22 14:54:07.3220|Recebendo plano de pagamento 54: VALE_REFEICAO - Consumo Funcionário
+ 2025-09-22 14:54:07.3400|Recebendo plano de pagamento 48: DEBITO - Master/Visa Link Débito
+ 2025-09-22 14:54:07.3400|Recebendo plano de pagamento 49: CREDITO - Master/Visa Link Crédito
+ 2025-09-22 14:54:07.3700|Recebendo plano de pagamento 50: DEBITO - Elo Link Débito
+ 2025-09-22 14:54:07.3700|Recebendo plano de pagamento 51: CREDITO - Elo Link Crédito
+ 2025-09-22 14:54:07.3880|Recebendo plano de pagamento 52: CREDITO - Amex Link Crédito
+ 2025-09-22 14:54:07.3980|Recebendo plano de pagamento 53: VALE_ALIMENTACAO - Voucher VR
+ 2025-09-22 14:54:08.6442|Não existem tributacoes pendentes de sincronização!
+ 2025-09-22 14:54:10.9033|Recebendo operador 15948: Operador
+ 2025-09-22 14:54:10.9213|Recebendo operador 15949: Gerencia
+ 2025-09-22 14:54:11.2031|Recebendo vendedores 948578: PAULO DANNY MONTEIRO
+ 2025-09-22 14:54:11.2331|Recebendo vendedores 1002522: CONSUMO CENTRO
+ 2025-09-22 14:54:11.2541|Recebendo vendedores 1031580: CONSUMO KELLYM WALERIA DOS SANTOS
+ 2025-09-22 14:54:11.2921|Recebendo vendedores 1031581: CONSUMO PAULO DANNY MONTEIRO
+ 2025-09-22 14:54:11.3331|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-09-22 14:54:11.4020|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-09-22 14:54:11.4260|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-09-22 14:54:11.4830|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-09-22 14:54:11.5199|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-09-22 14:54:11.6259|Recebendo vendedores 1090892: GABRIELA PEREIRA
+ 2025-09-22 14:54:11.8298|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-09-22 14:54:12.2525|Recebendo cliente 1154663: CAROLINE FELIPINI
+ 2025-09-22 14:54:12.5093|Recebendo cliente 1154816: NICOLE SARTORI
+ 2025-09-22 14:54:12.6193|Recebendo cliente 1154890: RIANE VASCONCELOS
+ 2025-09-22 14:54:12.8821|Recebendo cliente 1155107: JESSICA MARIN
+ 2025-09-22 14:54:13.1419|Recebendo cliente 1155235: CARLA MARIANA SOARES MELO
+ 2025-09-22 14:54:13.4228|Recebendo cliente 1155348: VALTER PEREIRA ROMANO
+ 2025-09-22 14:54:13.4578|Clientes processados: 6 - Enviados: 0 - Recebidos: 6
+ 2025-09-22 14:54:14.0574|Erro ao enviar caixa 218
+ 2025-09-22 14:54:15.2154|Erro ao enviar caixa 219
+ 2025-09-22 14:54:15.8577|Erro ao enviar caixa 220
+ 2025-09-22 14:54:16.4836|Erro ao enviar caixa 221
+ 2025-09-22 14:54:17.1438|Erro ao enviar caixa 222
+ 2025-09-22 14:54:17.8098|Erro ao enviar caixa 223
+ 2025-09-22 14:54:18.5467|Erro ao enviar caixa 224
+ 2025-09-22 14:54:19.2322|Erro ao enviar caixa 225
+ 2025-09-22 14:54:19.8851|Erro ao enviar caixa 226
+ 2025-09-22 14:54:22.5471|Erro ao enviar caixa 227
+ 2025-09-22 14:54:23.2477|Erro ao enviar caixa 228
+ 2025-09-22 14:54:24.3786|Erro ao enviar caixa 229
+ 2025-09-22 14:54:25.0437|Erro ao enviar caixa 230
+ 2025-09-22 14:54:25.6870|Erro ao enviar caixa 231
+ 2025-09-22 14:54:26.3449|Erro ao enviar caixa 232
+ 2025-09-22 14:54:26.9924|Erro ao enviar caixa 233
+ 2025-09-22 14:54:27.6285|Erro ao enviar caixa 234
+ 2025-09-22 14:54:28.2697|Erro ao enviar caixa 235
+ 2025-09-22 14:54:28.8976|Erro ao enviar caixa 236
+ 2025-09-22 14:54:31.5564|Erro ao enviar caixa 237
+ 2025-09-22 14:54:32.2038|Erro ao enviar caixa 238
+ 2025-09-22 14:54:32.8390|Erro ao enviar caixa 239
+ 2025-09-22 14:54:33.5718|Erro ao enviar caixa 240
+ 2025-09-22 14:54:34.2240|Erro ao enviar caixa 241
+ 2025-09-22 14:54:35.4553|Erro ao enviar caixa 242
+ 2025-09-22 14:54:36.0704|Erro ao enviar caixa 243
+ 2025-09-22 14:54:36.8376|Erro ao enviar caixa 244
+ 2025-09-22 14:54:37.4828|Erro ao enviar caixa 245
+ 2025-09-22 14:54:38.1066|Erro ao enviar caixa 246
+ 2025-09-22 14:54:40.7496|Erro ao enviar caixa 247
+ 2025-09-22 14:54:41.4053|Erro ao enviar caixa 248
+ 2025-09-22 14:54:42.0808|Erro ao enviar caixa 249
+ 2025-09-22 14:54:42.7134|Erro ao enviar caixa 250
+ 2025-09-22 14:54:43.3490|Erro ao enviar caixa 251
+ 2025-09-22 14:54:44.0056|Erro ao enviar caixa 252
+ 2025-09-22 14:54:45.1419|Erro ao enviar caixa 253
+ 2025-09-22 14:54:45.7910|Erro ao enviar caixa 254
+ 2025-09-22 14:54:46.4136|Erro ao enviar caixa 255
+ 2025-09-22 14:54:47.1582|Erro ao enviar caixa 256
+ 2025-09-22 14:54:49.8920|Erro ao enviar caixa 257
+ 2025-09-22 14:54:50.5453|Erro ao enviar caixa 258
+ 2025-09-22 14:54:51.2518|Erro ao enviar caixa 259
+ 2025-09-22 14:54:51.8838|Erro ao enviar caixa 260
+ 2025-09-22 14:54:52.5570|Erro ao enviar caixa 261
+ 2025-09-22 14:54:52.6030|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-09-22 14:55:02.4991|Venda: IdLocal 5196: Documento Fiscal Id:4329  -> IdWeb 
+ 2025-09-22 14:55:02.4991|Cancelamento chave: 42250929005632000200650010000183601718542047 enviada com sucesso!
+ 2025-09-22 14:55:02.5630|Enviando NFC-e - chave: 42250929005632000200650010000181401909862972 . . .
+ 2025-09-22 14:55:02.6989|Enviando NFC-e - chave: 42250929005632000200650010000183129434461970 . . .
+ 2025-09-22 14:55:02.9719|Recebendo itens - 2 item(s).
+ 2025-09-22 14:55:04.5109|Recebendo itens - 2 itens importados de 2
+ 2025-09-22 14:55:04.8387|Total de itens recebidos: 2
+ 2025-09-22 14:55:05.1046|Não existe nenhuma promoção pendente de sincronização!
+ 2025-09-22 14:55:05.3594|Não existe nenhum lote pendente de sincronização!
+ 2025-09-22 14:55:05.6442|Recebendo Depósito: Geral
+ 2025-09-22 14:55:25.4850|Recebendo cliente 1154663: CAROLINE FELIPINI
+ 2025-09-22 14:55:25.6849|Recebendo cliente 1154816: NICOLE SARTORI
+ 2025-09-22 14:55:25.7589|Recebendo cliente 1154890: RIANE VASCONCELOS
+ 2025-09-22 14:55:25.9467|Recebendo cliente 1155107: JESSICA MARIN
+ 2025-09-22 14:55:26.1236|Recebendo cliente 1155235: CARLA MARIANA SOARES MELO
+ 2025-09-22 14:55:26.3215|Recebendo cliente 1155348: VALTER PEREIRA ROMANO
+ 2025-09-22 14:55:26.3435|Clientes processados: 6 - Enviados: 0 - Recebidos: 6
+ 2025-09-22 14:55:33.1166|Enviando NFC-e - chave: 42250929005632000200650010000181401909862972 . . .
+ 2025-09-22 14:55:33.1624|Enviando NFC-e - chave: 42250929005632000200650010000183129434461970 . . .

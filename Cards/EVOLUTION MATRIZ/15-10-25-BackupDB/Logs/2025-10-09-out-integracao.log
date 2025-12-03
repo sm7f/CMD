@@ -1,0 +1,95 @@
+ 2025-10-09 20:01:46.8729|Recebendo plano de pagamento 1: DINHEIRO - Dinheiro 2
+ 2025-10-09 20:01:46.9197|Recebendo plano de pagamento 2: CREDITO - Master/Visa Credito
+ 2025-10-09 20:01:46.9197|Recebendo plano de pagamento 4: PIX_ESTATICO - Pix
+ 2025-10-09 20:01:46.9354|Recebendo plano de pagamento 3: DEBITO - Master/Visa Debito.
+ 2025-10-09 20:01:46.9354|Recebendo plano de pagamento 6: DEBITO - Elo Debito
+ 2025-10-09 20:01:46.9354|Recebendo plano de pagamento 7: CREDITO - Elo Credito 2x
+ 2025-10-09 20:01:46.9510|Recebendo plano de pagamento 8: CREDITO - Hiper Credito 1x
+ 2025-10-09 20:01:46.9510|Recebendo plano de pagamento 9: CREDITO - Amex Credito
+ 2025-10-09 20:01:46.9666|Recebendo plano de pagamento 10: CREDITO - Master e Visa Credito 2x
+ 2025-10-09 20:01:46.9666|Recebendo plano de pagamento 11: CREDITO - Master e Visa Credito 3x
+ 2025-10-09 20:01:46.9822|Recebendo plano de pagamento 12: CREDITO - Master e Visa Credito 4x
+ 2025-10-09 20:01:46.9822|Recebendo plano de pagamento 13: CREDITO - Master e Visa Credito 5x
+ 2025-10-09 20:01:46.9979|Recebendo plano de pagamento 14: CREDITO - Master e Visa Credito 6x
+ 2025-10-09 20:01:47.0135|Recebendo plano de pagamento 15: CREDITO - Hiper Credito 2x
+ 2025-10-09 20:01:47.0135|Recebendo plano de pagamento 16: CREDITO - Hiper Credito 3x
+ 2025-10-09 20:01:47.0135|Recebendo plano de pagamento 17: CREDITO - Hiper Credito 4x
+ 2025-10-09 20:01:47.0291|Recebendo plano de pagamento 18: CREDITO - Hiper Credito 5x
+ 2025-10-09 20:01:47.0291|Recebendo plano de pagamento 19: CREDITO - Hiper Credito 6x
+ 2025-10-09 20:01:47.0447|Recebendo plano de pagamento 20: CREDITO - Master e Visa Credito 7x
+ 2025-10-09 20:01:47.0447|Recebendo plano de pagamento 21: CREDITO - Master e Visa Credito 8x
+ 2025-10-09 20:01:47.0604|Recebendo plano de pagamento 22: CREDITO - Master e Visa Credito 9x
+ 2025-10-09 20:01:47.0604|Recebendo plano de pagamento 23: CREDITO - Master e Visa Credito 10x
+ 2025-10-09 20:01:47.0604|Recebendo plano de pagamento 24: CREDITO - Elo/Hiper Credito
+ 2025-10-09 20:01:47.0760|Recebendo plano de pagamento 25: CREDITO - Elo Credito 3x
+ 2025-10-09 20:01:47.0760|Recebendo plano de pagamento 26: CREDITO - Elo Credito 4x
+ 2025-10-09 20:01:47.0916|Recebendo plano de pagamento 27: CREDITO - Elo Credito 5x
+ 2025-10-09 20:01:47.0916|Recebendo plano de pagamento 28: CREDITO - Elo Credito 6x
+ 2025-10-09 20:01:47.1072|Recebendo plano de pagamento 29: CREDITO - Elo Credito 7x
+ 2025-10-09 20:01:47.1072|Recebendo plano de pagamento 30: CREDITO - Elo Credito 8x
+ 2025-10-09 20:01:47.1072|Recebendo plano de pagamento 31: CREDITO - Elo Credito 9x
+ 2025-10-09 20:01:47.1229|Recebendo plano de pagamento 32: CREDITO - Elo Credito 10x
+ 2025-10-09 20:01:47.1229|Recebendo plano de pagamento 33: CREDITO - Hiper Credito 7x
+ 2025-10-09 20:01:47.1385|Recebendo plano de pagamento 34: CREDITO - Hiper Credito 8x
+ 2025-10-09 20:01:47.1385|Recebendo plano de pagamento 35: CREDITO - Hiper Credito 9x
+ 2025-10-09 20:01:47.1541|Recebendo plano de pagamento 36: CREDITO - Hiper Credito 10x
+ 2025-10-09 20:01:47.1541|Recebendo plano de pagamento 37: CREDITO - Amex Credito 2x
+ 2025-10-09 20:01:47.1541|Recebendo plano de pagamento 38: FIDELIDADE_CASHBACK - Vale Credito
+ 2025-10-09 20:01:47.1697|Recebendo plano de pagamento 39: VALE_PRESENTE - Vale Presente
+ 2025-10-09 20:01:47.1697|Recebendo plano de pagamento 42: DINHEIRO - Dinheiro
+ 2025-10-09 20:01:47.1854|Recebendo plano de pagamento 40: PIX_DINAMICO - Stone Pix
+ 2025-10-09 20:01:47.1854|Recebendo plano de pagamento 41: OUTROS - Permuta
+ 2025-10-09 20:01:47.2010|Recebendo plano de pagamento 46: DINHEIRO - teste suporte
+ 2025-10-09 20:01:47.2010|Recebendo plano de pagamento 54: OUTROS - Consumo Funcionário1
+ 2025-10-09 20:01:47.2010|Recebendo plano de pagamento 65: OUTROS - Crédito Troca
+ 2025-10-09 20:01:47.2166|Recebendo plano de pagamento 67: CREDITO - Master/Visa Link Crédito
+ 2025-10-09 20:01:47.2166|Recebendo plano de pagamento 68: CREDITO - Elo Link Crédito
+ 2025-10-09 20:01:47.2322|Recebendo plano de pagamento 69: DEBITO - Master/Visa Link Débito
+ 2025-10-09 20:01:47.2322|Recebendo plano de pagamento 70: DEBITO - Elo Link Débito
+ 2025-10-09 20:01:47.2322|Recebendo plano de pagamento 71: CREDITO - Amex Link Crédito
+ 2025-10-09 20:01:47.2479|Recebendo plano de pagamento 72: DEBITO - Master/Visa Debito
+ 2025-10-09 20:01:47.2479|Recebendo plano de pagamento 73: VALE_ALIMENTACAO - Voucher VR
+ 2025-10-09 20:01:47.5760|Erro ao enviar caixa 163
+ 2025-10-09 20:01:47.6229|Não existem tributacoes pendentes de sincronização!
+ 2025-10-09 20:01:48.5135|Erro ao enviar caixa 164
+ 2025-10-09 20:01:49.2166|Erro ao enviar caixa 165
+ 2025-10-09 20:01:49.8729|Recebendo operador 15652: Operador
+ 2025-10-09 20:01:49.8885|Recebendo operador 15671: Gerencia
+ 2025-10-09 20:01:50.1229|Recebendo vendedores 884308: FABIO COSTA DE AZEVEDO
+ 2025-10-09 20:01:50.3260|Recebendo vendedores 884310: PAULO VICTOR GALDINO
+ 2025-10-09 20:01:50.3416|Recebendo vendedores 948579: JAQUELINE PEREIRA VAZ
+ 2025-10-09 20:01:50.4354|Recebendo vendedores 965041: DANIELE DE MENEZES PIRES
+ 2025-10-09 20:01:50.4666|Recebendo vendedores 979608: EVENTOS
+ 2025-10-09 20:01:50.4822|Recebendo vendedores 1016063: BRUNA CAROLINE TORQUATO
+ 2025-10-09 20:01:50.4979|Recebendo vendedores 1031572: CONSUMO BRUNA CAROLINE TORQUATO
+ 2025-10-09 20:01:50.5135|Recebendo vendedores 1031578: CONSUMO FABIO COSTA DE AZEVEDO
+ 2025-10-09 20:01:50.5291|Recebendo vendedores 1031579: CONSUMO PAULO VICTOR GALDINO
+ 2025-10-09 20:01:50.5604|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-09 20:01:50.5760|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-09 20:01:50.5916|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-09 20:01:50.6072|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-09 20:01:50.6229|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-09 20:01:50.6541|Recebendo vendedores 1158418: HABITUAL CAFE
+ 2025-10-09 20:01:50.6697|Recebendo vendedores 1160501: CONSUMO HABITUAL CAFE
+ 2025-10-09 20:01:50.8416|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-09 20:01:51.9041|Erro ao enviar caixa 166
+ 2025-10-09 20:01:52.5760|Erro ao enviar caixa 167
+ 2025-10-09 20:01:53.2166|Erro ao enviar caixa 168
+ 2025-10-09 20:01:53.7791|Recebendo cliente 1046017: JOICE SCHMITT
+ 2025-10-09 20:01:53.9818|Erro ao enviar caixa 169
+ 2025-10-09 20:01:54.0548|Recebendo cliente 1194734: IVAN SILVA
+ 2025-10-09 20:01:54.1648|Recebendo cliente 1194748: EMILI FLORES
+ 2025-10-09 20:01:54.2848|Recebendo cliente 1194793: ARIELY OSELAME
+ 2025-10-09 20:01:54.3098|Clientes processados: 4 - Enviados: 0 - Recebidos: 4
+ 2025-10-09 20:01:54.6571|Erro ao enviar caixa 170
+ 2025-10-09 20:01:54.8833|Erro ao enviar caixa 137
+ 2025-10-09 20:01:55.3923|Erro ao enviar caixa 171
+ 2025-10-09 20:01:55.6485|Erro ao enviar caixa 138
+ 2025-10-09 20:01:56.0295|Erro ao enviar caixa 172
+ 2025-10-09 20:01:56.2951|Erro ao enviar caixa 139
+ 2025-10-09 20:01:56.9670|Erro ao enviar caixa 140
+ 2025-10-09 20:01:57.6153|Erro ao enviar caixa 141
+ 2025-10-09 20:01:58.2716|Erro ao enviar caixa 142
+ 2025-10-09 20:01:58.9591|Erro ao enviar caixa 143
+ 2025-10-09 20:01:59.6309|Erro ao enviar caixa 144
+ 2025-10-09 20:02:00.3184|Erro ao enviar caixa 145

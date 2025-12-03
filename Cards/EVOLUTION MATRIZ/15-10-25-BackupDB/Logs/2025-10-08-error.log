@@ -1,0 +1,44 @@
+               -------------- Error (2025-10-08 20:00:05.4380) --------------
+               
+               Call Site: PDV.Telas.VwErro.Show
+               Exception Type: System.OutOfMemoryException
+               Exception Message: Exceção do tipo 'System.OutOfMemoryException' foi acionada.
+               Stack Trace:    em System.Collections.Specialized.HybridDictionary.get_Keys()
+   em System.ComponentModel.PropertyChangedEventManager.Purge(Object source, Object data, Boolean purgeAll)
+   em MS.Internal.WeakEventTable.Purge(Boolean purgeAll)
+   em MS.Internal.WeakEventTable.CleanupOperation(Object arg)
+   em System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   em System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+
+               -------------- Error (2025-10-08 20:00:08.7426) --------------
+               
+               Call Site: PDV.Telas.VwErro.Show
+               Exception Type: System.Windows.Markup.XamlParseException
+               Exception Message: O valor fornecido em 'System.Windows.Baml2006.TypeConverterMarkupExtension' iniciou uma exceção.
+               Stack Trace:    em System.Windows.Markup.WpfXamlLoader.Load(XamlReader xamlReader, IXamlObjectWriterFactory writerFactory, Boolean skipJournaledProperties, Object rootObject, XamlObjectWriterSettings settings, Uri baseUri)
+   em System.Windows.Markup.WpfXamlLoader.LoadBaml(XamlReader xamlReader, Boolean skipJournaledProperties, Object rootObject, XamlAccessLevel accessLevel, Uri baseUri)
+   em System.Windows.Markup.XamlReader.LoadBaml(Stream stream, ParserContext parserContext, Object parent, Boolean closeStream)
+   em System.Windows.Application.LoadComponent(Object component, Uri resourceLocator)
+   em PDV.Telas.VwErro.InitializeComponent()
+   em PDV.Telas.VwErro.Init()
+   em PDV.Telas.VwErro.Show(Exception ex)
+   em Agente.Sicronizacao.App.Current_DispatcherUnhandledException(Object sender, DispatcherUnhandledExceptionEventArgs e)
+   em System.Windows.Threading.Dispatcher.CatchException(Exception e)
+   em System.Windows.Threading.Dispatcher.CatchExceptionStatic(Object source, Exception e)
+   em System.Windows.Threading.ExceptionWrapper.CatchException(Object source, Exception e, Delegate catchHandler)
+   em System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+   em System.Windows.Threading.DispatcherOperation.InvokeImpl()
+   em System.Windows.Threading.DispatcherOperation.InvokeInSecurityContext(Object state)
+   em MS.Internal.CulturePreservingExecutionContext.CallbackWrapper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em MS.Internal.CulturePreservingExecutionContext.Run(CulturePreservingExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Threading.DispatcherOperation.Invoke()
+   em System.Windows.Threading.Dispatcher.ProcessQueue()
+   em System.Windows.Threading.Dispatcher.WndProcHook(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   em MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   em MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   em System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   em System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+

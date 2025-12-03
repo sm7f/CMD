@@ -1,0 +1,20 @@
+               -------------- Error (2025-10-09 16:21:44.4493) --------------
+               
+               Call Site: PDV.BLL.managers.VendaManager.EnviarMensagemNF
+               Exception Type: System.InvalidOperationException
+               Exception Message: The connection is not open.
+               Stack Trace:    em System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   em System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   em System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass41_0.<GetResults>b__0()
+   em System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.Execute(MergeOption mergeOption)
+   em System.Data.Entity.Core.Objects.DataClasses.EntityCollection`1.Load(List`1 collection, MergeOption mergeOption)
+   em System.Data.Entity.Core.Objects.DataClasses.EntityCollection`1.Load(MergeOption mergeOption)
+   em System.Data.Entity.Core.Objects.DataClasses.RelatedEnd.DeferredLoad()
+   em System.Data.Entity.Core.Objects.Internal.LazyLoadBehavior.LoadProperty[TItem](TItem propertyValue, String relationshipName, String targetRoleName, Boolean mustBeNull, Object wrapperObject)
+   em System.Data.Entity.Core.Objects.Internal.LazyLoadBehavior.<>c__DisplayClass0_0`2.<GetInterceptorDelegate>b__1(TProxy proxy, TItem item)
+   em System.Data.Entity.DynamicProxies.Destinatario_D4416208A39BB0702213522CDABAB0878C417599FF9CC106CF4E2F83A6F48948.get_Contatos()
+   em PDV.BLL.managers.VendaManager.<EnviarMensagemNF>d__42.MoveNext()
+

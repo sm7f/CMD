@@ -1,0 +1,34 @@
+ 2025-10-10 20:13:05.9449|ReceberClientes -> The underlying provider failed on Open.
+Não é possível gravar dados na conexão de transporte: Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+Foi forçado o cancelamento de uma conexão existente pelo host remoto
+|StackTrace:    em System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   em System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   em System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   em System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   em System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass148_0.<SaveChangesInternal>b__0()
+   em System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   em System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   em System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   em System.Data.Entity.Internal.InternalContext.SaveChanges()
+   em System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   em System.Data.Entity.DbContext.SaveChanges()
+   em PDV.BLL.control.ErpController.<ReceberClientes>b__46_4(Contato c)
+   em System.Collections.Generic.List`1.ForEach(Action`1 action)
+   em PDV.BLL.control.ErpController.ReceberClientes(IEnumerable`1 clientesErp)
+|InnerException: System.Net.Sockets.SocketException (0x80004005): Foi forçado o cancelamento de uma conexão existente pelo host remoto
+   em System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   em System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+ 2025-10-10 20:13:06.8980|An error occurred while saving entities that do not expose foreign key properties for their relationships. The EntityEntries property will return null because a single entity cannot be identified as the source of the exception. Handling of exceptions while saving can be made easier by exposing foreign key properties in your entity types. See the InnerException for details. StackTrace:    em System.Data.Entity.Internal.InternalContext.SaveChanges()
+   em System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   em System.Data.Entity.DbContext.SaveChanges()
+   em PDV.BLL.control.ErpController.ConfigurarDataUltSincronizacao(EnumSincronizacaoErp tipoSincronizacaoErp)
+   em PDV.BLL.control.ErpController.<SincronizarClientes>d__44.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   em PDV.BLL.control.ErpController.<SincronizarPessoas>d__43.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em PDV.BLL.managers.ErpManager.<SincronizarPessoas>d__31.MoveNext()

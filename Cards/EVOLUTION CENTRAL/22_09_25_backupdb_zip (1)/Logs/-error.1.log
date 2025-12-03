@@ -1,0 +1,12 @@
+               -------------- Error (2025-09-22 14:54:29.2294) --------------
+               
+               Call Site: PDV.Telas.VwErro.Show
+               Exception Type: System.Threading.AbandonedMutexException
+               Exception Message: A espera foi concluída devido a um mutex abandonado.
+               Stack Trace:    em System.Threading.WaitHandle.InternalWaitOne(SafeHandle waitableSafeHandle, Int64 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   em System.Threading.WaitHandle.WaitOne(TimeSpan timeout, Boolean exitContext)
+   em PDV.App.OnStartup(StartupEventArgs e)
+   em System.Windows.Application.<.ctor>b__1_0(Object unused)
+   em System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   em System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+

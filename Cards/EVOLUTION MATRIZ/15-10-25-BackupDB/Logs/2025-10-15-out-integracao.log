@@ -1,0 +1,178 @@
+ 2025-10-15 15:09:09.7849|Recebendo cliente 954161: AGATHA ROSA 25%
+ 2025-10-15 15:09:09.9949|Recebendo cliente 955448: MARINA FROEDER
+ 2025-10-15 15:09:10.1849|Recebendo cliente 1203328: LENYTA OLIVEIRA GOMES
+ 2025-10-15 15:09:10.3719|Recebendo cliente 1203539: GABRIELA MAFFEZZOLI
+ 2025-10-15 15:09:10.4569|Recebendo cliente 1203745: WATUZI JANTSCH
+ 2025-10-15 15:09:10.6479|Recebendo cliente 1203795: GABRIELA VIEIRA
+ 2025-10-15 15:09:10.7320|Recebendo cliente 1203951: TOM BROTTO
+ 2025-10-15 15:09:10.8160|Recebendo cliente 1204000: ELIZABETH VIEIRA LOPES
+ 2025-10-15 15:09:10.8339|Clientes processados: 8 - Enviados: 0 - Recebidos: 8
+ 2025-10-15 15:09:11.5466|Enviando NFC-e - chave: 42250529005632000120650010000258471121248560 . . .
+ 2025-10-15 15:09:12.7655|Falha ao sincronizar Documento Fiscal  -> chave: 42250529005632000120650010000258471121248560 - {"message":"O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda","stack":"Error: O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda\n    at /home/ssm-user/application/common/models/cupom.js:7277:13\n    at /home/ssm-user/application/node_modules/async/dist/async.js:473:16\n    at replenish (/home/ssm-user/application/node_modules/async/dist/async.js:1009:25)\n    at iterateeCallback (/home/ssm-user/application/node_modules/async/dist/async.js:998:17)\n    at /home/ssm-user/application/node_modules/async/dist/async.js:972:16\n    at /home/ssm-user/application/node_modules/async/dist/async.js:119:16\n    at processTicksAndRejections (internal/process/task_queues.js:77:11)"} - 
+ 2025-10-15 15:09:12.8085|Enviando NFC-e - chave: 42250529005632000120650010000252981565995110 . . .
+ 2025-10-15 15:09:12.8845|Enviando NFC-e - chave: 42251029005632000120650010000306241378371292 . . .
+ 2025-10-15 15:09:14.0374|Venda: IdLocal 6423: Documento Fiscal Id:5700  -> IdWeb 11025827
+ 2025-10-15 15:09:14.0374|NFC-e chave: 42251029005632000120650010000306241378371292 enviada com sucesso!
+ 2025-10-15 15:12:30.1948|Recebendo operador 15652: Operador
+ 2025-10-15 15:12:30.1948|Recebendo operador 15671: Gerencia
+ 2025-10-15 15:12:30.3718|Recebendo vendedores 884307: BRUNA CAROLINE TORQUATO
+ 2025-10-15 15:12:30.4888|Recebendo vendedores 884308: FABIO COSTA DE AZEVEDO
+ 2025-10-15 15:12:30.5808|Recebendo vendedores 884310: PAULO VICTOR GALDINO
+ 2025-10-15 15:12:30.5988|Recebendo vendedores 948579: JAQUELINE PEREIRA VAZ
+ 2025-10-15 15:12:30.6828|Recebendo vendedores 965041: DANIELE DE MENEZES PIRES
+ 2025-10-15 15:12:30.7018|Recebendo vendedores 979608: EVENTOS
+ 2025-10-15 15:12:30.7198|Recebendo vendedores 1016063: BRUNA CAROLINE TORQUATO
+ 2025-10-15 15:12:30.7408|Recebendo vendedores 1031572: CONSUMO BRUNA CAROLINE TORQUATO
+ 2025-10-15 15:12:30.7588|Recebendo vendedores 1031578: CONSUMO FABIO COSTA DE AZEVEDO
+ 2025-10-15 15:12:30.7768|Recebendo vendedores 1031579: CONSUMO PAULO VICTOR GALDINO
+ 2025-10-15 15:12:30.7948|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-15 15:12:30.8128|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-15 15:12:30.8318|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-15 15:12:30.8508|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-15 15:12:30.8708|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-15 15:12:30.8898|Recebendo vendedores 1158418: HABITUAL CAFE
+ 2025-10-15 15:12:30.9088|Recebendo vendedores 1160501: CONSUMO HABITUAL CAFE
+ 2025-10-15 15:12:31.0558|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-15 15:12:34.4785|Recebendo cliente 954161: AGATHA ROSA 25%
+ 2025-10-15 15:12:34.6855|Recebendo cliente 955448: MARINA FROEDER
+ 2025-10-15 15:12:34.9056|Recebendo cliente 1203328: LENYTA OLIVEIRA GOMES
+ 2025-10-15 15:12:35.1115|Recebendo cliente 1203539: GABRIELA MAFFEZZOLI
+ 2025-10-15 15:12:35.2065|Recebendo cliente 1203745: WATUZI JANTSCH
+ 2025-10-15 15:12:35.4144|Recebendo cliente 1203795: GABRIELA VIEIRA
+ 2025-10-15 15:12:35.5084|Recebendo cliente 1203951: TOM BROTTO
+ 2025-10-15 15:12:35.6024|Recebendo cliente 1204000: ELIZABETH VIEIRA LOPES
+ 2025-10-15 15:12:35.6234|Clientes processados: 8 - Enviados: 0 - Recebidos: 8
+ 2025-10-15 15:12:35.6924|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-15 15:12:35.6924|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-15 15:12:35.9274|Enviando NFC-e - chave: 42250529005632000120650010000258471121248560 . . .
+ 2025-10-15 15:12:36.7304|Falha ao sincronizar Documento Fiscal  -> chave: 42250529005632000120650010000258471121248560 - {"message":"O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda","stack":"Error: O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda\n    at /home/ssm-user/application/common/models/cupom.js:7277:13\n    at /home/ssm-user/application/node_modules/async/dist/async.js:473:16\n    at replenish (/home/ssm-user/application/node_modules/async/dist/async.js:1009:25)\n    at iterateeCallback (/home/ssm-user/application/node_modules/async/dist/async.js:998:17)\n    at /home/ssm-user/application/node_modules/async/dist/async.js:972:16\n    at /home/ssm-user/application/node_modules/async/dist/async.js:119:16\n    at processTicksAndRejections (internal/process/task_queues.js:77:11)"} - 
+ 2025-10-15 15:12:36.7694|Enviando NFC-e - chave: 42250529005632000120650010000252981565995110 . . .
+ 2025-10-15 15:12:37.0283|Recebendo itens - 3 item(s).
+ 2025-10-15 15:12:38.1135|Recebendo itens - 3 itens importados de 3
+ 2025-10-15 15:12:38.4995|Total de itens recebidos: 3
+ 2025-10-15 15:12:38.8505|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-15 15:12:39.0764|Não existe nenhum lote pendente de sincronização!
+ 2025-10-15 15:12:39.3095|Recebendo Depósito: Geral
+ 2025-10-15 15:12:39.3395|Recebendo Depósito: Red Mob Campeche
+ 2025-10-15 15:12:39.3695|Recebendo Depósito: Wolrdgym
+ 2025-10-15 15:12:39.3995|Recebendo Depósito: Red Mob Capoeiras
+ 2025-10-15 15:12:39.4295|Recebendo Depósito: Red Mob Santa Monica
+ 2025-10-15 15:12:39.4575|Recebendo Depósito: Habitual Cafe
+ 2025-10-15 15:14:17.3190|Recebendo cliente 954161: AGATHA ROSA 25%
+ 2025-10-15 15:14:17.5320|Recebendo cliente 955448: MARINA FROEDER
+ 2025-10-15 15:14:17.7151|Recebendo cliente 1203328: LENYTA OLIVEIRA GOMES
+ 2025-10-15 15:14:17.8971|Recebendo cliente 1203539: GABRIELA MAFFEZZOLI
+ 2025-10-15 15:14:17.9841|Recebendo cliente 1203745: WATUZI JANTSCH
+ 2025-10-15 15:14:18.1701|Recebendo cliente 1203795: GABRIELA VIEIRA
+ 2025-10-15 15:14:18.2491|Recebendo cliente 1203951: TOM BROTTO
+ 2025-10-15 15:14:18.3281|Recebendo cliente 1204000: ELIZABETH VIEIRA LOPES
+ 2025-10-15 15:14:18.3441|Clientes processados: 8 - Enviados: 0 - Recebidos: 8
+ 2025-10-15 15:14:18.6331|Enviando NFC-e - chave: 42250529005632000120650010000258471121248560 . . .
+ 2025-10-15 15:14:19.7415|Falha ao sincronizar Documento Fiscal  -> chave: 42250529005632000120650010000258471121248560 - {"message":"O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda","stack":"Error: O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda\n    at /home/ssm-user/application/common/models/cupom.js:7277:13\n    at /home/ssm-user/application/node_modules/async/dist/async.js:473:16\n    at replenish (/home/ssm-user/application/node_modules/async/dist/async.js:1009:25)\n    at iterateeCallback (/home/ssm-user/application/node_modules/async/dist/async.js:998:17)\n    at /home/ssm-user/application/node_modules/async/dist/async.js:972:16\n    at /home/ssm-user/application/node_modules/async/dist/async.js:119:16\n    at processTicksAndRejections (internal/process/task_queues.js:77:11)"} - 
+ 2025-10-15 15:14:19.7825|Enviando NFC-e - chave: 42250529005632000120650010000252981565995110 . . .
+ 2025-10-15 15:14:19.8517|Enviando NFC-e - chave: 42251029005632000120650010000306251583241343 . . .
+ 2025-10-15 15:14:20.5158|Venda: IdLocal 6424: Documento Fiscal Id:5701  -> IdWeb 11025921
+ 2025-10-15 15:14:20.5158|NFC-e chave: 42251029005632000120650010000306251583241343 enviada com sucesso!
+ 2025-10-15 15:17:20.5843|Recebendo cliente 954161: AGATHA ROSA 25%
+ 2025-10-15 15:17:20.7803|Recebendo cliente 955448: MARINA FROEDER
+ 2025-10-15 15:17:20.9623|Recebendo cliente 1203328: LENYTA OLIVEIRA GOMES
+ 2025-10-15 15:17:21.1523|Recebendo cliente 1203539: GABRIELA MAFFEZZOLI
+ 2025-10-15 15:17:21.2353|Recebendo cliente 1203745: WATUZI JANTSCH
+ 2025-10-15 15:17:21.4323|Recebendo cliente 1203795: GABRIELA VIEIRA
+ 2025-10-15 15:17:21.5143|Recebendo cliente 1203951: TOM BROTTO
+ 2025-10-15 15:17:21.5993|Recebendo cliente 1204000: ELIZABETH VIEIRA LOPES
+ 2025-10-15 15:17:21.6193|Clientes processados: 8 - Enviados: 0 - Recebidos: 8
+ 2025-10-15 15:17:21.8933|Enviando NFC-e - chave: 42250529005632000120650010000258471121248560 . . .
+ 2025-10-15 15:17:23.3193|Falha ao sincronizar Documento Fiscal  -> chave: 42250529005632000120650010000258471121248560 - {"message":"O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda","stack":"Error: O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda\n    at /home/ssm-user/application/common/models/cupom.js:7277:13\n    at /home/ssm-user/application/node_modules/async/dist/async.js:473:16\n    at replenish (/home/ssm-user/application/node_modules/async/dist/async.js:1009:25)\n    at iterateeCallback (/home/ssm-user/application/node_modules/async/dist/async.js:998:17)\n    at /home/ssm-user/application/node_modules/async/dist/async.js:972:16\n    at /home/ssm-user/application/node_modules/async/dist/async.js:119:16\n    at processTicksAndRejections (internal/process/task_queues.js:77:11)"} - 
+ 2025-10-15 15:17:23.3533|Enviando NFC-e - chave: 42250529005632000120650010000252981565995110 . . .
+ 2025-10-15 15:17:23.4223|Enviando NFC-e - chave: 42251029005632000120650010000306261287929040 . . .
+ 2025-10-15 15:17:24.4633|Venda: IdLocal 6425: Documento Fiscal Id:5702  -> IdWeb 11025989
+ 2025-10-15 15:17:24.4633|NFC-e chave: 42251029005632000120650010000306261287929040 enviada com sucesso!
+ 2025-10-15 15:22:30.4848|Recebendo operador 15652: Operador
+ 2025-10-15 15:22:30.4848|Recebendo operador 15671: Gerencia
+ 2025-10-15 15:22:30.6688|Recebendo vendedores 884307: BRUNA CAROLINE TORQUATO
+ 2025-10-15 15:22:30.7948|Recebendo vendedores 884308: FABIO COSTA DE AZEVEDO
+ 2025-10-15 15:22:30.9338|Recebendo vendedores 884310: PAULO VICTOR GALDINO
+ 2025-10-15 15:22:30.9518|Recebendo vendedores 948579: JAQUELINE PEREIRA VAZ
+ 2025-10-15 15:22:31.0408|Recebendo vendedores 965041: DANIELE DE MENEZES PIRES
+ 2025-10-15 15:22:31.0578|Recebendo vendedores 979608: EVENTOS
+ 2025-10-15 15:22:31.0758|Recebendo vendedores 1016063: BRUNA CAROLINE TORQUATO
+ 2025-10-15 15:22:31.0978|Recebendo vendedores 1031572: CONSUMO BRUNA CAROLINE TORQUATO
+ 2025-10-15 15:22:31.1168|Recebendo vendedores 1031578: CONSUMO FABIO COSTA DE AZEVEDO
+ 2025-10-15 15:22:31.1338|Recebendo vendedores 1031579: CONSUMO PAULO VICTOR GALDINO
+ 2025-10-15 15:22:31.1528|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-15 15:22:31.1698|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-15 15:22:31.1868|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-15 15:22:31.2058|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-15 15:22:31.2238|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-15 15:22:31.2418|Recebendo vendedores 1158418: HABITUAL CAFE
+ 2025-10-15 15:22:31.2598|Recebendo vendedores 1160501: CONSUMO HABITUAL CAFE
+ 2025-10-15 15:22:31.4028|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-15 15:22:35.1337|Recebendo cliente 954161: AGATHA ROSA 25%
+ 2025-10-15 15:22:35.3467|Recebendo cliente 955448: MARINA FROEDER
+ 2025-10-15 15:22:35.5627|Recebendo cliente 1203328: LENYTA OLIVEIRA GOMES
+ 2025-10-15 15:22:35.7727|Recebendo cliente 1203539: GABRIELA MAFFEZZOLI
+ 2025-10-15 15:22:35.8667|Recebendo cliente 1203745: WATUZI JANTSCH
+ 2025-10-15 15:22:36.0737|Recebendo cliente 1203795: GABRIELA VIEIRA
+ 2025-10-15 15:22:36.1677|Recebendo cliente 1203951: TOM BROTTO
+ 2025-10-15 15:22:36.2607|Recebendo cliente 1204000: ELIZABETH VIEIRA LOPES
+ 2025-10-15 15:22:36.2817|Clientes processados: 8 - Enviados: 0 - Recebidos: 8
+ 2025-10-15 15:22:36.3487|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-15 15:22:36.3487|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-15 15:22:36.5947|Enviando NFC-e - chave: 42250529005632000120650010000258471121248560 . . .
+ 2025-10-15 15:22:37.4280|Falha ao sincronizar Documento Fiscal  -> chave: 42250529005632000120650010000258471121248560 - {"message":"O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda","stack":"Error: O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda\n    at /home/ssm-user/application/common/models/cupom.js:7277:13\n    at /home/ssm-user/application/node_modules/async/dist/async.js:473:16\n    at replenish (/home/ssm-user/application/node_modules/async/dist/async.js:1009:25)\n    at iterateeCallback (/home/ssm-user/application/node_modules/async/dist/async.js:998:17)\n    at /home/ssm-user/application/node_modules/async/dist/async.js:972:16\n    at /home/ssm-user/application/node_modules/async/dist/async.js:119:16\n    at processTicksAndRejections (internal/process/task_queues.js:77:11)"} - 
+ 2025-10-15 15:22:37.4690|Enviando NFC-e - chave: 42250529005632000120650010000252981565995110 . . .
+ 2025-10-15 15:22:37.7759|Não existe nenhum produto/serviço pendente de sincronização!
+ 2025-10-15 15:22:38.0622|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-15 15:22:38.3205|Não existe nenhum lote pendente de sincronização!
+ 2025-10-15 15:22:38.5355|Recebendo Depósito: Geral
+ 2025-10-15 15:22:38.5635|Recebendo Depósito: Red Mob Campeche
+ 2025-10-15 15:22:38.5925|Recebendo Depósito: Wolrdgym
+ 2025-10-15 15:22:38.6195|Recebendo Depósito: Red Mob Capoeiras
+ 2025-10-15 15:22:38.6485|Recebendo Depósito: Red Mob Santa Monica
+ 2025-10-15 15:22:38.6755|Recebendo Depósito: Habitual Cafe
+ 2025-10-15 15:27:30.7489|Recebendo operador 15652: Operador
+ 2025-10-15 15:27:30.7632|Recebendo operador 15671: Gerencia
+ 2025-10-15 15:27:30.9292|Recebendo vendedores 884307: BRUNA CAROLINE TORQUATO
+ 2025-10-15 15:27:31.0492|Recebendo vendedores 884308: FABIO COSTA DE AZEVEDO
+ 2025-10-15 15:27:31.1332|Recebendo vendedores 884310: PAULO VICTOR GALDINO
+ 2025-10-15 15:27:31.1502|Recebendo vendedores 948579: JAQUELINE PEREIRA VAZ
+ 2025-10-15 15:27:31.2332|Recebendo vendedores 965041: DANIELE DE MENEZES PIRES
+ 2025-10-15 15:27:31.2512|Recebendo vendedores 979608: EVENTOS
+ 2025-10-15 15:27:31.2712|Recebendo vendedores 1016063: BRUNA CAROLINE TORQUATO
+ 2025-10-15 15:27:31.2892|Recebendo vendedores 1031572: CONSUMO BRUNA CAROLINE TORQUATO
+ 2025-10-15 15:27:31.3072|Recebendo vendedores 1031578: CONSUMO FABIO COSTA DE AZEVEDO
+ 2025-10-15 15:27:31.3252|Recebendo vendedores 1031579: CONSUMO PAULO VICTOR GALDINO
+ 2025-10-15 15:27:31.3432|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-15 15:27:31.3622|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-15 15:27:31.3792|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-15 15:27:31.3972|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-15 15:27:31.4152|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-15 15:27:31.4322|Recebendo vendedores 1158418: HABITUAL CAFE
+ 2025-10-15 15:27:31.4502|Recebendo vendedores 1160501: CONSUMO HABITUAL CAFE
+ 2025-10-15 15:27:31.5962|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-15 15:27:34.7702|Recebendo cliente 954161: AGATHA ROSA 25%
+ 2025-10-15 15:27:34.9773|Recebendo cliente 955448: MARINA FROEDER
+ 2025-10-15 15:27:35.1804|Recebendo cliente 1203328: LENYTA OLIVEIRA GOMES
+ 2025-10-15 15:27:35.3894|Recebendo cliente 1203539: GABRIELA MAFFEZZOLI
+ 2025-10-15 15:27:35.4823|Recebendo cliente 1203745: WATUZI JANTSCH
+ 2025-10-15 15:27:35.6904|Recebendo cliente 1203795: GABRIELA VIEIRA
+ 2025-10-15 15:27:35.7863|Recebendo cliente 1203951: TOM BROTTO
+ 2025-10-15 15:27:35.8824|Recebendo cliente 1204000: ELIZABETH VIEIRA LOPES
+ 2025-10-15 15:27:35.9024|Clientes processados: 8 - Enviados: 0 - Recebidos: 8
+ 2025-10-15 15:27:35.9687|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-15 15:27:35.9687|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-15 15:27:36.2215|Enviando NFC-e - chave: 42250529005632000120650010000258471121248560 . . .
+ 2025-10-15 15:27:37.0155|Falha ao sincronizar Documento Fiscal  -> chave: 42250529005632000120650010000258471121248560 - {"message":"O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda","stack":"Error: O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda\n    at /home/ssm-user/application/common/models/cupom.js:7277:13\n    at /home/ssm-user/application/node_modules/async/dist/async.js:473:16\n    at replenish (/home/ssm-user/application/node_modules/async/dist/async.js:1009:25)\n    at iterateeCallback (/home/ssm-user/application/node_modules/async/dist/async.js:998:17)\n    at /home/ssm-user/application/node_modules/async/dist/async.js:972:16\n    at /home/ssm-user/application/node_modules/async/dist/async.js:119:16\n    at processTicksAndRejections (internal/process/task_queues.js:77:11)"} - 
+ 2025-10-15 15:27:37.0656|Enviando NFC-e - chave: 42250529005632000120650010000252981565995110 . . .
+ 2025-10-15 15:27:37.3351|Recebendo itens - 6 item(s).
+ 2025-10-15 15:27:38.8289|Recebendo itens - 6 itens importados de 6
+ 2025-10-15 15:27:39.2451|Total de itens recebidos: 6
+ 2025-10-15 15:27:39.5739|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-15 15:27:39.8095|Não existe nenhum lote pendente de sincronização!
+ 2025-10-15 15:27:40.0748|Recebendo Depósito: Geral
+ 2025-10-15 15:27:40.1028|Recebendo Depósito: Red Mob Campeche
+ 2025-10-15 15:27:40.1328|Recebendo Depósito: Wolrdgym
+ 2025-10-15 15:27:40.1598|Recebendo Depósito: Red Mob Capoeiras
+ 2025-10-15 15:27:40.1888|Recebendo Depósito: Red Mob Santa Monica
+ 2025-10-15 15:27:40.2188|Recebendo Depósito: Habitual Cafe

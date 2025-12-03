@@ -1,0 +1,306 @@
+ 2025-10-14 08:15:59.6818|SincronizarVendas -> (4277) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 08:15:59.7210|SincronizarVendas -> (4279) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 08:23:02.8156|SincronizarVendas -> (4277) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 08:23:02.8296|SincronizarVendas -> (4279) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 08:29:55.1516|SincronizarVendas -> (4277) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 08:29:55.2073|SincronizarVendas -> (4279) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 08:45:04.8194|SincronizarVendas -> (4277) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 08:45:04.8364|SincronizarVendas -> (4279) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 08:59:55.8080|SincronizarVendas -> (4277) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 08:59:55.8603|SincronizarVendas -> (4279) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 09:05:05.7901|SincronizarVendas -> (4277) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 09:05:05.8051|SincronizarVendas -> (4279) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 09:29:55.2757|SincronizarVendas -> (4277) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 09:29:55.3312|SincronizarVendas -> (4279) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 09:59:55.7489|SincronizarVendas -> (4277) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 09:59:55.8039|SincronizarVendas -> (4279) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 10:29:55.4953|SincronizarVendas -> (4277) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 10:29:55.5493|SincronizarVendas -> (4279) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 10:30:13.8612|ReceberClientes -> An error occurred while saving entities that do not expose foreign key properties for their relationships. The EntityEntries property will return null because a single entity cannot be identified as the source of the exception. Handling of exceptions while saving can be made easier by exposing foreign key properties in your entity types. See the InnerException for details.
+Store update, insert, or delete statement affected an unexpected number of rows (0). Entities may have been modified or deleted since entities were loaded. See http://go.microsoft.com/fwlink/?LinkId=472540 for information on understanding and handling optimistic concurrency exceptions.
+|StackTrace:    em System.Data.Entity.Internal.InternalContext.SaveChanges()
+   em System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   em System.Data.Entity.DbContext.SaveChanges()
+   em PDV.BLL.control.ErpController.<ReceberClientes>b__46_4(Contato c)
+   em System.Collections.Generic.List`1.ForEach(Action`1 action)
+   em PDV.BLL.control.ErpController.ReceberClientes(IEnumerable`1 clientesErp)
+|InnerException: 
+ 2025-10-14 10:32:36.6499|SincronizarVendas -> (4277) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 10:32:36.6880|SincronizarVendas -> (4279) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 10:59:55.8202|SincronizarVendas -> (4277) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 10:59:55.8782|SincronizarVendas -> (4279) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 11:29:56.1141|SincronizarVendas -> (4277) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 11:29:56.1715|SincronizarVendas -> (4279) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 11:59:56.2160|SincronizarVendas -> (4277) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 11:59:56.2793|SincronizarVendas -> (4279) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 12:15:17.4389|SincronizarVendas -> (4277) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 12:15:17.4771|SincronizarVendas -> (4279) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 12:17:37.3784|An error occurred while saving entities that do not expose foreign key properties for their relationships. The EntityEntries property will return null because a single entity cannot be identified as the source of the exception. Handling of exceptions while saving can be made easier by exposing foreign key properties in your entity types. See the InnerException for details. StackTrace:    em System.Data.Entity.Internal.InternalContext.SaveChanges()
+   em System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   em System.Data.Entity.DbContext.SaveChanges()
+   em PDV.BLL.managers.ErpManager.<SincronizarPessoas>d__31.MoveNext()
+ 2025-10-14 12:17:39.8841|An error occurred while saving entities that do not expose foreign key properties for their relationships. The EntityEntries property will return null because a single entity cannot be identified as the source of the exception. Handling of exceptions while saving can be made easier by exposing foreign key properties in your entity types. See the InnerException for details.|StackTrace::    em System.Data.Entity.Internal.InternalContext.SaveChanges()
+   em System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   em System.Data.Entity.DbContext.SaveChanges()
+   em PDV.DAL.Repositorios.RepositorioErp.Save()
+   em PDV.BLL.control.ErpController.<ReceberOperadores>d__55.MoveNext()
+ 2025-10-14 12:17:39.9311|An error occurred while saving entities that do not expose foreign key properties for their relationships. The EntityEntries property will return null because a single entity cannot be identified as the source of the exception. Handling of exceptions while saving can be made easier by exposing foreign key properties in your entity types. See the InnerException for details.|StackTrace::    em System.Data.Entity.Internal.InternalContext.SaveChanges()
+   em System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   em System.Data.Entity.DbContext.SaveChanges()
+   em PDV.DAL.Repositorios.RepositorioErp.Save()
+   em PDV.BLL.control.ErpController.<ReceberOperadores>d__55.MoveNext()
+ 2025-10-14 12:17:40.5784|SincronizarVendedores -> An error occurred while saving entities that do not expose foreign key properties for their relationships. The EntityEntries property will return null because a single entity cannot be identified as the source of the exception. Handling of exceptions while saving can be made easier by exposing foreign key properties in your entity types. See the InnerException for details.
+Store update, insert, or delete statement affected an unexpected number of rows (0). Entities may have been modified or deleted since entities were loaded. See http://go.microsoft.com/fwlink/?LinkId=472540 for information on understanding and handling optimistic concurrency exceptions.
+|StackTrace:    em System.Data.Entity.Internal.InternalContext.SaveChanges()
+   em System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   em System.Data.Entity.DbContext.SaveChanges()
+   em PDV.BLL.control.ErpController.<ReceberVendedores>d__50.MoveNext()
+|InnerException: 
+ 2025-10-14 12:19:06.3601|SincronizarVendas -> (4277) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 12:19:06.4014|SincronizarVendas -> (4279) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 12:29:47.5401|SincronizarVendas -> (4277) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 12:29:47.5820|SincronizarVendas -> (4279) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 12:29:55.8157|SincronizarVendas -> (4277) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 12:29:55.8751|SincronizarVendas -> (4279) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 12:31:42.6542|SincronizarVendas -> (4277) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 12:31:42.6912|SincronizarVendas -> (4279) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 12:34:35.8419|SincronizarVendas -> (4277) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 12:34:35.8789|SincronizarVendas -> (4279) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 12:45:48.2203|SincronizarVendas -> (4277) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 12:45:48.2639|SincronizarVendas -> (4279) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 12:54:32.0334|SincronizarVendas -> (4277) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 12:54:32.0794|SincronizarVendas -> (4279) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 12:59:56.4567|SincronizarVendas -> (4277) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 12:59:56.5076|SincronizarVendas -> (4279) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 13:01:06.4443|SincronizarVendas -> (4277) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 13:01:06.4860|SincronizarVendas -> (4279) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()

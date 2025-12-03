@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe">
+  <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+    <infNFe versao="4.00" Id="NFe42250929005632000200650010000185061881454964">
+      <ide>
+        <cUF>42</cUF>
+        <cNF>88145496</cNF>
+        <natOp>Venda</natOp>
+        <mod>65</mod>
+        <serie>1</serie>
+        <nNF>18506</nNF>
+        <dhEmi>2025-09-24T12:28:16-03:00</dhEmi>
+        <tpNF>1</tpNF>
+        <idDest>1</idDest>
+        <cMunFG>4205407</cMunFG>
+        <tpImp>4</tpImp>
+        <tpEmis>1</tpEmis>
+        <cDV>4</cDV>
+        <tpAmb>1</tpAmb>
+        <finNFe>1</finNFe>
+        <indFinal>1</indFinal>
+        <indPres>1</indPres>
+        <indIntermed>0</indIntermed>
+        <procEmi>0</procEmi>
+        <verProc>14.4.0.0</verProc>
+      </ide>
+      <emit>
+        <CNPJ>29005632000200</CNPJ>
+        <xNome>EVOLUTION NUTRICAO SAUDAVEL E COMERCIO LTDA</xNome>
+        <xFant>EVOLUTION  - CENTRO</xFant>
+        <enderEmit>
+          <xLgr>Avenida Prefeito Osmar Cunha</xLgr>
+          <nro>208</nro>
+          <xBairro>Centro</xBairro>
+          <cMun>4205407</cMun>
+          <xMun>Florianopolis</xMun>
+          <UF>SC</UF>
+          <CEP>88015100</CEP>
+        </enderEmit>
+        <IE>261875450</IE>
+        <CRT>3</CRT>
+      </emit>
+      <det nItem="1">
+        <prod>
+          <cProd>7898755180107</cProd>
+          <cEAN>7898755180107</cEAN>
+          <xProd>BOLD BAR DE LEITE E AVELA 60GR</xProd>
+          <NCM>21069030</NCM>
+          <cBenef>SC830073</cBenef>
+          <CFOP>5102</CFOP>
+          <uCom>UND</uCom>
+          <qCom>1.0000</qCom>
+          <vUnCom>16.90</vUnCom>
+          <vProd>16.90</vProd>
+          <cEANTrib>7898755180107</cEANTrib>
+          <uTrib>UND</uTrib>
+          <qTrib>1.0000</qTrib>
+          <vUnTrib>16.90</vUnTrib>
+          <vDesc>1.69</vDesc>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <vTotTrib>4.64</vTotTrib>
+          <ICMS>
+            <ICMS00>
+              <orig>0</orig>
+              <CST>00</CST>
+              <modBC>0</modBC>
+              <vBC>15.21</vBC>
+              <pICMS>17.00</pICMS>
+              <vICMS>2.59</vICMS>
+            </ICMS00>
+          </ICMS>
+          <PIS>
+            <PISAliq>
+              <CST>01</CST>
+              <vBC>15.21</vBC>
+              <pPIS>1.65</pPIS>
+              <vPIS>0.25</vPIS>
+            </PISAliq>
+          </PIS>
+          <COFINS>
+            <COFINSAliq>
+              <CST>01</CST>
+              <vBC>15.21</vBC>
+              <pCOFINS>7.60</pCOFINS>
+              <vCOFINS>1.16</vCOFINS>
+            </COFINSAliq>
+          </COFINS>
+        </imposto>
+      </det>
+      <det nItem="2">
+        <prod>
+          <cProd>7896311777242</cProd>
+          <cEAN>7896311777242</cEAN>
+          <xProd>DARK BAR COOKIES AND CREAM 90GR</xProd>
+          <NCM>21069030</NCM>
+          <CFOP>5102</CFOP>
+          <uCom>UND</uCom>
+          <qCom>1.0000</qCom>
+          <vUnCom>19.90</vUnCom>
+          <vProd>19.90</vProd>
+          <cEANTrib>7896311777242</cEANTrib>
+          <uTrib>UND</uTrib>
+          <qTrib>1.0000</qTrib>
+          <vUnTrib>19.90</vUnTrib>
+          <vDesc>1.99</vDesc>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <vTotTrib>5.45</vTotTrib>
+          <ICMS>
+            <ICMS00>
+              <orig>0</orig>
+              <CST>00</CST>
+              <modBC>0</modBC>
+              <vBC>17.91</vBC>
+              <pICMS>17.00</pICMS>
+              <vICMS>3.04</vICMS>
+            </ICMS00>
+          </ICMS>
+          <PIS>
+            <PISAliq>
+              <CST>01</CST>
+              <vBC>17.91</vBC>
+              <pPIS>1.65</pPIS>
+              <vPIS>0.30</vPIS>
+            </PISAliq>
+          </PIS>
+          <COFINS>
+            <COFINSAliq>
+              <CST>01</CST>
+              <vBC>17.91</vBC>
+              <pCOFINS>7.60</pCOFINS>
+              <vCOFINS>1.36</vCOFINS>
+            </COFINSAliq>
+          </COFINS>
+        </imposto>
+      </det>
+      <total>
+        <ICMSTot>
+          <vBC>33.12</vBC>
+          <vICMS>5.63</vICMS>
+          <vICMSDeson>0.00</vICMSDeson>
+          <vFCPUFDest>0.00</vFCPUFDest>
+          <vICMSUFDest>0.00</vICMSUFDest>
+          <vICMSUFRemet>0.00</vICMSUFRemet>
+          <vFCP>0.00</vFCP>
+          <vBCST>0.00</vBCST>
+          <vST>0.00</vST>
+          <vFCPST>0.00</vFCPST>
+          <vFCPSTRet>0.00</vFCPSTRet>
+          <vProd>36.80</vProd>
+          <vFrete>0.00</vFrete>
+          <vSeg>0.00</vSeg>
+          <vDesc>3.68</vDesc>
+          <vII>0.00</vII>
+          <vIPI>0.00</vIPI>
+          <vIPIDevol>0.00</vIPIDevol>
+          <vPIS>0.55</vPIS>
+          <vCOFINS>2.52</vCOFINS>
+          <vOutro>0.00</vOutro>
+          <vNF>33.12</vNF>
+          <vTotTrib>10.09</vTotTrib>
+        </ICMSTot>
+      </total>
+      <transp>
+        <modFrete>9</modFrete>
+      </transp>
+      <pag>
+        <detPag>
+          <indPag>0</indPag>
+          <tPag>17</tPag>
+          <vPag>33.12</vPag>
+          <card>
+            <tpIntegra>2</tpIntegra>
+            <idTermPag>1</idTermPag>
+          </card>
+        </detPag>
+        <vTroco>0.00</vTroco>
+      </pag>
+      <infAdic>
+        <infCpl>Trib. aprox. Fed. R$ 4,46, Est. R$ 5,63 |e Mun. R$ 0,00 (30,46%), Fonte IBPT.| ||Nr. Pedido: 10039</infCpl>
+      </infAdic>
+      <infRespTec>
+        <CNPJ>47217329000172</CNPJ>
+        <xContato>Ricardo Pinheiro Braga</xContato>
+        <email>contato@maqplan.com.br</email>
+        <fone>6130376333</fone>
+      </infRespTec>
+    </infNFe>
+    <infNFeSupl>
+      <qrCode><![CDATA[https://sat.sef.sc.gov.br/nfce/consulta?p=42250929005632000200650010000185061881454964|2|1|1|3015B3B2115D4657453AAD3BB57CB7B6CBCC97DA]]></qrCode>
+      <urlChave>https://sat.sef.sc.gov.br/nfce/consulta</urlChave>
+    </infNFeSupl>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+      <SignedInfo>
+        <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+        <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+        <Reference URI="#NFe42250929005632000200650010000185061881454964">
+          <Transforms>
+            <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+            <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+          </Transforms>
+          <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+          <DigestValue>ujzteoMLe70jKM4DoeBrRlwm6c0=</DigestValue>
+        </Reference>
+      </SignedInfo>
+      <SignatureValue>wYOEaBaoQqlckLK30LmtAVJbcRgahpCC0SkJ8K/d8Bv2+Pvki6IgiZ+7oNspG8y5UPkwS0k7JxyPXJo5j8rf6QEJpbJZkn+T9XgteeKMbkKv82x5bEjkKfsRgfE6HGXHv8BAMxsrSDqQnplSgYj8elO6SBiXmurES7aAFUZaOcw4kl6owN9hAi17NZp/d/QAgvhgn3JC3n8wBX0xs84nOeJEGr07psC7m1ziLc+hIUU8b/APwT/YBYECev4i3Wh8HJog8wKT7mQcb42o+uT2cniSzJxgj+8XYZdXp3EtrgSiaZWoDx1u/rDl5sMamsFGifbqgcKSE5d0Jeen4EoUCg==</SignatureValue>
+      <KeyInfo>
+        <X509Data>
+          <X509Certificate>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</X509Certificate>
+        </X509Data>
+      </KeyInfo>
+    </Signature>
+  </NFe>
+  <protNFe versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe">
+    <infProt>
+      <tpAmb>1</tpAmb>
+      <verAplic>SVRSnfce2509011501DR</verAplic>
+      <chNFe>42250929005632000200650010000185061881454964</chNFe>
+      <dhRecbto>2025-09-24T12:28:20-03:00</dhRecbto>
+      <nProt>242251322246658</nProt>
+      <digVal>ujzteoMLe70jKM4DoeBrRlwm6c0=</digVal>
+      <cStat>100</cStat>
+      <xMotivo>Autorizado o uso da NF-e</xMotivo>
+    </infProt>
+  </protNFe>
+</nfeProc>

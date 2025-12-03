@@ -1,0 +1,27 @@
+                   -------------- Error (2025-10-13 14:03:29.9157) --------------
+                   
+                   Call Site: PDV.BLL.managers.VendaManager.EnviarMensagemNF
+                   Exception Type: System.ObjectDisposedException
+                   Exception Message: The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.
+                   Stack Trace:    em System.Data.Entity.Core.Objects.ObjectContext.get_Connection()
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.Execute(MergeOption mergeOption)
+   em System.Data.Entity.Core.Objects.DataClasses.EntityCollection`1.Load(List`1 collection, MergeOption mergeOption)
+   em System.Data.Entity.Core.Objects.DataClasses.EntityCollection`1.Load(MergeOption mergeOption)
+   em System.Data.Entity.Core.Objects.DataClasses.RelatedEnd.DeferredLoad()
+   em System.Data.Entity.Core.Objects.Internal.LazyLoadBehavior.LoadProperty[TItem](TItem propertyValue, String relationshipName, String targetRoleName, Boolean mustBeNull, Object wrapperObject)
+   em System.Data.Entity.Core.Objects.Internal.LazyLoadBehavior.<>c__DisplayClass0_0`2.<GetInterceptorDelegate>b__1(TProxy proxy, TItem item)
+   em System.Data.Entity.DynamicProxies.Destinatario_D4416208A39BB0702213522CDABAB0878C417599FF9CC106CF4E2F83A6F48948.get_Contatos()
+   em PDV.BLL.managers.VendaManager.<EnviarMensagemNF>d__42.MoveNext()
+                   Inner Exception: System.ObjectDisposedException: The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.
+   em System.Data.Entity.Core.Objects.ObjectContext.get_Connection()
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.Execute(MergeOption mergeOption)
+   em System.Data.Entity.Core.Objects.DataClasses.EntityCollection`1.Load(List`1 collection, MergeOption mergeOption)
+   em System.Data.Entity.Core.Objects.DataClasses.EntityCollection`1.Load(MergeOption mergeOption)
+   em System.Data.Entity.Core.Objects.DataClasses.RelatedEnd.DeferredLoad()
+   em System.Data.Entity.Core.Objects.Internal.LazyLoadBehavior.LoadProperty[TItem](TItem propertyValue, String relationshipName, String targetRoleName, Boolean mustBeNull, Object wrapperObject)
+   em System.Data.Entity.Core.Objects.Internal.LazyLoadBehavior.<>c__DisplayClass0_0`2.<GetInterceptorDelegate>b__1(TProxy proxy, TItem item)
+   em System.Data.Entity.DynamicProxies.Destinatario_D4416208A39BB0702213522CDABAB0878C417599FF9CC106CF4E2F83A6F48948.get_Contatos()
+   em PDV.BLL.managers.VendaManager.<EnviarMensagemNF>d__42.MoveNext()
+

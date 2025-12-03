@@ -1,0 +1,46 @@
+ 2025-10-13 12:36:48.3033|ReceberClientes -> An error occurred while saving entities that do not expose foreign key properties for their relationships. The EntityEntries property will return null because a single entity cannot be identified as the source of the exception. Handling of exceptions while saving can be made easier by exposing foreign key properties in your entity types. See the InnerException for details.
+Store update, insert, or delete statement affected an unexpected number of rows (0). Entities may have been modified or deleted since entities were loaded. See http://go.microsoft.com/fwlink/?LinkId=472540 for information on understanding and handling optimistic concurrency exceptions.
+|StackTrace:    em System.Data.Entity.Internal.InternalContext.SaveChanges()
+   em System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   em System.Data.Entity.DbContext.SaveChanges()
+   em PDV.BLL.control.ErpController.<ReceberClientes>b__46_4(Contato c)
+   em System.Collections.Generic.List`1.ForEach(Action`1 action)
+   em PDV.BLL.control.ErpController.ReceberClientes(IEnumerable`1 clientesErp)
+|InnerException: 
+ 2025-10-13 12:36:48.4342|An error occurred while saving entities that do not expose foreign key properties for their relationships. The EntityEntries property will return null because a single entity cannot be identified as the source of the exception. Handling of exceptions while saving can be made easier by exposing foreign key properties in your entity types. See the InnerException for details. StackTrace:    em System.Data.Entity.Internal.InternalContext.SaveChanges()
+   em System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   em System.Data.Entity.DbContext.SaveChanges()
+   em PDV.BLL.control.ErpController.ConfigurarDataUltSincronizacao(EnumSincronizacaoErp tipoSincronizacaoErp)
+   em PDV.BLL.control.ErpController.<SincronizarClientes>d__44.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   em PDV.BLL.control.ErpController.<SincronizarPessoas>d__43.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em PDV.BLL.managers.ErpManager.<SincronizarTodasVendas>d__27.MoveNext()
+ 2025-10-13 12:40:39.4277|ReceberClientes -> An error occurred while saving entities that do not expose foreign key properties for their relationships. The EntityEntries property will return null because a single entity cannot be identified as the source of the exception. Handling of exceptions while saving can be made easier by exposing foreign key properties in your entity types. See the InnerException for details.
+Store update, insert, or delete statement affected an unexpected number of rows (0). Entities may have been modified or deleted since entities were loaded. See http://go.microsoft.com/fwlink/?LinkId=472540 for information on understanding and handling optimistic concurrency exceptions.
+|StackTrace:    em System.Data.Entity.Internal.InternalContext.SaveChanges()
+   em System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   em System.Data.Entity.DbContext.SaveChanges()
+   em PDV.BLL.control.ErpController.<ReceberClientes>b__46_4(Contato c)
+   em System.Collections.Generic.List`1.ForEach(Action`1 action)
+   em PDV.BLL.control.ErpController.ReceberClientes(IEnumerable`1 clientesErp)
+|InnerException: 
+ 2025-10-13 12:40:39.5840|An error occurred while saving entities that do not expose foreign key properties for their relationships. The EntityEntries property will return null because a single entity cannot be identified as the source of the exception. Handling of exceptions while saving can be made easier by exposing foreign key properties in your entity types. See the InnerException for details. StackTrace:    em System.Data.Entity.Internal.InternalContext.SaveChanges()
+   em System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   em System.Data.Entity.DbContext.SaveChanges()
+   em PDV.BLL.control.ErpController.ConfigurarDataUltSincronizacao(EnumSincronizacaoErp tipoSincronizacaoErp)
+   em PDV.BLL.control.ErpController.<SincronizarClientes>d__44.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   em PDV.BLL.control.ErpController.<SincronizarPessoas>d__43.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em PDV.BLL.managers.ErpManager.<SincronizarTodasVendas>d__27.MoveNext()

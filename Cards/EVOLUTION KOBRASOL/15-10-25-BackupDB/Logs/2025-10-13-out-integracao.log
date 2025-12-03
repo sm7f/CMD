@@ -1,0 +1,942 @@
+ 2025-10-13 08:02:40.2662|Enviando caixa 262
+ 2025-10-13 08:02:40.3136|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 08:04:52.7153|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-13 08:04:53.5043|Enviando operação de caixa 695 - suprimento
+ 2025-10-13 08:05:22.6212|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-13 08:05:22.9422|Enviando operação de caixa 696 - sangria
+ 2025-10-13 08:32:21.2029|Recebendo operador 15946: Operador
+ 2025-10-13 08:32:21.2199|Recebendo operador 15947: Gerencia
+ 2025-10-13 08:32:21.2529|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 08:32:21.2529|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 08:32:21.2529|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 08:32:21.4139|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 08:32:21.4299|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 08:32:21.4649|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 08:32:21.4809|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 08:32:21.4999|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 08:32:21.5169|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 08:32:21.5349|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 08:32:21.5519|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 08:32:21.5709|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 08:32:21.5869|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 08:32:21.7189|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 08:32:21.7429|Clientes processados: 0 - Enviados: 0 - Recebidos: 0
+ 2025-10-13 08:32:21.7429|Não existe nenhum cliente pendente de sincronização!
+ 2025-10-13 08:32:22.0079|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-13 08:32:22.0179|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 08:32:22.4234|Não existe nenhum produto/serviço pendente de sincronização!
+ 2025-10-13 08:32:22.6727|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 08:32:22.9298|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 08:32:23.1648|Recebendo Depósito: Geral
+ 2025-10-13 08:38:29.9420|Recebendo operador 15946: Operador
+ 2025-10-13 08:38:29.9510|Recebendo operador 15947: Gerencia
+ 2025-10-13 08:38:30.0190|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 08:38:30.0190|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 08:38:30.0190|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 08:38:30.1680|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 08:38:30.1880|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 08:38:30.2090|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 08:38:30.2450|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 08:38:30.2630|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 08:38:30.2800|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 08:38:30.2980|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 08:38:30.3160|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 08:38:30.3440|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 08:38:30.3620|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 08:38:30.5250|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 08:38:30.8260|Enviando cliente 14242: GABRIELA VIDAL
+ 2025-10-13 08:38:30.8570|Clientes processados: 1 - Enviados: 1 - Recebidos: 0
+ 2025-10-13 08:46:28.7500|Recebendo cliente 1199414: GABRIELA VIDAL
+ 2025-10-13 08:46:28.7660|Clientes processados: 1 - Enviados: 0 - Recebidos: 1
+ 2025-10-13 08:46:29.0290|Enviando NFC-e - chave: 42251029005632000391650010000134491473306425 . . .
+ 2025-10-13 08:46:30.2039|Venda: IdLocal 4003: Documento Fiscal Id:3219  -> IdWeb 10987940
+ 2025-10-13 08:46:30.2039|NFC-e chave: 42251029005632000391650010000134491473306425 enviada com sucesso!
+ 2025-10-13 08:57:06.1249|Recebendo cliente 1199414: GABRIELA VIDAL
+ 2025-10-13 08:57:06.1599|Clientes processados: 1 - Enviados: 0 - Recebidos: 1
+ 2025-10-13 08:57:06.3488|Enviando NFC-e - chave: 42251029005632000391650010000134501881454967 . . .
+ 2025-10-13 08:57:07.3344|Venda: IdLocal 4004: Documento Fiscal Id:3220  -> IdWeb 10988074
+ 2025-10-13 08:57:07.3344|NFC-e chave: 42251029005632000391650010000134501881454967 enviada com sucesso!
+ 2025-10-13 09:02:20.9604|Recebendo operador 15946: Operador
+ 2025-10-13 09:02:20.9744|Recebendo operador 15947: Gerencia
+ 2025-10-13 09:02:21.0104|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 09:02:21.0144|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 09:02:21.0144|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 09:02:21.1774|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 09:02:21.1964|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 09:02:21.2254|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 09:02:21.2414|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 09:02:21.2574|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 09:02:21.2744|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 09:02:21.3104|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 09:02:21.3264|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 09:02:21.3464|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 09:02:21.3624|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 09:02:21.4954|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 09:02:21.7324|Recebendo cliente 1199414: GABRIELA VIDAL
+ 2025-10-13 09:02:21.7504|Clientes processados: 1 - Enviados: 0 - Recebidos: 1
+ 2025-10-13 09:02:21.8764|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-13 09:02:21.8764|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 09:02:22.2866|Recebendo itens - 2 item(s).
+ 2025-10-13 09:02:23.7572|Recebendo itens - 2 itens importados de 2
+ 2025-10-13 09:02:24.1195|Total de itens recebidos: 2
+ 2025-10-13 09:02:24.3883|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 09:02:24.6519|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 09:02:24.8970|Recebendo Depósito: Geral
+ 2025-10-13 09:31:50.7027|Recebendo operador 15946: Operador
+ 2025-10-13 09:31:50.7477|Recebendo operador 15947: Gerencia
+ 2025-10-13 09:31:51.1467|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 09:31:51.1677|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 09:31:51.1907|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 09:31:51.2787|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 09:31:51.3017|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 09:31:51.3227|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 09:31:51.3467|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 09:31:51.3677|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 09:31:51.3907|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 09:31:51.4127|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 09:31:51.4357|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 09:31:51.4577|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 09:31:51.4807|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 09:31:51.6367|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 09:31:51.8827|Enviando cliente 14243: MARIA AMELIA KOERICH
+ 2025-10-13 09:31:52.2813|Clientes processados: 1 - Enviados: 1 - Recebidos: 0
+ 2025-10-13 09:32:20.7674|Recebendo operador 15946: Operador
+ 2025-10-13 09:32:20.7995|Recebendo operador 15947: Gerencia
+ 2025-10-13 09:32:20.8255|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 09:32:20.8255|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 09:32:20.8255|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 09:32:20.9805|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 09:32:20.9995|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 09:32:21.0365|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 09:32:21.0535|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 09:32:21.0735|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 09:32:21.0895|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 09:32:21.1095|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 09:32:21.1255|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 09:32:21.1435|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 09:32:21.1595|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 09:32:21.2875|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 09:32:21.5115|Recebendo cliente 1199414: GABRIELA VIDAL
+ 2025-10-13 09:32:21.5835|Recebendo cliente 1199473: JULIO CESAR SALA
+ 2025-10-13 09:32:21.7875|Recebendo cliente 1199499: MARIA AMELIA KOERICH
+ 2025-10-13 09:32:21.8055|Clientes processados: 3 - Enviados: 0 - Recebidos: 3
+ 2025-10-13 09:32:21.9185|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-13 09:32:21.9185|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 09:32:22.3334|Não existe nenhum produto/serviço pendente de sincronização!
+ 2025-10-13 09:32:22.5736|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 09:32:22.8421|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 09:32:23.0781|Recebendo Depósito: Geral
+ 2025-10-13 10:02:21.5493|Recebendo operador 15946: Operador
+ 2025-10-13 10:02:21.5649|Recebendo operador 15947: Gerencia
+ 2025-10-13 10:02:21.6118|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 10:02:21.6118|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 10:02:21.6118|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 10:02:21.7681|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 10:02:21.7837|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 10:02:21.8149|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 10:02:21.8306|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 10:02:21.8462|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 10:02:21.8774|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 10:02:21.8931|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 10:02:21.9087|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 10:02:21.9243|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 10:02:21.9399|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 10:02:22.0806|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 10:02:22.2993|Recebendo cliente 1199414: GABRIELA VIDAL
+ 2025-10-13 10:02:22.3931|Recebendo cliente 1199473: JULIO CESAR SALA
+ 2025-10-13 10:02:22.4087|Clientes processados: 2 - Enviados: 0 - Recebidos: 2
+ 2025-10-13 10:02:22.5337|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-13 10:02:22.5337|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 10:02:22.9399|Não existe nenhum produto/serviço pendente de sincronização!
+ 2025-10-13 10:02:23.1899|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 10:02:23.4399|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 10:02:23.6743|Recebendo Depósito: Geral
+ 2025-10-13 10:26:45.6184|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 10:26:45.6497|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 10:26:45.6653|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 10:26:45.7747|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 10:26:45.7903|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 10:26:45.8216|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 10:26:45.8372|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 10:26:45.8528|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 10:26:45.8841|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 10:26:45.8997|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 10:26:45.9309|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 10:26:45.9466|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 10:26:45.9778|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 10:27:51.5031|Enviando cliente 14245: SUELI OLIVEIRA
+ 2025-10-13 10:27:51.7891|Recebendo cliente 1199414: GABRIELA VIDAL
+ 2025-10-13 10:27:51.8701|Recebendo cliente 1199473: JULIO CESAR SALA
+ 2025-10-13 10:27:51.8951|Clientes processados: 3 - Enviados: 1 - Recebidos: 2
+ 2025-10-13 10:27:52.0861|Enviando NFC-e - chave: 42251029005632000391650010000134511603388904 . . .
+ 2025-10-13 10:27:53.1482|Venda: IdLocal 4007: Documento Fiscal Id:3221  -> IdWeb 10989208
+ 2025-10-13 10:27:53.1482|NFC-e chave: 42251029005632000391650010000134511603388904 enviada com sucesso!
+ 2025-10-13 10:32:21.0253|Recebendo operador 15946: Operador
+ 2025-10-13 10:32:21.0403|Recebendo operador 15947: Gerencia
+ 2025-10-13 10:32:21.0773|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 10:32:21.0773|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 10:32:21.0773|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 10:32:21.2413|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 10:32:21.2613|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 10:32:21.3043|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 10:32:21.3213|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 10:32:21.3493|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 10:32:21.3653|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 10:32:21.3853|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 10:32:21.4013|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 10:32:21.4193|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 10:32:21.4353|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 10:32:21.5713|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 10:32:21.7873|Recebendo cliente 1199414: GABRIELA VIDAL
+ 2025-10-13 10:32:21.8713|Recebendo cliente 1199473: JULIO CESAR SALA
+ 2025-10-13 10:32:22.0603|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 10:32:22.0773|Clientes processados: 3 - Enviados: 0 - Recebidos: 3
+ 2025-10-13 10:32:22.1893|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-13 10:32:22.1893|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 10:32:22.6103|Recebendo itens - 1 item(s).
+ 2025-10-13 10:32:22.9154|Recebendo itens - 1 itens importados de 1
+ 2025-10-13 10:32:23.2659|Total de itens recebidos: 1
+ 2025-10-13 10:32:23.5227|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 10:32:23.7719|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 10:32:24.0103|Recebendo Depósito: Geral
+ 2025-10-13 11:02:20.7883|Recebendo operador 15946: Operador
+ 2025-10-13 11:02:20.8007|Recebendo operador 15947: Gerencia
+ 2025-10-13 11:02:20.8337|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 11:02:20.8337|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 11:02:20.8407|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 11:02:21.0117|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 11:02:21.0277|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 11:02:21.0637|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 11:02:21.0797|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 11:02:21.1017|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 11:02:21.1177|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 11:02:21.1357|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 11:02:21.1517|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 11:02:21.1717|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 11:02:21.1877|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 11:02:21.3157|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 11:02:21.5357|Recebendo cliente 1199414: GABRIELA VIDAL
+ 2025-10-13 11:02:21.6187|Recebendo cliente 1199473: JULIO CESAR SALA
+ 2025-10-13 11:02:21.8117|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 11:02:21.8787|Recebendo cliente 1199713: SANDRA TITONI
+ 2025-10-13 11:02:21.9437|Recebendo cliente 1199733: DIOGO PEREIRA DE SOUZA
+ 2025-10-13 11:02:21.9637|Clientes processados: 5 - Enviados: 0 - Recebidos: 5
+ 2025-10-13 11:02:22.0787|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-13 11:02:22.0787|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 11:02:22.5012|Não existe nenhum produto/serviço pendente de sincronização!
+ 2025-10-13 11:02:22.7488|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 11:02:23.0119|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 11:02:23.2631|Recebendo Depósito: Geral
+ 2025-10-13 11:32:20.8602|Recebendo operador 15946: Operador
+ 2025-10-13 11:32:20.8743|Recebendo operador 15947: Gerencia
+ 2025-10-13 11:32:20.9173|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 11:32:20.9173|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 11:32:20.9173|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 11:32:21.0803|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 11:32:21.0983|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 11:32:21.1353|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 11:32:21.1513|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 11:32:21.1723|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 11:32:21.1883|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 11:32:21.2073|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 11:32:21.2233|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 11:32:21.2423|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 11:32:21.2583|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 11:32:21.3903|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 11:32:21.6213|Recebendo cliente 1199414: GABRIELA VIDAL
+ 2025-10-13 11:32:21.7043|Recebendo cliente 1199473: JULIO CESAR SALA
+ 2025-10-13 11:32:21.9003|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 11:32:21.9203|Clientes processados: 3 - Enviados: 0 - Recebidos: 3
+ 2025-10-13 11:32:22.0333|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-13 11:32:22.0333|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 11:32:22.4515|Não existe nenhum produto/serviço pendente de sincronização!
+ 2025-10-13 11:32:22.6898|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 11:32:22.9546|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 11:32:23.2048|Recebendo Depósito: Geral
+ 2025-10-13 11:35:17.3196|Recebendo cliente 1199414: GABRIELA VIDAL
+ 2025-10-13 11:35:17.3966|Recebendo cliente 1199473: JULIO CESAR SALA
+ 2025-10-13 11:35:17.5826|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 11:35:17.5986|Clientes processados: 3 - Enviados: 0 - Recebidos: 3
+ 2025-10-13 11:35:17.7833|Enviando NFC-e - chave: 42251029005632000391650010000134521231113035 . . .
+ 2025-10-13 11:35:19.6936|Venda: IdLocal 4008: Documento Fiscal Id:3222  -> IdWeb 10990326
+ 2025-10-13 11:35:19.6936|NFC-e chave: 42251029005632000391650010000134521231113035 enviada com sucesso!
+ 2025-10-13 11:42:54.0314|Recebendo cliente 1199414: GABRIELA VIDAL
+ 2025-10-13 11:42:54.1144|Recebendo cliente 1199473: JULIO CESAR SALA
+ 2025-10-13 11:42:54.3044|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 11:42:54.3214|Clientes processados: 3 - Enviados: 0 - Recebidos: 3
+ 2025-10-13 11:42:54.5146|Enviando NFC-e - chave: 42251029005632000391650010000134531754414720 . . .
+ 2025-10-13 11:42:55.4699|Venda: IdLocal 4009: Documento Fiscal Id:3223  -> IdWeb 10990455
+ 2025-10-13 11:42:55.4699|NFC-e chave: 42251029005632000391650010000134531754414720 enviada com sucesso!
+ 2025-10-13 11:45:10.9015|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 11:45:10.9245|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 11:45:10.9475|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 11:45:11.0335|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 11:45:11.0595|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 11:45:11.0815|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 11:45:11.1045|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 11:45:11.1265|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 11:45:11.1495|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 11:45:11.1715|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 11:45:11.1925|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 11:45:11.2165|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 11:45:11.2375|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 11:58:35.2155|Enviando cliente 14248: MARINA ROBERTA 
+ 2025-10-13 11:58:35.2305|Recebendo cliente 1199473: JULIO CESAR SALA
+ 2025-10-13 11:58:35.5035|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 11:58:35.5615|Recebendo cliente 1199879: RODRIGO BAUNGARTNER
+ 2025-10-13 11:58:35.5825|Clientes processados: 4 - Enviados: 1 - Recebidos: 3
+ 2025-10-13 11:58:35.7731|Enviando NFC-e - chave: 42251029005632000391650010000134541512221332 . . .
+ 2025-10-13 11:58:36.7570|Venda: IdLocal 4010: Documento Fiscal Id:3224  -> IdWeb 10990725
+ 2025-10-13 11:58:36.7570|NFC-e chave: 42251029005632000391650010000134541512221332 enviada com sucesso!
+ 2025-10-13 11:59:55.4332|Recebendo cliente 1199473: JULIO CESAR SALA
+ 2025-10-13 11:59:55.7042|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 11:59:55.9082|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 11:59:55.9252|Clientes processados: 3 - Enviados: 0 - Recebidos: 3
+ 2025-10-13 11:59:56.1140|Enviando NFC-e - chave: 42251029005632000391650010000134551220676590 . . .
+ 2025-10-13 11:59:57.2023|Venda: IdLocal 4011: Documento Fiscal Id:3225  -> IdWeb 10990754
+ 2025-10-13 11:59:57.2023|NFC-e chave: 42251029005632000391650010000134551220676590 enviada com sucesso!
+ 2025-10-13 12:02:20.9541|Recebendo operador 15946: Operador
+ 2025-10-13 12:02:20.9681|Recebendo operador 15947: Gerencia
+ 2025-10-13 12:02:20.9951|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 12:02:20.9991|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 12:02:20.9991|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 12:02:21.1721|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 12:02:21.1911|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 12:02:21.2141|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 12:02:21.2301|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 12:02:21.2561|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 12:02:21.2721|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 12:02:21.2911|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 12:02:21.3061|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 12:02:21.3241|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 12:02:21.3401|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 12:02:21.4711|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 12:02:21.5921|Recebendo cliente 1199473: JULIO CESAR SALA
+ 2025-10-13 12:02:21.7841|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 12:02:21.9801|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 12:02:22.0001|Clientes processados: 3 - Enviados: 0 - Recebidos: 3
+ 2025-10-13 12:02:22.1111|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-13 12:02:22.1111|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 12:02:22.5287|Recebendo itens - 6 item(s).
+ 2025-10-13 12:02:24.4201|Recebendo itens - 6 itens importados de 6
+ 2025-10-13 12:02:24.7755|Total de itens recebidos: 6
+ 2025-10-13 12:02:25.0236|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 12:02:25.2672|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 12:02:25.5069|Recebendo Depósito: Geral
+ 2025-10-13 12:32:20.5778|Recebendo operador 15946: Operador
+ 2025-10-13 12:32:20.6090|Recebendo operador 15947: Gerencia
+ 2025-10-13 12:32:20.6430|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 12:32:20.6430|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 12:32:20.6430|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 12:32:20.7990|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 12:32:20.8180|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 12:32:20.8520|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 12:32:20.8690|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 12:32:20.8860|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 12:32:20.9040|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 12:32:20.9340|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 12:32:20.9500|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 12:32:20.9710|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 12:32:20.9870|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 12:32:21.1190|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 12:32:21.2300|Recebendo cliente 1199473: JULIO CESAR SALA
+ 2025-10-13 12:32:21.4200|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 12:32:21.6050|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 12:32:21.6280|Recebendo cliente 1199926: AGENARIO JUNIOR
+ 2025-10-13 12:32:21.8310|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 12:32:21.8520|Clientes processados: 5 - Enviados: 0 - Recebidos: 5
+ 2025-10-13 12:32:21.9467|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-13 12:32:21.9467|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 12:32:22.2748|Recebendo itens - 2 item(s).
+ 2025-10-13 12:32:23.3060|Recebendo itens - 2 itens importados de 2
+ 2025-10-13 12:32:23.6654|Total de itens recebidos: 2
+ 2025-10-13 12:32:23.8998|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 12:32:24.1029|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 12:32:24.3060|Recebendo Depósito: Geral
+ 2025-10-13 13:02:21.4326|Recebendo operador 15946: Operador
+ 2025-10-13 13:02:21.4416|Recebendo operador 15947: Gerencia
+ 2025-10-13 13:02:21.4676|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 13:02:21.4676|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 13:02:21.4796|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 13:02:21.6346|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 13:02:21.6556|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 13:02:21.6766|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 13:02:21.7296|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 13:02:21.7496|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 13:02:21.7686|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 13:02:21.7866|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 13:02:21.8156|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 13:02:21.8336|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 13:02:21.8606|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 13:02:21.9926|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 13:02:22.2186|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 13:02:22.4556|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 13:02:22.5036|Recebendo cliente 1199926: AGENARIO JUNIOR
+ 2025-10-13 13:02:22.5416|Clientes processados: 3 - Enviados: 0 - Recebidos: 3
+ 2025-10-13 13:02:22.7589|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-13 13:02:22.7649|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 13:02:23.0734|Não existe nenhum produto/serviço pendente de sincronização!
+ 2025-10-13 13:02:23.2706|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 13:02:23.4540|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 13:02:23.6728|Recebendo Depósito: Geral
+ 2025-10-13 13:04:15.0110|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 13:04:15.2100|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 13:04:15.2340|Recebendo cliente 1199926: AGENARIO JUNIOR
+ 2025-10-13 13:04:15.2530|Clientes processados: 3 - Enviados: 0 - Recebidos: 3
+ 2025-10-13 13:04:15.4444|Enviando NFC-e - chave: 42251029005632000391650010000134561831378292 . . .
+ 2025-10-13 13:04:16.7597|Venda: IdLocal 4005: Documento Fiscal Id:3226  -> IdWeb 10991955
+ 2025-10-13 13:04:16.7617|NFC-e chave: 42251029005632000391650010000134561831378292 enviada com sucesso!
+ 2025-10-13 13:10:28.6783|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 13:10:28.8818|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 13:10:28.9029|Recebendo cliente 1199926: AGENARIO JUNIOR
+ 2025-10-13 13:10:28.9219|Clientes processados: 3 - Enviados: 0 - Recebidos: 3
+ 2025-10-13 13:10:29.8429|Pedido de Venda 4012 - 31516435 enviado com sucesso!
+ 2025-10-13 13:18:58.5262|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 13:18:58.7282|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 13:18:58.7542|Recebendo cliente 1199926: AGENARIO JUNIOR
+ 2025-10-13 13:18:58.7722|Clientes processados: 3 - Enviados: 0 - Recebidos: 3
+ 2025-10-13 13:18:58.9751|Enviando NFC-e - chave: 42251029005632000391650010000134571728253153 . . .
+ 2025-10-13 13:19:00.1900|Venda: IdLocal 4013: Documento Fiscal Id:3227  -> IdWeb 10992217
+ 2025-10-13 13:19:00.1900|NFC-e chave: 42251029005632000391650010000134571728253153 enviada com sucesso!
+ 2025-10-13 13:32:21.4554|Recebendo operador 15946: Operador
+ 2025-10-13 13:32:21.4710|Recebendo operador 15947: Gerencia
+ 2025-10-13 13:32:21.5030|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 13:32:21.5030|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 13:32:21.5030|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 13:32:21.6650|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 13:32:21.6860|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 13:32:21.7070|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 13:32:21.7550|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 13:32:21.7720|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 13:32:21.7900|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 13:32:21.8060|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 13:32:21.8320|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 13:32:21.8500|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 13:32:21.8770|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 13:32:22.0080|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 13:32:22.2200|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 13:32:22.4050|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 13:32:22.4310|Recebendo cliente 1199926: AGENARIO JUNIOR
+ 2025-10-13 13:32:22.4510|Clientes processados: 3 - Enviados: 0 - Recebidos: 3
+ 2025-10-13 13:32:22.5570|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-13 13:32:22.5600|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 13:32:22.9954|Recebendo itens - 9 item(s).
+ 2025-10-13 13:32:24.5076|Recebendo itens - 9 itens importados de 9
+ 2025-10-13 13:32:24.8826|Total de itens recebidos: 9
+ 2025-10-13 13:32:25.1326|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 13:32:25.3514|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 13:32:25.5545|Recebendo Depósito: Geral
+ 2025-10-13 13:32:56.8469|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 13:32:57.0559|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 13:32:57.0799|Recebendo cliente 1199926: AGENARIO JUNIOR
+ 2025-10-13 13:32:57.1049|Clientes processados: 3 - Enviados: 0 - Recebidos: 3
+ 2025-10-13 13:32:57.3034|Enviando NFC-e - chave: 42251029005632000391650010000134581261042156 . . .
+ 2025-10-13 13:32:59.0962|Venda: IdLocal 4014: Documento Fiscal Id:3228  -> IdWeb 10992477
+ 2025-10-13 13:32:59.0962|NFC-e chave: 42251029005632000391650010000134581261042156 enviada com sucesso!
+ 2025-10-13 14:02:22.4906|Recebendo operador 15946: Operador
+ 2025-10-13 14:02:22.4986|Recebendo operador 15947: Gerencia
+ 2025-10-13 14:02:22.5446|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 14:02:22.5446|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 14:02:22.5446|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 14:02:22.7056|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 14:02:22.7236|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 14:02:22.7426|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 14:02:22.7876|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 14:02:22.8046|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 14:02:22.8206|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 14:02:22.8366|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 14:02:22.8606|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 14:02:22.8766|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 14:02:22.9036|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 14:02:23.0416|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 14:02:23.2846|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 14:02:23.4786|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 14:02:23.5026|Recebendo cliente 1199926: AGENARIO JUNIOR
+ 2025-10-13 14:02:23.5786|Recebendo cliente 1200202: THIAGO REGINALDO
+ 2025-10-13 14:02:23.5986|Clientes processados: 4 - Enviados: 0 - Recebidos: 4
+ 2025-10-13 14:02:23.6726|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-13 14:02:23.6876|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 14:02:24.0804|Recebendo itens - 10 item(s).
+ 2025-10-13 14:02:25.8103|Recebendo itens - 10 itens importados de 10
+ 2025-10-13 14:02:26.1933|Total de itens recebidos: 10
+ 2025-10-13 14:02:26.4382|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 14:02:26.6456|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 14:02:26.8402|Recebendo Depósito: Geral
+ 2025-10-13 14:32:22.1920|Recebendo operador 15946: Operador
+ 2025-10-13 14:32:22.2050|Recebendo operador 15947: Gerencia
+ 2025-10-13 14:32:22.2448|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 14:32:22.2488|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 14:32:22.2488|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 14:32:22.4048|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 14:32:22.4228|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 14:32:22.4408|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 14:32:22.4788|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 14:32:22.4948|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 14:32:22.5118|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 14:32:22.5288|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 14:32:22.5578|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 14:32:22.5738|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 14:32:22.5908|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 14:32:22.7248|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 14:32:22.9488|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 14:32:23.0428|Recebendo cliente 1199879: RODRIGO BAUNGARTNER
+ 2025-10-13 14:32:23.2359|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 14:32:23.2610|Recebendo cliente 1199926: AGENARIO JUNIOR
+ 2025-10-13 14:32:23.4600|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 14:32:23.5460|Recebendo cliente 1200202: THIAGO REGINALDO
+ 2025-10-13 14:32:23.5710|Recebendo cliente 1200221: ANNANAYRA TEIXEIRA
+ 2025-10-13 14:32:23.5970|Recebendo cliente 1200255: ARACELE
+ 2025-10-13 14:32:23.6210|Clientes processados: 8 - Enviados: 0 - Recebidos: 8
+ 2025-10-13 14:32:23.6820|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-13 14:32:23.6860|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 14:32:24.0174|Não existe nenhum produto/serviço pendente de sincronização!
+ 2025-10-13 14:32:24.2329|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 14:32:24.4445|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 14:32:24.6631|Recebendo Depósito: Geral
+ 2025-10-13 14:53:03.7654|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 14:53:03.8554|Recebendo cliente 1199879: RODRIGO BAUNGARTNER
+ 2025-10-13 14:53:04.0484|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 14:53:04.0797|Recebendo cliente 1199926: AGENARIO JUNIOR
+ 2025-10-13 14:53:04.2828|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 14:53:04.3609|Recebendo cliente 1200202: THIAGO REGINALDO
+ 2025-10-13 14:53:04.3922|Recebendo cliente 1200221: ANNANAYRA TEIXEIRA
+ 2025-10-13 14:53:04.4234|Recebendo cliente 1200255: ARACELE
+ 2025-10-13 14:53:04.4390|Clientes processados: 8 - Enviados: 0 - Recebidos: 8
+ 2025-10-13 14:53:05.1109|Pedido de Venda 4019 - 31517990 enviado com sucesso!
+ 2025-10-13 15:02:26.7860|Recebendo operador 15946: Operador
+ 2025-10-13 15:02:26.7971|Recebendo operador 15947: Gerencia
+ 2025-10-13 15:02:26.8471|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 15:02:26.8471|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 15:02:26.8471|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 15:02:27.0152|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 15:02:27.0312|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 15:02:27.0492|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 15:02:27.0862|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 15:02:27.1032|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 15:02:27.1202|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 15:02:27.1481|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 15:02:27.2352|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 15:02:27.2531|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 15:02:27.2702|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 15:02:27.4301|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 15:02:27.6711|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 15:02:27.7552|Recebendo cliente 1199879: RODRIGO BAUNGARTNER
+ 2025-10-13 15:02:27.9632|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 15:02:27.9994|Recebendo cliente 1199926: AGENARIO JUNIOR
+ 2025-10-13 15:02:28.1849|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 15:02:28.2630|Recebendo cliente 1200202: THIAGO REGINALDO
+ 2025-10-13 15:02:28.3099|Recebendo cliente 1200221: ANNANAYRA TEIXEIRA
+ 2025-10-13 15:02:28.3411|Recebendo cliente 1200255: ARACELE
+ 2025-10-13 15:02:28.3924|Clientes processados: 8 - Enviados: 0 - Recebidos: 8
+ 2025-10-13 15:02:28.5068|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-13 15:02:28.5224|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 15:02:28.8661|Recebendo itens - 3 item(s).
+ 2025-10-13 15:02:30.3824|Recebendo itens - 3 itens importados de 3
+ 2025-10-13 15:02:30.7408|Total de itens recebidos: 3
+ 2025-10-13 15:02:31.0504|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 15:02:31.2418|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 15:02:31.4605|Recebendo Depósito: Geral
+ 2025-10-13 15:09:21.3010|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 15:09:21.3920|Recebendo cliente 1199879: RODRIGO BAUNGARTNER
+ 2025-10-13 15:09:21.6910|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 15:09:21.7170|Recebendo cliente 1199926: AGENARIO JUNIOR
+ 2025-10-13 15:09:22.0220|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 15:09:22.1460|Recebendo cliente 1200202: THIAGO REGINALDO
+ 2025-10-13 15:09:22.1810|Recebendo cliente 1200221: ANNANAYRA TEIXEIRA
+ 2025-10-13 15:09:22.2110|Recebendo cliente 1200255: ARACELE
+ 2025-10-13 15:09:22.4430|Clientes processados: 8 - Enviados: 0 - Recebidos: 8
+ 2025-10-13 15:09:22.6530|Enviando NFC-e - chave: 42251029005632000391650010000134591690859372 . . .
+ 2025-10-13 15:10:07.8444|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 15:10:07.9514|Recebendo cliente 1199879: RODRIGO BAUNGARTNER
+ 2025-10-13 15:10:08.1674|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 15:10:08.3744|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 15:10:08.4644|Recebendo cliente 1200202: THIAGO REGINALDO
+ 2025-10-13 15:10:08.4864|Recebendo cliente 1200221: ANNANAYRA TEIXEIRA
+ 2025-10-13 15:10:08.5164|Recebendo cliente 1200255: ARACELE
+ 2025-10-13 15:10:08.5354|Clientes processados: 7 - Enviados: 0 - Recebidos: 7
+ 2025-10-13 15:10:08.7274|Enviando NFC-e - chave: 42251029005632000391650010000134591690859372 . . .
+ 2025-10-13 15:10:10.0124|Venda: IdLocal 4018: Documento Fiscal Id:3229  -> IdWeb 10994467
+ 2025-10-13 15:10:10.0124|NFC-e chave: 42251029005632000391650010000134591690859372 enviada com sucesso!
+ 2025-10-13 15:10:10.0364|Enviando NFC-e - chave: 42251029005632000391650010000134601882976084 . . .
+ 2025-10-13 15:10:10.6161|Venda: IdLocal 4020: Documento Fiscal Id:3230  -> IdWeb 10994468
+ 2025-10-13 15:10:10.6161|NFC-e chave: 42251029005632000391650010000134601882976084 enviada com sucesso!
+ 2025-10-13 15:15:21.5811|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 15:15:21.6751|Recebendo cliente 1199879: RODRIGO BAUNGARTNER
+ 2025-10-13 15:15:21.8791|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 15:15:22.0621|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 15:15:22.1481|Recebendo cliente 1200202: THIAGO REGINALDO
+ 2025-10-13 15:15:22.1711|Recebendo cliente 1200221: ANNANAYRA TEIXEIRA
+ 2025-10-13 15:15:22.1962|Recebendo cliente 1200255: ARACELE
+ 2025-10-13 15:15:22.2182|Recebendo cliente 1200375: leonardo luiz signori 
+ 2025-10-13 15:15:22.2542|Clientes processados: 8 - Enviados: 0 - Recebidos: 8
+ 2025-10-13 15:15:22.4461|Enviando NFC-e - chave: 42251029005632000391650010000134611234880591 . . .
+ 2025-10-13 15:15:23.4501|Venda: IdLocal 4021: Documento Fiscal Id:3231  -> IdWeb 10994556
+ 2025-10-13 15:15:23.4501|NFC-e chave: 42251029005632000391650010000134611234880591 enviada com sucesso!
+ 2025-10-13 15:15:23.4735|Enviando NFC-e - chave: 42251029005632000391650010000134621565995113 . . .
+ 2025-10-13 15:15:24.1042|Venda: IdLocal 4022: Documento Fiscal Id:3232  -> IdWeb 10994557
+ 2025-10-13 15:15:24.1062|NFC-e chave: 42251029005632000391650010000134621565995113 enviada com sucesso!
+ 2025-10-13 15:16:19.1945|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 15:16:19.2945|Recebendo cliente 1199879: RODRIGO BAUNGARTNER
+ 2025-10-13 15:16:19.4815|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 15:16:19.6685|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 15:16:19.7475|Recebendo cliente 1200202: THIAGO REGINALDO
+ 2025-10-13 15:16:19.7705|Recebendo cliente 1200221: ANNANAYRA TEIXEIRA
+ 2025-10-13 15:16:19.7945|Recebendo cliente 1200255: ARACELE
+ 2025-10-13 15:16:19.8135|Clientes processados: 7 - Enviados: 0 - Recebidos: 7
+ 2025-10-13 15:16:23.1809|Venda: IdLocal 4022: Documento Fiscal Id:3233  -> IdWeb 10994557
+ 2025-10-13 15:16:23.1809|Cancelamento chave: 42251029005632000391650010000134621565995113 enviada com sucesso!
+ 2025-10-13 15:16:23.2081|Enviando NFC-e - chave: 42251029005632000391650010000134631216909030 . . .
+ 2025-10-13 15:16:23.7394|Venda: IdLocal 4023: Documento Fiscal Id:3234  -> IdWeb 10994572
+ 2025-10-13 15:16:23.7394|NFC-e chave: 42251029005632000391650010000134631216909030 enviada com sucesso!
+ 2025-10-13 15:32:31.1385|Recebendo operador 15946: Operador
+ 2025-10-13 15:32:31.1525|Recebendo operador 15947: Gerencia
+ 2025-10-13 15:32:31.4755|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 15:32:31.4755|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 15:32:31.4835|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 15:32:32.5352|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 15:32:32.5552|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 15:32:32.5742|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 15:32:32.5932|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 15:32:32.6262|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 15:32:32.6432|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 15:32:32.6592|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 15:32:32.6752|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 15:32:32.6912|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 15:32:32.8227|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 15:32:33.4677|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 15:32:33.8861|Recebendo cliente 1197725: KATIA SIQUEIRA
+ 2025-10-13 15:32:34.1981|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 15:32:34.3721|Recebendo cliente 1199879: RODRIGO BAUNGARTNER
+ 2025-10-13 15:32:34.8011|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 15:32:35.2271|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 15:32:35.3861|Recebendo cliente 1200202: THIAGO REGINALDO
+ 2025-10-13 15:32:35.4221|Recebendo cliente 1200221: ANNANAYRA TEIXEIRA
+ 2025-10-13 15:32:35.4621|Recebendo cliente 1200255: ARACELE
+ 2025-10-13 15:32:35.5131|Clientes processados: 8 - Enviados: 0 - Recebidos: 8
+ 2025-10-13 15:32:35.6261|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-13 15:32:35.6511|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 15:32:35.9981|Recebendo itens - 7 item(s).
+ 2025-10-13 15:32:38.0141|Recebendo itens - 7 itens importados de 7
+ 2025-10-13 15:32:38.3941|Total de itens recebidos: 7
+ 2025-10-13 15:32:38.6841|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 15:32:38.8821|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 15:32:39.0861|Recebendo Depósito: Geral
+ 2025-10-13 15:35:38.8589|Recebendo cliente 1197725: KATIA SIQUEIRA
+ 2025-10-13 15:35:39.1919|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 15:35:39.2939|Recebendo cliente 1199879: RODRIGO BAUNGARTNER
+ 2025-10-13 15:35:39.5519|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 15:35:39.7839|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 15:35:39.8779|Recebendo cliente 1200202: THIAGO REGINALDO
+ 2025-10-13 15:35:39.9029|Recebendo cliente 1200221: ANNANAYRA TEIXEIRA
+ 2025-10-13 15:35:39.9309|Recebendo cliente 1200255: ARACELE
+ 2025-10-13 15:35:39.9519|Clientes processados: 8 - Enviados: 0 - Recebidos: 8
+ 2025-10-13 15:35:40.1889|Enviando NFC-e - chave: 42251029005632000391650010000134641116030344 . . .
+ 2025-10-13 15:35:41.1549|Venda: IdLocal 4024: Documento Fiscal Id:3235  -> IdWeb 10995012
+ 2025-10-13 15:35:41.1549|NFC-e chave: 42251029005632000391650010000134641116030344 enviada com sucesso!
+ 2025-10-13 15:43:58.5014|Enviando caixa 262
+ 2025-10-13 15:43:58.5014|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 15:45:33.2280|Enviando caixa 263
+ 2025-10-13 15:45:33.2330|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 15:46:56.8496|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-13 15:46:57.5928|Enviando operação de caixa 697 - suprimento
+ 2025-10-13 15:53:40.5797|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 15:53:40.6110|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 15:53:40.6266|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 15:53:40.7203|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 15:53:40.7516|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 15:53:40.7672|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 15:53:40.7985|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 15:53:40.8141|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 15:53:40.8453|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 15:53:40.8610|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 15:53:40.8766|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 15:53:40.9078|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 15:53:40.9235|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 15:55:02.0921|Enviando cliente 14256: EDIANA DOS SANTOS
+ 2025-10-13 15:55:02.3511|Recebendo cliente 1197725: KATIA SIQUEIRA
+ 2025-10-13 15:55:02.5491|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 15:55:02.6221|Recebendo cliente 1199879: RODRIGO BAUNGARTNER
+ 2025-10-13 15:55:02.7981|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 15:55:02.9711|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 15:55:03.0471|Recebendo cliente 1200202: THIAGO REGINALDO
+ 2025-10-13 15:55:03.0691|Recebendo cliente 1200221: ANNANAYRA TEIXEIRA
+ 2025-10-13 15:55:03.0921|Recebendo cliente 1200255: ARACELE
+ 2025-10-13 15:55:03.1131|Clientes processados: 9 - Enviados: 1 - Recebidos: 8
+ 2025-10-13 15:55:03.3165|Enviando NFC-e - chave: 42251029005632000391650010000134651868772074 . . .
+ 2025-10-13 15:55:04.3014|Venda: IdLocal 4025: Documento Fiscal Id:3236  -> IdWeb 10995426
+ 2025-10-13 15:55:04.3014|NFC-e chave: 42251029005632000391650010000134651868772074 enviada com sucesso!
+ 2025-10-13 16:02:26.7866|Recebendo operador 15946: Operador
+ 2025-10-13 16:02:26.7992|Recebendo operador 15947: Gerencia
+ 2025-10-13 16:02:26.8471|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 16:02:26.8471|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 16:02:26.8471|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 16:02:27.0051|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 16:02:27.0239|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 16:02:27.0449|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 16:02:27.0949|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 16:02:27.1119|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 16:02:27.1279|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 16:02:27.1449|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 16:02:27.1669|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 16:02:27.1839|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 16:02:27.2209|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 16:02:27.3879|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 16:02:27.7139|Recebendo cliente 1197725: KATIA SIQUEIRA
+ 2025-10-13 16:02:27.9699|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 16:02:28.0859|Recebendo cliente 1199879: RODRIGO BAUNGARTNER
+ 2025-10-13 16:02:28.4189|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 16:02:28.8359|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 16:02:29.0019|Recebendo cliente 1200202: THIAGO REGINALDO
+ 2025-10-13 16:02:29.0519|Recebendo cliente 1200221: ANNANAYRA TEIXEIRA
+ 2025-10-13 16:02:29.0959|Recebendo cliente 1200255: ARACELE
+ 2025-10-13 16:02:29.2649|Recebendo cliente 1200520: EDIANA DOS SANTOS
+ 2025-10-13 16:02:29.3029|Clientes processados: 9 - Enviados: 0 - Recebidos: 9
+ 2025-10-13 16:02:29.4109|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-13 16:02:29.4219|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 16:02:29.7919|Recebendo itens - 2 item(s).
+ 2025-10-13 16:02:31.2869|Recebendo itens - 2 itens importados de 2
+ 2025-10-13 16:02:31.6539|Total de itens recebidos: 2
+ 2025-10-13 16:02:31.9329|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 16:02:32.1399|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 16:02:32.3459|Recebendo Depósito: Geral
+ 2025-10-13 16:23:23.9316|Recebendo cliente 1197725: KATIA SIQUEIRA
+ 2025-10-13 16:23:24.1406|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 16:23:24.2236|Recebendo cliente 1199879: RODRIGO BAUNGARTNER
+ 2025-10-13 16:23:24.4096|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 16:23:24.5886|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 16:23:24.6636|Recebendo cliente 1200202: THIAGO REGINALDO
+ 2025-10-13 16:23:24.6866|Recebendo cliente 1200221: ANNANAYRA TEIXEIRA
+ 2025-10-13 16:23:24.7086|Recebendo cliente 1200255: ARACELE
+ 2025-10-13 16:23:24.7856|Recebendo cliente 1200520: EDIANA DOS SANTOS
+ 2025-10-13 16:23:24.8016|Clientes processados: 9 - Enviados: 0 - Recebidos: 9
+ 2025-10-13 16:23:25.0192|Enviando NFC-e - chave: 42251029005632000391650010000134661149656573 . . .
+ 2025-10-13 16:23:26.1536|Venda: IdLocal 4027: Documento Fiscal Id:3237  -> IdWeb 10996087
+ 2025-10-13 16:23:26.1536|NFC-e chave: 42251029005632000391650010000134661149656573 enviada com sucesso!
+ 2025-10-13 16:32:26.8327|Recebendo operador 15946: Operador
+ 2025-10-13 16:32:26.8789|Recebendo operador 15947: Gerencia
+ 2025-10-13 16:32:26.9049|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 16:32:26.9049|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 16:32:26.9049|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 16:32:27.0589|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 16:32:27.0789|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 16:32:27.1239|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 16:32:27.1399|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 16:32:27.1569|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 16:32:27.1749|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 16:32:27.1979|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 16:32:27.2139|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 16:32:27.2579|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 16:32:27.2749|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 16:32:27.4129|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 16:32:27.7299|Recebendo cliente 1197725: KATIA SIQUEIRA
+ 2025-10-13 16:32:27.9909|Recebendo cliente 1199635: SUELI OLIVEIRA
+ 2025-10-13 16:32:28.0989|Recebendo cliente 1199879: RODRIGO BAUNGARTNER
+ 2025-10-13 16:32:28.4439|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 16:32:28.8949|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 16:32:29.0529|Recebendo cliente 1200202: THIAGO REGINALDO
+ 2025-10-13 16:32:29.0979|Recebendo cliente 1200221: ANNANAYRA TEIXEIRA
+ 2025-10-13 16:32:29.1419|Recebendo cliente 1200255: ARACELE
+ 2025-10-13 16:32:29.3199|Recebendo cliente 1200520: EDIANA DOS SANTOS
+ 2025-10-13 16:32:29.3539|Clientes processados: 9 - Enviados: 0 - Recebidos: 9
+ 2025-10-13 16:32:29.4679|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-13 16:32:29.4829|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 16:32:29.8119|Recebendo itens - 2 item(s).
+ 2025-10-13 16:32:31.2769|Recebendo itens - 2 itens importados de 2
+ 2025-10-13 16:32:32.7769|Total de itens recebidos: 2
+ 2025-10-13 16:32:33.0213|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 16:32:33.2557|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 16:32:33.6758|Recebendo Depósito: Geral
+ 2025-10-13 16:59:11.8693|Recebendo cliente 1197725: KATIA SIQUEIRA
+ 2025-10-13 16:59:11.9493|Recebendo cliente 1199879: RODRIGO BAUNGARTNER
+ 2025-10-13 16:59:12.1393|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 16:59:12.3273|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 16:59:12.4033|Recebendo cliente 1200202: THIAGO REGINALDO
+ 2025-10-13 16:59:12.4273|Recebendo cliente 1200221: ANNANAYRA TEIXEIRA
+ 2025-10-13 16:59:12.4493|Recebendo cliente 1200255: ARACELE
+ 2025-10-13 16:59:12.5333|Recebendo cliente 1200520: EDIANA DOS SANTOS
+ 2025-10-13 16:59:12.5483|Clientes processados: 8 - Enviados: 0 - Recebidos: 8
+ 2025-10-13 16:59:12.7518|Enviando NFC-e - chave: 42251029005632000391650010000134671494249763 . . .
+ 2025-10-13 16:59:14.4917|Venda: IdLocal 4029: Documento Fiscal Id:3238  -> IdWeb 10996778
+ 2025-10-13 16:59:14.4917|NFC-e chave: 42251029005632000391650010000134671494249763 enviada com sucesso!
+ 2025-10-13 17:00:31.0227|Recebendo cliente 1197725: KATIA SIQUEIRA
+ 2025-10-13 17:00:31.1017|Recebendo cliente 1199879: RODRIGO BAUNGARTNER
+ 2025-10-13 17:00:31.2877|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 17:00:31.4637|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 17:00:31.5367|Recebendo cliente 1200202: THIAGO REGINALDO
+ 2025-10-13 17:00:31.5617|Recebendo cliente 1200221: ANNANAYRA TEIXEIRA
+ 2025-10-13 17:00:31.5827|Recebendo cliente 1200255: ARACELE
+ 2025-10-13 17:00:31.6607|Recebendo cliente 1200520: EDIANA DOS SANTOS
+ 2025-10-13 17:00:31.6757|Clientes processados: 8 - Enviados: 0 - Recebidos: 8
+ 2025-10-13 17:00:31.8750|Enviando NFC-e - chave: 42251029005632000391650010000134681178064586 . . .
+ 2025-10-13 17:00:32.7880|Venda: IdLocal 4028: Documento Fiscal Id:3239  -> IdWeb 10996804
+ 2025-10-13 17:00:32.7880|NFC-e chave: 42251029005632000391650010000134681178064586 enviada com sucesso!
+ 2025-10-13 17:02:27.7062|Recebendo operador 15946: Operador
+ 2025-10-13 17:02:27.7218|Recebendo operador 15947: Gerencia
+ 2025-10-13 17:02:27.7541|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 17:02:27.7541|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 17:02:27.7611|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 17:02:27.9281|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 17:02:27.9471|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 17:02:27.9781|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 17:02:27.9951|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 17:02:28.0121|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 17:02:28.0301|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 17:02:28.0671|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 17:02:28.0841|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 17:02:28.1071|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 17:02:28.1241|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 17:02:28.2621|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 17:02:28.4984|Recebendo cliente 1197725: KATIA SIQUEIRA
+ 2025-10-13 17:02:28.5824|Recebendo cliente 1199879: RODRIGO BAUNGARTNER
+ 2025-10-13 17:02:28.7724|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 17:02:28.9583|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 17:02:29.0413|Recebendo cliente 1200202: THIAGO REGINALDO
+ 2025-10-13 17:02:29.0591|Recebendo cliente 1200221: ANNANAYRA TEIXEIRA
+ 2025-10-13 17:02:29.1059|Recebendo cliente 1200255: ARACELE
+ 2025-10-13 17:02:29.3403|Recebendo cliente 1200520: EDIANA DOS SANTOS
+ 2025-10-13 17:02:29.3716|Clientes processados: 8 - Enviados: 0 - Recebidos: 8
+ 2025-10-13 17:02:29.5122|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-13 17:02:29.5122|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 17:02:29.9184|Recebendo itens - 7 item(s).
+ 2025-10-13 17:02:31.7778|Recebendo itens - 7 itens importados de 7
+ 2025-10-13 17:02:32.1372|Total de itens recebidos: 7
+ 2025-10-13 17:02:32.4341|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 17:02:32.6528|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 17:02:32.8559|Recebendo Depósito: Geral
+ 2025-10-13 18:32:32.3501|Recebendo operador 15946: Operador
+ 2025-10-13 18:32:32.3501|Recebendo operador 15947: Gerencia
+ 2025-10-13 18:32:32.3813|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 18:32:32.3813|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 18:32:32.3935|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 18:32:32.5635|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 18:32:32.5825|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 18:32:32.6225|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 18:32:32.6395|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 18:32:32.6565|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 18:32:32.6735|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 18:32:32.7045|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 18:32:32.7215|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 18:32:32.7385|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 18:32:32.7615|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 18:32:32.8905|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 18:32:33.1135|Recebendo cliente 1197725: KATIA SIQUEIRA
+ 2025-10-13 18:32:33.1965|Recebendo cliente 1199879: RODRIGO BAUNGARTNER
+ 2025-10-13 18:32:33.3875|Recebendo cliente 1199903: MARINA ROBERTA 
+ 2025-10-13 18:32:33.5885|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 18:32:33.6215|Recebendo cliente 1200221: ANNANAYRA TEIXEIRA
+ 2025-10-13 18:32:33.6475|Recebendo cliente 1200255: ARACELE
+ 2025-10-13 18:32:33.7226|Recebendo cliente 1200520: EDIANA DOS SANTOS
+ 2025-10-13 18:32:33.7382|Clientes processados: 7 - Enviados: 0 - Recebidos: 7
+ 2025-10-13 18:32:33.8163|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-13 18:32:33.8163|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 18:32:34.1601|Recebendo itens - 6 item(s).
+ 2025-10-13 18:32:36.8296|Recebendo itens - 6 itens importados de 6
+ 2025-10-13 18:32:37.2048|Total de itens recebidos: 6
+ 2025-10-13 18:32:37.4705|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 18:32:37.6892|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 18:32:37.8923|Recebendo Depósito: Geral
+ 2025-10-13 18:52:43.1180|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 18:52:43.2170|Recebendo cliente 1200520: EDIANA DOS SANTOS
+ 2025-10-13 18:52:43.2350|Clientes processados: 2 - Enviados: 0 - Recebidos: 2
+ 2025-10-13 18:52:43.4540|Enviando NFC-e - chave: 42251029005632000391650010000134691190022135 . . .
+ 2025-10-13 18:52:44.6397|Venda: IdLocal 4030: Documento Fiscal Id:3240  -> IdWeb 10999151
+ 2025-10-13 18:52:44.6397|NFC-e chave: 42251029005632000391650010000134691190022135 enviada com sucesso!
+ 2025-10-13 18:58:37.1602|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 18:58:37.1915|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 18:58:37.2227|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 18:58:37.3165|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 18:58:37.3477|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 18:58:37.3633|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 18:58:37.3946|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 18:58:37.4102|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 18:58:37.4415|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 18:58:37.4571|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 18:58:37.4883|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 18:58:37.5196|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 18:58:37.5352|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 19:01:58.4599|Enviando cliente 14257: JOSE OLIVEIRA
+ 2025-10-13 19:01:58.7269|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 19:01:58.8229|Recebendo cliente 1200520: EDIANA DOS SANTOS
+ 2025-10-13 19:01:59.0359|Recebendo cliente 1200975: ANGELA BOSING
+ 2025-10-13 19:01:59.0509|Clientes processados: 4 - Enviados: 1 - Recebidos: 3
+ 2025-10-13 19:01:59.2660|Enviando NFC-e - chave: 42251029005632000391650010000134701692380489 . . .
+ 2025-10-13 19:02:01.0089|Venda: IdLocal 4031: Documento Fiscal Id:3241  -> IdWeb 10999355
+ 2025-10-13 19:02:01.0089|NFC-e chave: 42251029005632000391650010000134701692380489 enviada com sucesso!
+ 2025-10-13 19:02:28.9730|Recebendo operador 15946: Operador
+ 2025-10-13 19:02:28.9840|Recebendo operador 15947: Gerencia
+ 2025-10-13 19:02:29.0460|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 19:02:29.0460|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 19:02:29.0580|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 19:02:29.2920|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 19:02:29.3170|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 19:02:29.3410|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 19:02:29.4000|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 19:02:29.4240|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 19:02:29.4450|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 19:02:29.4650|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 19:02:29.4970|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 19:02:29.5160|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 19:02:29.5390|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 19:02:29.7150|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 19:02:30.0160|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 19:02:30.1660|Recebendo cliente 1200998: JOSE OLIVEIRA
+ 2025-10-13 19:02:30.1900|Clientes processados: 2 - Enviados: 0 - Recebidos: 2
+ 2025-10-13 19:02:30.2950|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-13 19:02:30.2950|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 19:02:30.6660|Recebendo itens - 7 item(s).
+ 2025-10-13 19:02:34.8340|Recebendo itens - 7 itens importados de 7
+ 2025-10-13 19:02:35.2058|Total de itens recebidos: 7
+ 2025-10-13 19:02:35.4903|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 19:02:35.7273|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 19:02:35.9272|Recebendo Depósito: Geral
+ 2025-10-13 19:10:37.8105|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 19:10:37.9006|Recebendo cliente 1200998: JOSE OLIVEIRA
+ 2025-10-13 19:10:37.9156|Clientes processados: 2 - Enviados: 0 - Recebidos: 2
+ 2025-10-13 19:10:38.1220|Enviando NFC-e - chave: 42251029005632000391650010000134711897905416 . . .
+ 2025-10-13 19:10:39.1071|Venda: IdLocal 4033: Documento Fiscal Id:3242  -> IdWeb 10999511
+ 2025-10-13 19:10:39.1071|NFC-e chave: 42251029005632000391650010000134711897905416 enviada com sucesso!
+ 2025-10-13 19:31:57.7206|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 19:31:57.8177|Recebendo cliente 1200998: JOSE OLIVEIRA
+ 2025-10-13 19:31:57.8357|Clientes processados: 2 - Enviados: 0 - Recebidos: 2
+ 2025-10-13 19:31:58.0276|Enviando NFC-e - chave: 42251029005632000391650010000134721196761474 . . .
+ 2025-10-13 19:31:59.9565|Venda: IdLocal 4034: Documento Fiscal Id:3243  -> IdWeb 10999908
+ 2025-10-13 19:31:59.9565|NFC-e chave: 42251029005632000391650010000134721196761474 enviada com sucesso!
+ 2025-10-13 19:32:28.4162|Recebendo operador 15946: Operador
+ 2025-10-13 19:32:28.4282|Recebendo operador 15947: Gerencia
+ 2025-10-13 19:32:28.4642|Recebendo vendedores 948576: KELLYM WALERIA DOS SANTOS
+ 2025-10-13 19:32:28.4642|Recebendo vendedores 948581: AUGUSTO GORDO TOMASELLI
+ 2025-10-13 19:32:28.4642|Recebendo vendedores 948583: RODRIGO BECKER DA SILVA
+ 2025-10-13 19:32:28.6274|Recebendo vendedores 974030: WALTER PRIETSCH NETO
+ 2025-10-13 19:32:28.6484|Recebendo vendedores 1009223: CONSUMO KOBRASOL
+ 2025-10-13 19:32:28.6994|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 19:32:28.7164|Recebendo vendedores 1031584: CONSUMO RODRIGO BECKER DA SILVA
+ 2025-10-13 19:32:28.7324|Recebendo vendedores 1031586: CONSUMO WALTER PRIETSCH NETO
+ 2025-10-13 19:32:28.7504|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 19:32:28.7744|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 19:32:28.7914|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 19:32:28.8074|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 19:32:28.8364|Recebendo vendedores 1191120: CONSUMO KELLYM WALERIA 
+ 2025-10-13 19:32:28.9814|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 19:32:29.2834|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 19:32:29.3924|Recebendo cliente 1200998: JOSE OLIVEIRA
+ 2025-10-13 19:32:29.4184|Clientes processados: 2 - Enviados: 0 - Recebidos: 2
+ 2025-10-13 19:32:29.4974|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-13 19:32:29.4974|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 19:32:29.9664|Recebendo itens - 11 item(s).
+ 2025-10-13 19:32:32.0724|Recebendo itens - 11 itens importados de 11
+ 2025-10-13 19:32:32.4274|Total de itens recebidos: 11
+ 2025-10-13 19:32:32.7454|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 19:32:32.9774|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 19:32:33.1994|Recebendo Depósito: Geral
+ 2025-10-13 19:33:44.3840|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 19:33:44.4780|Recebendo cliente 1200998: JOSE OLIVEIRA
+ 2025-10-13 19:33:44.4930|Clientes processados: 2 - Enviados: 0 - Recebidos: 2
+ 2025-10-13 19:33:44.6880|Enviando NFC-e - chave: 42251029005632000391650010000134731894933642 . . .
+ 2025-10-13 19:33:45.7185|Venda: IdLocal 4035: Documento Fiscal Id:3244  -> IdWeb 10999935
+ 2025-10-13 19:33:45.7185|NFC-e chave: 42251029005632000391650010000134731894933642 enviada com sucesso!
+ 2025-10-13 19:41:44.3401|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 19:41:44.4495|Recebendo cliente 1200998: JOSE OLIVEIRA
+ 2025-10-13 19:41:44.4651|Clientes processados: 2 - Enviados: 0 - Recebidos: 2
+ 2025-10-13 19:41:45.2307|Pedido de Venda 4036 - 31524774 enviado com sucesso!
+ 2025-10-13 19:54:47.8589|Enviando caixa 263
+ 2025-10-13 19:54:47.8589|Não existe nenhuma Operação de Caixa pendente de sincronização!

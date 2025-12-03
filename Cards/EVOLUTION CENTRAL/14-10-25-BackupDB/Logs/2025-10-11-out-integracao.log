@@ -1,0 +1,301 @@
+ 2025-10-11 08:51:27.8337|Enviando caixa 295
+ 2025-10-11 08:51:27.8877|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-11 08:52:47.2614|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-11 08:52:47.9240|Enviando operação de caixa 979 - suprimento
+ 2025-10-11 09:19:17.1787|Recebendo operador 15948: Operador
+ 2025-10-11 09:19:17.1787|Recebendo operador 15949: Gerencia
+ 2025-10-11 09:19:17.3607|Recebendo vendedores 948578: PAULO DANNY MONTEIRO
+ 2025-10-11 09:19:17.3777|Recebendo vendedores 1002522: CONSUMO CENTRO
+ 2025-10-11 09:19:17.3947|Recebendo vendedores 1031580: CONSUMO KELLYM WALERIA DOS SANTOS
+ 2025-10-11 09:19:17.4117|Recebendo vendedores 1031581: CONSUMO PAULO DANNY MONTEIRO
+ 2025-10-11 09:19:17.4276|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-11 09:19:17.4446|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-11 09:19:17.4786|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-11 09:19:17.4946|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-11 09:19:17.5116|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-11 09:19:17.5915|Recebendo vendedores 1090892: GABRIELA PEREIRA
+ 2025-10-11 09:19:17.6075|Recebendo vendedores 1190705: CONSUMO GABRIELA PEREIRA
+ 2025-10-11 09:19:17.7388|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-11 09:19:17.7638|Clientes processados: 0 - Enviados: 0 - Recebidos: 0
+ 2025-10-11 09:19:17.7638|Não existe nenhum cliente pendente de sincronização!
+ 2025-10-11 09:19:17.7847|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-11 09:19:17.7897|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-11 09:19:38.0645|Enviando NFC-e - chave: 42250929005632000200650010000183119215458373 . . .
+ 2025-10-11 09:19:38.1479|Enviando NFC-e - chave: 42250929005632000200650010000183129434461970 . . .
+ 2025-10-11 09:19:38.3738|Não existe nenhum produto/serviço pendente de sincronização!
+ 2025-10-11 09:19:38.5674|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-11 09:19:38.7634|Não existe nenhum lote pendente de sincronização!
+ 2025-10-11 09:19:38.9653|Recebendo Depósito: Geral
+ 2025-10-11 09:39:31.9701|Clientes processados: 0 - Enviados: 0 - Recebidos: 0
+ 2025-10-11 09:39:31.9701|Não existe nenhum cliente pendente de sincronização!
+ 2025-10-11 09:39:54.5696|Enviando NFC-e - chave: 42250929005632000200650010000183119215458373 . . .
+ 2025-10-11 09:39:54.6370|Enviando NFC-e - chave: 42250929005632000200650010000183129434461970 . . .
+ 2025-10-11 09:39:54.6545|Enviando NFC-e - chave: 42251029005632000200650010000189711477073989 . . .
+ 2025-10-11 09:39:55.7991|Venda: IdLocal 5816: Documento Fiscal Id:4843  -> IdWeb 10959615
+ 2025-10-11 09:39:55.7991|NFC-e chave: 42251029005632000200650010000189711477073989 enviada com sucesso!
+ 2025-10-11 09:40:54.7192|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-11 09:40:55.4112|Enviando operação de caixa 980 - sangria
+ 2025-10-11 09:49:16.4562|Recebendo operador 15948: Operador
+ 2025-10-11 09:49:16.5050|Recebendo operador 15949: Gerencia
+ 2025-10-11 09:49:16.6685|Recebendo vendedores 948578: PAULO DANNY MONTEIRO
+ 2025-10-11 09:49:16.6846|Recebendo vendedores 1002522: CONSUMO CENTRO
+ 2025-10-11 09:49:16.7006|Recebendo vendedores 1031580: CONSUMO KELLYM WALERIA DOS SANTOS
+ 2025-10-11 09:49:16.7166|Recebendo vendedores 1031581: CONSUMO PAULO DANNY MONTEIRO
+ 2025-10-11 09:49:16.7346|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-11 09:49:16.7616|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-11 09:49:16.7785|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-11 09:49:16.7945|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-11 09:49:16.8105|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-11 09:49:16.8865|Recebendo vendedores 1090892: GABRIELA PEREIRA
+ 2025-10-11 09:49:16.9025|Recebendo vendedores 1190705: CONSUMO GABRIELA PEREIRA
+ 2025-10-11 09:49:17.0486|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-11 09:49:17.0736|Clientes processados: 0 - Enviados: 0 - Recebidos: 0
+ 2025-10-11 09:49:17.0736|Não existe nenhum cliente pendente de sincronização!
+ 2025-10-11 09:49:17.0956|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-11 09:49:17.1016|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-11 09:49:36.8129|Enviando NFC-e - chave: 42250929005632000200650010000183119215458373 . . .
+ 2025-10-11 09:49:36.8928|Enviando NFC-e - chave: 42250929005632000200650010000183129434461970 . . .
+ 2025-10-11 09:49:37.1218|Recebendo itens - 1 item(s).
+ 2025-10-11 09:49:37.7142|Recebendo itens - 1 itens importados de 1
+ 2025-10-11 09:49:38.0819|Total de itens recebidos: 1
+ 2025-10-11 09:49:38.3609|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-11 09:49:38.5782|Não existe nenhum lote pendente de sincronização!
+ 2025-10-11 09:49:38.7899|Recebendo Depósito: Geral
+ 2025-10-11 10:13:19.5372|Clientes processados: 0 - Enviados: 0 - Recebidos: 0
+ 2025-10-11 10:13:19.5393|Não existe nenhum cliente pendente de sincronização!
+ 2025-10-11 10:13:20.6245|Pedido de Venda 5817 - 31480238 enviado com sucesso!
+ 2025-10-11 10:13:42.4777|Enviando NFC-e - chave: 42250929005632000200650010000183119215458373 . . .
+ 2025-10-11 10:13:42.5176|Enviando NFC-e - chave: 42250929005632000200650010000183129434461970 . . .
+ 2025-10-11 10:19:03.4988|Clientes processados: 0 - Enviados: 0 - Recebidos: 0
+ 2025-10-11 10:19:03.4988|Não existe nenhum cliente pendente de sincronização!
+ 2025-10-11 10:19:16.6729|Recebendo operador 15948: Operador
+ 2025-10-11 10:19:16.6951|Recebendo operador 15949: Gerencia
+ 2025-10-11 10:19:16.8602|Recebendo vendedores 948578: PAULO DANNY MONTEIRO
+ 2025-10-11 10:19:16.8762|Recebendo vendedores 1002522: CONSUMO CENTRO
+ 2025-10-11 10:19:16.8932|Recebendo vendedores 1031580: CONSUMO KELLYM WALERIA DOS SANTOS
+ 2025-10-11 10:19:16.9092|Recebendo vendedores 1031581: CONSUMO PAULO DANNY MONTEIRO
+ 2025-10-11 10:19:16.9262|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-11 10:19:16.9551|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-11 10:19:16.9711|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-11 10:19:16.9881|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-11 10:19:17.0077|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-11 10:19:17.0838|Recebendo vendedores 1090892: GABRIELA PEREIRA
+ 2025-10-11 10:19:17.1008|Recebendo vendedores 1190705: CONSUMO GABRIELA PEREIRA
+ 2025-10-11 10:19:17.2345|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-11 10:19:17.2645|Clientes processados: 0 - Enviados: 0 - Recebidos: 0
+ 2025-10-11 10:19:17.2645|Não existe nenhum cliente pendente de sincronização!
+ 2025-10-11 10:19:17.2895|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-11 10:19:17.2895|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-11 10:19:25.7033|Enviando NFC-e - chave: 42250929005632000200650010000183119215458373 . . .
+ 2025-10-11 10:19:25.7292|Enviando NFC-e - chave: 42250929005632000200650010000183129434461970 . . .
+ 2025-10-11 10:19:25.7465|Enviando NFC-e - chave: 42251029005632000200650010000189721417286193 . . .
+ 2025-10-11 10:19:26.8530|Venda: IdLocal 5818: Documento Fiscal Id:4844  -> IdWeb 10960371
+ 2025-10-11 10:19:26.8530|NFC-e chave: 42251029005632000200650010000189721417286193 enviada com sucesso!
+ 2025-10-11 10:19:36.7407|Enviando NFC-e - chave: 42250929005632000200650010000183119215458373 . . .
+ 2025-10-11 10:19:36.8204|Enviando NFC-e - chave: 42250929005632000200650010000183129434461970 . . .
+ 2025-10-11 10:19:37.0704|Recebendo itens - 5 item(s).
+ 2025-10-11 10:19:38.4231|Recebendo itens - 5 itens importados de 5
+ 2025-10-11 10:19:38.7842|Total de itens recebidos: 5
+ 2025-10-11 10:19:39.0310|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-11 10:19:39.2253|Não existe nenhum lote pendente de sincronização!
+ 2025-10-11 10:19:39.4241|Recebendo Depósito: Geral
+ 2025-10-11 10:49:16.7513|Recebendo operador 15948: Operador
+ 2025-10-11 10:49:16.7647|Recebendo operador 15949: Gerencia
+ 2025-10-11 10:49:16.9405|Recebendo vendedores 948578: PAULO DANNY MONTEIRO
+ 2025-10-11 10:49:16.9565|Recebendo vendedores 1002522: CONSUMO CENTRO
+ 2025-10-11 10:49:16.9725|Recebendo vendedores 1031580: CONSUMO KELLYM WALERIA DOS SANTOS
+ 2025-10-11 10:49:16.9899|Recebendo vendedores 1031581: CONSUMO PAULO DANNY MONTEIRO
+ 2025-10-11 10:49:17.0069|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-11 10:49:17.0338|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-11 10:49:17.0508|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-11 10:49:17.0668|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-11 10:49:17.0848|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-11 10:49:17.1597|Recebendo vendedores 1090892: GABRIELA PEREIRA
+ 2025-10-11 10:49:17.1809|Recebendo vendedores 1190705: CONSUMO GABRIELA PEREIRA
+ 2025-10-11 10:49:17.3140|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-11 10:49:17.7061|Recebendo cliente 1197535: MARIA JULIA OGLIARI
+ 2025-10-11 10:49:17.8365|Recebendo cliente 1197568: REJANE MARIE ESTEVES
+ 2025-10-11 10:49:17.8545|Clientes processados: 2 - Enviados: 0 - Recebidos: 2
+ 2025-10-11 10:49:17.9189|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-11 10:49:17.9189|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-11 10:49:37.4834|Enviando NFC-e - chave: 42250929005632000200650010000183119215458373 . . .
+ 2025-10-11 10:49:37.5589|Enviando NFC-e - chave: 42250929005632000200650010000183129434461970 . . .
+ 2025-10-11 10:49:37.7864|Não existe nenhum produto/serviço pendente de sincronização!
+ 2025-10-11 10:49:37.9918|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-11 10:49:38.1957|Não existe nenhum lote pendente de sincronização!
+ 2025-10-11 10:49:38.3987|Recebendo Depósito: Geral
+ 2025-10-11 11:19:16.6498|Recebendo operador 15948: Operador
+ 2025-10-11 11:19:16.6498|Recebendo operador 15949: Gerencia
+ 2025-10-11 11:19:16.8101|Recebendo vendedores 948578: PAULO DANNY MONTEIRO
+ 2025-10-11 11:19:16.8281|Recebendo vendedores 1002522: CONSUMO CENTRO
+ 2025-10-11 11:19:16.8461|Recebendo vendedores 1031580: CONSUMO KELLYM WALERIA DOS SANTOS
+ 2025-10-11 11:19:16.8641|Recebendo vendedores 1031581: CONSUMO PAULO DANNY MONTEIRO
+ 2025-10-11 11:19:16.8820|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-11 11:19:16.9210|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-11 11:19:16.9380|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-11 11:19:16.9540|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-11 11:19:16.9720|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-11 11:19:17.0479|Recebendo vendedores 1090892: GABRIELA PEREIRA
+ 2025-10-11 11:19:17.0669|Recebendo vendedores 1190705: CONSUMO GABRIELA PEREIRA
+ 2025-10-11 11:19:17.1920|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-11 11:19:17.3477|Recebendo cliente 1197535: MARIA JULIA OGLIARI
+ 2025-10-11 11:19:17.4745|Recebendo cliente 1197568: REJANE MARIE ESTEVES
+ 2025-10-11 11:19:17.6493|Recebendo cliente 1197725: KATIA SIQUEIRA
+ 2025-10-11 11:19:17.6683|Clientes processados: 3 - Enviados: 0 - Recebidos: 3
+ 2025-10-11 11:19:17.7292|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-11 11:19:17.7292|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-11 11:19:37.5976|Enviando NFC-e - chave: 42250929005632000200650010000183119215458373 . . .
+ 2025-10-11 11:19:37.6702|Enviando NFC-e - chave: 42250929005632000200650010000183129434461970 . . .
+ 2025-10-11 11:19:37.8989|Não existe nenhum produto/serviço pendente de sincronização!
+ 2025-10-11 11:19:38.1050|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-11 11:19:38.2997|Não existe nenhum lote pendente de sincronização!
+ 2025-10-11 11:19:38.5052|Recebendo Depósito: Geral
+ 2025-10-11 11:49:16.3556|Recebendo operador 15948: Operador
+ 2025-10-11 11:49:16.3556|Recebendo operador 15949: Gerencia
+ 2025-10-11 11:49:16.5227|Recebendo vendedores 948578: PAULO DANNY MONTEIRO
+ 2025-10-11 11:49:16.5407|Recebendo vendedores 1002522: CONSUMO CENTRO
+ 2025-10-11 11:49:16.5567|Recebendo vendedores 1031580: CONSUMO KELLYM WALERIA DOS SANTOS
+ 2025-10-11 11:49:16.5736|Recebendo vendedores 1031581: CONSUMO PAULO DANNY MONTEIRO
+ 2025-10-11 11:49:16.5916|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-11 11:49:16.6196|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-11 11:49:16.6356|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-11 11:49:16.6516|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-11 11:49:16.6676|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-11 11:49:16.7449|Recebendo vendedores 1090892: GABRIELA PEREIRA
+ 2025-10-11 11:49:16.7609|Recebendo vendedores 1190705: CONSUMO GABRIELA PEREIRA
+ 2025-10-11 11:49:16.8907|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-11 11:49:17.0440|Recebendo cliente 1197535: MARIA JULIA OGLIARI
+ 2025-10-11 11:49:17.1733|Recebendo cliente 1197568: REJANE MARIE ESTEVES
+ 2025-10-11 11:49:17.3601|Recebendo cliente 1197725: KATIA SIQUEIRA
+ 2025-10-11 11:49:17.3831|Recebendo cliente 1197813: GABRIEL ARNS
+ 2025-10-11 11:49:17.4061|Clientes processados: 4 - Enviados: 0 - Recebidos: 4
+ 2025-10-11 11:49:17.4653|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-11 11:49:17.4653|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-11 11:49:37.1989|Enviando NFC-e - chave: 42250929005632000200650010000183119215458373 . . .
+ 2025-10-11 11:49:37.2638|Enviando NFC-e - chave: 42250929005632000200650010000183129434461970 . . .
+ 2025-10-11 11:49:37.5010|Não existe nenhum produto/serviço pendente de sincronização!
+ 2025-10-11 11:49:37.6991|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-11 11:49:37.8963|Não existe nenhum lote pendente de sincronização!
+ 2025-10-11 11:49:38.0999|Recebendo Depósito: Geral
+ 2025-10-11 11:57:13.6230|Recebendo cliente 1197535: MARIA JULIA OGLIARI
+ 2025-10-11 11:57:13.7603|Recebendo cliente 1197568: REJANE MARIE ESTEVES
+ 2025-10-11 11:57:14.0059|Recebendo cliente 1197725: KATIA SIQUEIRA
+ 2025-10-11 11:57:14.0299|Recebendo cliente 1197813: GABRIEL ARNS
+ 2025-10-11 11:57:14.0455|Clientes processados: 4 - Enviados: 0 - Recebidos: 4
+ 2025-10-11 11:57:36.3336|Enviando NFC-e - chave: 42250929005632000200650010000183119215458373 . . .
+ 2025-10-11 11:57:36.3896|Enviando NFC-e - chave: 42250929005632000200650010000183129434461970 . . .
+ 2025-10-11 11:57:36.4352|Enviando NFC-e - chave: 42251029005632000200650010000189731538382891 . . .
+ 2025-10-11 11:57:37.7920|Venda: IdLocal 5819: Documento Fiscal Id:4845  -> IdWeb 10963218
+ 2025-10-11 11:57:37.7920|NFC-e chave: 42251029005632000200650010000189731538382891 enviada com sucesso!
+ 2025-10-11 12:11:45.5845|Recebendo cliente 1197535: MARIA JULIA OGLIARI
+ 2025-10-11 12:11:45.7117|Recebendo cliente 1197568: REJANE MARIE ESTEVES
+ 2025-10-11 12:11:45.8676|Recebendo cliente 1197725: KATIA SIQUEIRA
+ 2025-10-11 12:11:45.8906|Recebendo cliente 1197813: GABRIEL ARNS
+ 2025-10-11 12:11:45.9055|Clientes processados: 4 - Enviados: 0 - Recebidos: 4
+ 2025-10-11 12:12:08.4035|Enviando NFC-e - chave: 42250929005632000200650010000183119215458373 . . .
+ 2025-10-11 12:12:08.4491|Enviando NFC-e - chave: 42250929005632000200650010000183129434461970 . . .
+ 2025-10-11 12:12:08.4911|Enviando NFC-e - chave: 42251029005632000200650010000189741839638744 . . .
+ 2025-10-11 12:12:09.3847|Falha ao sincronizar Documento Fiscal  -> chave: 42251029005632000200650010000189741839638744 - {"codigoSituacao":"0100","descricao":"Autorizado o uso da NF-e","chave":"42251029005632000200650010000189741839638744","protocolo":"242251414749911","url":"https://sat.sef.sc.gov.br/nfce/consulta?p=42251029005632000200650010000189741839638744|2|1|1|CDCBE78BBC84876CFCB7049C0C9293676421F64B","chaveFormatada":"4225 1029 0056 3200 0200 6500 1000 0189 7418 3963 8744 ","valorTotal":null,"urlcons":"https://sat.sef.sc.gov.br/nfce/consulta","ambiente":"1","xml":"<?xml version=\"1.0\" encoding=\"UTF-8\"?><nfeProc versao=\"4.00\" xmlns=\"http://www.portalfiscal.inf.br/nfe\"><NFe xmlns=\"http://www.portalfiscal.inf.br/nfe\"><infNFe versao=\"4.00\" Id=\"NFe42251029005632000200650010000189741839638744\"><ide><cUF>42</cUF><cNF>83963874</cNF><natOp>Venda</natOp><mod>65</mod><serie>1</serie><nNF>18974</nNF><dhEmi>2025-10-11T12:11:38-03:00</dhEmi><tpNF>1</tpNF><idDest>1</idDest><cMunFG>4205407</cMunFG><tpImp>4</tpImp><tpEmis>1</tpEmis><cDV>4</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>1</indFinal><indPres>1</indPres><indIntermed>0</indIntermed><procEmi>0</procEmi><verProc>14.6.0.0</verProc></ide><emit><CNPJ>29005632000200</CNPJ><xNome>EVOLUTION NUTRICAO SAUDAVEL E COMERCIO LTDA</xNome><xFant>EVOLUTION  - CENTRO</xFant><enderEmit><xLgr>Avenida Prefeito Osmar Cunha</xLgr><nro>208</nro><xBairro>Centro</xBairro><cMun>4205407</cMun><xMun>Florianopolis</xMun><UF>SC</UF><CEP>88015100</CEP></enderEmit><IE>261875450</IE><CRT>3</CRT></emit><dest><CPF>00782687962</CPF><xNome>PAULA FRETELLO  NOGARA NASCHENWNG</xNome><enderDest><xLgr>Rua Dom Joaquim</xLgr><nro>827</nro><xBairro>Centro</xBairro><cMun>4205407</cMun><xMun>Florianopolis</xMun><UF>SC</UF><CEP>88015310</CEP><cPais>1058</cPais><xPais>BRASIL</xPais></enderDest><indIEDest>9</indIEDest></dest><det nItem=\"1\"><prod><cProd>7898719881767</cProd><cEAN>7898719881767</cEAN><xProd>SHARK PRO BEEF CRISPY PROTEIN 50G</xProd><NCM>19041000</NCM><CFOP>5102</CFOP><uCom>UND</uCom><qCom>1.0000</qCom><vUnCom>12.90</vUnCom><vProd>12.90</vProd><cEANTrib>7898719881767</cEANTrib><uTrib>UND</uTrib><qTrib>1.0000</qTrib><vUnTrib>12.90</vUnTrib><indTot>1</indTot></prod><imposto><vTotTrib>3.93</vTotTrib><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>0</modBC><vBC>12.90</vBC><pICMS>17.00</pICMS><vICMS>2.19</vICMS></ICMS00></ICMS><PIS><PISAliq><CST>01</CST><vBC>12.90</vBC><pPIS>1.65</pPIS><vPIS>0.21</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>12.90</vBC><pCOFINS>7.60</pCOFINS><vCOFINS>0.98</vCOFINS></COFINSAliq></COFINS></imposto></det><det nItem=\"2\"><prod><cProd>7898719880975</cProd><cEAN>7898719880975</cEAN><xProd>SHARK PRO ONION CRISPY PROTEIN 50G</xProd><NCM>19041000</NCM><CFOP>5102</CFOP><uCom>UND</uCom><qCom>2.0000</qCom><vUnCom>12.90</vUnCom><vProd>25.80</vProd><cEANTrib>7898719880975</cEANTrib><uTrib>UND</uTrib><qTrib>2.0000</qTrib><vUnTrib>12.90</vUnTrib><indTot>1</indTot></prod><imposto><vTotTrib>7.86</vTotTrib><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>0</modBC><vBC>25.80</vBC><pICMS>17.00</pICMS><vICMS>4.39</vICMS></ICMS00></ICMS><PIS><PISAliq><CST>01</CST><vBC>25.80</vBC><pPIS>1.65</pPIS><vPIS>0.43</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>25.80</vBC><pCOFINS>7.60</pCOFINS><vCOFINS>1.96</vCOFINS></COFINSAliq></COFINS></imposto></det><total><ICMSTot><vBC>38.70</vBC><vICMS>6.58</vICMS><vICMSDeson>0.00</vICMSDeson><vFCPUFDest>0.00</vFCPUFDest><vICMSUFDest>0.00</vICMSUFDest><vICMSUFRemet>0.00</vICMSUFRemet><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>38.70</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.64</vPIS><vCOFINS>2.94</vCOFINS><vOutro>0.00</vOutro><vNF>38.70</vNF><vTotTrib>11.79</vTotTrib></ICMSTot></total><transp><modFrete>9</modFrete></transp><pag><detPag><indPag>1</indPag><tPag>04</tPag><vPag>38.70</vPag><card><tpIntegra>2</tpIntegra><idTermPag>1</idTermPag></card></detPag><vTroco>0.00</vTroco></pag><infAdic><infCpl>Trib. aprox. Fed. R$ 5,21, Est. R$ 6,58 |e Mun. R$ 0,00 (30,47%), Fonte IBPT.| ||Nr. Pedido: 10005</infCpl></infAdic><infRespTec><CNPJ>47217329000172</CNPJ><xContato>Ricardo Pinheiro Braga</xContato><email>contato@maqplan.com.br</email><fone>6130376333</fone></infRespTec></infNFe><infNFeSupl><qrCode><![CDATA[https://sat.sef.sc.gov.br/nfce/consulta?p=42251029005632000200650010000189741839638744|2|1|1|CDCBE78BBC84876CFCB7049C0C9293676421F64B]]></qrCode><urlChave>https://sat.sef.sc.gov.br/nfce/consulta</urlChave></infNFeSupl><Signature xmlns=\"http://www.w3.org/2000/09/xmldsig#\"><SignedInfo><CanonicalizationMethod Algorithm=\"http://www.w3.org/TR/2001/REC-xml-c14n-20010315\" /><SignatureMethod Algorithm=\"http://www.w3.org/2000/09/xmldsig#rsa-sha1\" /><Reference URI=\"#NFe42251029005632000200650010000189741839638744\"><Transforms><Transform Algorithm=\"http://www.w3.org/2000/09/xmldsig#enveloped-signature\" /><Transform Algorithm=\"http://www.w3.org/TR/2001/REC-xml-c14n-20010315\" /></Transforms><DigestMethod Algorithm=\"http://www.w3.org/2000/09/xmldsig#sha1\" /><DigestValue>+M7q+smIS/vj7thlplWUT9iE/2U=</DigestValue></Reference></SignedInfo><SignatureValue>OoYDxvYur+F2QdgDunPXj7AtZ9orRTj5OpbwSj6wRoNqbxzCQpkCggWRNunPoZ72aXB+NlxkO7PYj9zZyBfKH8i+2flXdYPxkRwnV83s5QC+6sa81trVVB8eyTeZgSJKyiNvBYbKN9P5wo/OhuLg9Y5C5OI/txyJEeoc46oQ4iyRfMh5VSeHRlqtfLjbg9bDPnX1foZIiuXcq1hhsf5IcNn3xaRJwbxeplEwRxQUBuYdDCF7x7p8eoT/NM1/aVRscMvg88kY+NpRmONEG38PqZwFBGlhuck6dxNW5RllQDOYZbBuOiG6G6YrM+ufg7LSYNKL6+tSIt24JD58h0TWkw==</SignatureValue><KeyInfo><X509Data><X509Certificate>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</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao=\"4.00\"><infProt><tpAmb>1</tpAmb><verAplic>SVRSnfce2509011501DR</verAplic><chNFe>42251029005632000200650010000189741839638744</chNFe><dhRecbto>2025-10-11T12:11:48-03:00</dhRecbto><nProt>242251414749911</nProt><digVal>+M7q+smIS/vj7thlplWUT9iE/2U=</digVal><cStat>100</cStat><xMotivo>Autorizado o uso da NF-e</xMotivo></infProt></protNFe></nfeProc>","dataInclusao":"2025-10-11T12:11:48-03:00","retornoSefaz":{"retEnviNFe":{"versao":"4.00","xmlns":"http://www.portalfiscal.inf.br/nfe","tpAmb":"1","verAplic":"SVRSnfce2509011501DR","cStat":"104","xMotivo":"Lote processado","cUF":"42","dhRecbto":"2025-10-11T12:11:48-03:00","protNFe":{"versao":"4.00","infProt":{"tpAmb":"1","verAplic":"SVRSnfce2509011501DR","chNFe":"42251029005632000200650010000189741839638744","dhRecbto":"2025-10-11T12:11:48-03:00","nProt":"242251414749911","digVal":"+M7q+smIS/vj7thlplWUT9iE/2U=","cStat":"100","xMotivo":"Autorizado o uso da NF-e"}}},"protNFe":"<protNFe versao=\"4.00\"><infProt><tpAmb>1</tpAmb><verAplic>SVRSnfce2509011501DR</verAplic><chNFe>42251029005632000200650010000189741839638744</chNFe><dhRecbto>2025-10-11T12:11:48-03:00</dhRecbto><nProt>242251414749911</nProt><digVal>+M7q+smIS/vj7thlplWUT9iE/2U=</digVal><cStat>100</cStat><xMotivo>Autorizado o uso da NF-e</xMotivo></infProt></protNFe>"},"idImportacao":null} - 
+ 2025-10-11 12:19:16.7736|Recebendo operador 15948: Operador
+ 2025-10-11 12:19:16.7736|Recebendo operador 15949: Gerencia
+ 2025-10-11 12:19:16.9779|Recebendo vendedores 948578: PAULO DANNY MONTEIRO
+ 2025-10-11 12:19:16.9937|Recebendo vendedores 1002522: CONSUMO CENTRO
+ 2025-10-11 12:19:17.0096|Recebendo vendedores 1031580: CONSUMO KELLYM WALERIA DOS SANTOS
+ 2025-10-11 12:19:17.0256|Recebendo vendedores 1031581: CONSUMO PAULO DANNY MONTEIRO
+ 2025-10-11 12:19:17.0426|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-11 12:19:17.0696|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-11 12:19:17.0862|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-11 12:19:17.1012|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-11 12:19:17.1187|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-11 12:19:17.1958|Recebendo vendedores 1090892: GABRIELA PEREIRA
+ 2025-10-11 12:19:17.2168|Recebendo vendedores 1190705: CONSUMO GABRIELA PEREIRA
+ 2025-10-11 12:19:17.3481|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-11 12:19:17.5086|Recebendo cliente 1197535: MARIA JULIA OGLIARI
+ 2025-10-11 12:19:17.6485|Recebendo cliente 1197568: REJANE MARIE ESTEVES
+ 2025-10-11 12:19:17.8679|Recebendo cliente 1197725: KATIA SIQUEIRA
+ 2025-10-11 12:19:17.9221|Recebendo cliente 1197813: GABRIEL ARNS
+ 2025-10-11 12:19:17.9446|Clientes processados: 4 - Enviados: 0 - Recebidos: 4
+ 2025-10-11 12:19:18.0146|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-11 12:19:18.0226|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-11 12:19:37.7209|Enviando NFC-e - chave: 42250929005632000200650010000183119215458373 . . .
+ 2025-10-11 12:19:37.8434|Enviando NFC-e - chave: 42250929005632000200650010000183129434461970 . . .
+ 2025-10-11 12:19:37.8995|Enviando NFC-e - chave: 42251029005632000200650010000189741839638744 . . .
+ 2025-10-11 12:19:38.6931|Venda: IdLocal 5820: Documento Fiscal Id:4846  -> IdWeb 10963677
+ 2025-10-11 12:19:38.6931|NFC-e chave: 42251029005632000200650010000189741839638744 enviada com sucesso!
+ 2025-10-11 12:19:38.9745|Recebendo itens - 51 item(s).
+ 2025-10-11 12:19:43.2223|Recebendo itens - 51 itens importados de 51
+ 2025-10-11 12:19:43.6520|Total de itens recebidos: 51
+ 2025-10-11 12:19:43.9087|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-11 12:19:44.1135|Não existe nenhum lote pendente de sincronização!
+ 2025-10-11 12:19:44.3217|Recebendo Depósito: Geral
+ 2025-10-11 12:39:23.3959|Recebendo operador 15948: Operador
+ 2025-10-11 12:39:23.4029|Recebendo operador 15949: Gerencia
+ 2025-10-11 12:39:23.6021|Recebendo vendedores 948578: PAULO DANNY MONTEIRO
+ 2025-10-11 12:39:23.6191|Recebendo vendedores 1002522: CONSUMO CENTRO
+ 2025-10-11 12:39:23.6363|Recebendo vendedores 1031580: CONSUMO KELLYM WALERIA DOS SANTOS
+ 2025-10-11 12:39:23.6663|Recebendo vendedores 1031581: CONSUMO PAULO DANNY MONTEIRO
+ 2025-10-11 12:39:23.6833|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-11 12:39:23.7003|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-11 12:39:23.7173|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-11 12:39:23.7333|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-11 12:39:23.7503|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-11 12:39:23.8362|Recebendo vendedores 1090892: GABRIELA PEREIRA
+ 2025-10-11 12:39:23.8522|Recebendo vendedores 1190705: CONSUMO GABRIELA PEREIRA
+ 2025-10-11 12:39:24.0198|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-11 12:39:24.4447|Enviando cliente 13995: MANUELA LOESER
+ 2025-10-11 12:39:24.6008|Recebendo cliente 1197535: MARIA JULIA OGLIARI
+ 2025-10-11 12:39:24.7267|Recebendo cliente 1197568: REJANE MARIE ESTEVES
+ 2025-10-11 12:39:24.9139|Recebendo cliente 1197725: KATIA SIQUEIRA
+ 2025-10-11 12:39:24.9389|Recebendo cliente 1197813: GABRIEL ARNS
+ 2025-10-11 12:39:24.9595|Clientes processados: 5 - Enviados: 1 - Recebidos: 4
+ 2025-10-11 12:44:09.3681|Recebendo cliente 1197535: MARIA JULIA OGLIARI
+ 2025-10-11 12:44:09.4903|Recebendo cliente 1197568: REJANE MARIE ESTEVES
+ 2025-10-11 12:44:09.6445|Recebendo cliente 1197725: KATIA SIQUEIRA
+ 2025-10-11 12:44:09.6655|Recebendo cliente 1197813: GABRIEL ARNS
+ 2025-10-11 12:44:09.7341|Recebendo cliente 1197939: MANUELA LOESER
+ 2025-10-11 12:44:09.7490|Clientes processados: 5 - Enviados: 0 - Recebidos: 5
+ 2025-10-11 12:44:32.1352|Enviando NFC-e - chave: 42250929005632000200650010000183119215458373 . . .
+ 2025-10-11 12:44:32.1917|Enviando NFC-e - chave: 42250929005632000200650010000183129434461970 . . .
+ 2025-10-11 12:44:32.2415|Enviando NFC-e - chave: 42251029005632000200650010000189751508453760 . . .
+ 2025-10-11 12:44:33.4783|Falha ao sincronizar Documento Fiscal  -> chave: 42251029005632000200650010000189751508453760 - {"codigoSituacao":"0100","descricao":"Autorizado o uso da NF-e","chave":"42251029005632000200650010000189751508453760","protocolo":"242251415009808","url":"https://sat.sef.sc.gov.br/nfce/consulta?p=42251029005632000200650010000189751508453760|2|1|1|EE47F8AAE2A804C52FD3F6FA18D8175FCA1EDED4","chaveFormatada":"4225 1029 0056 3200 0200 6500 1000 0189 7515 0845 3760 ","valorTotal":null,"urlcons":"https://sat.sef.sc.gov.br/nfce/consulta","ambiente":"1","xml":"<?xml version=\"1.0\" encoding=\"UTF-8\"?><nfeProc versao=\"4.00\" xmlns=\"http://www.portalfiscal.inf.br/nfe\"><NFe xmlns=\"http://www.portalfiscal.inf.br/nfe\"><infNFe versao=\"4.00\" Id=\"NFe42251029005632000200650010000189751508453760\"><ide><cUF>42</cUF><cNF>50845376</cNF><natOp>Venda</natOp><mod>65</mod><serie>1</serie><nNF>18975</nNF><dhEmi>2025-10-11T12:44:06-03:00</dhEmi><tpNF>1</tpNF><idDest>1</idDest><cMunFG>4205407</cMunFG><tpImp>4</tpImp><tpEmis>1</tpEmis><cDV>0</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>1</indFinal><indPres>1</indPres><indIntermed>0</indIntermed><procEmi>0</procEmi><verProc>14.6.0.0</verProc></ide><emit><CNPJ>29005632000200</CNPJ><xNome>EVOLUTION NUTRICAO SAUDAVEL E COMERCIO LTDA</xNome><xFant>EVOLUTION  - CENTRO</xFant><enderEmit><xLgr>Avenida Prefeito Osmar Cunha</xLgr><nro>208</nro><xBairro>Centro</xBairro><cMun>4205407</cMun><xMun>Florianopolis</xMun><UF>SC</UF><CEP>88015100</CEP></enderEmit><IE>261875450</IE><CRT>3</CRT></emit><dest><CPF>00201225000</CPF><xNome>MANUELA LOESER</xNome><indIEDest>9</indIEDest></dest><det nItem=\"1\"><prod><cProd>7898315580859</cProd><cEAN>7898315580859</cEAN><xProd>PURO WHEY NATURAL 909G PERFORMANCE</xProd><NCM>35022000</NCM><CFOP>5102</CFOP><uCom>UND</uCom><qCom>1.0000</qCom><vUnCom>239.90</vUnCom><vProd>239.90</vProd><cEANTrib>7898315580859</cEANTrib><uTrib>UND</uTrib><qTrib>1.0000</qTrib><vUnTrib>239.90</vUnTrib><vDesc>64.55</vDesc><indTot>1</indTot></prod><imposto><vTotTrib>53.39</vTotTrib><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>0</modBC><vBC>175.35</vBC><pICMS>17.00</pICMS><vICMS>29.81</vICMS></ICMS00></ICMS><PIS><PISAliq><CST>01</CST><vBC>175.35</vBC><pPIS>1.65</pPIS><vPIS>2.89</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>175.35</vBC><pCOFINS>7.60</pCOFINS><vCOFINS>13.33</vCOFINS></COFINSAliq></COFINS></imposto></det><det nItem=\"2\"><prod><cProd>040141112675</cProd><cEAN>040141112675</cEAN><xProd>BARRA MORANGO WINSTAGE 54G</xProd><NCM>21069030</NCM><CFOP>5102</CFOP><uCom>UND</uCom><qCom>1.0000</qCom><vUnCom>12.90</vUnCom><vProd>12.90</vProd><cEANTrib>040141112675</cEANTrib><uTrib>UND</uTrib><qTrib>1.0000</qTrib><vUnTrib>12.90</vUnTrib><vDesc>0.99</vDesc><indTot>1</indTot></prod><imposto><vTotTrib>3.62</vTotTrib><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>0</modBC><vBC>11.91</vBC><pICMS>17.00</pICMS><vICMS>2.02</vICMS></ICMS00></ICMS><PIS><PISAliq><CST>01</CST><vBC>11.91</vBC><pPIS>1.65</pPIS><vPIS>0.20</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>11.91</vBC><pCOFINS>7.60</pCOFINS><vCOFINS>0.91</vCOFINS></COFINSAliq></COFINS></imposto></det><det nItem=\"3\"><prod><cProd>7898969669061</cProd><cEAN>7898969669061</cEAN><xProd>PINCBAR CHOCOLATE BRANCO 50G</xProd><NCM>21069030</NCM><CFOP>5102</CFOP><uCom>UND</uCom><qCom>1.0000</qCom><vUnCom>12.90</vUnCom><vProd>12.90</vProd><cEANTrib>7898969669061</cEANTrib><uTrib>UND</uTrib><qTrib>1.0000</qTrib><vUnTrib>12.90</vUnTrib><vDesc>0.99</vDesc><indTot>1</indTot></prod><imposto><vTotTrib>3.62</vTotTrib><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>0</modBC><vBC>11.91</vBC><pICMS>17.00</pICMS><vICMS>2.02</vICMS></ICMS00></ICMS><PIS><PISAliq><CST>01</CST><vBC>11.91</vBC><pPIS>1.65</pPIS><vPIS>0.20</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>11.91</vBC><pCOFINS>7.60</pCOFINS><vCOFINS>0.91</vCOFINS></COFINSAliq></COFINS></imposto></det><det nItem=\"4\"><prod><cProd>7898225523106</cProd><cEAN>7898225523106</cEAN><xProd>SACHE BEST WHEY TODDY 40G ATHLETICA</xProd><NCM>21069030</NCM><CFOP>5102</CFOP><uCom>UND</uCom><qCom>1.0000</qCom><vUnCom>17.90</vUnCom><vProd>17.90</vProd><cEANTrib>7898225523106</cEANTrib><uTrib>UND</uTrib><qTrib>1.0000</qTrib><vUnTrib>17.90</vUnTrib><vDesc>1.37</vDesc><indTot>1</indTot></prod><imposto><vTotTrib>5.03</vTotTrib><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>0</modBC><vBC>16.53</vBC><pICMS>17.00</pICMS><vICMS>2.81</vICMS></ICMS00></ICMS><PIS><PISAliq><CST>01</CST><vBC>16.53</vBC><pPIS>1.65</pPIS><vPIS>0.27</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>16.53</vBC><pCOFINS>7.60</pCOFINS><vCOFINS>1.26</vCOFINS></COFINSAliq></COFINS></imposto></det><total><ICMSTot><vBC>215.70</vBC><vICMS>36.66</vICMS><vICMSDeson>0.00</vICMSDeson><vFCPUFDest>0.00</vFCPUFDest><vICMSUFDest>0.00</vICMSUFDest><vICMSUFRemet>0.00</vICMSUFRemet><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>283.60</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>67.90</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>3.56</vPIS><vCOFINS>16.41</vCOFINS><vOutro>0.00</vOutro><vNF>215.70</vNF><vTotTrib>65.66</vTotTrib></ICMSTot></total><transp><modFrete>9</modFrete></transp><pag><detPag><indPag>1</indPag><tPag>03</tPag><vPag>107.85</vPag><card><tpIntegra>2</tpIntegra><idTermPag>1</idTermPag></card></detPag><detPag><indPag>1</indPag><tPag>03</tPag><vPag>107.85</vPag><card><tpIntegra>2</tpIntegra><idTermPag>1</idTermPag></card></detPag><vTroco>0.00</vTroco></pag><infAdic><infCpl>Trib. aprox. Fed. R$ 29,00, Est. R$ 36,66 |e Mun. R$ 0,00 (30,44%), Fonte IBPT.| ||Nr. Pedido: 10008</infCpl></infAdic><infRespTec><CNPJ>47217329000172</CNPJ><xContato>Ricardo Pinheiro Braga</xContato><email>contato@maqplan.com.br</email><fone>6130376333</fone></infRespTec></infNFe><infNFeSupl><qrCode><![CDATA[https://sat.sef.sc.gov.br/nfce/consulta?p=42251029005632000200650010000189751508453760|2|1|1|EE47F8AAE2A804C52FD3F6FA18D8175FCA1EDED4]]></qrCode><urlChave>https://sat.sef.sc.gov.br/nfce/consulta</urlChave></infNFeSupl><Signature xmlns=\"http://www.w3.org/2000/09/xmldsig#\"><SignedInfo><CanonicalizationMethod Algorithm=\"http://www.w3.org/TR/2001/REC-xml-c14n-20010315\" /><SignatureMethod Algorithm=\"http://www.w3.org/2000/09/xmldsig#rsa-sha1\" /><Reference URI=\"#NFe42251029005632000200650010000189751508453760\"><Transforms><Transform Algorithm=\"http://www.w3.org/2000/09/xmldsig#enveloped-signature\" /><Transform Algorithm=\"http://www.w3.org/TR/2001/REC-xml-c14n-20010315\" /></Transforms><DigestMethod Algorithm=\"http://www.w3.org/2000/09/xmldsig#sha1\" /><DigestValue>ncxGxh/m+pyPvyoC5Zx0AURlmac=</DigestValue></Reference></SignedInfo><SignatureValue>JO3x6wHQaHCCPYrG0T7N/SNjA7e6NmrZMMJhSkXsrO5PO/HT7dIaI1CqQrqUpDgaq5ertq06eCaEQB4/NR3cTEdAw2wJlKfa4wLo1mA3P2SLvvmdGqNT480vodGZmSRLcOjccUMl30gqbi3dkl7i+gOwHoUpgI31JZAzYM1CErzwzL8Hj/Ii9taYvGdbl6DE9rYkXv5wGHo7DmFOIVQf6+9sUU0VxqNA8wTm3qzlBQSgIrMewQT/hVAufPqjI9c0u1rN7F2JAMOuw5/MuK4h5aoJcA1F7Z8wEnkn++/zlPr+v/iDnlUyUeJbvFD23XTnygXWiEcJKN6W+9buhx+EtA==</SignatureValue><KeyInfo><X509Data><X509Certificate>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</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao=\"4.00\"><infProt><tpAmb>1</tpAmb><verAplic>SVRSnfce2509011501DR</verAplic><chNFe>42251029005632000200650010000189751508453760</chNFe><dhRecbto>2025-10-11T12:44:15-03:00</dhRecbto><nProt>242251415009808</nProt><digVal>ncxGxh/m+pyPvyoC5Zx0AURlmac=</digVal><cStat>100</cStat><xMotivo>Autorizado o uso da NF-e</xMotivo></infProt></protNFe></nfeProc>","dataInclusao":"2025-10-11T12:44:15-03:00","retornoSefaz":{"retEnviNFe":{"versao":"4.00","xmlns":"http://www.portalfiscal.inf.br/nfe","tpAmb":"1","verAplic":"SVRSnfce2509011501DR","cStat":"104","xMotivo":"Lote processado","cUF":"42","dhRecbto":"2025-10-11T12:44:15-03:00","protNFe":{"versao":"4.00","infProt":{"tpAmb":"1","verAplic":"SVRSnfce2509011501DR","chNFe":"42251029005632000200650010000189751508453760","dhRecbto":"2025-10-11T12:44:15-03:00","nProt":"242251415009808","digVal":"ncxGxh/m+pyPvyoC5Zx0AURlmac=","cStat":"100","xMotivo":"Autorizado o uso da NF-e"}}},"protNFe":"<protNFe versao=\"4.00\"><infProt><tpAmb>1</tpAmb><verAplic>SVRSnfce2509011501DR</verAplic><chNFe>42251029005632000200650010000189751508453760</chNFe><dhRecbto>2025-10-11T12:44:15-03:00</dhRecbto><nProt>242251415009808</nProt><digVal>ncxGxh/m+pyPvyoC5Zx0AURlmac=</digVal><cStat>100</cStat><xMotivo>Autorizado o uso da NF-e</xMotivo></infProt></protNFe>"},"idImportacao":null} - 
+ 2025-10-11 12:49:18.1911|Recebendo operador 15948: Operador
+ 2025-10-11 12:49:18.2021|Recebendo operador 15949: Gerencia
+ 2025-10-11 12:49:18.4263|Recebendo vendedores 948578: PAULO DANNY MONTEIRO
+ 2025-10-11 12:49:18.4874|Recebendo vendedores 1002522: CONSUMO CENTRO
+ 2025-10-11 12:49:18.5042|Recebendo vendedores 1031580: CONSUMO KELLYM WALERIA DOS SANTOS
+ 2025-10-11 12:49:18.5212|Recebendo vendedores 1031581: CONSUMO PAULO DANNY MONTEIRO
+ 2025-10-11 12:49:18.5382|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-11 12:49:18.5562|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-11 12:49:18.5822|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-11 12:49:18.5995|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-11 12:49:18.6165|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-11 12:49:18.6975|Recebendo vendedores 1090892: GABRIELA PEREIRA
+ 2025-10-11 12:49:18.7145|Recebendo vendedores 1190705: CONSUMO GABRIELA PEREIRA
+ 2025-10-11 12:49:18.8771|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-11 12:49:19.0551|Recebendo cliente 1197535: MARIA JULIA OGLIARI
+ 2025-10-11 12:49:19.1990|Recebendo cliente 1197568: REJANE MARIE ESTEVES
+ 2025-10-11 12:49:19.4821|Recebendo cliente 1197725: KATIA SIQUEIRA
+ 2025-10-11 12:49:19.5180|Recebendo cliente 1197813: GABRIEL ARNS
+ 2025-10-11 12:49:19.7877|Recebendo cliente 1197939: MANUELA LOESER
+ 2025-10-11 12:49:19.8087|Clientes processados: 5 - Enviados: 0 - Recebidos: 5
+ 2025-10-11 12:49:19.8796|Não existe nenhum Caixa pendente de sincronização!
+ 2025-10-11 12:49:19.8867|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-11 12:49:40.4482|Enviando NFC-e - chave: 42250929005632000200650010000183119215458373 . . .
+ 2025-10-11 12:49:40.5195|Enviando NFC-e - chave: 42250929005632000200650010000183129434461970 . . .
+ 2025-10-11 12:49:40.5795|Enviando NFC-e - chave: 42251029005632000200650010000189751508453760 . . .
+ 2025-10-11 12:49:41.0950|Venda: IdLocal 5823: Documento Fiscal Id:4847  -> IdWeb 10964659
+ 2025-10-11 12:49:41.0950|NFC-e chave: 42251029005632000200650010000189751508453760 enviada com sucesso!
+ 2025-10-11 12:49:41.3236|Não existe nenhum produto/serviço pendente de sincronização!
+ 2025-10-11 12:49:41.5145|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-11 12:49:41.7242|Não existe nenhum lote pendente de sincronização!
+ 2025-10-11 12:49:41.9205|Recebendo Depósito: Geral
+ 2025-10-11 12:56:44.8378|Recebendo cliente 1197535: MARIA JULIA OGLIARI
+ 2025-10-11 12:56:44.9720|Recebendo cliente 1197568: REJANE MARIE ESTEVES
+ 2025-10-11 12:56:45.1290|Recebendo cliente 1197725: KATIA SIQUEIRA
+ 2025-10-11 12:56:45.1500|Recebendo cliente 1197813: GABRIEL ARNS
+ 2025-10-11 12:56:45.2131|Recebendo cliente 1197939: MANUELA LOESER
+ 2025-10-11 12:56:45.2281|Clientes processados: 5 - Enviados: 0 - Recebidos: 5
+ 2025-10-11 12:57:07.9200|Enviando NFC-e - chave: 42250929005632000200650010000183119215458373 . . .
+ 2025-10-11 12:57:07.9688|Enviando NFC-e - chave: 42250929005632000200650010000183129434461970 . . .
+ 2025-10-11 12:57:43.4678|Enviando caixa 295
+ 2025-10-11 12:57:43.4678|Não existe nenhuma Operação de Caixa pendente de sincronização!

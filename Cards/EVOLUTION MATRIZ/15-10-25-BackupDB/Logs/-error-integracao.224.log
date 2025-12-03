@@ -1,0 +1,112 @@
+ 2025-10-15 14:59:27.6513|SincronizarPlanoPagamento -> An error occurred while executing the command definition. See the inner exception for details.
+ERROR: 42703: column Extent1.PagamentoEcommerce does not exist
+|StackTrace::    em System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+   em System.Data.Entity.Core.Objects.Internal.ObjectQueryExecutionPlan.Execute[TResultType](ObjectContext context, ObjectParameterCollection parameterValues)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass41_0.<GetResults>b__1()
+   em System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass41_0.<GetResults>b__0()
+   em System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__31_0()
+   em System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   em System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   em System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   em PDV.BLL.control.ErpController.<SincronizarPlanoPagamento>d__21.MoveNext()
+ 2025-10-15 14:59:30.7923|Rota: https://api.maqplansoftware.com.br/api/pessoas/ - Resposta: {"error":{"statusCode":500,"message":"duplicate key value violates unique constraint \"unk_erp_pessoa_hash\""}} - Dado Enviado: {"tipoPessoa":0,"bloqueado":false,"indicadorIe":9,"ie":"","im":"","situacao":"1","pais":"Brasil","nomeCidade":"Florianópolis","cpfCnpj":"03855196990","rg":"","nome":"CAMILA HASSMANN","nomeRazaoSocial":"","dataNascimento":null,"dataFundacao":null,"identificadorSexo":null,"estadoCivil":null,"email":null,"nomePai":null,"nomeMae":null,"telefone":null,"telefoneCelular":null,"telefoneComercial":null,"cep":"88034600","codigoPais":"1058","uf":"SC","nomeBairro":"Itacorubi","descricaoComplemento":"APT 805 BLOCO A","descricaoEndereco":"Rua Salvatina Feliciana dos Santos","codigoIbge":4205407,"tipoLogradouro":"Rua Salvatina Feliciana dos Santos","numeroEndereco":257,"observacao":"","cliente":1,"id":null,"empresa":"5311","contatoComercial":null,"percentualComissao":null,"hash":"ba8946a3-ab9e-44bb-9006-73fb338eaa7e"}
+ 2025-10-15 14:59:30.9973|Rota: api/pessoas/findOne?filter[where][cpfCnpj]=03855196990 - Resposta: {"error":{"statusCode":404,"name":"Não encontrado","message":"Unknown \"Pessoa\" id \"undefined\"."}}
+ 2025-10-15 14:59:31.1833|Rota: https://api.maqplansoftware.com.br/api/pessoas/ - Resposta: {"error":{"statusCode":500,"message":"duplicate key value violates unique constraint \"unk_erp_pessoa_hash\""}} - Dado Enviado: {"tipoPessoa":0,"bloqueado":false,"indicadorIe":9,"ie":"","im":"","situacao":"1","pais":"Brasil","nomeCidade":"Florianópolis","cpfCnpj":"","rg":"","nome":"DENILSON","nomeRazaoSocial":"","dataNascimento":null,"dataFundacao":null,"identificadorSexo":null,"estadoCivil":null,"email":null,"nomePai":null,"nomeMae":null,"telefone":null,"telefoneCelular":"48991824629","telefoneComercial":null,"cep":"88080210","codigoPais":"1058","uf":"SC","nomeBairro":"Coqueiros","descricaoComplemento":"202A","descricaoEndereco":"Rua Emílio Meyer","codigoIbge":4205407,"tipoLogradouro":"Rua Emílio Meyer","numeroEndereco":5,"observacao":"","cliente":1,"id":null,"empresa":"5311","contatoComercial":null,"percentualComissao":null,"hash":"d9fc4d06-ee6e-4ca8-905f-6dc304e8f379"}
+ 2025-10-15 14:59:31.4043|Rota: api/pessoas/findOne?filter[where][cpfCnpj]= - Resposta: {"error":{"statusCode":404,"name":"Não encontrado","message":"Unknown \"Pessoa\" id \"undefined\"."}}
+ 2025-10-15 14:59:31.8033|Rota: https://api.maqplansoftware.com.br/api/pessoas/ - Resposta: {"error":{"statusCode":500,"message":"duplicate key value violates unique constraint \"unk_erp_pessoa_hash\""}} - Dado Enviado: {"tipoPessoa":0,"bloqueado":false,"indicadorIe":9,"ie":"","im":"","situacao":"1","pais":null,"nomeCidade":null,"cpfCnpj":"","rg":"","nome":"JONATA","nomeRazaoSocial":"","dataNascimento":null,"dataFundacao":null,"identificadorSexo":null,"estadoCivil":null,"email":null,"nomePai":null,"nomeMae":null,"telefone":null,"telefoneCelular":null,"telefoneComercial":null,"cep":null,"codigoPais":null,"uf":null,"nomeBairro":"","descricaoComplemento":null,"descricaoEndereco":null,"codigoIbge":null,"tipoLogradouro":null,"numeroEndereco":null,"observacao":"","cliente":1,"id":null,"empresa":"5311","contatoComercial":null,"percentualComissao":null,"hash":"76924c3a-1dd7-458f-bf46-c93de0d40c47"}
+ 2025-10-15 14:59:31.9884|Rota: api/pessoas/findOne?filter[where][cpfCnpj]= - Resposta: {"error":{"statusCode":404,"name":"Não encontrado","message":"Unknown \"Pessoa\" id \"undefined\"."}}
+ 2025-10-15 14:59:32.5413|Rota: https://api.maqplansoftware.com.br/api/pessoas/ - Resposta: {"error":{"statusCode":500,"message":"duplicate key value violates unique constraint \"unk_erp_pessoa_hash\""}} - Dado Enviado: {"tipoPessoa":0,"bloqueado":false,"indicadorIe":9,"ie":"","im":"","situacao":"1","pais":null,"nomeCidade":null,"cpfCnpj":"","rg":"","nome":"MARLON SOARES","nomeRazaoSocial":"","dataNascimento":null,"dataFundacao":null,"identificadorSexo":null,"estadoCivil":null,"email":null,"nomePai":null,"nomeMae":null,"telefone":null,"telefoneCelular":null,"telefoneComercial":null,"cep":null,"codigoPais":null,"uf":null,"nomeBairro":"","descricaoComplemento":null,"descricaoEndereco":null,"codigoIbge":null,"tipoLogradouro":null,"numeroEndereco":null,"observacao":"","cliente":1,"id":null,"empresa":"5311","contatoComercial":null,"percentualComissao":null,"hash":"24494cc3-0c21-41cf-b410-1213156ad205"}
+ 2025-10-15 14:59:32.7673|Rota: api/pessoas/findOne?filter[where][cpfCnpj]= - Resposta: {"error":{"statusCode":404,"name":"Não encontrado","message":"Unknown \"Pessoa\" id \"undefined\"."}}
+ 2025-10-15 14:59:32.9743|Rota: https://api.maqplansoftware.com.br/api/pessoas/ - Resposta: {"error":{"statusCode":500,"message":"duplicate key value violates unique constraint \"unk_erp_pessoa_hash\""}} - Dado Enviado: {"tipoPessoa":0,"bloqueado":false,"indicadorIe":9,"ie":"","im":"","situacao":"1","pais":"Brasil","nomeCidade":"Florianópolis","cpfCnpj":"","rg":"","nome":"RENATA PRATES","nomeRazaoSocial":"","dataNascimento":null,"dataFundacao":null,"identificadorSexo":null,"estadoCivil":null,"email":null,"nomePai":null,"nomeMae":null,"telefone":null,"telefoneCelular":null,"telefoneComercial":null,"cep":"88037000","codigoPais":"1058","uf":"SC","nomeBairro":"Córrego Grande","descricaoComplemento":"APTO 404","descricaoEndereco":"Rua João Pio Duarte Silva","codigoIbge":4205407,"tipoLogradouro":"Rua João Pio Duarte Silva","numeroEndereco":880,"observacao":"","cliente":1,"id":null,"empresa":"5311","contatoComercial":null,"percentualComissao":null,"hash":"76f61410-0683-4d06-a2dc-e6483d34f85f"}
+ 2025-10-15 14:59:33.1486|Rota: api/pessoas/findOne?filter[where][cpfCnpj]= - Resposta: {"error":{"statusCode":404,"name":"Não encontrado","message":"Unknown \"Pessoa\" id \"undefined\"."}}
+ 2025-10-15 14:59:33.5375|Rota: https://api.maqplansoftware.com.br/api/pessoas/ - Resposta: {"error":{"statusCode":500,"message":"duplicate key value violates unique constraint \"unk_erp_pessoa_hash\""}} - Dado Enviado: {"tipoPessoa":0,"bloqueado":false,"indicadorIe":9,"ie":"","im":"","situacao":"1","pais":"Brasil","nomeCidade":"Florianópolis","cpfCnpj":"","rg":"","nome":"PEDRO POLLI","nomeRazaoSocial":"","dataNascimento":null,"dataFundacao":null,"identificadorSexo":null,"estadoCivil":null,"email":null,"nomePai":null,"nomeMae":null,"telefone":null,"telefoneCelular":null,"telefoneComercial":null,"cep":"","codigoPais":"1058","uf":"SC","nomeBairro":"","descricaoComplemento":"","descricaoEndereco":"","codigoIbge":4205407,"tipoLogradouro":"","numeroEndereco":0,"observacao":"","cliente":1,"id":null,"empresa":"5311","contatoComercial":null,"percentualComissao":null,"hash":"a8b1edac-c578-402e-ad7c-06bd6b028bf3"}
+ 2025-10-15 14:59:33.7098|Rota: api/pessoas/findOne?filter[where][cpfCnpj]= - Resposta: {"error":{"statusCode":404,"name":"Não encontrado","message":"Unknown \"Pessoa\" id \"undefined\"."}}
+ 2025-10-15 14:59:38.2410|SincronizarVendas -> (438) - An error occurred while executing the command definition. See the inner exception for details.
+ERROR: 42703: column Extent2.DisponivelLojaVirtual does not exist
+|StackTrace:    em System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+   em System.Data.Entity.Core.Objects.Internal.ObjectQueryExecutionPlan.Execute[TResultType](ObjectContext context, ObjectParameterCollection parameterValues)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass41_0.<GetResults>b__1()
+   em System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass41_0.<GetResults>b__0()
+   em System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.Execute(MergeOption mergeOption)
+   em System.Data.Entity.Core.Objects.DataClasses.EntityReference`1.Load(MergeOption mergeOption)
+   em System.Data.Entity.Core.Objects.DataClasses.RelatedEnd.DeferredLoad()
+   em System.Data.Entity.Core.Objects.Internal.LazyLoadBehavior.LoadProperty[TItem](TItem propertyValue, String relationshipName, String targetRoleName, Boolean mustBeNull, Object wrapperObject)
+   em System.Data.Entity.Core.Objects.Internal.LazyLoadBehavior.<>c__DisplayClass0_0`2.<GetInterceptorDelegate>b__2(TProxy proxy, TItem item)
+   em System.Data.Entity.DynamicProxies.ItemVenda_51EDA874332FEF353A849E0E8DE448AEABA4C1D43CAB83497B0D547E5706EE21.get_Item()
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCancelar(DocumentoFiscal documentoFiscal)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-15 14:59:38.3690|SincronizarVendas -> (1652) - An error occurred while executing the command definition. See the inner exception for details.
+ERROR: 42703: column Extent2.DisponivelLojaVirtual does not exist
+|StackTrace:    em System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+   em System.Data.Entity.Core.Objects.Internal.ObjectQueryExecutionPlan.Execute[TResultType](ObjectContext context, ObjectParameterCollection parameterValues)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass41_0.<GetResults>b__1()
+   em System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass41_0.<GetResults>b__0()
+   em System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.Execute(MergeOption mergeOption)
+   em System.Data.Entity.Core.Objects.DataClasses.EntityReference`1.Load(MergeOption mergeOption)
+   em System.Data.Entity.Core.Objects.DataClasses.RelatedEnd.DeferredLoad()
+   em System.Data.Entity.Core.Objects.Internal.LazyLoadBehavior.LoadProperty[TItem](TItem propertyValue, String relationshipName, String targetRoleName, Boolean mustBeNull, Object wrapperObject)
+   em System.Data.Entity.Core.Objects.Internal.LazyLoadBehavior.<>c__DisplayClass0_0`2.<GetInterceptorDelegate>b__2(TProxy proxy, TItem item)
+   em System.Data.Entity.DynamicProxies.ItemVenda_51EDA874332FEF353A849E0E8DE448AEABA4C1D43CAB83497B0D547E5706EE21.get_Item()
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-15 14:59:38.4450|SincronizarVendas -> (1101) - An error occurred while executing the command definition. See the inner exception for details.
+ERROR: 42703: column Extent2.DisponivelLojaVirtual does not exist
+|StackTrace:    em System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+   em System.Data.Entity.Core.Objects.Internal.ObjectQueryExecutionPlan.Execute[TResultType](ObjectContext context, ObjectParameterCollection parameterValues)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass41_0.<GetResults>b__1()
+   em System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass41_0.<GetResults>b__0()
+   em System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.Execute(MergeOption mergeOption)
+   em System.Data.Entity.Core.Objects.DataClasses.EntityReference`1.Load(MergeOption mergeOption)
+   em System.Data.Entity.Core.Objects.DataClasses.RelatedEnd.DeferredLoad()
+   em System.Data.Entity.Core.Objects.Internal.LazyLoadBehavior.LoadProperty[TItem](TItem propertyValue, String relationshipName, String targetRoleName, Boolean mustBeNull, Object wrapperObject)
+   em System.Data.Entity.Core.Objects.Internal.LazyLoadBehavior.<>c__DisplayClass0_0`2.<GetInterceptorDelegate>b__2(TProxy proxy, TItem item)
+   em System.Data.Entity.DynamicProxies.ItemVenda_51EDA874332FEF353A849E0E8DE448AEABA4C1D43CAB83497B0D547E5706EE21.get_Item()
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-15 14:59:38.5029|SincronizarVendas -> (5699) - An error occurred while executing the command definition. See the inner exception for details.
+ERROR: 42703: column Extent2.DisponivelLojaVirtual does not exist
+|StackTrace:    em System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+   em System.Data.Entity.Core.Objects.Internal.ObjectQueryExecutionPlan.Execute[TResultType](ObjectContext context, ObjectParameterCollection parameterValues)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass41_0.<GetResults>b__1()
+   em System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass41_0.<GetResults>b__0()
+   em System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.Execute(MergeOption mergeOption)
+   em System.Data.Entity.Core.Objects.DataClasses.EntityReference`1.Load(MergeOption mergeOption)
+   em System.Data.Entity.Core.Objects.DataClasses.RelatedEnd.DeferredLoad()
+   em System.Data.Entity.Core.Objects.Internal.LazyLoadBehavior.LoadProperty[TItem](TItem propertyValue, String relationshipName, String targetRoleName, Boolean mustBeNull, Object wrapperObject)
+   em System.Data.Entity.Core.Objects.Internal.LazyLoadBehavior.<>c__DisplayClass0_0`2.<GetInterceptorDelegate>b__2(TProxy proxy, TItem item)
+   em System.Data.Entity.DynamicProxies.ItemVenda_51EDA874332FEF353A849E0E8DE448AEABA4C1D43CAB83497B0D547E5706EE21.get_Item()
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-15 14:59:38.5766|SincronizarTodosItens -> An error occurred while executing the command definition. See the inner exception for details.
+ERROR: 42703: column Extent1.DisponivelLojaVirtual does not exist
+|StackTrace:    em System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+   em System.Data.Entity.Core.Objects.Internal.ObjectQueryExecutionPlan.Execute[TResultType](ObjectContext context, ObjectParameterCollection parameterValues)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass41_0.<GetResults>b__1()
+   em System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass41_0.<GetResults>b__0()
+   em System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   em System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__31_0()
+   em System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   em System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   em System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   em PDV.BLL.control.ErpController.<EnviarItens>d__34.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em PDV.BLL.control.ErpController.<SincronizarItens>d__31.MoveNext()

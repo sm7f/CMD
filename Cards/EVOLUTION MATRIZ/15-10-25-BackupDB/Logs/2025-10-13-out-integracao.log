@@ -1,0 +1,641 @@
+ 2025-10-13 19:12:19.0972|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 19:12:19.1751|Recebendo cliente 1200998: JOSE OLIVEIRA
+ 2025-10-13 19:12:19.1901|Clientes processados: 2 - Enviados: 0 - Recebidos: 2
+ 2025-10-13 19:12:20.0619|Pedido de Venda 6352 - 31524265 enviado com sucesso!
+ 2025-10-13 19:12:20.9002|Enviando NFC-e - chave: 42250529005632000120650010000258471121248560 . . .
+ 2025-10-13 19:12:22.0279|Falha ao sincronizar Documento Fiscal  -> chave: 42250529005632000120650010000258471121248560 - {"message":"O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda","stack":"Error: O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda\n    at /home/ssm-user/application/common/models/cupom.js:7277:13\n    at /home/ssm-user/application/node_modules/async/dist/async.js:473:16\n    at replenish (/home/ssm-user/application/node_modules/async/dist/async.js:1009:25)\n    at iterateeCallback (/home/ssm-user/application/node_modules/async/dist/async.js:998:17)\n    at /home/ssm-user/application/node_modules/async/dist/async.js:972:16\n    at /home/ssm-user/application/node_modules/async/dist/async.js:119:16\n    at processTicksAndRejections (internal/process/task_queues.js:77:11)"} - 
+ 2025-10-13 19:12:22.0662|Enviando NFC-e - chave: 42250529005632000120650010000252981565995110 . . .
+ 2025-10-13 19:13:13.5432|Recebendo operador 15652: Operador
+ 2025-10-13 19:13:13.5522|Recebendo operador 15671: Gerencia
+ 2025-10-13 19:13:13.7442|Recebendo vendedores 884308: FABIO COSTA DE AZEVEDO
+ 2025-10-13 19:13:13.8592|Recebendo vendedores 884310: PAULO VICTOR GALDINO
+ 2025-10-13 19:13:13.8782|Recebendo vendedores 948579: JAQUELINE PEREIRA VAZ
+ 2025-10-13 19:13:13.9822|Recebendo vendedores 965041: DANIELE DE MENEZES PIRES
+ 2025-10-13 19:13:14.0072|Recebendo vendedores 979608: EVENTOS
+ 2025-10-13 19:13:14.0262|Recebendo vendedores 1016063: BRUNA CAROLINE TORQUATO
+ 2025-10-13 19:13:14.0512|Recebendo vendedores 1031572: CONSUMO BRUNA CAROLINE TORQUATO
+ 2025-10-13 19:13:14.0702|Recebendo vendedores 1031578: CONSUMO FABIO COSTA DE AZEVEDO
+ 2025-10-13 19:13:14.0952|Recebendo vendedores 1031579: CONSUMO PAULO VICTOR GALDINO
+ 2025-10-13 19:13:14.1142|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 19:13:14.1402|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 19:13:14.1602|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 19:13:14.1792|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 19:13:14.2002|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 19:13:14.2252|Recebendo vendedores 1158418: HABITUAL CAFE
+ 2025-10-13 19:13:14.2442|Recebendo vendedores 1160501: CONSUMO HABITUAL CAFE
+ 2025-10-13 19:13:14.4522|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 19:13:16.8910|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 19:13:16.9920|Recebendo cliente 1200998: JOSE OLIVEIRA
+ 2025-10-13 19:13:17.0160|Clientes processados: 2 - Enviados: 0 - Recebidos: 2
+ 2025-10-13 19:13:17.4716|Erro ao enviar caixa 137
+ 2025-10-13 19:13:18.0997|Erro ao enviar caixa 138
+ 2025-10-13 19:13:18.7547|Erro ao enviar caixa 139
+ 2025-10-13 19:13:19.4474|Erro ao enviar caixa 140
+ 2025-10-13 19:13:20.1566|Erro ao enviar caixa 141
+ 2025-10-13 19:13:20.8203|Erro ao enviar caixa 142
+ 2025-10-13 19:13:21.4379|Erro ao enviar caixa 143
+ 2025-10-13 19:13:22.0787|Erro ao enviar caixa 144
+ 2025-10-13 19:13:22.7025|Erro ao enviar caixa 145
+ 2025-10-13 19:13:25.3762|Erro ao enviar caixa 146
+ 2025-10-13 19:13:26.0283|Erro ao enviar caixa 147
+ 2025-10-13 19:13:26.6518|Erro ao enviar caixa 148
+ 2025-10-13 19:13:27.2676|Erro ao enviar caixa 149
+ 2025-10-13 19:13:27.9016|Erro ao enviar caixa 150
+ 2025-10-13 19:13:28.5657|Erro ao enviar caixa 151
+ 2025-10-13 19:13:29.2098|Erro ao enviar caixa 152
+ 2025-10-13 19:13:29.8698|Erro ao enviar caixa 153
+ 2025-10-13 19:13:30.5311|Erro ao enviar caixa 154
+ 2025-10-13 19:13:31.1886|Erro ao enviar caixa 155
+ 2025-10-13 19:13:33.8303|Erro ao enviar caixa 156
+ 2025-10-13 19:13:34.4801|Erro ao enviar caixa 157
+ 2025-10-13 19:13:35.1623|Erro ao enviar caixa 158
+ 2025-10-13 19:13:35.8437|Erro ao enviar caixa 159
+ 2025-10-13 19:13:36.4712|Erro ao enviar caixa 160
+ 2025-10-13 19:13:37.0985|Erro ao enviar caixa 161
+ 2025-10-13 19:13:37.7339|Erro ao enviar caixa 162
+ 2025-10-13 19:13:38.4129|Erro ao enviar caixa 163
+ 2025-10-13 19:13:39.0238|Erro ao enviar caixa 164
+ 2025-10-13 19:13:39.6619|Erro ao enviar caixa 165
+ 2025-10-13 19:13:42.2743|Erro ao enviar caixa 166
+ 2025-10-13 19:13:42.9220|Erro ao enviar caixa 167
+ 2025-10-13 19:13:43.5659|Erro ao enviar caixa 168
+ 2025-10-13 19:13:44.2035|Erro ao enviar caixa 169
+ 2025-10-13 19:13:44.8821|Erro ao enviar caixa 170
+ 2025-10-13 19:13:45.5704|Erro ao enviar caixa 171
+ 2025-10-13 19:13:46.2090|Erro ao enviar caixa 172
+ 2025-10-13 19:13:46.8229|Erro ao enviar caixa 173
+ 2025-10-13 19:13:47.4555|Erro ao enviar caixa 174
+ 2025-10-13 19:13:48.0778|Erro ao enviar caixa 175
+ 2025-10-13 19:13:50.7262|Erro ao enviar caixa 176
+ 2025-10-13 19:13:51.3601|Erro ao enviar caixa 177
+ 2025-10-13 19:13:52.0046|Erro ao enviar caixa 178
+ 2025-10-13 19:13:52.7240|Erro ao enviar caixa 179
+ 2025-10-13 19:13:53.3542|Erro ao enviar caixa 180
+ 2025-10-13 19:13:53.9740|Erro ao enviar caixa 181
+ 2025-10-13 19:13:54.6130|Erro ao enviar caixa 182
+ 2025-10-13 19:13:54.6130|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 19:13:54.9298|Enviando NFC-e - chave: 42250529005632000120650010000258471121248560 . . .
+ 2025-10-13 19:13:55.6832|Falha ao sincronizar Documento Fiscal  -> chave: 42250529005632000120650010000258471121248560 - {"message":"O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda","stack":"Error: O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda\n    at /home/ssm-user/application/common/models/cupom.js:7277:13\n    at /home/ssm-user/application/node_modules/async/dist/async.js:473:16\n    at replenish (/home/ssm-user/application/node_modules/async/dist/async.js:1009:25)\n    at iterateeCallback (/home/ssm-user/application/node_modules/async/dist/async.js:998:17)\n    at /home/ssm-user/application/node_modules/async/dist/async.js:972:16\n    at /home/ssm-user/application/node_modules/async/dist/async.js:119:16\n    at processTicksAndRejections (internal/process/task_queues.js:77:11)"} - 
+ 2025-10-13 19:13:55.7322|Enviando NFC-e - chave: 42250529005632000120650010000252981565995110 . . .
+ 2025-10-13 19:13:56.2864|Recebendo itens - 1 item(s).
+ 2025-10-13 19:13:56.8128|Recebendo itens - 1 itens importados de 1
+ 2025-10-13 19:13:57.1758|Total de itens recebidos: 1
+ 2025-10-13 19:13:57.4554|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 19:13:57.6826|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 19:13:57.8830|Recebendo Depósito: Geral
+ 2025-10-13 19:13:57.9220|Recebendo Depósito: Red Mob Campeche
+ 2025-10-13 19:13:57.9580|Recebendo Depósito: Wolrdgym
+ 2025-10-13 19:13:57.9940|Recebendo Depósito: Red Mob Capoeiras
+ 2025-10-13 19:13:58.0300|Recebendo Depósito: Red Mob Santa Monica
+ 2025-10-13 19:13:58.0720|Recebendo Depósito: Habitual Cafe
+ 2025-10-13 19:18:14.3607|Recebendo operador 15652: Operador
+ 2025-10-13 19:18:14.3758|Recebendo operador 15671: Gerencia
+ 2025-10-13 19:18:14.5757|Recebendo vendedores 884308: FABIO COSTA DE AZEVEDO
+ 2025-10-13 19:18:14.7008|Recebendo vendedores 884310: PAULO VICTOR GALDINO
+ 2025-10-13 19:18:14.7208|Recebendo vendedores 948579: JAQUELINE PEREIRA VAZ
+ 2025-10-13 19:18:14.8197|Recebendo vendedores 965041: DANIELE DE MENEZES PIRES
+ 2025-10-13 19:18:14.8467|Recebendo vendedores 979608: EVENTOS
+ 2025-10-13 19:18:14.8658|Recebendo vendedores 1016063: BRUNA CAROLINE TORQUATO
+ 2025-10-13 19:18:14.8898|Recebendo vendedores 1031572: CONSUMO BRUNA CAROLINE TORQUATO
+ 2025-10-13 19:18:14.9098|Recebendo vendedores 1031578: CONSUMO FABIO COSTA DE AZEVEDO
+ 2025-10-13 19:18:14.9278|Recebendo vendedores 1031579: CONSUMO PAULO VICTOR GALDINO
+ 2025-10-13 19:18:14.9538|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 19:18:14.9738|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 19:18:14.9988|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 19:18:15.0178|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 19:18:15.0438|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 19:18:15.0648|Recebendo vendedores 1158418: HABITUAL CAFE
+ 2025-10-13 19:18:15.0908|Recebendo vendedores 1160501: CONSUMO HABITUAL CAFE
+ 2025-10-13 19:18:15.2608|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 19:18:17.7170|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 19:18:17.8210|Recebendo cliente 1200998: JOSE OLIVEIRA
+ 2025-10-13 19:18:17.8420|Clientes processados: 2 - Enviados: 0 - Recebidos: 2
+ 2025-10-13 19:18:18.3038|Erro ao enviar caixa 137
+ 2025-10-13 19:18:18.9433|Erro ao enviar caixa 138
+ 2025-10-13 19:18:19.5559|Erro ao enviar caixa 139
+ 2025-10-13 19:18:20.2305|Erro ao enviar caixa 140
+ 2025-10-13 19:18:20.8645|Erro ao enviar caixa 141
+ 2025-10-13 19:18:21.4894|Erro ao enviar caixa 142
+ 2025-10-13 19:18:22.1090|Erro ao enviar caixa 143
+ 2025-10-13 19:18:22.7509|Erro ao enviar caixa 144
+ 2025-10-13 19:18:23.3792|Erro ao enviar caixa 145
+ 2025-10-13 19:18:26.0308|Erro ao enviar caixa 146
+ 2025-10-13 19:18:26.6876|Erro ao enviar caixa 147
+ 2025-10-13 19:18:27.3241|Erro ao enviar caixa 148
+ 2025-10-13 19:18:27.9788|Erro ao enviar caixa 149
+ 2025-10-13 19:18:28.6090|Erro ao enviar caixa 150
+ 2025-10-13 19:18:29.2526|Erro ao enviar caixa 151
+ 2025-10-13 19:18:29.9394|Erro ao enviar caixa 152
+ 2025-10-13 19:18:30.5971|Erro ao enviar caixa 153
+ 2025-10-13 19:18:31.2352|Erro ao enviar caixa 154
+ 2025-10-13 19:18:31.8691|Erro ao enviar caixa 155
+ 2025-10-13 19:18:34.5121|Erro ao enviar caixa 156
+ 2025-10-13 19:18:35.1967|Erro ao enviar caixa 157
+ 2025-10-13 19:18:35.8594|Erro ao enviar caixa 158
+ 2025-10-13 19:18:36.4684|Erro ao enviar caixa 159
+ 2025-10-13 19:18:37.1024|Erro ao enviar caixa 160
+ 2025-10-13 19:18:37.7371|Erro ao enviar caixa 161
+ 2025-10-13 19:18:38.4113|Erro ao enviar caixa 162
+ 2025-10-13 19:18:39.0243|Erro ao enviar caixa 163
+ 2025-10-13 19:18:39.6667|Erro ao enviar caixa 164
+ 2025-10-13 19:18:40.3975|Erro ao enviar caixa 165
+ 2025-10-13 19:18:43.0505|Erro ao enviar caixa 166
+ 2025-10-13 19:18:43.7038|Erro ao enviar caixa 167
+ 2025-10-13 19:18:44.3352|Erro ao enviar caixa 168
+ 2025-10-13 19:18:45.0395|Erro ao enviar caixa 169
+ 2025-10-13 19:18:45.7580|Erro ao enviar caixa 170
+ 2025-10-13 19:18:46.3694|Erro ao enviar caixa 171
+ 2025-10-13 19:18:46.9969|Erro ao enviar caixa 172
+ 2025-10-13 19:18:47.6097|Erro ao enviar caixa 173
+ 2025-10-13 19:18:48.2454|Erro ao enviar caixa 174
+ 2025-10-13 19:18:48.9058|Erro ao enviar caixa 175
+ 2025-10-13 19:18:51.5204|Erro ao enviar caixa 176
+ 2025-10-13 19:18:52.1588|Erro ao enviar caixa 177
+ 2025-10-13 19:18:52.7690|Erro ao enviar caixa 178
+ 2025-10-13 19:18:53.4008|Erro ao enviar caixa 179
+ 2025-10-13 19:18:54.0416|Erro ao enviar caixa 180
+ 2025-10-13 19:18:54.6639|Erro ao enviar caixa 181
+ 2025-10-13 19:18:55.2995|Erro ao enviar caixa 182
+ 2025-10-13 19:18:55.2995|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 19:18:55.6129|Enviando NFC-e - chave: 42250529005632000120650010000258471121248560 . . .
+ 2025-10-13 19:18:56.3875|Falha ao sincronizar Documento Fiscal  -> chave: 42250529005632000120650010000258471121248560 - {"message":"O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda","stack":"Error: O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda\n    at /home/ssm-user/application/common/models/cupom.js:7277:13\n    at /home/ssm-user/application/node_modules/async/dist/async.js:473:16\n    at replenish (/home/ssm-user/application/node_modules/async/dist/async.js:1009:25)\n    at iterateeCallback (/home/ssm-user/application/node_modules/async/dist/async.js:998:17)\n    at /home/ssm-user/application/node_modules/async/dist/async.js:972:16\n    at /home/ssm-user/application/node_modules/async/dist/async.js:119:16\n    at processTicksAndRejections (internal/process/task_queues.js:77:11)"} - 
+ 2025-10-13 19:18:56.4315|Enviando NFC-e - chave: 42250529005632000120650010000252981565995110 . . .
+ 2025-10-13 19:18:56.9842|Não existe nenhum produto/serviço pendente de sincronização!
+ 2025-10-13 19:18:57.2146|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 19:18:57.4455|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 19:18:57.6646|Recebendo Depósito: Geral
+ 2025-10-13 19:18:57.6937|Recebendo Depósito: Red Mob Campeche
+ 2025-10-13 19:18:57.7286|Recebendo Depósito: Wolrdgym
+ 2025-10-13 19:18:57.7646|Recebendo Depósito: Red Mob Capoeiras
+ 2025-10-13 19:18:57.8006|Recebendo Depósito: Red Mob Santa Monica
+ 2025-10-13 19:18:57.8386|Recebendo Depósito: Habitual Cafe
+ 2025-10-13 19:23:14.7823|Recebendo operador 15652: Operador
+ 2025-10-13 19:23:14.7974|Recebendo operador 15671: Gerencia
+ 2025-10-13 19:23:14.9940|Recebendo vendedores 884308: FABIO COSTA DE AZEVEDO
+ 2025-10-13 19:23:15.1260|Recebendo vendedores 884310: PAULO VICTOR GALDINO
+ 2025-10-13 19:23:15.1450|Recebendo vendedores 948579: JAQUELINE PEREIRA VAZ
+ 2025-10-13 19:23:15.2550|Recebendo vendedores 965041: DANIELE DE MENEZES PIRES
+ 2025-10-13 19:23:15.2730|Recebendo vendedores 979608: EVENTOS
+ 2025-10-13 19:23:15.2920|Recebendo vendedores 1016063: BRUNA CAROLINE TORQUATO
+ 2025-10-13 19:23:15.3150|Recebendo vendedores 1031572: CONSUMO BRUNA CAROLINE TORQUATO
+ 2025-10-13 19:23:15.3340|Recebendo vendedores 1031578: CONSUMO FABIO COSTA DE AZEVEDO
+ 2025-10-13 19:23:15.3610|Recebendo vendedores 1031579: CONSUMO PAULO VICTOR GALDINO
+ 2025-10-13 19:23:15.3800|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 19:23:15.4060|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 19:23:15.4250|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 19:23:15.4490|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 19:23:15.4690|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 19:23:15.4940|Recebendo vendedores 1158418: HABITUAL CAFE
+ 2025-10-13 19:23:15.5140|Recebendo vendedores 1160501: CONSUMO HABITUAL CAFE
+ 2025-10-13 19:23:15.6820|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 19:23:18.1958|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 19:23:18.2985|Recebendo cliente 1200998: JOSE OLIVEIRA
+ 2025-10-13 19:23:18.3255|Clientes processados: 2 - Enviados: 0 - Recebidos: 2
+ 2025-10-13 19:23:18.7847|Erro ao enviar caixa 137
+ 2025-10-13 19:23:19.4138|Erro ao enviar caixa 138
+ 2025-10-13 19:23:20.1892|Erro ao enviar caixa 139
+ 2025-10-13 19:23:20.8534|Erro ao enviar caixa 140
+ 2025-10-13 19:23:21.4914|Erro ao enviar caixa 141
+ 2025-10-13 19:23:22.1298|Erro ao enviar caixa 142
+ 2025-10-13 19:23:22.7669|Erro ao enviar caixa 143
+ 2025-10-13 19:23:23.4067|Erro ao enviar caixa 144
+ 2025-10-13 19:23:24.0478|Erro ao enviar caixa 145
+ 2025-10-13 19:23:26.7579|Erro ao enviar caixa 146
+ 2025-10-13 19:23:27.4164|Erro ao enviar caixa 147
+ 2025-10-13 19:23:28.1729|Erro ao enviar caixa 148
+ 2025-10-13 19:23:28.9942|Erro ao enviar caixa 149
+ 2025-10-13 19:23:29.6041|Erro ao enviar caixa 150
+ 2025-10-13 19:23:30.3118|Erro ao enviar caixa 151
+ 2025-10-13 19:23:31.0397|Erro ao enviar caixa 152
+ 2025-10-13 19:23:31.7136|Erro ao enviar caixa 153
+ 2025-10-13 19:23:32.3286|Erro ao enviar caixa 154
+ 2025-10-13 19:23:32.9730|Erro ao enviar caixa 155
+ 2025-10-13 19:23:35.6617|Erro ao enviar caixa 156
+ 2025-10-13 19:23:39.1450|Erro ao enviar caixa 157
+ 2025-10-13 19:23:39.8071|Erro ao enviar caixa 158
+ 2025-10-13 19:23:40.5413|Erro ao enviar caixa 159
+ 2025-10-13 19:23:41.4377|Erro ao enviar caixa 160
+ 2025-10-13 19:23:42.0816|Erro ao enviar caixa 161
+ 2025-10-13 19:23:42.7116|Erro ao enviar caixa 162
+ 2025-10-13 19:23:43.3625|Erro ao enviar caixa 163
+ 2025-10-13 19:23:44.0048|Erro ao enviar caixa 164
+ 2025-10-13 19:23:44.6459|Erro ao enviar caixa 165
+ 2025-10-13 19:23:47.2767|Erro ao enviar caixa 166
+ 2025-10-13 19:23:47.9144|Erro ao enviar caixa 167
+ 2025-10-13 19:23:48.5377|Erro ao enviar caixa 168
+ 2025-10-13 19:23:49.1730|Erro ao enviar caixa 169
+ 2025-10-13 19:23:49.8316|Erro ao enviar caixa 170
+ 2025-10-13 19:23:50.5095|Erro ao enviar caixa 171
+ 2025-10-13 19:23:51.1531|Erro ao enviar caixa 172
+ 2025-10-13 19:23:51.7917|Erro ao enviar caixa 173
+ 2025-10-13 19:23:52.4101|Erro ao enviar caixa 174
+ 2025-10-13 19:23:53.0203|Erro ao enviar caixa 175
+ 2025-10-13 19:23:55.6497|Erro ao enviar caixa 176
+ 2025-10-13 19:23:56.2978|Erro ao enviar caixa 177
+ 2025-10-13 19:23:56.9574|Erro ao enviar caixa 178
+ 2025-10-13 19:23:57.5779|Erro ao enviar caixa 179
+ 2025-10-13 19:23:58.2205|Erro ao enviar caixa 180
+ 2025-10-13 19:23:58.8431|Erro ao enviar caixa 181
+ 2025-10-13 19:23:59.4911|Erro ao enviar caixa 182
+ 2025-10-13 19:23:59.4911|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 19:23:59.7764|Enviando NFC-e - chave: 42250529005632000120650010000258471121248560 . . .
+ 2025-10-13 19:24:00.7685|Falha ao sincronizar Documento Fiscal  -> chave: 42250529005632000120650010000258471121248560 - {"message":"O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda","stack":"Error: O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda\n    at /home/ssm-user/application/common/models/cupom.js:7277:13\n    at /home/ssm-user/application/node_modules/async/dist/async.js:473:16\n    at replenish (/home/ssm-user/application/node_modules/async/dist/async.js:1009:25)\n    at iterateeCallback (/home/ssm-user/application/node_modules/async/dist/async.js:998:17)\n    at /home/ssm-user/application/node_modules/async/dist/async.js:972:16\n    at /home/ssm-user/application/node_modules/async/dist/async.js:119:16\n    at processTicksAndRejections (internal/process/task_queues.js:77:11)"} - 
+ 2025-10-13 19:24:00.8244|Enviando NFC-e - chave: 42250529005632000120650010000252981565995110 . . .
+ 2025-10-13 19:24:01.3838|Não existe nenhum produto/serviço pendente de sincronização!
+ 2025-10-13 19:24:01.6146|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 19:24:01.8402|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 19:24:02.1202|Recebendo Depósito: Geral
+ 2025-10-13 19:24:02.1552|Recebendo Depósito: Red Mob Campeche
+ 2025-10-13 19:24:02.1912|Recebendo Depósito: Wolrdgym
+ 2025-10-13 19:24:02.2272|Recebendo Depósito: Red Mob Capoeiras
+ 2025-10-13 19:24:02.2632|Recebendo Depósito: Red Mob Santa Monica
+ 2025-10-13 19:24:02.3002|Recebendo Depósito: Habitual Cafe
+ 2025-10-13 19:28:14.0178|Recebendo operador 15652: Operador
+ 2025-10-13 19:28:14.0308|Recebendo operador 15671: Gerencia
+ 2025-10-13 19:28:14.2448|Recebendo vendedores 884308: FABIO COSTA DE AZEVEDO
+ 2025-10-13 19:28:14.3678|Recebendo vendedores 884310: PAULO VICTOR GALDINO
+ 2025-10-13 19:28:14.3878|Recebendo vendedores 948579: JAQUELINE PEREIRA VAZ
+ 2025-10-13 19:28:14.4858|Recebendo vendedores 965041: DANIELE DE MENEZES PIRES
+ 2025-10-13 19:28:14.5028|Recebendo vendedores 979608: EVENTOS
+ 2025-10-13 19:28:14.5278|Recebendo vendedores 1016063: BRUNA CAROLINE TORQUATO
+ 2025-10-13 19:28:14.5468|Recebendo vendedores 1031572: CONSUMO BRUNA CAROLINE TORQUATO
+ 2025-10-13 19:28:14.5718|Recebendo vendedores 1031578: CONSUMO FABIO COSTA DE AZEVEDO
+ 2025-10-13 19:28:14.5908|Recebendo vendedores 1031579: CONSUMO PAULO VICTOR GALDINO
+ 2025-10-13 19:28:14.6148|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 19:28:14.6338|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 19:28:14.6598|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 19:28:14.6778|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 19:28:14.6968|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 19:28:14.7208|Recebendo vendedores 1158418: HABITUAL CAFE
+ 2025-10-13 19:28:14.7398|Recebendo vendedores 1160501: CONSUMO HABITUAL CAFE
+ 2025-10-13 19:28:14.9118|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 19:28:17.3309|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 19:28:17.4399|Recebendo cliente 1200998: JOSE OLIVEIRA
+ 2025-10-13 19:28:17.4599|Clientes processados: 2 - Enviados: 0 - Recebidos: 2
+ 2025-10-13 19:28:17.9191|Erro ao enviar caixa 137
+ 2025-10-13 19:28:18.5735|Erro ao enviar caixa 138
+ 2025-10-13 19:28:19.2116|Erro ao enviar caixa 139
+ 2025-10-13 19:28:19.8477|Erro ao enviar caixa 140
+ 2025-10-13 19:28:20.4954|Erro ao enviar caixa 141
+ 2025-10-13 19:28:21.1508|Erro ao enviar caixa 142
+ 2025-10-13 19:28:21.7828|Erro ao enviar caixa 143
+ 2025-10-13 19:28:22.3971|Erro ao enviar caixa 144
+ 2025-10-13 19:28:23.0271|Erro ao enviar caixa 145
+ 2025-10-13 19:28:25.6976|Erro ao enviar caixa 146
+ 2025-10-13 19:28:26.3655|Erro ao enviar caixa 147
+ 2025-10-13 19:28:26.9848|Erro ao enviar caixa 148
+ 2025-10-13 19:28:27.6229|Erro ao enviar caixa 149
+ 2025-10-13 19:28:28.2675|Erro ao enviar caixa 150
+ 2025-10-13 19:28:28.9212|Erro ao enviar caixa 151
+ 2025-10-13 19:28:29.5322|Erro ao enviar caixa 152
+ 2025-10-13 19:28:30.2280|Erro ao enviar caixa 153
+ 2025-10-13 19:28:30.9019|Erro ao enviar caixa 154
+ 2025-10-13 19:28:31.5732|Erro ao enviar caixa 155
+ 2025-10-13 19:28:34.2223|Erro ao enviar caixa 156
+ 2025-10-13 19:28:34.8628|Erro ao enviar caixa 157
+ 2025-10-13 19:28:35.5044|Erro ao enviar caixa 158
+ 2025-10-13 19:28:39.7045|Erro ao enviar caixa 159
+ 2025-10-13 19:28:40.4064|Erro ao enviar caixa 160
+ 2025-10-13 19:28:41.0165|Erro ao enviar caixa 161
+ 2025-10-13 19:28:41.6591|Erro ao enviar caixa 162
+ 2025-10-13 19:28:42.2966|Erro ao enviar caixa 163
+ 2025-10-13 19:28:42.9484|Erro ao enviar caixa 164
+ 2025-10-13 19:28:43.5774|Erro ao enviar caixa 165
+ 2025-10-13 19:28:46.2032|Erro ao enviar caixa 166
+ 2025-10-13 19:28:46.8203|Erro ao enviar caixa 167
+ 2025-10-13 19:28:47.4666|Erro ao enviar caixa 168
+ 2025-10-13 19:28:48.1124|Erro ao enviar caixa 169
+ 2025-10-13 19:28:48.7497|Erro ao enviar caixa 170
+ 2025-10-13 19:28:49.4261|Erro ao enviar caixa 171
+ 2025-10-13 19:28:50.0518|Erro ao enviar caixa 172
+ 2025-10-13 19:28:50.7191|Erro ao enviar caixa 173
+ 2025-10-13 19:28:51.3617|Erro ao enviar caixa 174
+ 2025-10-13 19:28:52.0314|Erro ao enviar caixa 175
+ 2025-10-13 19:28:54.7145|Erro ao enviar caixa 176
+ 2025-10-13 19:28:55.4389|Erro ao enviar caixa 177
+ 2025-10-13 19:28:56.0753|Erro ao enviar caixa 178
+ 2025-10-13 19:28:56.7267|Erro ao enviar caixa 179
+ 2025-10-13 19:28:57.3364|Erro ao enviar caixa 180
+ 2025-10-13 19:28:57.9999|Erro ao enviar caixa 181
+ 2025-10-13 19:28:58.6291|Erro ao enviar caixa 182
+ 2025-10-13 19:28:58.6291|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 19:28:58.9640|Enviando NFC-e - chave: 42250529005632000120650010000258471121248560 . . .
+ 2025-10-13 19:28:59.6895|Falha ao sincronizar Documento Fiscal  -> chave: 42250529005632000120650010000258471121248560 - {"message":"O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda","stack":"Error: O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda\n    at /home/ssm-user/application/common/models/cupom.js:7277:13\n    at /home/ssm-user/application/node_modules/async/dist/async.js:473:16\n    at replenish (/home/ssm-user/application/node_modules/async/dist/async.js:1009:25)\n    at iterateeCallback (/home/ssm-user/application/node_modules/async/dist/async.js:998:17)\n    at /home/ssm-user/application/node_modules/async/dist/async.js:972:16\n    at /home/ssm-user/application/node_modules/async/dist/async.js:119:16\n    at processTicksAndRejections (internal/process/task_queues.js:77:11)"} - 
+ 2025-10-13 19:28:59.7315|Enviando NFC-e - chave: 42250529005632000120650010000252981565995110 . . .
+ 2025-10-13 19:29:00.3296|Não existe nenhum produto/serviço pendente de sincronização!
+ 2025-10-13 19:29:00.5927|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 19:29:00.8384|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 19:29:01.0726|Recebendo Depósito: Geral
+ 2025-10-13 19:29:01.1076|Recebendo Depósito: Red Mob Campeche
+ 2025-10-13 19:29:01.1436|Recebendo Depósito: Wolrdgym
+ 2025-10-13 19:29:01.1786|Recebendo Depósito: Red Mob Capoeiras
+ 2025-10-13 19:29:01.2156|Recebendo Depósito: Red Mob Santa Monica
+ 2025-10-13 19:29:01.2456|Recebendo Depósito: Habitual Cafe
+ 2025-10-13 19:31:17.5002|Erro ao enviar caixa 137
+ 2025-10-13 19:31:18.1525|Erro ao enviar caixa 138
+ 2025-10-13 19:31:18.7815|Erro ao enviar caixa 139
+ 2025-10-13 19:31:19.4471|Erro ao enviar caixa 140
+ 2025-10-13 19:31:20.0850|Erro ao enviar caixa 141
+ 2025-10-13 19:31:20.7525|Erro ao enviar caixa 142
+ 2025-10-13 19:31:21.4063|Erro ao enviar caixa 143
+ 2025-10-13 19:31:22.0191|Erro ao enviar caixa 144
+ 2025-10-13 19:31:22.6502|Erro ao enviar caixa 145
+ 2025-10-13 19:31:25.3935|Erro ao enviar caixa 146
+ 2025-10-13 19:31:26.1007|Erro ao enviar caixa 147
+ 2025-10-13 19:31:26.7088|Erro ao enviar caixa 148
+ 2025-10-13 19:31:27.3470|Erro ao enviar caixa 149
+ 2025-10-13 19:31:27.9916|Erro ao enviar caixa 150
+ 2025-10-13 19:31:28.6473|Erro ao enviar caixa 151
+ 2025-10-13 19:31:29.3860|Erro ao enviar caixa 152
+ 2025-10-13 19:31:30.0471|Erro ao enviar caixa 153
+ 2025-10-13 19:31:30.6759|Erro ao enviar caixa 154
+ 2025-10-13 19:31:31.3013|Erro ao enviar caixa 155
+ 2025-10-13 19:31:33.9224|Erro ao enviar caixa 156
+ 2025-10-13 19:31:34.5523|Erro ao enviar caixa 157
+ 2025-10-13 19:31:35.1855|Erro ao enviar caixa 158
+ 2025-10-13 19:31:35.8033|Erro ao enviar caixa 159
+ 2025-10-13 19:31:36.4535|Erro ao enviar caixa 160
+ 2025-10-13 19:31:37.0813|Erro ao enviar caixa 161
+ 2025-10-13 19:31:37.7255|Erro ao enviar caixa 162
+ 2025-10-13 19:31:38.3708|Erro ao enviar caixa 163
+ 2025-10-13 19:31:39.0134|Erro ao enviar caixa 164
+ 2025-10-13 19:31:39.6845|Erro ao enviar caixa 165
+ 2025-10-13 19:31:42.3089|Erro ao enviar caixa 166
+ 2025-10-13 19:31:42.9240|Erro ao enviar caixa 167
+ 2025-10-13 19:31:43.5741|Erro ao enviar caixa 168
+ 2025-10-13 19:31:44.2269|Erro ao enviar caixa 169
+ 2025-10-13 19:31:44.8681|Erro ao enviar caixa 170
+ 2025-10-13 19:31:45.5470|Erro ao enviar caixa 171
+ 2025-10-13 19:31:46.1888|Erro ao enviar caixa 172
+ 2025-10-13 19:31:46.8490|Erro ao enviar caixa 173
+ 2025-10-13 19:31:47.4741|Erro ao enviar caixa 174
+ 2025-10-13 19:31:48.1214|Erro ao enviar caixa 175
+ 2025-10-13 19:31:50.7517|Erro ao enviar caixa 176
+ 2025-10-13 19:31:51.3990|Erro ao enviar caixa 177
+ 2025-10-13 19:31:52.0360|Erro ao enviar caixa 178
+ 2025-10-13 19:31:52.6851|Erro ao enviar caixa 179
+ 2025-10-13 19:31:53.2993|Erro ao enviar caixa 180
+ 2025-10-13 19:31:53.9369|Erro ao enviar caixa 181
+ 2025-10-13 19:31:54.5740|Erro ao enviar caixa 182
+ 2025-10-13 19:31:55.3604|Enviando operação de caixa 597 - suprimento
+ 2025-10-13 19:33:14.0452|Recebendo operador 15652: Operador
+ 2025-10-13 19:33:14.0672|Recebendo operador 15671: Gerencia
+ 2025-10-13 19:33:14.2562|Recebendo vendedores 884308: FABIO COSTA DE AZEVEDO
+ 2025-10-13 19:33:14.3722|Recebendo vendedores 884310: PAULO VICTOR GALDINO
+ 2025-10-13 19:33:14.3922|Recebendo vendedores 948579: JAQUELINE PEREIRA VAZ
+ 2025-10-13 19:33:14.4992|Recebendo vendedores 965041: DANIELE DE MENEZES PIRES
+ 2025-10-13 19:33:14.5262|Recebendo vendedores 979608: EVENTOS
+ 2025-10-13 19:33:14.5452|Recebendo vendedores 1016063: BRUNA CAROLINE TORQUATO
+ 2025-10-13 19:33:14.5692|Recebendo vendedores 1031572: CONSUMO BRUNA CAROLINE TORQUATO
+ 2025-10-13 19:33:14.5892|Recebendo vendedores 1031578: CONSUMO FABIO COSTA DE AZEVEDO
+ 2025-10-13 19:33:14.6132|Recebendo vendedores 1031579: CONSUMO PAULO VICTOR GALDINO
+ 2025-10-13 19:33:14.6392|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 19:33:14.6592|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 19:33:14.6782|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 19:33:14.6972|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 19:33:14.7172|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 19:33:14.7452|Recebendo vendedores 1158418: HABITUAL CAFE
+ 2025-10-13 19:33:14.7642|Recebendo vendedores 1160501: CONSUMO HABITUAL CAFE
+ 2025-10-13 19:33:14.9342|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 19:33:17.5271|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 19:33:17.6261|Recebendo cliente 1200998: JOSE OLIVEIRA
+ 2025-10-13 19:33:17.6511|Clientes processados: 2 - Enviados: 0 - Recebidos: 2
+ 2025-10-13 19:33:18.1191|Erro ao enviar caixa 137
+ 2025-10-13 19:33:18.7495|Erro ao enviar caixa 138
+ 2025-10-13 19:33:19.3746|Erro ao enviar caixa 139
+ 2025-10-13 19:33:20.0463|Erro ao enviar caixa 140
+ 2025-10-13 19:33:20.7239|Erro ao enviar caixa 141
+ 2025-10-13 19:33:21.3332|Erro ao enviar caixa 142
+ 2025-10-13 19:33:21.9603|Erro ao enviar caixa 143
+ 2025-10-13 19:33:22.5939|Erro ao enviar caixa 144
+ 2025-10-13 19:33:23.2467|Erro ao enviar caixa 145
+ 2025-10-13 19:33:25.8990|Erro ao enviar caixa 146
+ 2025-10-13 19:33:26.5558|Erro ao enviar caixa 147
+ 2025-10-13 19:33:27.2065|Erro ao enviar caixa 148
+ 2025-10-13 19:33:27.8251|Erro ao enviar caixa 149
+ 2025-10-13 19:33:28.5709|Erro ao enviar caixa 150
+ 2025-10-13 19:33:29.2337|Erro ao enviar caixa 151
+ 2025-10-13 19:33:29.9733|Erro ao enviar caixa 152
+ 2025-10-13 19:33:30.6060|Erro ao enviar caixa 153
+ 2025-10-13 19:33:31.2805|Erro ao enviar caixa 154
+ 2025-10-13 19:33:31.9063|Erro ao enviar caixa 155
+ 2025-10-13 19:33:34.5476|Erro ao enviar caixa 156
+ 2025-10-13 19:33:35.2028|Erro ao enviar caixa 157
+ 2025-10-13 19:33:35.8467|Erro ao enviar caixa 158
+ 2025-10-13 19:33:36.4787|Erro ao enviar caixa 159
+ 2025-10-13 19:33:37.0999|Erro ao enviar caixa 160
+ 2025-10-13 19:33:37.7303|Erro ao enviar caixa 161
+ 2025-10-13 19:33:38.3710|Erro ao enviar caixa 162
+ 2025-10-13 19:33:39.0428|Erro ao enviar caixa 163
+ 2025-10-13 19:33:39.7303|Erro ao enviar caixa 164
+ 2025-10-13 19:33:40.4803|Erro ao enviar caixa 165
+ 2025-10-13 19:33:43.1366|Erro ao enviar caixa 166
+ 2025-10-13 19:33:43.8710|Erro ao enviar caixa 167
+ 2025-10-13 19:33:44.5272|Erro ao enviar caixa 168
+ 2025-10-13 19:33:45.2616|Erro ao enviar caixa 169
+ 2025-10-13 19:33:46.1053|Erro ao enviar caixa 170
+ 2025-10-13 19:33:46.9178|Erro ao enviar caixa 171
+ 2025-10-13 19:33:47.5585|Erro ao enviar caixa 172
+ 2025-10-13 19:33:48.1991|Erro ao enviar caixa 173
+ 2025-10-13 19:33:48.8710|Erro ao enviar caixa 174
+ 2025-10-13 19:33:49.4803|Erro ao enviar caixa 175
+ 2025-10-13 19:33:52.1366|Erro ao enviar caixa 176
+ 2025-10-13 19:33:52.7928|Erro ao enviar caixa 177
+ 2025-10-13 19:33:53.4491|Erro ao enviar caixa 178
+ 2025-10-13 19:33:54.0585|Erro ao enviar caixa 179
+ 2025-10-13 19:33:54.6991|Erro ao enviar caixa 180
+ 2025-10-13 19:33:55.4022|Erro ao enviar caixa 181
+ 2025-10-13 19:33:56.0116|Erro ao enviar caixa 182
+ 2025-10-13 19:33:56.0272|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 19:33:56.3241|Enviando NFC-e - chave: 42250529005632000120650010000258471121248560 . . .
+ 2025-10-13 19:33:57.1053|Falha ao sincronizar Documento Fiscal  -> chave: 42250529005632000120650010000258471121248560 - {"message":"O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda","stack":"Error: O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda\n    at /home/ssm-user/application/common/models/cupom.js:7277:13\n    at /home/ssm-user/application/node_modules/async/dist/async.js:473:16\n    at replenish (/home/ssm-user/application/node_modules/async/dist/async.js:1009:25)\n    at iterateeCallback (/home/ssm-user/application/node_modules/async/dist/async.js:998:17)\n    at /home/ssm-user/application/node_modules/async/dist/async.js:972:16\n    at /home/ssm-user/application/node_modules/async/dist/async.js:119:16\n    at processTicksAndRejections (internal/process/task_queues.js:77:11)"} - 
+ 2025-10-13 19:33:57.1678|Enviando NFC-e - chave: 42250529005632000120650010000252981565995110 . . .
+ 2025-10-13 19:33:57.7460|Não existe nenhum produto/serviço pendente de sincronização!
+ 2025-10-13 19:33:57.9803|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 19:33:58.1991|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 19:33:58.4335|Recebendo Depósito: Geral
+ 2025-10-13 19:33:58.4647|Recebendo Depósito: Red Mob Campeche
+ 2025-10-13 19:33:58.4960|Recebendo Depósito: Wolrdgym
+ 2025-10-13 19:33:58.5428|Recebendo Depósito: Red Mob Capoeiras
+ 2025-10-13 19:33:58.5741|Recebendo Depósito: Red Mob Santa Monica
+ 2025-10-13 19:33:58.6053|Recebendo Depósito: Habitual Cafe
+ 2025-10-13 19:38:26.5448|Recebendo operador 15652: Operador
+ 2025-10-13 19:38:26.6073|Recebendo operador 15671: Gerencia
+ 2025-10-13 19:38:26.8120|Recebendo vendedores 884308: FABIO COSTA DE AZEVEDO
+ 2025-10-13 19:38:26.9600|Recebendo vendedores 884310: PAULO VICTOR GALDINO
+ 2025-10-13 19:38:26.9830|Recebendo vendedores 948579: JAQUELINE PEREIRA VAZ
+ 2025-10-13 19:38:27.0840|Recebendo vendedores 965041: DANIELE DE MENEZES PIRES
+ 2025-10-13 19:38:27.1090|Recebendo vendedores 979608: EVENTOS
+ 2025-10-13 19:38:27.1280|Recebendo vendedores 1016063: BRUNA CAROLINE TORQUATO
+ 2025-10-13 19:38:27.1530|Recebendo vendedores 1031572: CONSUMO BRUNA CAROLINE TORQUATO
+ 2025-10-13 19:38:27.1710|Recebendo vendedores 1031578: CONSUMO FABIO COSTA DE AZEVEDO
+ 2025-10-13 19:38:27.1900|Recebendo vendedores 1031579: CONSUMO PAULO VICTOR GALDINO
+ 2025-10-13 19:38:27.2170|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 19:38:27.2360|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 19:38:27.2610|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 19:38:27.2800|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 19:38:27.3030|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 19:38:27.3210|Recebendo vendedores 1158418: HABITUAL CAFE
+ 2025-10-13 19:38:27.3450|Recebendo vendedores 1160501: CONSUMO HABITUAL CAFE
+ 2025-10-13 19:38:27.5119|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 19:38:30.0319|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 19:38:30.1256|Recebendo cliente 1200998: JOSE OLIVEIRA
+ 2025-10-13 19:38:30.1569|Clientes processados: 2 - Enviados: 0 - Recebidos: 2
+ 2025-10-13 19:38:30.6100|Erro ao enviar caixa 137
+ 2025-10-13 19:38:31.2506|Erro ao enviar caixa 138
+ 2025-10-13 19:38:31.9069|Erro ao enviar caixa 139
+ 2025-10-13 19:38:32.5787|Erro ao enviar caixa 140
+ 2025-10-13 19:38:33.2194|Erro ao enviar caixa 141
+ 2025-10-13 19:38:33.8600|Erro ao enviar caixa 142
+ 2025-10-13 19:38:34.5162|Erro ao enviar caixa 143
+ 2025-10-13 19:38:35.1412|Erro ao enviar caixa 144
+ 2025-10-13 19:38:35.7662|Erro ao enviar caixa 145
+ 2025-10-13 19:38:38.4381|Erro ao enviar caixa 146
+ 2025-10-13 19:38:39.0475|Erro ao enviar caixa 147
+ 2025-10-13 19:38:39.7037|Erro ao enviar caixa 148
+ 2025-10-13 19:38:40.4069|Erro ao enviar caixa 149
+ 2025-10-13 19:38:41.0319|Erro ao enviar caixa 150
+ 2025-10-13 19:38:41.6725|Erro ao enviar caixa 151
+ 2025-10-13 19:38:42.3131|Erro ao enviar caixa 152
+ 2025-10-13 19:38:42.9382|Erro ao enviar caixa 153
+ 2025-10-13 19:38:43.5632|Erro ao enviar caixa 154
+ 2025-10-13 19:38:44.2038|Erro ao enviar caixa 155
+ 2025-10-13 19:38:46.8445|Erro ao enviar caixa 156
+ 2025-10-13 19:38:47.4852|Erro ao enviar caixa 157
+ 2025-10-13 19:38:48.1258|Erro ao enviar caixa 158
+ 2025-10-13 19:38:48.7508|Erro ao enviar caixa 159
+ 2025-10-13 19:38:49.3758|Erro ao enviar caixa 160
+ 2025-10-13 19:38:50.0164|Erro ao enviar caixa 161
+ 2025-10-13 19:38:50.6883|Erro ao enviar caixa 162
+ 2025-10-13 19:38:51.3133|Erro ao enviar caixa 163
+ 2025-10-13 19:38:51.9226|Erro ao enviar caixa 164
+ 2025-10-13 19:38:52.5789|Erro ao enviar caixa 165
+ 2025-10-13 19:38:55.6570|Erro ao enviar caixa 166
+ 2025-10-13 19:38:56.2664|Erro ao enviar caixa 167
+ 2025-10-13 19:38:56.8914|Erro ao enviar caixa 168
+ 2025-10-13 19:38:57.5320|Erro ao enviar caixa 169
+ 2025-10-13 19:38:58.1414|Erro ao enviar caixa 170
+ 2025-10-13 19:38:58.7820|Erro ao enviar caixa 171
+ 2025-10-13 19:38:59.4227|Erro ao enviar caixa 172
+ 2025-10-13 19:39:00.1258|Erro ao enviar caixa 173
+ 2025-10-13 19:39:00.7977|Erro ao enviar caixa 174
+ 2025-10-13 19:39:01.4227|Erro ao enviar caixa 175
+ 2025-10-13 19:39:04.0477|Erro ao enviar caixa 176
+ 2025-10-13 19:39:04.6883|Erro ao enviar caixa 177
+ 2025-10-13 19:39:05.3758|Erro ao enviar caixa 178
+ 2025-10-13 19:39:06.0008|Erro ao enviar caixa 179
+ 2025-10-13 19:39:06.6883|Erro ao enviar caixa 180
+ 2025-10-13 19:39:07.3445|Erro ao enviar caixa 181
+ 2025-10-13 19:39:08.0008|Erro ao enviar caixa 182
+ 2025-10-13 19:39:08.0008|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 19:39:08.3914|Enviando NFC-e - chave: 42250529005632000120650010000258471121248560 . . .
+ 2025-10-13 19:39:09.2040|Falha ao sincronizar Documento Fiscal  -> chave: 42250529005632000120650010000258471121248560 - {"message":"O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda","stack":"Error: O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda\n    at /home/ssm-user/application/common/models/cupom.js:7277:13\n    at /home/ssm-user/application/node_modules/async/dist/async.js:473:16\n    at replenish (/home/ssm-user/application/node_modules/async/dist/async.js:1009:25)\n    at iterateeCallback (/home/ssm-user/application/node_modules/async/dist/async.js:998:17)\n    at /home/ssm-user/application/node_modules/async/dist/async.js:972:16\n    at /home/ssm-user/application/node_modules/async/dist/async.js:119:16\n    at processTicksAndRejections (internal/process/task_queues.js:77:11)"} - 
+ 2025-10-13 19:39:09.2352|Enviando NFC-e - chave: 42250529005632000120650010000252981565995110 . . .
+ 2025-10-13 19:39:09.7978|Não existe nenhum produto/serviço pendente de sincronização!
+ 2025-10-13 19:39:10.0322|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 19:39:10.2666|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 19:39:10.5322|Recebendo Depósito: Geral
+ 2025-10-13 19:39:10.5791|Recebendo Depósito: Red Mob Campeche
+ 2025-10-13 19:39:10.5947|Recebendo Depósito: Wolrdgym
+ 2025-10-13 19:39:10.6260|Recebendo Depósito: Red Mob Capoeiras
+ 2025-10-13 19:39:10.6728|Recebendo Depósito: Red Mob Santa Monica
+ 2025-10-13 19:39:10.7041|Recebendo Depósito: Habitual Cafe
+ 2025-10-13 19:43:13.8162|Recebendo operador 15652: Operador
+ 2025-10-13 19:43:13.8319|Recebendo operador 15671: Gerencia
+ 2025-10-13 19:43:14.0501|Recebendo vendedores 884308: FABIO COSTA DE AZEVEDO
+ 2025-10-13 19:43:14.1691|Recebendo vendedores 884310: PAULO VICTOR GALDINO
+ 2025-10-13 19:43:14.1881|Recebendo vendedores 948579: JAQUELINE PEREIRA VAZ
+ 2025-10-13 19:43:16.9213|Recebendo vendedores 965041: DANIELE DE MENEZES PIRES
+ 2025-10-13 19:43:16.9526|Recebendo vendedores 979608: EVENTOS
+ 2025-10-13 19:43:16.9838|Recebendo vendedores 1016063: BRUNA CAROLINE TORQUATO
+ 2025-10-13 19:43:16.9995|Recebendo vendedores 1031572: CONSUMO BRUNA CAROLINE TORQUATO
+ 2025-10-13 19:43:17.0151|Recebendo vendedores 1031578: CONSUMO FABIO COSTA DE AZEVEDO
+ 2025-10-13 19:43:17.0463|Recebendo vendedores 1031579: CONSUMO PAULO VICTOR GALDINO
+ 2025-10-13 19:43:17.0771|Recebendo vendedores 1031583: CONSUMO JAQUELINE PEREIRA VAZ
+ 2025-10-13 19:43:17.0971|Recebendo vendedores 1038321: CONUSMO WELVIS TEIXEIRA ALVEZ
+ 2025-10-13 19:43:17.1221|Recebendo vendedores 1057686: CONSUMO THIAGO PEREIRA VAZ
+ 2025-10-13 19:43:17.1401|Recebendo vendedores 1057687: CONSUMO LUCAS VAZ DA ROSA
+ 2025-10-13 19:43:17.1581|Recebendo vendedores 1070825: VENDA PARCEIRO (ACIMA 30% S/ COMISSAO)
+ 2025-10-13 19:43:17.1811|Recebendo vendedores 1158418: HABITUAL CAFE
+ 2025-10-13 19:43:17.2101|Recebendo vendedores 1160501: CONSUMO HABITUAL CAFE
+ 2025-10-13 19:43:17.3671|Não existe nenhum Contato Comercial pendente de sincronização!
+ 2025-10-13 19:43:19.8225|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 19:43:19.9162|Recebendo cliente 1200998: JOSE OLIVEIRA
+ 2025-10-13 19:43:19.9475|Clientes processados: 2 - Enviados: 0 - Recebidos: 2
+ 2025-10-13 19:43:20.4162|Erro ao enviar caixa 137
+ 2025-10-13 19:43:21.0412|Erro ao enviar caixa 138
+ 2025-10-13 19:43:21.6818|Erro ao enviar caixa 139
+ 2025-10-13 19:43:22.3068|Erro ao enviar caixa 140
+ 2025-10-13 19:43:22.9631|Erro ao enviar caixa 141
+ 2025-10-13 19:43:23.6037|Erro ao enviar caixa 142
+ 2025-10-13 19:43:24.2443|Erro ao enviar caixa 143
+ 2025-10-13 19:43:24.9162|Erro ao enviar caixa 144
+ 2025-10-13 19:43:25.5568|Erro ao enviar caixa 145
+ 2025-10-13 19:43:28.1819|Erro ao enviar caixa 146
+ 2025-10-13 19:43:28.8382|Erro ao enviar caixa 147
+ 2025-10-13 19:43:29.4944|Erro ao enviar caixa 148
+ 2025-10-13 19:43:30.2132|Erro ao enviar caixa 149
+ 2025-10-13 19:43:30.8382|Erro ao enviar caixa 150
+ 2025-10-13 19:43:31.4944|Erro ao enviar caixa 151
+ 2025-10-13 19:43:32.1507|Erro ao enviar caixa 152
+ 2025-10-13 19:43:32.7913|Erro ao enviar caixa 153
+ 2025-10-13 19:43:33.4476|Erro ao enviar caixa 154
+ 2025-10-13 19:43:34.0882|Erro ao enviar caixa 155
+ 2025-10-13 19:43:36.7601|Erro ao enviar caixa 156
+ 2025-10-13 19:43:37.3694|Erro ao enviar caixa 157
+ 2025-10-13 19:43:38.0101|Erro ao enviar caixa 158
+ 2025-10-13 19:43:38.6663|Erro ao enviar caixa 159
+ 2025-10-13 19:43:39.3069|Erro ao enviar caixa 160
+ 2025-10-13 19:43:42.2601|Erro ao enviar caixa 161
+ 2025-10-13 19:43:42.8851|Erro ao enviar caixa 162
+ 2025-10-13 19:43:43.5101|Erro ao enviar caixa 163
+ 2025-10-13 19:43:44.1351|Erro ao enviar caixa 164
+ 2025-10-13 19:43:44.7913|Erro ao enviar caixa 165
+ 2025-10-13 19:43:47.4633|Erro ao enviar caixa 166
+ 2025-10-13 19:43:48.1039|Erro ao enviar caixa 167
+ 2025-10-13 19:43:48.7601|Erro ao enviar caixa 168
+ 2025-10-13 19:43:49.4008|Erro ao enviar caixa 169
+ 2025-10-13 19:43:50.1195|Erro ao enviar caixa 170
+ 2025-10-13 19:43:50.8539|Erro ao enviar caixa 171
+ 2025-10-13 19:43:51.4946|Erro ao enviar caixa 172
+ 2025-10-13 19:43:52.1197|Erro ao enviar caixa 173
+ 2025-10-13 19:43:52.7291|Erro ao enviar caixa 174
+ 2025-10-13 19:43:53.3697|Erro ao enviar caixa 175
+ 2025-10-13 19:43:56.0260|Erro ao enviar caixa 176
+ 2025-10-13 19:43:56.6354|Erro ao enviar caixa 177
+ 2025-10-13 19:43:57.2604|Erro ao enviar caixa 178
+ 2025-10-13 19:43:57.9166|Erro ao enviar caixa 179
+ 2025-10-13 19:43:58.5260|Erro ao enviar caixa 180
+ 2025-10-13 19:43:59.1354|Erro ao enviar caixa 181
+ 2025-10-13 19:43:59.8072|Erro ao enviar caixa 182
+ 2025-10-13 19:43:59.8072|Não existe nenhuma Operação de Caixa pendente de sincronização!
+ 2025-10-13 19:44:00.1041|Enviando NFC-e - chave: 42250529005632000120650010000258471121248560 . . .
+ 2025-10-13 19:44:00.9479|Falha ao sincronizar Documento Fiscal  -> chave: 42250529005632000120650010000258471121248560 - {"message":"O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda","stack":"Error: O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda\n    at /home/ssm-user/application/common/models/cupom.js:7277:13\n    at /home/ssm-user/application/node_modules/async/dist/async.js:473:16\n    at replenish (/home/ssm-user/application/node_modules/async/dist/async.js:1009:25)\n    at iterateeCallback (/home/ssm-user/application/node_modules/async/dist/async.js:998:17)\n    at /home/ssm-user/application/node_modules/async/dist/async.js:972:16\n    at /home/ssm-user/application/node_modules/async/dist/async.js:119:16\n    at processTicksAndRejections (internal/process/task_queues.js:77:11)"} - 
+ 2025-10-13 19:44:01.0104|Enviando NFC-e - chave: 42250529005632000120650010000252981565995110 . . .
+ 2025-10-13 19:44:01.5886|Não existe nenhum produto/serviço pendente de sincronização!
+ 2025-10-13 19:44:01.8073|Não existe nenhuma promoção pendente de sincronização!
+ 2025-10-13 19:44:02.0729|Não existe nenhum lote pendente de sincronização!
+ 2025-10-13 19:44:02.2917|Recebendo Depósito: Geral
+ 2025-10-13 19:44:02.3229|Recebendo Depósito: Red Mob Campeche
+ 2025-10-13 19:44:02.3542|Recebendo Depósito: Wolrdgym
+ 2025-10-13 19:44:02.3854|Recebendo Depósito: Red Mob Capoeiras
+ 2025-10-13 19:44:02.4167|Recebendo Depósito: Red Mob Santa Monica
+ 2025-10-13 19:44:02.4636|Recebendo Depósito: Habitual Cafe
+ 2025-10-13 19:54:12.9919|Recebendo cliente 1199945: LILIAN REGINA SILVEIRA BRITTO SANTOS
+ 2025-10-13 19:54:13.1013|Recebendo cliente 1200998: JOSE OLIVEIRA
+ 2025-10-13 19:54:13.1326|Clientes processados: 2 - Enviados: 0 - Recebidos: 2
+ 2025-10-13 19:54:13.4451|Enviando NFC-e - chave: 42250529005632000120650010000258471121248560 . . .
+ 2025-10-13 19:54:14.5857|Falha ao sincronizar Documento Fiscal  -> chave: 42250529005632000120650010000258471121248560 - {"message":"O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda","stack":"Error: O(s) item(s) 012765 - ENERGY GEL Z2+ ICED COFFEE 40G não possuem valor total de venda\n    at /home/ssm-user/application/common/models/cupom.js:7277:13\n    at /home/ssm-user/application/node_modules/async/dist/async.js:473:16\n    at replenish (/home/ssm-user/application/node_modules/async/dist/async.js:1009:25)\n    at iterateeCallback (/home/ssm-user/application/node_modules/async/dist/async.js:998:17)\n    at /home/ssm-user/application/node_modules/async/dist/async.js:972:16\n    at /home/ssm-user/application/node_modules/async/dist/async.js:119:16\n    at processTicksAndRejections (internal/process/task_queues.js:77:11)"} - 
+ 2025-10-13 19:54:14.6013|Enviando NFC-e - chave: 42250529005632000120650010000252981565995110 . . .
+ 2025-10-13 19:54:14.6638|Enviando NFC-e - chave: 42251029005632000120650010000305641544326441 . . .
+ 2025-10-13 19:54:15.9763|Venda: IdLocal 6353: Documento Fiscal Id:5639  -> IdWeb 11000229
+ 2025-10-13 19:54:15.9763|NFC-e chave: 42251029005632000120650010000305641544326441 enviada com sucesso!
+ 2025-10-13 20:01:20.9613|Erro ao enviar caixa 137
+ 2025-10-13 20:01:21.6102|Erro ao enviar caixa 138
+ 2025-10-13 20:01:22.2542|Erro ao enviar caixa 139
+ 2025-10-13 20:01:22.8750|Erro ao enviar caixa 140
+ 2025-10-13 20:01:23.5277|Erro ao enviar caixa 141
+ 2025-10-13 20:01:24.1527|Erro ao enviar caixa 142
+ 2025-10-13 20:01:24.7934|Erro ao enviar caixa 143
+ 2025-10-13 20:01:25.4652|Erro ao enviar caixa 144
+ 2025-10-13 20:01:26.1215|Erro ao enviar caixa 145

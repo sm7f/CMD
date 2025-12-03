@@ -1,0 +1,528 @@
+               -------------- Error (2025-09-22 14:55:05.1855) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:05.2555) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:05.2935) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:05.3574) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:05.4324) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:05.4833) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:05.5683) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:05.6832) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:05.7182) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:05.7811) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:05.8171) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:05.8661) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:05.9081) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:05.9460) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:05.9860) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:06.0130) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:06.0540) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:06.0790) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:06.1149) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:06.1519) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:06.1809) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:06.2239) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:06.2629) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:06.2988) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:06.9734) --------------
+               
+               Call Site: PDV.BLL.control.fiscal.nfceBuilders.NFCeController.CancelarNfSubstituicao
+               Exception Type: System.Exception
+               Exception Message: Chave da NFC-e inválida ou ausente
+               Stack Trace:    em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.CancelarNfSubstituicao(DocumentoFiscal doc, String idNfceReferenciada)
+
+               -------------- Error (2025-09-22 14:55:06.9785) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.ValidarNfCePendenteRespostaSefaz
+               Exception Type: System.Xml.XmlException
+               Exception Message: Dados no nível raiz inválidos. Linha 1, posição 1.
+               Stack Trace:    em System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   em System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   em System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   em System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   em System.Xml.XmlTextReaderImpl.Read()
+   em System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   em System.Xml.XmlDocument.Load(XmlReader reader)
+   em System.Xml.XmlDocument.LoadXml(String xml)
+   em MS.Helper.XMLHelper.GetValueFromXMLByXpath(String xpath, String xml)
+   em PDV.BLL.control.DocFiscalController.ConstruirCancelamentoNf(String xml, EnumTipoDocFiscal tipo)
+   em PDV.BLL.control.FiscalController.ValidarNfCePendenteRespostaSefaz(DocumentoFiscal doc, String chaveReferenciada)
+
+               -------------- Error (2025-09-22 14:55:28.1867) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:28.2197) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:28.2537) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:28.2916) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:28.3176) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:28.3566) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:28.3936) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:28.4306) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:28.4666) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:28.5005) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:28.5395) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:28.5705) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:28.6055) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:28.6404) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:28.6704) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:28.7044) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:28.7384) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:28.7714) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:28.8213) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:28.8533) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:28.8833) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:28.9353) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:28.9722) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:29.0092) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio
+               Exception Type: System.Runtime.InteropServices.COMException
+               Exception Message: Favor preencher o parâmetro aXmlNota
+               Stack Trace:    em NFCeX.IspdNFCeX.EnviarNFSincrono(String aNumLote, String aXmlNota, Boolean aCompactado)
+   em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.Emitir(String xml)
+   em PDV.BLL.control.FiscalController.EmitirDocFiscal(String xml, EnumTipoDocFiscal tipoDoc)
+   em PDV.BLL.control.FiscalController.TransmitirNfCeContingenciaPendenteEnvio(DocumentoFiscal doc)
+
+               -------------- Error (2025-09-22 14:55:29.5882) --------------
+               
+               Call Site: PDV.BLL.control.fiscal.nfceBuilders.NFCeController.CancelarNfSubstituicao
+               Exception Type: System.Exception
+               Exception Message: Chave da NFC-e inválida ou ausente
+               Stack Trace:    em PDV.BLL.control.fiscal.nfceBuilders.NFCeController.CancelarNfSubstituicao(DocumentoFiscal doc, String idNfceReferenciada)
+
+               -------------- Error (2025-09-22 14:55:29.5882) --------------
+               
+               Call Site: PDV.BLL.control.FiscalController.ValidarNfCePendenteRespostaSefaz
+               Exception Type: System.Xml.XmlException
+               Exception Message: Dados no nível raiz inválidos. Linha 1, posição 1.
+               Stack Trace:    em System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   em System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   em System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   em System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   em System.Xml.XmlTextReaderImpl.Read()
+   em System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   em System.Xml.XmlDocument.Load(XmlReader reader)
+   em System.Xml.XmlDocument.LoadXml(String xml)
+   em MS.Helper.XMLHelper.GetValueFromXMLByXpath(String xpath, String xml)
+   em PDV.BLL.control.DocFiscalController.ConstruirCancelamentoNf(String xml, EnumTipoDocFiscal tipo)
+   em PDV.BLL.control.FiscalController.ValidarNfCePendenteRespostaSefaz(DocumentoFiscal doc, String chaveReferenciada)
+

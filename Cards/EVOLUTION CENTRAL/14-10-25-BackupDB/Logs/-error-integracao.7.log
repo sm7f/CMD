@@ -1,0 +1,12 @@
+ 2025-10-14 08:00:00.8351|SincronizarVendas -> (4277) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
+ 2025-10-14 08:00:00.9289|SincronizarVendas -> (4279) - Valor não pode ser nulo.
+Nome do parâmetro: s
+|StackTrace:    em System.IO.StringReader..ctor(String s)
+   em MS.Helper.XMLHelper.GetObjectByXML[T](String xml)
+   em PDV.BLL.helpers.ErpInterpretador.ConverterVendaCadastrar(Venda venda, String xml, String protocoloAutorizacao)
+   em PDV.BLL.control.ErpController.<SincronizarVendasPendentes>d__64.MoveNext()
